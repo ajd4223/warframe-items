@@ -96,7 +96,6 @@
     "type": "Skin",
     "imageName": "acanthus-prime-leg-guard.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.6.0 + Hotfix 22.6.0.1",
@@ -107,7 +106,8 @@
         "changes": "",
         "fixes": "Fixed Acanthus Prime Leg Guard clipping on Limbo Vistyxio skin. "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeSetThree/PrimeSetThreeA",
@@ -143,7 +143,6 @@
     "type": "Skin",
     "imageName": "ak-sura-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.20.0",
@@ -163,7 +162,8 @@
         "changes": "Ak-Sura Syandana by malayu and Cobalt ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenAklato",
@@ -354,7 +354,6 @@
     "type": "Skin",
     "imageName": "aquiros-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -373,7 +372,8 @@
         "changes": "",
         "fixes": "Fixed the Aquiros Syandana hanging incorrectly. "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Trinity/TrinityHelmetAlt",
@@ -662,7 +662,6 @@
     ],
     "imageName": "arcane-chorus-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 17: Echoes Of The Sentient",
@@ -672,7 +671,8 @@
         "changes": "Arcane Chorus Helmet ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Mag/MagHelmetAlt",
@@ -896,7 +896,6 @@
     ],
     "imageName": "arcane-flux-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 17: Echoes Of The Sentient",
@@ -906,7 +905,8 @@
         "changes": "Arcane Flux Helmet ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Trapper/TrapperHelmetAltB",
@@ -962,7 +962,6 @@
     ],
     "imageName": "arcane-gambit-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 17: Echoes Of The Sentient",
@@ -972,7 +971,8 @@
         "changes": "Arcane Gambit Helmet ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Mag/MagHelmetAltB",
@@ -1196,7 +1196,6 @@
     ],
     "imageName": "arcane-menticide-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 17: Echoes Of The Sentient",
@@ -1206,7 +1205,8 @@
         "changes": "Arcane Menticide Helmet ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Trinity/TrinityHelmetAltB",
@@ -1430,7 +1430,6 @@
     ],
     "imageName": "arcane-pulse-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 13.5.0: Edo Armor & Nami Solo",
@@ -1440,7 +1439,8 @@
         "changes": "Fixed a missing description for the Arcane Pulse Helmet.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Decree/DecreeAltHelmet",
@@ -1552,7 +1552,6 @@
     ],
     "imageName": "arcane-scorpion-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 18.13.2",
@@ -1570,7 +1569,8 @@
         "changes": "Arcane Scorpion Helmet ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Frost/FrostHelmetAltB",
@@ -1682,7 +1682,6 @@
     ],
     "imageName": "arcane-storm-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 17: Echoes Of The Sentient",
@@ -1692,7 +1691,8 @@
         "changes": "Arcane Storm Helmet ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Loki/LokiHelmetAltB",
@@ -1925,7 +1925,6 @@
     "type": "Skin",
     "imageName": "arcturus-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Glast Gambit: Hotfix 19.11.1",
@@ -1935,7 +1934,8 @@
         "changes": "The Arcturus Syandana will now fade out when aiming down sights to help visibility when playing from the right hand side.",
         "fixes": "Fixed the Arcturus Syandana floating when equipped on Loki Prime with a Default Loki Skin."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/XmasCatbrowSkin",
@@ -1980,7 +1980,6 @@
     "type": "Skin",
     "imageName": "aseron-sekhara.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 18.4.7",
@@ -1998,7 +1997,8 @@
         "changes": "",
         "fixes": "Fixed offset placement of the Aseron Sekhara badge."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Ninja/UnlockNinjaAgile",
@@ -2034,7 +2034,6 @@
     "type": "Skin",
     "imageName": "ash-carabid-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The War Within: Update 19.4 + 19.4.1",
@@ -2045,7 +2044,8 @@
         "changes": "",
         "fixes": "Ash Carabid Helmet by artarrwen"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneA",
@@ -2063,7 +2063,6 @@
     "type": "Skin",
     "imageName": "ash-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 14.10.0",
@@ -2073,7 +2072,8 @@
         "changes": "",
         "fixes": "Fixed an issue with the Harlequin Mirage Helmet Blueprint incorrectly appearing as the Arcane Scorpion Ash Helmet Blueprint. Please note that we will be re-running a functioning Harlequin Helmet alert at a similar time as the broken one, but with a doubled duration."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Ninja/AshAlternateSkin",
@@ -2236,7 +2236,6 @@
     "type": "Skin",
     "imageName": "atlas-graxx-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.1.0",
@@ -2246,7 +2245,8 @@
         "changes": "Atlas Graxx Skin by Faven",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Brawler/SWMonolithHelmet",
@@ -2385,7 +2385,6 @@
     "type": "Skin",
     "imageName": "atlas-telamon-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The War Within: Update 19.4 + 19.4.1",
@@ -2396,7 +2395,8 @@
         "changes": "",
         "fixes": "Atlas Telamon Helmet by artarrwen"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWAlyaScarf",
@@ -2491,7 +2491,6 @@
     "type": "Skin",
     "imageName": "banshee-dominia-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.1.0",
@@ -2501,7 +2500,8 @@
         "changes": "Banshee Dominia Helmet by led2012",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Decree/SWRSixBansheeEchoHelmet",
@@ -2510,7 +2510,6 @@
     "type": "Skin",
     "imageName": "banshee-echo-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The War Within: Update 19.4 + 19.4.1",
@@ -2521,7 +2520,8 @@
         "changes": "",
         "fixes": "Banshee Echo Helmet by Rekkou"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Decree/DecreeHelmet",
@@ -2634,7 +2634,6 @@
     "type": "Misc",
     "imageName": "bastille.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.3.0 + 23.3.0.1",
@@ -2867,7 +2866,8 @@
         "changes": "",
         "fixes": "Fixed Bastille not affecting Grineer Seekers and Snipers, fixed damage not registering against Crewman affected by Bastille"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Kintsukuroi/KintsukuroiStaff",
@@ -2894,7 +2894,6 @@
     "type": "Skin",
     "imageName": "bodo-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia's Anthem: Update 20",
@@ -2914,7 +2913,8 @@
         "changes": "Improved the visibility of the flowers near the bottom of the Bodo Syandana.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Clan/InfTacAlertPussAncientBadgeItem",
@@ -2932,7 +2932,6 @@
     "type": "Skin",
     "imageName": "boloket-sugatra.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia's Anthem: Update 20",
@@ -2952,7 +2951,8 @@
         "changes": "",
         "fixes": "Set your enemies in flames with the Javlok. Complete this loadout by adding the Laddak Cloak and Boloket Sugatra. Customize your Warframe with a new round of community-created TennoGen items on the Steam Workshop!"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWBoltaraScarf",
@@ -3096,7 +3096,6 @@
     "type": "Skin",
     "imageName": "caggro-sugatra.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 16.5: Tubemen Of Regor",
@@ -3106,7 +3105,8 @@
         "changes": "",
         "fixes": "Caggro Sugatra: Expressing the martial finesse and skill of its master, the Caggro Sugatra is based on a Grineer design."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Tails/CapsuleTail",
@@ -3124,7 +3124,6 @@
     "type": "Skin",
     "imageName": "carabus-dethcube.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 14.0.7 + 14.0.7.1",
@@ -3134,7 +3133,8 @@
         "changes": "",
         "fixes": "Fixed an issue with emblems on the Carabus Dethcube not being placed symmetrically on either side of it's body."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/CatenoPrimeMeleeDangle",
@@ -3143,7 +3143,6 @@
     "type": "Skin",
     "imageName": "cateno-prime-sugatra.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 18.12.2",
@@ -3153,7 +3152,8 @@
         "changes": "",
         "fixes": "•    Fixed the Cateno Prime Sugatra attaching incorrectly on various melee weapons."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Monk/MonkArmourBody",
@@ -3209,7 +3209,6 @@
     ],
     "imageName": "ceno-cuirass.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.0.9",
@@ -3219,7 +3218,8 @@
         "changes": "",
         "fixes": "Fixed the Ceno Cuirass not having similar build requirements to the Vahd Cuirass."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Monk/MonkArmourLegs",
@@ -3589,7 +3589,6 @@
     "type": "Skin",
     "imageName": "chroma-dynasty-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 21: Chains of Harrow",
@@ -3600,7 +3599,8 @@
         "changes": "",
         "fixes": "Fixed an issue with back Sigils clipping on the Chroma Dynasty Skin. \nFixed Chroma Dynasty Skin clipping into many cloth Syandanas."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Dragon/SWGraxxChromaHelmet",
@@ -3618,7 +3618,6 @@
     "type": "Skin",
     "imageName": "chroma-graxx-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.19.0",
@@ -3629,7 +3628,8 @@
         "changes": "Chroma Graxx Skin by Faven ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Dragon/DragonHelmet",
@@ -3638,7 +3638,6 @@
     "type": "Skin",
     "imageName": "chroma-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 17.12.0",
@@ -3656,7 +3655,8 @@
         "changes": "",
         "fixes": "The Amaru Chroma Helmet and Ovis Mesa Helmet are now available in the marketplace!"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Dragon/SWRThreeKaijuHelmet",
@@ -3701,7 +3701,6 @@
     "type": "Skin",
     "imageName": "chroma-thyrus-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.19.0",
@@ -3712,7 +3711,8 @@
         "changes": "Chroma Thyrus Skin by StenchFury ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Dragon/SWRSixChromaVojnikSkin",
@@ -3721,7 +3721,6 @@
     "type": "Skin",
     "imageName": "chroma-vojnik-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.8.3",
@@ -3731,7 +3730,8 @@
         "changes": "",
         "fixes": "Fixed Chroma’s Effigy Wing pelt using the default Skin when equipped with the Chroma Vojnik Skin. "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Wings/InfestedWings",
@@ -3758,7 +3758,6 @@
     "type": "Skin",
     "imageName": "clan-emblem.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia's Anthem: Update 20",
@@ -3809,7 +3808,8 @@
         "changes": "",
         "fixes": "Fix for Clan Emblems not appearing for Clients."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerItem",
@@ -3818,7 +3818,6 @@
     "type": "Misc",
     "imageName": "classic.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23",
@@ -3837,7 +3836,8 @@
         "changes": "",
         "fixes": "Fixed an issue where gamepad users playing with the Classic controller config couldn't use bait."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerItemB",
@@ -3927,7 +3927,6 @@
     "type": "Skin",
     "imageName": "corona-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.11.1",
@@ -3938,7 +3937,8 @@
         "changes": "",
         "fixes": "Fixed the Corona Syandana Energy color always being blue and unable to tint it properly. "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneC",
@@ -3956,7 +3956,6 @@
     "type": "Skin",
     "imageName": "covenant-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia’s Anthem: Update 20.6.0 + 20.6.0.1",
@@ -3984,7 +3983,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWCryonaScarf",
@@ -3993,7 +3993,6 @@
     "type": "Skin",
     "imageName": "cryona-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.10.0",
@@ -4004,7 +4003,8 @@
         "changes": "Tweaked the Cryona Syandana default Tint colors to better match the original Steam Workshop image. ",
         "fixes": "Fixed the Cryona Syandana sitting too high on Valkyr, Valkyr Prime, and Valkyr Gersemi Skin."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Clan/ExcavationEvenetBadgeItem",
@@ -4022,7 +4022,6 @@
     "type": "Misc",
     "imageName": "cycuta-prime-syandana.png",
     "category": "Skins",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Hotfix 18.4.13",
@@ -4033,7 +4032,8 @@
         "changes": "",
         "fixes": "Reordered the tint color for Cycuta Prime Syandana’s gold between 3 and 4."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetThreeWinged/SetThreeChestArmor",
@@ -4154,7 +4154,6 @@
     ],
     "imageName": "daman-sugatra.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The War Within: Update 19.4.2 + 19.4.2.1",
@@ -4172,7 +4171,8 @@
         "changes": "",
         "fixes": "Fixed the Daman Sugatra not copying the proper main colors in the Arsenal when the player’s weapon is a dark energy color."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/PrimeMeleeDangle",
@@ -4226,7 +4226,6 @@
     "type": "Skin",
     "imageName": "dax-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.5",
@@ -4236,7 +4235,8 @@
         "changes": "",
         "fixes": "Fixed the Dax Syandana not being Giftable. \nFixed the Dax Syandana clipping through numerous Warframes \nFixed lights at the top of the Dax Syandana not applying Energy colors."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerDaybreakItemA",
@@ -4254,7 +4254,6 @@
     "type": "Skin",
     "imageName": "deimos-claw-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.2.0",
@@ -4274,7 +4273,8 @@
         "changes": "",
         "fixes": "Everything you need to become the ultimate terror. Includes the unholy Nidus Phryke Skin, Deimos Claw Skin, Nosos Syandana, Helminth Charger Metus Skin and Metus Kubrow Armor."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Dazzle/DeraDazzleCamo",
@@ -4301,7 +4301,6 @@
     "type": "Skin",
     "imageName": "deru-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.6.0 + Hotfix 22.6.0.1",
@@ -4321,7 +4320,8 @@
         "changes": "",
         "fixes": "Fixed the Maharliqa and Deru Syandana not attaching to the back of Valkyr Prime with the Gersemi skin equipped.\nFixed the Misa Prime and Deru Syandana not attaching properly to Valkyr Prime with the Graxx skin equipped.\nFixed the Deru Syandana icon to better match the default colors."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWDespotScarf",
@@ -4330,7 +4330,6 @@
     "type": "Skin",
     "imageName": "despot-cape-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.19.0",
@@ -4341,7 +4340,8 @@
         "changes": "Despot Cape Syandana by Volkovyi and Sab531 ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/GrineerForest/GrineerForestDethcube",
@@ -4433,7 +4433,6 @@
     "type": "Skin",
     "imageName": "disconnect-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia's Anthem: Update 20",
@@ -4444,7 +4443,8 @@
         "changes": "",
         "fixes": "Fixed the Disconnect Syandana having the wrong default colors."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Wings/DomeWings",
@@ -4599,7 +4599,6 @@
     "type": "Skin",
     "imageName": "due-volpi-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.19.0",
@@ -4610,7 +4609,8 @@
         "changes": "Due Volpi Syandana by Volkovyi and led2012 ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneB",
@@ -4628,7 +4628,6 @@
     "type": "Misc",
     "imageName": "easter.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 13.0.6+13.0.7+13.0.7.1",
@@ -4646,7 +4645,8 @@
         "changes": "The Easter Bunny has stopped by Warframe! What has he hidden within the Solar System?",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetTwoSamurai/SetTwoChestArmor",
@@ -4770,7 +4770,6 @@
     "type": "Skin",
     "imageName": "ember-graxx-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The War Within: Update 19.4 + 19.4.1",
@@ -4781,7 +4780,8 @@
         "changes": "",
         "fixes": "Ember Graxx Skin and Helmet by Faven_PS"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Ember/SWIgnitionHelmet",
@@ -4799,7 +4799,6 @@
     "type": "Skin",
     "imageName": "ember-ignition-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia’s Anthem: Update 20.5.0",
@@ -4810,7 +4809,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Ember/EmberAlternateSkin",
@@ -4868,7 +4868,6 @@
     "type": "Skin",
     "imageName": "ember-magesty-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia’s Anthem: Update 20.5.0",
@@ -4879,7 +4878,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Ember/UnlockEmberNoble",
@@ -4929,7 +4929,6 @@
     "type": "Skin",
     "imageName": "ember-prime-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 16.11.4",
@@ -4947,7 +4946,8 @@
         "changes": "Changed Ember Prime Helmet drop to blueprint to be consist with other drops",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Ember/EmberDeluxeSkin",
@@ -4956,7 +4956,6 @@
     "type": "Skin",
     "imageName": "ember-vermillion-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.6.0 + Hotfix 22.6.0.1",
@@ -4967,7 +4966,8 @@
         "changes": "",
         "fixes": "Fixed the Nelumbo Syandana floating on the Ember Vermillion Skin. "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Clan/InfestationEventEmblemItem",
@@ -5097,7 +5097,6 @@
     ],
     "imageName": "equinox-clisthert-helm.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Hotfix 22.20.2",
@@ -5107,7 +5106,8 @@
         "changes": "",
         "fixes": "Fixed Equinox Clisthert Helmet not applying custom Energy color."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Anima/SWInsomniaHelmet",
@@ -5125,7 +5125,6 @@
     "type": "Skin",
     "imageName": "equinox-insomnia-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -5153,7 +5152,8 @@
         "changes": "",
         "fixes": "Fixed the Equinox Insomnia Skin having an incorrect Helmet tintmask on the Day Form."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Anima/AnimaAltHelmet",
@@ -5227,7 +5227,6 @@
     "type": "Skin",
     "imageName": "eros-arrow-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 15.14.1",
@@ -5237,7 +5236,8 @@
         "changes": "",
         "fixes": "Show the enemy you care with the Eros Arrow Skin. This adds heart-shaped tips to any Bow Weapon you have equipped. Even Cupid will be envious!\nPick up some Eros Skins in the Market for 5,000 Credits each.  To use your Eros Arrow Skin simply purchase the item in the Market and equip it in your Gear.  Once in a Mission use the Arrow Skin just like a normal consumable item."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/UnlockExcaliburAgile",
@@ -5332,7 +5332,6 @@
     "type": "Skin",
     "imageName": "excalibur-corpra-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.11.1",
@@ -5343,7 +5342,8 @@
         "changes": "",
         "fixes": "Fixed the Trinity Knightess and Excalibur Corpra Helmet being Arcaned. "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/SWCorpraSkin",
@@ -5361,7 +5361,6 @@
     "type": "Skin",
     "imageName": "excalibur-dex-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Update 22.16.0",
@@ -5372,7 +5371,8 @@
         "changes": "",
         "fixes": "Fixed the Warframe Arcane in the second slot not triggering if the Excalibur Dex Helmet is equipped.\nFixed being unable to equip the Excalibur Dex Helmet in Conclave."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburDexSkin",
@@ -5381,7 +5381,6 @@
     "type": "Skin",
     "imageName": "excalibur-dex-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Hotfix 22.20.2",
@@ -5391,7 +5390,8 @@
         "changes": "",
         "fixes": "Fixed the Commodore Prime Operator suit and Excalibur Dex Skin having incorrect textures."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/SWExaltationHelmet",
@@ -5409,7 +5409,6 @@
     "type": "Skin",
     "imageName": "excalibur-exaltation-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.1.0: TennoGen Round 13",
@@ -5420,7 +5419,8 @@
         "changes": "Excalibur Exaltation Skin by Cheshire",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/SWRFourExcaliburGraxxHelmet",
@@ -5438,7 +5438,6 @@
     "type": "Skin",
     "imageName": "excalibur-graxx-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Vacuum Within: Hotfix #3",
@@ -5448,7 +5447,8 @@
         "changes": "Revised the Market icon for the TennoGen Excalibur Graxx Skin at artist's request.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/SWRFourGraxxAltHelmet",
@@ -5466,7 +5466,6 @@
     "type": "Skin",
     "imageName": "excalibur-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 17.3.1",
@@ -5484,7 +5483,8 @@
         "changes": "",
         "fixes": "Fixed an issue with the Excalibur Helmet appearing on the Proto-Armor skin."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/GeoffcaliburHelmet",
@@ -5493,7 +5493,6 @@
     "type": "Skin",
     "imageName": "excalibur-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 17.3.1",
@@ -5511,7 +5510,8 @@
         "changes": "",
         "fixes": "Fixed an issue with the Excalibur Helmet appearing on the Proto-Armor skin."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburAlternateSkin",
@@ -5756,7 +5756,6 @@
     "type": "Skin",
     "imageName": "excalibur-proto-armor-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 16.9.0",
@@ -5766,7 +5765,8 @@
         "changes": "",
         "fixes": "Discovering the precise nature of the Excalibur Proto-Armor Skin has proved elusive. Initial attempts at dating point to ancient origins, perhaps even predating Orokin Empire. Get it from now until June 24 at 2 p.m. EDT -"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/SWRoninHelmet",
@@ -5784,7 +5784,6 @@
     "type": "Skin",
     "imageName": "excalibur-ronin-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.1.0: TennoGen Round 13",
@@ -5795,7 +5794,8 @@
         "changes": "Excalibur Ronin Skin by Rekkou",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/SWRThreeSentientSlayerHelmet",
@@ -5813,7 +5813,6 @@
     "type": "Skin",
     "imageName": "excalibur-sentient-slayer-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.20.0",
@@ -5824,7 +5823,8 @@
         "changes": "Tweaked the emissives of the Excalibur Sentient Slayer Skin.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburHelmetSWROne",
@@ -5859,7 +5859,6 @@
     "type": "Misc",
     "imageName": "eximus.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Prime Vault Hotfix 23.1.2!",
@@ -6252,7 +6251,8 @@
         "changes": "",
         "fixes": "Fixed being unable to scan the Arid Butcher Eximus correctly."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Clan/SlingStone2EmblemItem",
@@ -6279,7 +6279,6 @@
     "type": "Misc",
     "imageName": "fire.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Mask of the Revenant: Update 23.5.0",
@@ -7343,7 +7342,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Events/ArchRocketCrossbowGrineer",
@@ -7435,7 +7435,6 @@
     "type": "Misc",
     "imageName": "frame-fighter.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Mask of the Revenant: Update 23.5.0",
@@ -7471,7 +7470,8 @@
         "changes": "through Standing. Choose from Excalibur, Volt and Mag, each with their unique Ability. Unlock additional Frame Fighter Warframes by discovering Fragments throughout the Solar Chart. If the scanned Warframe’s Prime is in your Inventory, you can toggle to the Prime version of the acquired character ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Frost/UnlockFrostAgile",
@@ -7530,7 +7530,6 @@
     "type": "Skin",
     "imageName": "frost-emperor-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 21: Chains of Harrow",
@@ -7550,7 +7549,8 @@
         "changes": "",
         "fixes": "Frost Emperor Skin and Helmet by Hitsu San"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Frost/FrostXmasSkin",
@@ -7604,7 +7604,6 @@
     "type": "Skin",
     "imageName": "frost-harka-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia's Anthem: Hotfix 20.0.9",
@@ -7614,7 +7613,8 @@
         "changes": "",
         "fixes": "Fixed clipping issues with the Dex Nouchali Syandana on the Frost Harka Skin."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Frost/FrostHelmet",
@@ -7623,7 +7623,6 @@
     "type": "Skin",
     "imageName": "frost-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 12.2.0: Castanas!",
@@ -7633,7 +7632,8 @@
         "changes": "",
         "fixes": "Fixed image of Excalibur appearing for Frost Helmet skin."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Frost/SWHimavatHelmet",
@@ -7642,7 +7642,6 @@
     "type": "Skin",
     "imageName": "frost-himavat-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.1.0",
@@ -7652,7 +7651,8 @@
         "changes": "Frost Himavat Helmet by VoidPunch",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Frost/FrostAlternateSkin",
@@ -7787,7 +7787,6 @@
     "type": "Skin",
     "imageName": "frost-vojnik-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 21: Chains of Harrow",
@@ -7798,7 +7797,8 @@
         "changes": "Updated Frost Vojnik Skin’s weathering textures.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Frost/SWRThreeFrostZastrugaHelmet",
@@ -7807,7 +7807,6 @@
     "type": "Skin",
     "imageName": "frost-zastruga-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Chains of Harrow: Hotfix 21.0.7",
@@ -7817,7 +7816,8 @@
         "changes": "Updated the Frost Zastruga Helmet, Ersatz Loki Helmet, and Zener Volt Skin at each creator’s request.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/GrineerForest/GrineerForestFuris",
@@ -7871,7 +7871,6 @@
     "type": "Misc",
     "imageName": "gamma.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Update 22.14.0",
@@ -8079,7 +8078,8 @@
         "changes": "",
         "fixes": "The drop rates on Beacons have been adjusted. Delta Beacons are now less rare, with the Kappa and Gamma Beacon drop rates being slightly reduced."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Glass/SWSilicaHelmet",
@@ -8088,7 +8088,6 @@
     "type": "Skin",
     "imageName": "gara-silica-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.19.0",
@@ -8099,7 +8098,8 @@
         "changes": "Gara Silica Helmet by Arsenal",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Glass/GlassAltHelmet",
@@ -8326,7 +8326,6 @@
     "type": "Misc",
     "imageName": "grineer.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Mask of the Revenant: Update 23.5.0",
@@ -10843,7 +10842,8 @@
         "changes": "-Reduced Grineer Commander spawn frequency",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenGrinlok",
@@ -10879,7 +10879,6 @@
     "type": "Misc",
     "imageName": "halloween.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 17.9.1",
@@ -10913,7 +10912,8 @@
         "changes": "Halloween color picker added!",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/SteamWorkshop/Melee/Polearms/SWJatKittagOgunSkin",
@@ -10931,7 +10931,6 @@
     "type": "Misc",
     "imageName": "happy-zephyr.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.4.0",
@@ -10950,7 +10949,8 @@
         "changes": "",
         "fixes": "Fixed the screen shake effects on Happy Zephyr not matching Zephyr’s jumps."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Armor/GrineerTurbines/GrineerTurbinesChestArmor",
@@ -11004,7 +11004,6 @@
     "type": "Skin",
     "imageName": "harrow-graxx-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Hotfix 22.12.5",
@@ -11014,7 +11013,8 @@
         "changes": "",
         "fixes": "Fixed the Harrow Graxx Skin having a giftable option in the Market. Upon selecting this it will fail and not charge you the respective Platinum."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Priest/SWHierophaHelmet",
@@ -11160,7 +11160,6 @@
     "type": "Pets",
     "imageName": "helminth-charger-metus-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.1.3",
@@ -11171,7 +11170,8 @@
         "changes": "",
         "fixes": "Everything you need to become the ultimate terror. Includes the unholy Nidus Phryke Skin, Deimos Claw Skin, Nosos Syandana, Helminth Charger Metus Skin and Metus Kubrow Armor."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/Patterns/HelminthPetPatternClassic",
@@ -11180,7 +11180,6 @@
     "type": "Pets",
     "imageName": "helminth-degenerate-pattern.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia's Anthem: Update 20",
@@ -11191,7 +11190,8 @@
         "changes": "For those of you looking for the original Charger model, you can find the Helminth Degenerate Pattern as a Cosmetic Option in the Market available for Credits!",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/Patterns/KubrowPetPatternC",
@@ -11254,7 +11254,6 @@
     "type": "Skin",
     "imageName": "hydroid-graxx-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -11265,7 +11264,8 @@
         "changes": "Tweaked the Hydroid Graxx Skin default colors to better match original design.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Pirate/PirateDefaultHelmet",
@@ -11283,7 +11283,6 @@
     "type": "Skin",
     "imageName": "hydroid-immortal-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia’s Anthem: Update 20.3.0",
@@ -11294,7 +11293,8 @@
         "changes": "",
         "fixes": "Fixed grey texture outlines appearing on the Hydroid Immortal Skin when attempting to color it fully black. "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Pirate/PirateAltBHelmet",
@@ -11386,7 +11386,6 @@
     "type": "Skin",
     "imageName": "hydroid-rorqual-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Glast Gambit: Hotfix 19.11.1",
@@ -11396,7 +11395,8 @@
         "changes": "",
         "fixes": "Fixed the Hydroid Rorqual Helmet and Limbo Aureolus Helmet icon displaying blurry textures."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Pirate/PirateAltHelmet",
@@ -11470,7 +11470,6 @@
     "type": "Skin",
     "imageName": "icarius-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.2.0",
@@ -11498,7 +11497,8 @@
         "changes": "Icarius Syandana by malayu, Scharkie, and Jadie",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerIceItemA",
@@ -11507,7 +11507,6 @@
     "type": "Misc",
     "imageName": "ice.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Mask of the Revenant: Update 23.5.0",
@@ -12116,7 +12115,8 @@
         "changes": "",
         "fixes": "Ice/Fire hazards will no longer appear in the first few levels."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Masks/IctusPrimeMask",
@@ -12345,7 +12345,6 @@
     "type": "Skin",
     "imageName": "incubus-ribbon-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 21: Chains of Harrow",
@@ -12365,7 +12364,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerInfestedItemA",
@@ -12374,7 +12374,6 @@
     "type": "Misc",
     "imageName": "infested.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Mask of the Revenant: Update 23.5.0",
@@ -13776,7 +13775,8 @@
         "changes": "Infested Disruptor color effects toned down.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMidD",
@@ -13803,7 +13803,6 @@
     "type": "Skin",
     "imageName": "ivara-arcuata-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia’s Anthem: Update 20.5.0",
@@ -13814,7 +13813,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Ranger/RangerAltHelmet",
@@ -13888,7 +13888,6 @@
     "type": "Skin",
     "imageName": "ivara-youkai-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia’s Anthem: Hotfix 20.6.1",
@@ -13907,7 +13906,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Ranger/RangerAlt02Helmet",
@@ -13990,7 +13990,6 @@
     "type": "Skin",
     "imageName": "jattuk-mantle.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 19: The War Within",
@@ -14001,7 +14000,8 @@
         "changes": "",
         "fixes": "Fixed an issue with the Jattuk Mantle clipping into multiple Warframes when equipped."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Harkonar/HarkonarGrnFlameSpear",
@@ -14019,7 +14019,6 @@
     "type": "Skin",
     "imageName": "jet-sentinel-wings.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -14030,7 +14029,8 @@
         "changes": "",
         "fixes": "Fixed Prisma Jet Sentinel Wings diorama and store description wrongfully warning that the wings are a cosmetic for the Diriga only when they are available for all Sentinels."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantE",
@@ -14171,7 +14171,6 @@
     "type": "Skin",
     "imageName": "kazeru-prime-sugatra.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The War Within: Update 19.2.0",
@@ -14198,7 +14197,8 @@
         "changes": "",
         "fixes": "including Volt Prime, Odonata Prime, Edo Prime Armor and the Kazeru Prime Sugatra. Plus, stock up on discounted Platinum and get Exclusive Gear available only through Prime Access!\nModify your Warframe with the Edo Prime Armor and Kazeru Prime Sugatra. Add Exclusive Volt Prime Avatars to your online presence! Speed up your in-game progress with 90-Day Affinity and Credit Boosters."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/SummerSolstice/SummerSolsticeKesheg",
@@ -14290,7 +14290,6 @@
     "type": "Skin",
     "imageName": "ki'teer-sekhara.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Mask of the Revenant: Update 23.5.0",
@@ -14301,7 +14300,8 @@
         "changes": "",
         "fixes": "Fixed Ki'Teer Sekhara so it appears properly when equipped. "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Harkonar/HarkonarGrnSpark",
@@ -14400,7 +14400,6 @@
     "type": "Skin",
     "imageName": "kunshu-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.1.0: TennoGen Round 13",
@@ -14411,7 +14410,8 @@
         "changes": "Kunshu Syandana by BeastBuster",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Armor/GrineerQueenArmour/GrineerQueenArmourC",
@@ -14420,7 +14420,6 @@
     "type": "Skin",
     "imageName": "kuva-chest-plate.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The War Within: Update 19.4.2 + 19.4.2.1",
@@ -14430,7 +14429,8 @@
         "changes": "",
         "fixes": "Fixed Kuva Chest Plate clipping on Saryn, Mirage, Valkyr, Trinity and their Prime variants."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/GrnQueensMeleeDangle",
@@ -14439,7 +14439,6 @@
     "type": "Skin",
     "imageName": "kuva-cord.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The War Within: Update 19.4.2 + 19.4.2.1",
@@ -14449,7 +14448,8 @@
         "changes": "",
         "fixes": "Fixed Kuva Cord Sugatra not attaching properly to the Twin Basolk."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/Armor/GrnQueenCatbrowArmor",
@@ -14622,7 +14622,6 @@
     "type": "Skin",
     "imageName": "limbo-aureolus-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Glast Gambit: Hotfix 19.11.1",
@@ -14632,7 +14631,8 @@
         "changes": "",
         "fixes": "Fixed the Limbo Aureolus Helmet not functioning properly with his animations. You wanted the hat tip you got the hat tip! \nFixed the Hydroid Rorqual Helmet and Limbo Aureolus Helmet icon displaying blurry textures."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Magician/MagicianHelmet",
@@ -14733,7 +14733,6 @@
     "type": "Skin",
     "imageName": "limbo-vasiona-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia’s Anthem: Update 20.5.0",
@@ -14744,7 +14743,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Magician/SWVenariHelmet",
@@ -14753,7 +14753,6 @@
     "type": "Skin",
     "imageName": "limbo-venari-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.1.0",
@@ -14763,7 +14762,8 @@
         "changes": "Limbo Venari Helmet by Volkovyi and Sab531",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Magician/SWVistyxioHelmet",
@@ -14781,7 +14781,6 @@
     "type": "Skin",
     "imageName": "limbo-vistyxio-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.1.0",
@@ -14791,7 +14790,17 @@
         "changes": "Limbo Vistyxio Skin by led2012 and Hydroxate",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Liset/LisetSkinRelayEvent",
+    "name": "Liset Athari Skin",
+    "description": "A Liset pattern to celebrate the reconstruction of our lost relay.",
+    "type": "Skin",
+    "imageName": "liset-athari-skin.png",
+    "category": "Skins",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Liset/LisetSkinHalloween",
@@ -14973,7 +14982,6 @@
     "type": "Skin",
     "imageName": "loki-erebus-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.19.0",
@@ -14984,7 +14992,8 @@
         "changes": "Loki Erebus Skin by Vulbjorn, the graphical walrus. ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Loki/SWRFourLokiErsatzHelmet",
@@ -15034,7 +15043,6 @@
     "type": "Skin",
     "imageName": "loki-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Chains of Harrow: Hotfix 21.0.7",
@@ -15044,7 +15052,8 @@
         "changes": "Updated the Frost Zastruga Helmet, Ersatz Loki Helmet, and Zener Volt Skin at each creator’s request.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Loki/LokiAlternateSkin",
@@ -15098,7 +15107,6 @@
     "type": "Skin",
     "imageName": "loki-kodama-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.1.0: TennoGen Round 13",
@@ -15109,7 +15117,8 @@
         "changes": "Loki Kodama Skin by HitsuSan",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Loki/UnlockLokiNoble",
@@ -15204,7 +15213,6 @@
     "type": "Misc",
     "imageName": "lotus.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.4.0",
@@ -16004,7 +16012,8 @@
         "changes": "",
         "fixes": " The Lotus’ voice now conforms to volume control"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/Patterns/KubrowPetPatternF",
@@ -16135,7 +16144,6 @@
     "type": "Skin",
     "imageName": "mag-ferro-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.20.0",
@@ -16155,7 +16163,8 @@
         "changes": "Mag Ferro Skin by Master Noob ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Mag/MagHelmetAltBStatless",
@@ -16286,7 +16295,6 @@
     "type": "Skin",
     "imageName": "mag-pneuma-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -16297,7 +16305,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Mag/MagPrimeHelmet",
@@ -16351,7 +16360,6 @@
     "type": "Skin",
     "imageName": "maggor-towsun-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.4",
@@ -16362,7 +16370,8 @@
         "changes": "Maggor Towsun Syandana",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWMaharliqaScarf",
@@ -16515,7 +16524,6 @@
     "type": "Skin",
     "imageName": "mesa-devil-ranger-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.3.5",
@@ -16533,7 +16541,8 @@
         "changes": "Mesa Devil Ranger Skin by Mz-3",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Cowgirl/SWRThreeFalconHelmet",
@@ -16542,7 +16551,6 @@
     "type": "Skin",
     "imageName": "mesa-falcon-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Specters of the Rail: U2.1",
@@ -16552,7 +16560,8 @@
         "changes": "Tweaked the TennoGen Mesa Falcon Helmet tint.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Cowgirl/SWGraxxMesaHelmet",
@@ -16561,7 +16570,6 @@
     "type": "Skin",
     "imageName": "mesa-graxx-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Glast Gambit: Update 19.11.0+19.11.0.1",
@@ -16572,7 +16580,8 @@
         "changes": "",
         "fixes": "Fixed the Mesa Graxx Helmet having blurry textures. "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Cowgirl/SWGraxxMesaSkin",
@@ -16590,7 +16599,6 @@
     "type": "Skin",
     "imageName": "mesa-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 16.4",
@@ -16600,7 +16608,8 @@
         "changes": "",
         "fixes": "The Amaru Chroma Helmet and Ovis Mesa Helmet are now available in the marketplace!"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Cowgirl/CowgirlAltHelmet",
@@ -16674,7 +16683,6 @@
     "type": "Skin",
     "imageName": "mesa-marlet-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.19.0",
@@ -16685,7 +16693,8 @@
         "changes": "Mesa Marlet Skin by Cheshire and prosetisen ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Cowgirl/UnlockCowgirlNoble",
@@ -16759,7 +16768,6 @@
     "type": "Skin",
     "imageName": "mesa-presidio-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23",
@@ -16770,7 +16778,8 @@
         "changes": "If you own or purchase the Mesa Presidio Skin, you will automatically receive the  Presidio Regulators skin to equip onto Mesa’s Regulators.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Kubrows/Armor/HelminthDeluxeArmor",
@@ -16779,7 +16788,6 @@
     "type": "Skin",
     "imageName": "metus-kubrow-armor.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.2.0",
@@ -16799,7 +16807,8 @@
         "changes": "",
         "fixes": "Everything you need to become the ultimate terror. Includes the unholy Nidus Phryke Skin, Deimos Claw Skin, Nosos Syandana, Helminth Charger Metus Skin and Metus Kubrow Armor."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/UnlockHarlequinAgile",
@@ -16891,7 +16900,6 @@
     "type": "Skin",
     "imageName": "mirage-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 14.10.0",
@@ -16901,7 +16909,8 @@
         "changes": "",
         "fixes": "Fixed an issue with the Harlequin Mirage Helmet Blueprint incorrectly appearing as the Arcane Scorpion Ash Helmet Blueprint. Please note that we will be re-running a functioning Harlequin Helmet alert at a similar time as the broken one, but with a doubled duration."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/SWRFourMirageJolliHelmet",
@@ -16928,7 +16937,6 @@
     "type": "Skin",
     "imageName": "mirage-mithra-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Hotfix 22.13.3",
@@ -16938,7 +16946,8 @@
         "changes": "",
         "fixes": "Fixed the right Syrinx Shoulder Plate attachment clipping with the Mirage Mithra Skin."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/SWMorgaineHelmet",
@@ -17075,7 +17084,6 @@
     "type": "Skin",
     "imageName": "mithra-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.20.0",
@@ -17103,7 +17111,8 @@
         "changes": "Mithra Syandana by lukinu_u ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/CatbrowPet/Patterns/FeralCatbrowPattern",
@@ -17121,7 +17130,6 @@
     "type": "Skin",
     "imageName": "mortier-heavy-blade-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.3.2",
@@ -17131,7 +17139,8 @@
         "changes": "Increased the scale of Vauban’s Mortier Heavy Blade Skin!",
         "fixes": "Fixed the Mortier Heavy Blade Skin sometimes appearing distorted in the Arsenal."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Necro/NecroDangles",
@@ -17158,7 +17167,6 @@
     "type": "Skin",
     "imageName": "mozi-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -17178,7 +17186,8 @@
         "changes": "Slice through your enemies with the Guandao, a towering polearm, or take them out from a distance with the Zakti pistol and its lethal toxicity. Adding the Mozi Syandana will ensure your enemies only see a flash of red before their last moments, if they see anything at all…\nImproved the cloth physics on the Mozi Syandana.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWMushussuScarf",
@@ -17187,7 +17196,6 @@
     "type": "Skin",
     "imageName": "mushussu-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.20.0",
@@ -17207,7 +17215,8 @@
         "changes": "Mushussu Syandana by StenchFury ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Clan/MutalistIncursionsBadgeItem",
@@ -17234,7 +17243,6 @@
     "type": "Skin",
     "imageName": "naru-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.3.5",
@@ -17253,7 +17261,8 @@
         "changes": "",
         "fixes": "Fixed Naru Syandana textures as per Creator’s request."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/ScrollingPrimeMeleeDangle",
@@ -17262,7 +17271,6 @@
     "type": "Skin",
     "imageName": "naviga-prime-sugatra.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 17.6: Trinity Prime",
@@ -17272,7 +17280,8 @@
         "changes": "",
         "fixes": "Evoke the sails of ancient vessels long extinct with the Naviga Prime Sugatra!"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Necro/UnlockNecroAgile",
@@ -17299,7 +17308,6 @@
     "type": "Skin",
     "imageName": "nekros-graxx-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.1.0: TennoGen Round 13",
@@ -17310,7 +17318,8 @@
         "changes": "Nekros Graxx Skin by Faven",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Necro/NecroHelmet",
@@ -17337,7 +17346,6 @@
     "type": "Skin",
     "imageName": "nekros-ion-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.1.0: TennoGen Round 13",
@@ -17348,7 +17356,8 @@
         "changes": "Nekros Ion Helmet by Yatus",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Necro/NekrosDeluxeSkin",
@@ -17357,7 +17366,6 @@
     "type": "Skin",
     "imageName": "nekros-irkalla-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.1",
@@ -17367,7 +17375,8 @@
         "changes": "",
         "fixes": "Fixed Nekros Prime arm dangle details appearing when equipped on the Nekros Irkalla Skin. As is standard and precedent for all in-house Deluxe Skins, the override of Prime Details is the intent. "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Necro/SWRThreeLazarusHelmet",
@@ -17515,7 +17524,6 @@
     "type": "Skin",
     "imageName": "nexus-kavat-fur-pattern.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 19.13.1",
@@ -17525,7 +17533,8 @@
         "changes": "",
         "fixes": "Fixed the Nexus Kavat Fur Pattern not appearing correctly when linking it in Chat."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Nezha/NezhaAltHelmet",
@@ -17581,7 +17590,6 @@
     ],
     "imageName": "nezha-circa-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.18.0",
@@ -17592,7 +17600,8 @@
         "changes": "",
         "fixes": "Fixed Nezha Jinza Helmet Alerts defaulting to a Nezha Circa Helmet."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Nezha/SWDevineHelmet",
@@ -17628,7 +17637,6 @@
     "type": "Skin",
     "imageName": "nezha-dracun-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Update 22.16.0",
@@ -17639,7 +17647,8 @@
         "changes": "Nezha Dracun Skin default tints updated to lighten the dark tint and better match workshop images.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Nezha/NezhaAlt2Helmet",
@@ -17695,7 +17704,6 @@
     ],
     "imageName": "nezha-jinza-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.18.0",
@@ -17706,7 +17714,8 @@
         "changes": "",
         "fixes": "Fixed Nezha Jinza Helmet Alerts defaulting to a Nezha Circa Helmet."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Nezha/SWYakshaHelmet",
@@ -17724,7 +17733,6 @@
     "type": "Skin",
     "imageName": "nezha-yaksha-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.1.0",
@@ -17734,7 +17742,8 @@
         "changes": "Nezha Yaksha Skin by Faven and SilverBones",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Armor/TnArmorCurve/TnArmorCurveC",
@@ -17752,7 +17761,6 @@
     "type": "Skin",
     "imageName": "nidina-leg-plate.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Oberon Prime: Update 20.7.0",
@@ -17763,7 +17771,8 @@
         "changes": "",
         "fixes": "Fixed the right Nidina Leg Plate equipping on the left leg."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Armor/TnArmorCurve/TnArmorCurveA",
@@ -17772,7 +17781,6 @@
     "type": "Skin",
     "imageName": "nidina-shoulder-plate.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 21: Chains of Harrow",
@@ -17783,7 +17791,8 @@
         "changes": "",
         "fixes": "Fixed Nidina Shoulder Plates clipping on Vauban Prime."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Infestation/InfestationHelmet",
@@ -17810,7 +17819,6 @@
     "type": "Skin",
     "imageName": "nidus-phryke-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.1.3",
@@ -17821,7 +17829,8 @@
         "changes": "",
         "fixes": "Everything you need to become the ultimate terror. Includes the unholy Nidus Phryke Skin, Deimos Claw Skin, Nosos Syandana, Helminth Charger Metus Skin and Metus Kubrow Armor."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Infestation/InfestationAltHelmet",
@@ -17931,7 +17940,6 @@
     "type": "Skin",
     "imageName": "nova-asuri-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Specters of the Rail: U2.1",
@@ -17941,7 +17949,8 @@
         "changes": "",
         "fixes": "Fixed the Nova Asuri Skin arm effect not matching your Energy color. "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/SWCorpraHelmet",
@@ -17959,7 +17968,6 @@
     "type": "Skin",
     "imageName": "nova-corpra-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.1.0: TennoGen Round 13",
@@ -17970,7 +17978,8 @@
         "changes": "Nova Corpra Skin by Frelling Hazmot",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/SWRThreeCygniHelmet",
@@ -18101,7 +18110,6 @@
     "type": "Skin",
     "imageName": "nova-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 9.4.1: Double Affinity Weekend!",
@@ -18111,7 +18119,8 @@
         "changes": "",
         "fixes": "Nova Helmet customization colour fixes."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/NovaAlternateSkin",
@@ -18138,7 +18147,6 @@
     "type": "Skin",
     "imageName": "nova-lamia-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.20.0",
@@ -18149,7 +18157,8 @@
         "changes": "Tweaked the Nova Lamia Skin to better match the Steam Workshop images.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/UnlockAntiMatterNoble",
@@ -18378,7 +18387,6 @@
     "type": "Skin",
     "imageName": "nyx-ampulex-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia’s Anthem: Update 20.5.0",
@@ -18389,7 +18397,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Jade/SWRFourNyxAthenaHelmet",
@@ -18425,7 +18434,6 @@
     "type": "Skin",
     "imageName": "nyx-aurelia-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.19.0",
@@ -18436,7 +18444,8 @@
         "changes": "Nyx Aurelia Skin by Hitsu San ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Jade/SWCarnifexHelmet",
@@ -18445,7 +18454,6 @@
     "type": "Skin",
     "imageName": "nyx-carnifex-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -18456,7 +18464,8 @@
         "changes": "Adjusted the Nyx Carnifex Helmet and Skin colors to match original design. ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Jade/SWCarnifexSkin",
@@ -18465,7 +18474,6 @@
     "type": "Skin",
     "imageName": "nyx-carnifex-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hydroid Prime: Update 21.7.0",
@@ -18476,7 +18484,8 @@
         "changes": "",
         "fixes": "Fixed the Edo Chest Piece sticking out on the Nyx Carnifex Skin. "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Jade/SWRSixNyxGraxxHelmet",
@@ -18494,7 +18503,6 @@
     "type": "Skin",
     "imageName": "nyx-graxx-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The War Within: Update 19.4 + 19.4.1",
@@ -18505,7 +18513,8 @@
         "changes": "",
         "fixes": "Nyx Graxx Skin and Helmet by Faven_PS"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Jade/JadeHelmet",
@@ -18564,7 +18573,6 @@
     "type": "Skin",
     "imageName": "nyx-nemesis-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.8.2",
@@ -18583,7 +18591,8 @@
         "changes": "Excalibur Proto and Nyx Nemesis Skins have received the PBR treatment! ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Jade/UnlockJadeNoble",
@@ -18619,7 +18628,6 @@
     "type": "Skin",
     "imageName": "nyx-saikou-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Glast Gambit: Hotfix 19.11.2",
@@ -18629,7 +18637,8 @@
         "changes": "",
         "fixes": "Fixed pixelated/jagged textures on the Nyx Saikou Skin and Helmet."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Jade/JadeHelmetAltBStatless",
@@ -18899,7 +18908,6 @@
     "type": "Skin",
     "imageName": "oblivia-prime-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.6",
@@ -18919,7 +18927,8 @@
         "changes": "Tweaked the Oblivia Prime Syandana offset to be proportionately equal on numerous Warframes. The Market and Arsenal icons have also been changed for the Oblivia Prime Syandana to properly reflect the adjustments.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Bard/BardAltHelmet",
@@ -18993,7 +19002,6 @@
     "type": "Skin",
     "imageName": "octavia-diva-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Hotfix 22.13.2",
@@ -19003,7 +19011,8 @@
         "changes": "Adjusted the Diva Polearm Skin energy color and Octavia Diva Skin default tint to better match the Steam Workshop images.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Bard/BardHelmet",
@@ -19021,7 +19030,6 @@
     "type": "Skin",
     "imageName": "officium-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia's Anthem: Update 20",
@@ -19066,7 +19074,8 @@
         "changes": "",
         "fixes": "Fixed energy color not applying to the Officium Syandana properly."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenOpticor",
@@ -19102,7 +19111,6 @@
     "type": "Misc",
     "imageName": "orokin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.5",
@@ -20511,7 +20519,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenOrthos",
@@ -20556,7 +20565,6 @@
     "type": "Skin",
     "imageName": "pandero-ceramica-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Hotfix 22.15.1",
@@ -20566,7 +20574,8 @@
         "changes": "Slightly adjusted the hand position when holding the Pandero Ceramica Skin to make it sit nicer in the Warframe's hand.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/ParrotCarrierSkin",
@@ -20575,7 +20584,6 @@
     "type": "Skin",
     "imageName": "para-carrier.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 16.9.0",
@@ -20585,7 +20593,8 @@
         "changes": "",
         "fixes": "Fixed the Para Carrier skin showing code in its description."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Masks/ParrotMask",
@@ -20787,7 +20796,6 @@
     ],
     "imageName": "penta-shock-camo-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.2.0",
@@ -20798,7 +20806,8 @@
         "changes": "",
         "fixes": "Fixed viewing the Penta in the marketplace (specifically the Penta Shock-Camo Skin) resulting in the ammo in the gun taking a second to load upon viewing it everytime."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorPrimeTraderMidA",
@@ -20924,7 +20933,6 @@
     "type": "Skin",
     "imageName": "prisma-jet-sentinel-wings.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -20935,7 +20943,8 @@
         "changes": "",
         "fixes": "Fixed Prisma Jet Sentinel Wings diorama and store description wrongfully warning that the wings are a cosmetic for the Diriga only when they are available for all Sentinels."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrismaRazorScarf",
@@ -21027,7 +21036,6 @@
     "type": "Skin",
     "imageName": "quartakk-towsun-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.4",
@@ -21038,7 +21046,8 @@
         "changes": "Quartakk Towsun Skin",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWRaijiScarf",
@@ -21047,7 +21056,6 @@
     "type": "Skin",
     "imageName": "raiji-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia’s Anthem: Update 20.5.0",
@@ -21058,7 +21066,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorPrimeTraderVibrantA",
@@ -21085,7 +21094,6 @@
     "type": "Skin",
     "imageName": "repala-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Hotfix 22.13.3",
@@ -21130,7 +21138,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Revenant/RevenantHelmetAlt",
@@ -21240,7 +21249,6 @@
     "type": "Skin",
     "imageName": "rhino-graxx-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.1.1",
@@ -21250,7 +21258,8 @@
         "changes": "Tweaked the Rhino Graxx Skin to more accurately match the Steam Workshop images.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoHelmet",
@@ -21304,7 +21313,6 @@
     "type": "Skin",
     "imageName": "rhino-palatine-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 17.12.0",
@@ -21314,7 +21322,8 @@
         "changes": "Rhino Palatine Skin: Pay homage to warriors of a more chivalrous time with this skin.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoPrimeHelmet",
@@ -21323,7 +21332,6 @@
     "type": "Skin",
     "imageName": "rhino-prime-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 18.4.12: Saryn Prime",
@@ -21341,7 +21349,8 @@
         "changes": "",
         "fixes": "Fixed the Rhino Prime Helmet description appearing incorrectly."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoRubedoSkinHelmet",
@@ -21377,7 +21386,6 @@
     "type": "Skin",
     "imageName": "rhino-scarab-sect-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.19.0",
@@ -21388,7 +21396,8 @@
         "changes": "Rhino Scarab Sect Skin by Mz-3 ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Rhino/SWTeutonicHelmet",
@@ -21479,7 +21488,6 @@
     "type": "Skin",
     "imageName": "rhino-warlust-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia’s Anthem: Update 20.5.0",
@@ -21490,7 +21498,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Promo/RixtyMOL/RixtyMOLAklatoSkin",
@@ -21508,7 +21517,6 @@
     "type": "Skin",
     "imageName": "rota-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 19: The War Within",
@@ -21535,7 +21543,8 @@
         "changes": "",
         "fixes": "Fixed an error preventing players from receiving the Rota Syandana after purchasing the item multiple times.  Players who spent Steam funds in this fashion without properly receiving/gifting the item will be refunded with this hotfix."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodPrimeA",
@@ -21589,7 +21598,6 @@
     "type": "Skin",
     "imageName": "salix-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Glast Gambit: Hotfix 19.5.4",
@@ -21615,7 +21623,8 @@
         "changes": "Salix Syandana: Ivara’s cocoon-like Syandana.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/PrimeDangleEMeleeDangle",
@@ -21642,7 +21651,6 @@
     "type": "Skin",
     "imageName": "sari-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Chains of Harrow: Hotfix 21.0.9",
@@ -21678,7 +21686,8 @@
         "changes": "",
         "fixes": "Sari Syandana by malayu\nFixed Sari Syandana covering up the Menu"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenSarpa",
@@ -21723,7 +21732,6 @@
     "type": "Skin",
     "imageName": "saryn-amalgama-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.3.5",
@@ -21733,7 +21741,8 @@
         "changes": "",
         "fixes": "Fixed some low resolution textures on the Saryn Amalgama Skin."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Saryn/SWBelladonnaHelmet",
@@ -21742,7 +21751,6 @@
     "type": "Skin",
     "imageName": "saryn-belladonna-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia’s Anthem: Update 20.5.0",
@@ -21753,7 +21761,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Asp/AspAltHelmetBStatless",
@@ -21803,7 +21812,6 @@
     "type": "Skin",
     "imageName": "saryn-graxx-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The War Within: Update 19.4 + 19.4.1",
@@ -21814,7 +21822,8 @@
         "changes": "",
         "fixes": "Saryn Graxx Skin and Helmet by Faven_PS"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Asp/AspHelmet",
@@ -21936,7 +21945,6 @@
     "type": "Skin",
     "imageName": "saryn-orphid-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 17.10.1",
@@ -21954,7 +21962,8 @@
         "changes": "",
         "fixes": "Get the Saryn Orphid Skin, Melia Sugatra, and Cyskis Dual Zoren Skin by visiting the Market today!"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Saryn/SWVelenosaHelmet",
@@ -21999,7 +22008,6 @@
     "type": "Skin",
     "imageName": "sciathin-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia's Anthem: Update 20",
@@ -22010,7 +22018,8 @@
         "changes": "",
         "fixes": "Fixed the Sciathin Syandana icon having the wrong default colors."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Liset/LisetBlueSkySkinGrineerQueens",
@@ -22196,7 +22205,6 @@
     ],
     "imageName": "scindo-manticore-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia’s Anthem: Update 20.5.0",
@@ -22207,7 +22215,8 @@
         "changes": "",
         "fixes": "Fixed Sugatras floating away when equipped on the the Scindo Manticore Skin."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Axe/SolsticeScindo",
@@ -22234,7 +22243,6 @@
     "type": "Skin",
     "imageName": "seraphim-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.1.0: TennoGen Round 13",
@@ -22245,7 +22253,8 @@
         "changes": "Seraphim Syandana by led2012 and jaeon009",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWSetkaScarf",
@@ -22263,7 +22272,6 @@
     "type": "Skin",
     "imageName": "sevati-sekhara.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 18.7.0",
@@ -22274,7 +22282,8 @@
         "changes": "",
         "fixes": "•    Fixed some positioning issues on the Sevati Sekhara badge."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Halos/PrototypeRaidHalo",
@@ -22283,7 +22292,6 @@
     "type": "Skin",
     "imageName": "sevati-sekhara.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 18.7.0",
@@ -22294,7 +22302,8 @@
         "changes": "",
         "fixes": "•    Fixed some positioning issues on the Sevati Sekhara badge."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantC",
@@ -22312,7 +22321,6 @@
     "type": "Skin",
     "imageName": "shurihoshi-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.1.0: TennoGen Round 13",
@@ -22323,7 +22331,8 @@
         "changes": "Shurihoshi Syandana by led2012 and daemonstar",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWSildargScarf",
@@ -22332,7 +22341,6 @@
     "type": "Skin",
     "imageName": "sildarg-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.1.1",
@@ -22351,7 +22359,8 @@
         "changes": "Sildarg Syandana by led2012 and daemonstar",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenSilvaAndAegis",
@@ -22459,7 +22468,6 @@
     "type": "Skin",
     "imageName": "solida-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Update 22.14.0",
@@ -22478,7 +22486,8 @@
         "changes": "The Solida Syandana now has a visual ‘barrel spin’ animation.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Clan/HolidayDeathMatchBadgeItem",
@@ -22487,7 +22496,6 @@
     "type": "Skin",
     "imageName": "solstice-conclave-emblem.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Glast Gambit: Hotfix 19.5.6+19.5.6.1",
@@ -22497,7 +22505,8 @@
         "changes": "",
         "fixes": "Fixed excessive Bloom on the Solstice Conclave Emblem."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Armor/SetThreeWinged/SolsticeSetThreeChestArmor",
@@ -22634,7 +22643,6 @@
     "type": "Skin",
     "imageName": "sovereign-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Hotfix 22.20.5",
@@ -22662,7 +22670,8 @@
         "changes": "Sovereign Syandana by BeastBuster",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/CandyCaneEtherReaperSkin",
@@ -22761,7 +22770,6 @@
     "type": "Misc",
     "imageName": "storm.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.4.0",
@@ -23005,7 +23013,8 @@
         "changes": "",
         "fixes": "Update 7: \"Stormbringer\""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenStradavar",
@@ -23023,7 +23032,6 @@
     "type": "Skin",
     "imageName": "stratos-emblem.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 16.3.1 + 16.3.1.1 + Tactical Alert",
@@ -23033,7 +23041,8 @@
         "changes": "",
         "fixes": "Complete Stage 3: Stratos Emblem"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/Patterns/KubrowPetPatternA",
@@ -23051,7 +23060,6 @@
     "type": "Skin",
     "imageName": "stubba-towsun-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.4",
@@ -23062,7 +23070,8 @@
         "changes": "Stubba Towsun Skin",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Dazzle/SupraDazzleCamo",
@@ -23116,7 +23125,6 @@
     "type": "Skin",
     "imageName": "sydeko-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.1.0: TennoGen Round 13",
@@ -23127,7 +23135,8 @@
         "changes": "Sydeko Syandana by led2012 and daemonstar",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/CordsMeleeDangle",
@@ -23183,7 +23192,6 @@
     ],
     "imageName": "tantu-sugatra.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.6.0 + Hotfix 22.6.0.1",
@@ -23194,7 +23202,8 @@
         "changes": "",
         "fixes": "Fixed the Pyra and Tantu Sugatra spinning around when equipping on some weapons. "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Clan/InfTacAlertSlowBombMoaAncientBadgeItem",
@@ -23239,7 +23248,6 @@
     "type": "Misc",
     "imageName": "tenno.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Mask of the Revenant: Update 23.5.0",
@@ -24748,7 +24756,8 @@
         "changes": "",
         "fixes": " Tenno bonuses for “First win of the Day”\n Improved Tenno animations"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Clan/WikiaBadgeItem",
@@ -24829,7 +24838,6 @@
     "type": "Skin",
     "imageName": "tentacyst.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia's Anthem: Update 20",
@@ -24849,7 +24857,8 @@
         "changes": "",
         "fixes": "Tentacyst Sugatra \nThis collection of unnatural, malformed, Infested growths contains; the Caustacyst Scythe, the Embolist Pistol, Tentacyst accessory for melee weapons and the Embolist Armor."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWTeploScarf",
@@ -24858,7 +24867,6 @@
     "type": "Skin",
     "imageName": "teplo-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia’s Anthem: Hotfix 20.2.3",
@@ -24877,7 +24885,8 @@
         "changes": "",
         "fixes": "Fixed the Teplo Syandana sitting too high on Banshee Prime and Banshee Prime with the default Banshee skin."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Clan/ShipyardsEventBadgeItem",
@@ -25086,7 +25095,6 @@
     "type": "Skin",
     "imageName": "titania-unseelie-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.3.5",
@@ -25104,7 +25112,8 @@
         "changes": "Titania Unseelie Skin by Rekkou",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWTonacaScarf",
@@ -25149,7 +25158,6 @@
     "type": "Skin",
     "imageName": "trinity-ancyra-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia’s Anthem: Update 20.5.0",
@@ -25160,7 +25168,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Trinity/TrinityHelmetAltStatless",
@@ -25246,7 +25255,6 @@
     "type": "Skin",
     "imageName": "trinity-knightess-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.11.1",
@@ -25257,7 +25265,8 @@
         "changes": "Updated textures to the Trinity Knightess Skin at the creator's request.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Trinity/TrinityHelmetAltBStatless",
@@ -25325,7 +25334,6 @@
     "type": "Skin",
     "imageName": "trinity-strega-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -25353,7 +25361,8 @@
         "changes": "",
         "fixes": "The Trinity Strega Skin Bundle is now available!\nKubrow armor in the style of the Trinity Strega Skin."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerTwilightItemA",
@@ -25362,7 +25371,6 @@
     "type": "Misc",
     "imageName": "twilight.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 15.13",
@@ -25388,7 +25396,8 @@
         "changes": "",
         "fixes": "Twilight Colour Picker!Other Additions:"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenTwinGrakatas",
@@ -25451,7 +25460,6 @@
     "type": "Skin",
     "imageName": "uru-sugatra.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 15.13.1",
@@ -25469,7 +25477,8 @@
         "changes": "Akjagara Dual Pistols and Uru Sugatra available now!\nExpressing the martial finesse and skill of its master, the Uru Sugatra complements the Uru Syandana used in the Tenno Absolution Ceremony.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Seer/SeerArmourBody",
@@ -25525,7 +25534,6 @@
     ],
     "imageName": "vahd-cuirass.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.0.9",
@@ -25535,7 +25543,8 @@
         "changes": "",
         "fixes": "Fixed the Ceno Cuirass not having similar build requirements to the Vahd Cuirass."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Seer/SeerArmourLegs",
@@ -25591,7 +25600,6 @@
     ],
     "imageName": "vahd-greaves.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.8.1",
@@ -25610,7 +25618,8 @@
         "changes": "",
         "fixes": "Fixed Operator Vahd Greaves overlapping with other styles of Operator suit causing it to clip. "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Seer/SeerArmourHead",
@@ -25731,7 +25740,6 @@
     "type": "Skin",
     "imageName": "vala-sugatra-prime.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Prime Vault Hotfix 23.1.2!",
@@ -25774,7 +25782,8 @@
         "changes": "Modify your Warframe with Targis Prime Armor and the Vala Sugatra Prime. Add Exclusive Nyx Prime Avatars to your online presence! Speed up your in-game progress with 90-Day Affinity and Credit Boosters.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerValItemA",
@@ -25783,7 +25792,6 @@
     "type": "Misc",
     "imageName": "valentine.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 15.14.1",
@@ -25809,7 +25817,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Berserker/UnlockBerserkerAgile",
@@ -25910,7 +25919,6 @@
     "type": "Skin",
     "imageName": "valkyr-delusion-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.2.0",
@@ -25929,7 +25937,8 @@
         "changes": "Valkyr Delusion Skin by prosetisen",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Berserker/BerserkerDeluxeSuit",
@@ -25938,7 +25947,6 @@
     "type": "Skin",
     "imageName": "valkyr-gersemi-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.10.0",
@@ -25949,7 +25957,8 @@
         "changes": "",
         "fixes": "Fixed the Cryona Syandana sitting too high on Valkyr, Valkyr Prime, and Valkyr Gersemi Skin."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Berserker/SWRFourValkyrGraxxHelmet",
@@ -26086,7 +26095,6 @@
     "type": "Skin",
     "imageName": "vasa-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -26097,7 +26105,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenVasto",
@@ -26361,7 +26370,6 @@
     "type": "Skin",
     "imageName": "vauban-suppressor-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Glast Gambit: Hotfix 19.11.2",
@@ -26371,7 +26379,8 @@
         "changes": "",
         "fixes": "Fixed a seam/texture issue on the Vauban Suppressor Skin. "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorPrimeTraderMundaneA",
@@ -26506,7 +26515,6 @@
     "type": "Skin",
     "imageName": "volt-arrester-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Chains of Harrow: Update 21.2.0 + 21.2.0.1",
@@ -26517,7 +26525,8 @@
         "changes": "Tweaked the Volt Arrester Helmet tintmask.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Volt/SWCapacitorHelmet",
@@ -26535,7 +26544,6 @@
     "type": "Skin",
     "imageName": "volt-capacitor-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia’s Anthem: Update 20.5.0",
@@ -26546,7 +26554,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Volt/SWFulgursorHelmet",
@@ -26564,7 +26573,6 @@
     "type": "Skin",
     "imageName": "volt-fulgursor-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.19.0",
@@ -26575,7 +26583,8 @@
         "changes": "Volt Fulgursor Skin by Vulbjorn, the graphical walrus.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Volt/SWRFourVoltGraxxHelmet",
@@ -26611,7 +26620,6 @@
     "type": "Skin",
     "imageName": "volt-immortal-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 18.4.13",
@@ -26622,7 +26630,8 @@
         "changes": "",
         "fixes": "Fixed Volt Prime becoming jet black when equipped with the Volt Immortal Skin."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Volt/UnlockVoltNoble",
@@ -26649,7 +26658,6 @@
     "type": "Skin",
     "imageName": "volt-proto-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.5.1",
@@ -26668,7 +26676,8 @@
         "changes": "",
         "fixes": "Charge up Volt with this collection of items that includes the Volt Proto Skin, Diode Hammer Skin, and Cathode Syandana."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Volt/VoltHelmetAltBStatless",
@@ -26768,7 +26777,6 @@
     "type": "Skin",
     "imageName": "volt-zener-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia’s Anthem: Update 20.5.0",
@@ -26779,7 +26787,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Camo/VulkarCamo",
@@ -26918,7 +26927,6 @@
     ],
     "imageName": "wukong-macak-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia’s Anthem: Hotfix 20.4.3+20.4.3.1",
@@ -26928,7 +26936,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/MonkeyKing/SWRFiveWukongXingzheHelmet",
@@ -26946,7 +26955,6 @@
     "type": "Misc",
     "imageName": "wyrmius.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.4.0",
@@ -27047,7 +27055,8 @@
         "changes": "Wyrmius, the most anticipated Warframe-themed; side-scrolling mini game of the year is here!",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/Armor/CatbrowArmorHalloweenA",
@@ -27065,7 +27074,6 @@
     "type": "Skin",
     "imageName": "xiphos-kuva-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The War Within: Hotfix 19.0.2",
@@ -27075,7 +27083,8 @@
         "changes": "",
         "fixes": "Fixed not being able to purchase the Xiphos Kuva Skin."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWZaikhyaScarf",
@@ -27084,7 +27093,6 @@
     "type": "Skin",
     "imageName": "zaikhya-syandana.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.6",
@@ -27122,7 +27130,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/SummerSolstice/SummerSolsticeZarr",
@@ -27131,7 +27140,6 @@
     "type": "Skin",
     "imageName": "zarr-towsun-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.5",
@@ -27141,7 +27149,8 @@
         "changes": "",
         "fixes": "Fixed the Zarr Towsun Skin not properly apply to the \"dangles\" on the front of the weapon."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Mage/MageArmourBody",
@@ -27475,7 +27484,6 @@
     "type": "Skin",
     "imageName": "zephyr-migisi-helmet.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 21: Chains of Harrow",
@@ -27486,7 +27494,8 @@
         "changes": "",
         "fixes": "Fixed a typo on Zephyr Migisi Helmet description."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Tengu/SWRThreeMonsoonHelmet",
@@ -27540,7 +27549,6 @@
     "type": "Skin",
     "imageName": "zephyr-strafe-skin.png",
     "category": "Skins",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.1.0: TennoGen Round 13",
@@ -27551,7 +27559,8 @@
         "changes": "Zephyr Strafe Skin by prosetisen",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Tengu/TenguAltBHelmet",

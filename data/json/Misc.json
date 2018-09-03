@@ -39,7 +39,6 @@
     "type": "Misc",
     "imageName": "alloy-plate.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 18.4.3",
@@ -57,7 +56,8 @@
         "changes": "",
         "fixes": "Increased the drop rate for Control Modules, Alloy Plate, Neural Sensors, and Gallium."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/AlphaCorruptorResource",
@@ -129,7 +129,6 @@
     "type": "Misc",
     "imageName": "antiserum-injector-fragment.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Glast Gambit: Hotfix 19.5.1 + 19.5.2",
@@ -139,7 +138,8 @@
         "changes": "Reduced value of Antiserum Injector Fragments from 25 to 5 credits.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/ShipFeatureItems/EidolonArchwingFoundryUpgradeFeatureItem",
@@ -157,7 +157,7 @@
         "name": "Blueprint",
         "description": "Adds the Archwing Launcher to the foundry",
         "itemCount": 1,
-        "tradable": false,
+        "tradable": true,
         "imageName": "blueprint.png"
       },
       {
@@ -187,7 +187,6 @@
     ],
     "imageName": "archwing-launcher-segment.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.0.2",
@@ -197,7 +196,8 @@
         "changes": "",
         "fixes": "Fixed the Archwing Launcher Segment not being Chat linkable."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
@@ -206,7 +206,6 @@
     "type": "Misc",
     "imageName": "argon-crystal.png",
     "category": "Misc",
-    "tradable": false,
     "drops": [
       {
         "location": "Corrupted Vor 100.00",
@@ -573,7 +572,8 @@
         "changes": "Removed Gallium from the Void (replaced with Argon Crystal).",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/ShipFeatureItems/ArsenalFeatureItem",
@@ -582,7 +582,6 @@
     "type": "Extractor",
     "imageName": "arsenal-segment.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Glast Gambit: Hotfix 19.8.1",
@@ -602,7 +601,8 @@
         "changes": "",
         "fixes": "Fixed a rare issue of not receiving the Arsenal Segment after completing Vor’s Prize."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/FusionTreasures/OroFusexF",
@@ -611,7 +611,6 @@
     "type": "Misc",
     "imageName": "ayatan-anasa-sculpture.png",
     "category": "Misc",
-    "tradable": false,
     "drops": [
       {
         "location": "Ayatan Anasa Sculpture Uncommon",
@@ -619,7 +618,8 @@
         "rarity": "Uncommon",
         "chance": 0.28
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/FusionTreasures/OroFusexB",
@@ -637,7 +637,6 @@
     "type": "Misc",
     "imageName": "ayatan-orta-sculpture.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Silver Grove: U3.2",
@@ -647,7 +646,8 @@
         "changes": "",
         "fixes": "Fixed not being able to remove the Ayatan Sah Sculpture and Ayatan Orta Sculpture once placed."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/FusionTreasures/OroFusexE",
@@ -665,7 +665,6 @@
     "type": "Misc",
     "imageName": "ayatan-sah-sculpture.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Silver Grove: U3.2",
@@ -675,7 +674,8 @@
         "changes": "",
         "fixes": "Fixed not being able to remove the Ayatan Sah Sculpture and Ayatan Orta Sculpture once placed."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/FusionTreasures/OroFusexG",
@@ -684,7 +684,6 @@
     "type": "Misc",
     "imageName": "ayatan-valana-sculpture.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Hotfix 22.17.1 - 22.17.1.1",
@@ -695,7 +694,8 @@
         "changes": "",
         "fixes": "Fixed the Ayatan Valana Sculpture not being centered properly on the screen."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/FusionTreasures/OroFusexD",
@@ -767,7 +767,6 @@
     ],
     "imageName": "balla.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23",
@@ -786,7 +785,8 @@
         "changes": "Reduced the Resource costs for all Zaw Grips and Handles (apart from the Balla and Peye). ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/BetaCorruptorResource",
@@ -813,7 +813,6 @@
     "type": "Misc",
     "imageName": "breath-of-the-eidolon.png",
     "category": "Misc",
-    "tradable": false,
     "drops": [
       {
         "location": "Saturn - Variant",
@@ -822,7 +821,8 @@
         "chance": 0.0067,
         "rotation": "Annihilation"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/SentientShards/SentientShardBrilliantItem",
@@ -831,7 +831,6 @@
     "type": "Eidolon Shard",
     "imageName": "brilliant-eidolon-shard.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Update 22.12.0",
@@ -865,7 +864,8 @@
         "changes": "Added the option to redeem Brilliant Eidolon Shards for 25,000 focus each. Redeem for the school of your choice in the appropriate skill tree!",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropOstBirdCage",
@@ -957,7 +957,6 @@
     "type": "Misc",
     "imageName": "chitinous-husk.png",
     "category": "Misc",
-    "tradable": false,
     "drops": [
       {
         "location": "Juggernaut 100.00",
@@ -977,7 +976,8 @@
         "rarity": "Uncommon",
         "chance": 0.25
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
@@ -986,7 +986,6 @@
     "type": "Misc",
     "imageName": "circuits.png",
     "category": "Misc",
-    "tradable": false,
     "drops": [
       {
         "location": "Turret 100.00",
@@ -1046,7 +1045,8 @@
         "changes": "",
         "fixes": "Systems BP 500 Plastids is now 300 Circuits."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "name": "Clapkra Brace",
@@ -1100,7 +1100,6 @@
     ],
     "imageName": "clapkra-brace.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.8.3",
@@ -1118,7 +1117,8 @@
         "changes": "Clapkra Brace energy ammo increased from 20 to 40",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
@@ -1174,7 +1174,6 @@
     ],
     "imageName": "control-module.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Hotfix 22.20.7",
@@ -1209,7 +1208,8 @@
         "changes": "",
         "fixes": "Increased the drop rate for Control Modules, Alloy Plate, Neural Sensors, and Gallium."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/LibraryScannerDoubleScanUpgrade",
@@ -1227,7 +1227,6 @@
     "type": "Misc",
     "imageName": "cryotic.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Update 22.14.0",
@@ -1361,7 +1360,8 @@
         "changes": "You see, I have an appetite for the rare and extraordinary and I’ve recently learned of a fine substance known as Cryotic. If you are willing, I will supply the necessary equipment and coordinates for its extraction. In return, I will enlighten you with what I know about technology that could defeat this Balor threat.\nUsually found in extreme sub-zero environments, Cryotic instantly freezes anything it comes in contact with.\nOperation Cryotic Front is the first introduction of a new mission type that will replace all Survival missions that take place on a terrestrial tileset.\nThis Operation introduces Cryotic, a new resource that will only be available in the Excavation game mode.\nWith each successful dig, you will receive an amount of Cryotic based on your performance (100 max.) The more Cryotic you earn, the better the Reward – so dig on!",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/RazorbackCipherPart",
@@ -1379,7 +1379,6 @@
     "type": "Fish Part",
     "imageName": "cuthol-tendrils.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -1389,7 +1388,8 @@
         "changes": "GLAPPID BAIT: Cuthol Tendrils = 10 to 5",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/NightRareFishBTrophy",
@@ -1508,7 +1508,6 @@
     ],
     "imageName": "cyath.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 15.13",
@@ -1518,7 +1517,8 @@
         "changes": "Cyath, Gnathos",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/LibraryScannerEnemyWeaknessUpgrade",
@@ -1545,7 +1545,6 @@
     "type": "Extractor",
     "imageName": "dax-portrait.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.6",
@@ -1556,7 +1555,8 @@
         "changes": "",
         "fixes": "Fixed the Dax Portrait not snapping properly to walls like a good portrait should."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/SteelMeridianUncommonDogTag",
@@ -1637,7 +1637,6 @@
     "type": "Misc",
     "imageName": "delta-beacon.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 14.0.8",
@@ -1655,7 +1654,8 @@
         "changes": "",
         "fixes": "The drop rates on Beacons have been adjusted. Delta Beacons are now less rare, with the Kappa and Gamma Beacon drop rates being slightly reduced."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Tennocon2018Display",
@@ -1711,7 +1711,6 @@
     ],
     "imageName": "distilling-extractor.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Prime Vault Hotfix 23.1.2!",
@@ -1729,7 +1728,8 @@
         "changes": "",
         "fixes": "Fixed Regular Distilling Extractor not appearing in market for crafting.\nFixed missing Loc strings for the Distilling Extractor."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Ship/AdvancedUcResourceDrone",
@@ -1776,7 +1776,6 @@
     ],
     "imageName": "distilling-extractor-prime.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Prime Vault Hotfix 23.1.2!",
@@ -1786,7 +1785,8 @@
         "changes": "",
         "fixes": "Distilling Extractor Prime + Blueprint\nDistilling Extractor Prime + BP\nDistilling Extractor Prime + Blueprint"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "name": "Dokrahm",
@@ -1840,7 +1840,6 @@
     ],
     "imageName": "dokrahm.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.20.0",
@@ -1851,7 +1850,8 @@
         "changes": "",
         "fixes": "Fixed being unable to Chat link Dokrahm, Rabvee or Sephfan Zaws."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/FocusLensOstron",
@@ -1929,7 +1929,6 @@
     ],
     "imageName": "eidolon-lens.png",
     "category": "Misc",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Update 22.17.0 + 22.17.0.1",
@@ -1974,7 +1973,8 @@
         "changes": "",
         "fixes": "Fixed getting an ‘unknown error’ when claiming an Eidolon Lens."
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Upgrades/Focus/AttackLensOstron",
@@ -2079,7 +2079,6 @@
     "type": "Eidolon Shard",
     "imageName": "eidolon-shard.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Hotfix 22.18.1",
@@ -2155,7 +2154,8 @@
         "changes": "Several reduced to 3 Eidolon Shards instead of 5.\nVoid Shadow no longer costs 40 Eidolon Shards to craft.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Focus/WardLensOstron",
@@ -2743,7 +2743,6 @@
     ],
     "imageName": "exilus-adapter.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.8.3",
@@ -2795,7 +2794,8 @@
         "changes": "Removed the Exilus Adapter Blueprint from Simaris, Natah Quest completion is now required to unlock this.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
@@ -2804,7 +2804,6 @@
     "type": "Misc",
     "imageName": "ferrite.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.2.0",
@@ -2831,7 +2830,8 @@
         "changes": "",
         "fixes": "Reduced cost of Team Totem blueprints, also changed resource requirements to Ferrite and Salvage only"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -2840,7 +2840,6 @@
     "type": "Fish Part",
     "imageName": "fish-meat.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -2850,7 +2849,8 @@
         "changes": "MURKRAY BAIT: Fish Meat = 40 to 20\nGLAPPID BAIT: Fish Meat = 60 to 10\nNORG BAIT: Fish Meat = 40 to 20\nCUTHOL BAIT: Fish Meat = 40 to 20",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
@@ -2859,7 +2859,6 @@
     "type": "Fish Part",
     "imageName": "fish-oil.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -2877,7 +2876,8 @@
         "changes": "150 Fish Oil to 50 Fish Oil",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
@@ -2886,7 +2886,6 @@
     "type": "Fish Part",
     "imageName": "fish-scales.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -2896,7 +2895,8 @@
         "changes": "MAGUS HUSK: Fish Scales  = 40 to 20\nVIRTUOS TEMPO: Fish Scales  = 40 to 20\nMAGUS VIGOR: Fish Scales  = 40 to 20\nVIRTUOS NULL: Fish Scales  = 40 to 20\nALL OPERATOR ARM ARMOR: Fish Scales = 50 to 30\nALL OPERATOR BODY ARMOR: Fish Scales = 80 to 50 (ZAUBA CUIRASS: Fish Scales = 400 to 50)\nALL OPERATOR LEGS ARMOR: Fish Scales = 50 to 30\nALL OPERATOR HELMETS: Fish Scales = 30 to 10",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/NewLokaRareDogTag",
@@ -5553,7 +5553,6 @@
     ],
     "imageName": "forma.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.2.0",
@@ -5798,7 +5797,8 @@
         "changes": "",
         "fixes": "Fixed issue where Login Rewards (including Forma) were not being obtained."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
@@ -5854,7 +5854,6 @@
     ],
     "imageName": "gallium.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.10.0",
@@ -5906,7 +5905,8 @@
         "changes": "",
         "fixes": "Increased the drop rate for Control Modules, Alloy Plate, Neural Sensors, and Gallium."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/VayHekCoordinateFragmentB",
@@ -5915,7 +5915,6 @@
     "type": "Misc",
     "imageName": "gamma-beacon.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "13.9.0 + 13.9.0.1: The Venka",
@@ -5925,7 +5924,8 @@
         "changes": "",
         "fixes": "The drop rates on Beacons have been adjusted. Delta Beacons are now less rare, with the Kappa and Gamma Beacon drop rates being slightly reduced."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/SteelMeridianRareDogTag",
@@ -6017,7 +6017,6 @@
     "type": "Fish Part",
     "imageName": "goopolla-spleen.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -6027,7 +6026,8 @@
         "changes": "CUTHOL BAIT: Goopolla Spleen = 20 to 10\nEKWANA JAI: Goopolla Spleen = 10 to 5\nVARGEET JAI: Goopolla Spleen = 10 to 5",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/BothCommonFishBTrophy",
@@ -6137,7 +6137,6 @@
     ],
     "imageName": "granmu-prism.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.4.0",
@@ -6172,7 +6171,8 @@
         "changes": "",
         "fixes": "Fixed being able to fire the Granmu Prism faster than intended by using Void Blast cancels."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/FocusLensGreater",
@@ -6181,7 +6181,6 @@
     "type": "Focus Lens",
     "imageName": "greater-focus-lens.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 18.0.6 + 18.0.6.1 ",
@@ -6199,7 +6198,8 @@
         "changes": "",
         "fixes": "Fixed Focus Lens and Greater Focus Lens descriptions reference ‘ways’ instead of ‘paths’ in terms of the Focus followed."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Focus/AttackLensGreater",
@@ -6515,7 +6515,6 @@
     "type": "Misc",
     "imageName": "infected-palpators.png",
     "category": "Misc",
-    "tradable": false,
     "drops": [
       {
         "location": "Juggernaut 100.00",
@@ -6535,7 +6534,8 @@
         "rarity": "Uncommon",
         "chance": 0.25
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/SteelMeridianDogTag",
@@ -6814,7 +6814,6 @@
     "type": "Misc",
     "imageName": "kappa-beacon.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 14.0.8",
@@ -6824,7 +6823,8 @@
         "changes": "",
         "fixes": "Changes in location of Prosecutors is live on Ceres, this was not explicitly called out in full on Update 14 but has been live since then. Endless mission types like Survival and Defense will now guarantee you Delta Beacons. Gamma, Omega, and Kappa Beacons can be found on Prosecutors on the non-endless mission types."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishBPartItem",
@@ -6833,7 +6833,6 @@
     "type": "Fish Part",
     "imageName": "karkina-antenna.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -6843,7 +6842,8 @@
         "changes": "EXODIA FORCE: Karkina Antenna = 10 to 5\nMURKRAY BAIT: Karkina Antenna = 20 to 10\nNORG BAIT: Karkina Antenna = 10 to 5",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/BothUncommonFishBTrophy",
@@ -6908,7 +6908,6 @@
     "type": "Extractor",
     "imageName": "kavat-incubator-upgrade-segment.png",
     "category": "Misc",
-    "tradable": false,
     "drops": [
       {
         "location": "Hyekka Master 1.50 1.50",
@@ -6934,7 +6933,8 @@
         "rarity": "Common",
         "chance": 1
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/DayCommonFishBTrophy",
@@ -7053,7 +7053,6 @@
     ],
     "imageName": "klebrik-scaffold.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.4.0",
@@ -7072,7 +7071,8 @@
         "changes": "",
         "fixes": "Fixed the Operator Amp Energy Regeneration rate being much faster for Clients when using an Amp that has the Klebrik Scaffold."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "name": "Korb",
@@ -7126,7 +7126,6 @@
     ],
     "imageName": "korb.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.19.0",
@@ -7137,7 +7136,8 @@
         "changes": "Zaw Strikes Sepfahn, Rabvee, Dokram and handles Korb and Shtung now have a chance to be used in Hok's Daily Specials.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "name": "Kronsh",
@@ -7200,7 +7200,6 @@
     ],
     "imageName": "kronsh.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.2.0",
@@ -7211,7 +7210,8 @@
         "changes": "Kronsh base damage increased from 81 to 86.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "name": "Kroostra",
@@ -7274,7 +7274,6 @@
     ],
     "imageName": "kroostra.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.2.0",
@@ -7285,7 +7284,8 @@
         "changes": "Kroostra additional damage increased from 9 to 14.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/Kuva",
@@ -7294,7 +7294,6 @@
     "type": "Misc",
     "imageName": "kuva.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.4.0",
@@ -7763,7 +7762,8 @@
         "changes": "This chapter tells a story of your patience, our gratitude, and of course some wonderful evolution for the game. We're introducing an awe inspiring and dangerous environment: the Kuva Fortress. We're pushing our engine technology to bring you graphic improvements. We're bringing you a story about your past.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "name": "Kwath",
@@ -7826,7 +7826,6 @@
     ],
     "imageName": "kwath.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.10.0",
@@ -7846,7 +7845,8 @@
         "changes": "Kwath additional damage increased from 9 to 14.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "name": "Laka",
@@ -7918,7 +7918,6 @@
     "type": "Extractor",
     "imageName": "landing-craft-foundry-segment.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.9.0",
@@ -7929,7 +7928,8 @@
         "changes": "",
         "fixes": "Fixed not being able to Chat link the \"Landing Craft Foundry Segment\" and the \"Nutrio Incubator Upgrade Segment\"."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/ArbitersUncommonDogTag",
@@ -7947,7 +7947,6 @@
     "type": "Misc",
     "imageName": "lephantis-nav-coordinate.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 16.4",
@@ -7957,7 +7956,8 @@
         "changes": "",
         "fixes": "Fixed localization descriptions on Lephantis Nav Coordinates, they now refer to Lephantis instead of Golem."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "name": "Lohrin Brace",
@@ -8011,7 +8011,6 @@
     ],
     "imageName": "lohrin-brace.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.6.1",
@@ -8029,7 +8028,8 @@
         "changes": "Lohrin Brace now boosts critical and status chance by 12% each.",
         "fixes": "Fixed an issue with the Lohrin Brace not applying its Upgrades to Amps. "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/Arcade",
@@ -8038,7 +8038,6 @@
     "type": "Extractor",
     "imageName": "ludoplex.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.4.0",
@@ -8049,7 +8048,8 @@
         "changes": "Visit Simaris and acquire the Ludoplex -",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Focus/AttackLens",
@@ -8058,7 +8058,6 @@
     "type": "Focus Lens",
     "imageName": "madurai-lens.png",
     "category": "Misc",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 30 - 50 Bounty",
@@ -8096,7 +8095,8 @@
         "rarity": "Rare",
         "chance": 0.0825
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Keys/BardQuest/BardQuestSequencerItem",
@@ -8128,7 +8128,6 @@
     ],
     "imageName": "mandachord.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.1.1",
@@ -8331,7 +8330,8 @@
         "changes": "Do you hear the music, Tenno? Faint memories of the Mandachord orchestra linger, and Suda wishes you follow it. Do as the Cephalon requests and be rewarded knowledge of an instrument from another time, the Mandachord. But, take caution... following her instructions may lead you down a twisted path...\nCompose her song and then conduct the mighty Mandachord, turning bass, beat and melody into an anthem of devastation.\nConduct your very own symphony, Tenno. Octavia’s abilities are powered by the Mandachord, a formidable tool used to mix Melody, Bass, and Percussion into a harmony of destruction. Compose a song before entering the battle by going to your Arsenal, selecting the Appearance tab, and hitting the “Mandachord” button.\nIn this guide, we will be using the Adau Instruments to get you started on composition since they are the default Mandachord Instruments. There are also 4 other Instruments available in the Market for Platinum if you own Octavia:\nUse “Load Song” to select one of your custom songs or one of the default Instrument songs to load into the Mandachord.\nOnce you have selected a song to share, a link with its title will appear in chat for others to save. Clicking on a song link will give you the following instructions on how to load the song into your own Mandachord:",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/RedVeilDogTag",
@@ -8340,7 +8340,6 @@
     "type": "Medallion",
     "imageName": "mark.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.2.0",
@@ -9811,7 +9810,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayCommonFishAPartItem",
@@ -9820,7 +9820,6 @@
     "type": "Fish Part",
     "imageName": "mawfish-bones.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -9830,7 +9829,8 @@
         "changes": "RUHANG: Mawfish Bones = 20 to 5",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/DayCommonFishATrophy",
@@ -9904,7 +9904,6 @@
     "type": "Medallion",
     "imageName": "medallion.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23",
@@ -10223,7 +10222,8 @@
         "changes": "",
         "fixes": "Syndicate rooms each have a special representative that collects Medallions, a new Currency for earning Standing.\nMedallions are now available on Syndicate Missions.  Medallions act like their own currency, similar to Credits.  Each Syndicate’s Medallion may have their own unique look, but regardless of their appearance all Medallions count toward the same currency pool: Standing!\nWhen you’re ready to turn in Medallions simply head to your Tenno Relay of choice, visit your Syndicate trader and select how many you wish to turn in.  Different ranks of Medallions can provide greater Standing than others; so keep an eye out for Medallions and plan ahead when you spend them, Tenno."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "name": "Mewan",
@@ -10286,7 +10286,6 @@
     ],
     "imageName": "mewan.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.2.0",
@@ -10297,7 +10296,8 @@
         "changes": "Mewan base damage increased from 81 to 86.",
         "fixes": "Mewan's base Status Chance change from 22% to 18% as intended."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/ShipFeatureItems/ModsFusionFeatureItem",
@@ -10371,7 +10371,6 @@
     ],
     "imageName": "morphics.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Hotfix 22.20.7",
@@ -10398,7 +10397,8 @@
         "changes": "",
         "fixes": "Reduced the Morphic cost of the AkZani from 200 Morphics to 2."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayUncommonFishBPartItem",
@@ -10407,7 +10407,6 @@
     "type": "Fish Part",
     "imageName": "mortus-horn.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -10417,7 +10416,8 @@
         "changes": "EXODIA TRIUMPH: Mortus Horn = 10 to 5\nMURKRAY BAIT: Mortus Horn = 10 to 5\nEKWANA II JAI: Mortus Horn = 10 to 5\nVARGEET II JAI: Mortus Horn = 10 to 5",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/DayUncommonFishBTrophy",
@@ -10490,7 +10490,6 @@
     "type": "Fish Part",
     "imageName": "murkray-liver.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -10500,7 +10499,8 @@
         "changes": "CUTHOL BAIT: Murkray Liver = 10 to 5",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/BothRareFishATrophy",
@@ -10565,7 +10565,6 @@
     "type": "Misc",
     "imageName": "mutalist-alad-v-nav-coordinate.png",
     "category": "Misc",
-    "tradable": false,
     "drops": [
       {
         "location": "Derelict - Orokin",
@@ -10645,7 +10644,8 @@
         "changes": "Renamed Infested Alad V Nav Coordinate to Mutalist Alad V Nav Coordinate.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
@@ -10654,7 +10654,6 @@
     "type": "Misc",
     "imageName": "nano-spores.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 15.8.0",
@@ -10664,7 +10663,8 @@
         "changes": "",
         "fixes": "You will receive a Blueprint from the Lotus for the Fomorian Disruptor. It will require Nano Spores, Cryotic, and Omega Isotopes to craft."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Focus/TacticLens",
@@ -10673,7 +10673,6 @@
     "type": "Focus Lens",
     "imageName": "naramon-lens.png",
     "category": "Misc",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 20 - 40 Bounty",
@@ -10711,7 +10710,8 @@
         "rarity": "Rare",
         "chance": 0.0816
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/NavCode",
@@ -10720,7 +10720,6 @@
     "type": "Misc",
     "imageName": "nav-coordinate.png",
     "category": "Misc",
-    "tradable": false,
     "drops": [
       {
         "location": "Drahk 25.00",
@@ -10786,7 +10785,8 @@
         "changes": "",
         "fixes": "Fixed an issue with Nav Coordinate Icons appearing stretched in the Foundry."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/NeuralSensor",
@@ -10834,7 +10834,6 @@
     ],
     "imageName": "neural-sensors.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 19.13.0",
@@ -10885,7 +10884,8 @@
         "changes": "",
         "fixes": "Increased the drop rate for Control Modules, Alloy Plate, Neural Sensors, and Gallium."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
@@ -10933,7 +10933,6 @@
     ],
     "imageName": "neurodes.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Hotfix 22.20.7",
@@ -10983,7 +10982,8 @@
         "changes": "",
         "fixes": "Fixed descriptions of Neurodes and Neural Sensors"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
@@ -10992,7 +10992,6 @@
     "type": "Misc",
     "imageName": "nitain-extract.png",
     "category": "Misc",
-    "tradable": false,
     "drops": [
       {
         "location": "Level 40 - 50 Ghoul Bounty",
@@ -11155,7 +11154,8 @@
         "changes": "Nitain Extract:  Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.  Locations of Nitain Extract will be made available through your Landing Craft’s navigation Alerts.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/BaroKiTeerBobbleHead",
@@ -11173,7 +11173,6 @@
     "type": "Fish Part",
     "imageName": "norg-brain.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -11183,7 +11182,8 @@
         "changes": "GLAPPID BAIT: Norg Brain = 10 to 5",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/NightRareFishATrophy",
@@ -11248,7 +11248,6 @@
     "type": "Extractor",
     "imageName": "nutrio-incubator-upgrade-segment.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.9.0",
@@ -11259,7 +11258,8 @@
         "changes": "",
         "fixes": "Fixed not being able to Chat link the \"Landing Craft Foundry Segment\" and the \"Nutrio Incubator Upgrade Segment\"."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/VayHekCoordinateFragmentD",
@@ -11277,7 +11277,6 @@
     "type": "Misc",
     "imageName": "omega-isotope.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 18.5: Sands of Inaros",
@@ -11296,7 +11295,8 @@
         "changes": "",
         "fixes": "Take note Tenno, the Disruptor is forged using recently discovered Omega Isotopes. These are a by-product of a Fomorian’s core and will only appear in and around planets with a Fomorian present.\nYou will receive a Blueprint from the Lotus for the Fomorian Disruptor. It will require Nano Spores, Cryotic, and Omega Isotopes to craft.\nOmega Isotopes: Produced by a Fomorian’s power core, these particles only appear on planets where a Fomorian is present.  Omega Isotopes can only be obtained in non-Archwing missions where a Fomorian vessel is present."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "name": "Ooltha",
@@ -11359,7 +11359,6 @@
     ],
     "imageName": "ooltha.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.2.0",
@@ -11370,7 +11369,8 @@
         "changes": "",
         "fixes": "Ooltha's base Critical Chance changed from 22% to 18% as intended."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/ArchWingNavCode",
@@ -11379,7 +11379,7 @@
     "type": "Misc",
     "imageName": "orokin-archive.png",
     "category": "Misc",
-    "tradable": false
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCatalyst",
@@ -11443,7 +11443,6 @@
     ],
     "imageName": "orokin-catalyst.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Update 22.12.0",
@@ -11502,7 +11501,8 @@
         "changes": "",
         "fixes": "Fixed an issue with Orokin Catalysts/Reactors not being purchasable directly through the Upgrade screen."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
@@ -11550,7 +11550,6 @@
     ],
     "imageName": "orokin-cell.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.5",
@@ -11667,7 +11666,8 @@
         "changes": "",
         "fixes": "Text corrections for Orokin Cells, Dread, Despair & Hate ."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/MirageCode",
@@ -11676,7 +11676,6 @@
     "type": "Misc",
     "imageName": "orokin-cipher.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.4",
@@ -11704,7 +11703,8 @@
         "changes": "",
         "fixes": "•    Fixed players not receiving Orokin Ciphers or Corrupted Mods after completing the Derelict Survival Vault and surviving 10+ minutes. "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/PrimeBucks",
@@ -11713,7 +11713,6 @@
     "type": "Misc",
     "imageName": "orokin-ducats.png",
     "category": "Misc",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Update 15.6.0",
@@ -11723,7 +11722,8 @@
         "changes": "",
         "fixes": "Players can trade in unused Prime parts for Orokin Ducats, the only currency that Baro Ki’Teer accepts.\nOrokin Ducats can be traded to Baro Ki’Teer alongside a sum of credits for unique Mods, weapons, and cosmetic items."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinReactor",
@@ -11787,7 +11787,6 @@
     ],
     "imageName": "orokin-reactor.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The War Within: 19.1.0 Ash Revisited",
@@ -11839,7 +11838,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
@@ -11848,7 +11848,6 @@
     "type": "Misc",
     "imageName": "oxium.png",
     "category": "Misc",
-    "tradable": false,
     "drops": [
       {
         "location": "Oxium Osprey 100.00",
@@ -11984,7 +11983,8 @@
         "changes": "Clicking on \"Oxium Espionage\" under the Operations panel will now open your web browser to a page detailing the Operation.",
         "fixes": "Fixed Oxium collected during Defense missions not counting towards Operation Oxium Epsionage progress if the mission failed after reaching a checkpoint.\nFixed Oxium description appearing as a file-path in the foundry."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/PerrinRareDogTag",
@@ -12002,7 +12002,6 @@
     "type": "Extractor",
     "imageName": "pedestal-prime.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.10.0",
@@ -12021,7 +12020,8 @@
         "changes": "Tweaked the energy effect on Pedestal Prime.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "name": "Pencha Scaffold",
@@ -12075,7 +12075,6 @@
     ],
     "imageName": "pencha-scaffold.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.4.0",
@@ -12086,7 +12085,8 @@
         "changes": "Pencha Scaffold:",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/ShipFeatureItems/PersonalQuartersFeatureItem",
@@ -12142,7 +12142,6 @@
     ],
     "imageName": "personal-quarters-segment.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.8.0 + Hotfix 22.8.0.1",
@@ -12153,7 +12152,8 @@
         "changes": "",
         "fixes": "To receive the new Personal Quarters Segment Blueprint, you must complete The War Within. Players who have already completed the quest will receive the Blueprint automatically in their inbox."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "name": "Peye",
@@ -12216,7 +12216,6 @@
     ],
     "imageName": "peye.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.1.0",
@@ -12226,7 +12225,8 @@
         "changes": "Reduced the Resource costs for all Zaw Grips and Handles (apart from the Balla and Peye). ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "name": "Phahd Scaffold",
@@ -12280,7 +12280,6 @@
     ],
     "imageName": "phahd-scaffold.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Mask of the Revenant: Update 23.5.0",
@@ -12299,7 +12298,8 @@
         "changes": "Fixed the Phahd Scaffold projectiles not passing through Volt’s Electric Shield.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "name": "Plague Akwin",
@@ -12461,7 +12461,6 @@
     ],
     "imageName": "plague-keewar.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.4.0",
@@ -12480,7 +12479,8 @@
         "changes": "Adjusted the weapon trail FX on the Plague Keewar.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "name": "Plague Kripath",
@@ -12534,7 +12534,6 @@
     ],
     "imageName": "plague-kripath.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.9.0",
@@ -12553,7 +12552,8 @@
         "changes": "Zaw strike Plague Kripath now uses the default Rapier holster position when used with a one handed Zaw Grip.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
@@ -12562,7 +12562,6 @@
     "type": "Misc",
     "imageName": "plastids.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.2.0",
@@ -12582,7 +12581,8 @@
         "changes": "",
         "fixes": "Systems BP 500 Plastids is now 300 Circuits."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
@@ -12591,7 +12591,6 @@
     "type": "Misc",
     "imageName": "polymer-bundle.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hydroid Prime: Update 21.6.0",
@@ -12602,7 +12601,8 @@
         "changes": "Reduced the Razorback Cipher cost from 3500 Polymer Bundle to 1500 Polymer Bundle. Back in May of this year we made numerous fixes towards the Razorback Armada, and with another Armada to appear soon we took a second look at the Polymer friction involved with this non-useable Blueprint. See here for past fixes you can expect: https://forums.warframe.com/topic/797284-sharpening-our-razorbacks-a-pc-weekend-post-mortem/",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/Beacon",
@@ -12620,7 +12620,6 @@
     "type": "Misc",
     "imageName": "pulsating-tubercles.png",
     "category": "Misc",
-    "tradable": false,
     "drops": [
       {
         "location": "Juggernaut 100.00",
@@ -12640,7 +12639,8 @@
         "rarity": "Uncommon",
         "chance": 0.25
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/PerrinDogTag",
@@ -12703,7 +12703,6 @@
     ],
     "imageName": "rabvee.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.20.0",
@@ -12739,7 +12738,8 @@
         "changes": "",
         "fixes": "Fixed Rabvee playing the wrong hit effect sounds."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/SentientShards/SentientShardBrilliantTierTwoItem",
@@ -12856,7 +12856,6 @@
     ],
     "imageName": "raplak-prism.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.4.0",
@@ -12867,7 +12866,8 @@
         "changes": "Raplak Prism:",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropOstHaulingBalloonD",
@@ -12885,7 +12885,6 @@
     "type": "Misc",
     "imageName": "rubedo.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.10.0",
@@ -12921,7 +12920,8 @@
         "changes": "",
         "fixes": "Fixed Rubedo Skin not working on Rhino Prime."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "name": "Ruhang",
@@ -12984,7 +12984,6 @@
     ],
     "imageName": "ruhang.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.2.0",
@@ -12995,7 +12994,8 @@
         "changes": "Ruhang additional damage increased from 9 to 14.\nRuhang II additional damage increased from 18 to 28.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "name": "Ruhang Ii",
@@ -13067,7 +13067,6 @@
     "type": "Misc",
     "imageName": "salvage.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.4.0",
@@ -13185,7 +13184,8 @@
         "changes": "",
         "fixes": "Reduced cost of Team Totem blueprints, also changed resource requirements to Ferrite and Salvage only"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/NewLokaDogTag",
@@ -13194,7 +13194,6 @@
     "type": "Medallion",
     "imageName": "seed.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 16.7.1",
@@ -13204,7 +13203,8 @@
         "changes": "",
         "fixes": "Tactical Alert: Black Seed Scourge Reward PSA: https://forums.warframe.com/index.php?/topic/469963-psa-tactical-alert-bss-core-rewards"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "name": "Seekalla",
@@ -13321,7 +13321,6 @@
     ],
     "imageName": "sepfahn.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.19.0",
@@ -13340,7 +13339,8 @@
         "changes": "",
         "fixes": "Fixed an issue with Sepfahn Zaw part creating it's Nikana holster when used for a 2 handed grip.\nFixed an issue with the Sepfahn Zaw part making extra cloth dangles when made into a Nikana. "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightLegendaryFishAPartItem",
@@ -13358,7 +13358,6 @@
     "type": "Misc",
     "imageName": "severed-bile-sac.png",
     "category": "Misc",
-    "tradable": false,
     "drops": [
       {
         "location": "Juggernaut 100.00",
@@ -13378,7 +13377,8 @@
         "rarity": "Uncommon",
         "chance": 0.25
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishAPartItem",
@@ -13387,7 +13387,6 @@
     "type": "Fish Part",
     "imageName": "sharrac-teeth.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -13397,7 +13396,8 @@
         "changes": "EXODIA HUNT: Sharrac Teeth = 10 to 5\nNORG BAIT: Sharrac Teeth = 10 to 5\nEKWANA RUHANG: Sharrac Teeth = 10 to 5\nVARGEET RUHANG: Sharrac Teeth = 10 to 5",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/BothUncommonFishATrophy",
@@ -13507,7 +13507,6 @@
     ],
     "imageName": "shraksun-scaffold.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.0.9",
@@ -13517,7 +13516,8 @@
         "changes": "",
         "fixes": "Fixed amps built using Shwaak Prism and Shraksun Scaffold not passing through Volt’s Electric Shield."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "name": "Shtung",
@@ -13571,7 +13571,6 @@
     ],
     "imageName": "shtung.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.19.0",
@@ -13582,7 +13581,8 @@
         "changes": "Zaw Strikes Sepfahn, Rabvee, Dokram and handles Korb and Shtung now have a chance to be used in Hok's Daily Specials.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "name": "Shwaak Prism",
@@ -13636,7 +13636,6 @@
     ],
     "imageName": "shwaak-prism.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.0.9",
@@ -13646,7 +13645,8 @@
         "changes": "",
         "fixes": "Fixed amps built using Shwaak Prism and Shraksun Scaffold not passing through Volt’s Electric Shield."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/DangerRoomKey",
@@ -13655,7 +13655,6 @@
     "type": "Misc",
     "imageName": "simulacrum-access-key.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia's Anthem: Hotfix 20.2.2",
@@ -13665,7 +13664,8 @@
         "changes": "",
         "fixes": "Fixed being able to multi-purchase Syndicate items that don’t need to be purchased more than once (Simulacrum Access Key, etc). "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/LibraryScannerRechargeUpgrade",
@@ -13692,7 +13692,6 @@
     "type": "Eidolon Shard",
     "imageName": "synthetic-eidolon-shard.png",
     "category": "Misc",
-    "tradable": false,
     "drops": [
       {
         "location": "Sanctuary - Elite",
@@ -13708,7 +13707,8 @@
         "chance": 0.1,
         "rotation": "rewards"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/Eventium",
@@ -13717,7 +13717,6 @@
     "type": "Misc",
     "imageName": "synthula.png",
     "category": "Misc",
-    "tradable": false,
     "drops": [
       {
         "location": "Mercury - Apollodorus",
@@ -13928,7 +13927,8 @@
         "changes": "",
         "fixes": "The operation is over but Synthula is here to stay! This new Resource can be found in the same spots and can be used to make Stims for you and your clanmates. Stims can be used on any NPCs in need of your aid "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/Tellurium",
@@ -13937,7 +13937,6 @@
     "type": "Misc",
     "imageName": "tellurium.png",
     "category": "Misc",
-    "tradable": false,
     "drops": [
       {
         "location": "Uranus - Setebos",
@@ -14115,7 +14114,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropOstBlubberPileB",
@@ -14142,7 +14142,6 @@
     "type": "Extractor",
     "imageName": "thousand-year-fish-statuette.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Update 22.16.0",
@@ -14170,7 +14169,8 @@
         "changes": "",
         "fixes": "Fixed some cases where the Thousand-Year Fish Statuette was not awarded after scanning them all. You should now see it in your Inbox/Inventory.  "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Ship/BasicResourceDrone",
@@ -14217,7 +14217,6 @@
     ],
     "imageName": "titan-extractor.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 18.0.4 ",
@@ -14235,7 +14234,8 @@
         "changes": "Titan Extractor pickups now more visible ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Ship/AdvancedResourceDrone",
@@ -14282,7 +14282,6 @@
     ],
     "imageName": "titan-extractor-prime.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 18.0.4 ",
@@ -14292,7 +14291,8 @@
         "changes": "Frost Prime, Titan Extractor Prime, Latron Prime, Reaper Prime and the Misa Prime Syandana will all be available for a limited time through our Prime Access Program.  Additionally, the following drops have been made available in the Void for a limited time:",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayUncommonFishAPartItem",
@@ -14301,7 +14301,6 @@
     "type": "Fish Part",
     "imageName": "tralok-eyes.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -14311,7 +14310,8 @@
         "changes": "EXODIA MIGHT: Tralok Eyes = 40 to 5\nMURKRAY BAIT: Tralok Eyes = 10 to 5\nEKWANA II RUHANG: Tralok Eyes = 10 to 5\nVARGEET II RUHANG: Tralok Eyes = 10 to 5",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/DayUncommonFishATrophy",
@@ -14376,7 +14376,6 @@
     "type": "Focus Lens",
     "imageName": "unairu-lens.png",
     "category": "Misc",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 20 - 40 Bounty",
@@ -14414,7 +14413,8 @@
         "rarity": "Rare",
         "chance": 0.0833
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "name": "Vargeet Ii Jai",
@@ -14810,7 +14810,6 @@
     "type": "Focus Lens",
     "imageName": "vazarin-lens.png",
     "category": "Misc",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 20 - 40 Bounty",
@@ -14848,7 +14847,8 @@
         "rarity": "Rare",
         "chance": 0.0833
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/LibraryScannerScanSpeedUpgrade",
@@ -14866,7 +14866,6 @@
     "type": "Misc",
     "imageName": "void-traces.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.1.1",
@@ -14926,7 +14925,8 @@
         "changes": "",
         "fixes": "Void Traces: Raw Void energy that drops in the process of uniting Relics and Fissures. Can be used to Refine Void Relics to yield more rare rewards in your Orbiter.\nEXCEPTIONAL = 25 Void Traces\nFLAWLESS = 50 Void Traces\nRADIANT = 100 Void Traces"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropOstLanternGround",
@@ -14944,7 +14944,6 @@
     "type": "Fish Part",
     "imageName": "yogwun-stomach.png",
     "category": "Misc",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.4",
@@ -14954,7 +14953,8 @@
         "changes": "JAI II: Yogwun Stomach = 10 to 5\nRUHANG II: Yogwun Stomach = 10 to 5",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/ShipDecos/DayCommonFishCTrophy",
@@ -15019,7 +15019,6 @@
     "type": "Focus Lens",
     "imageName": "zenurik-lens.png",
     "category": "Misc",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 20 - 40 Bounty",
@@ -15057,6 +15056,7 @@
         "rarity": "Rare",
         "chance": 0.0833
       }
-    ]
+    ],
+    "tradable": true
   }
 ]

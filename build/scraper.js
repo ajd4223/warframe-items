@@ -67,8 +67,8 @@ class Scraper {
     ]
     this.data = []
     this.bar = prod ? {
-      interrupt () {},
-      tick () {}
+      interrupt () { },
+      tick () { }
     } : new ProgressBar(`:check Procesing Endpoints: ${colors.green('[')}:bar${colors.green(']')} :current/:total :etas remaining ${colors.cyan(':type')}`, {
       incomplete: colors.red('-'),
       width: 20,
@@ -189,10 +189,10 @@ class Scraper {
         }
       }
       this.addCategory(item, type)
-      this.addTradable(item, type)
       this.addDropRate(item)
       this.addPatchlogs(item)
       this.addAdditionalWikiaData(item, type)
+      this.addTradable(item, type)
 
       // Add to category
       if (!data[item.category]) {
@@ -250,6 +250,23 @@ class Scraper {
         if (item.uniqueName.includes(grade.id)) {
           item.name = item.name.replace('Relic', grade.tier)
         }
+      }
+    }
+
+    if (item.type === 'Fish') {
+      const grades = [
+        { id: 'Large', tier: 'Large' },
+        { id: 'Medium', tier: 'Medium' }
+      ]
+      let isSmall = true
+      for (let grade of grades) {
+        if (item.uniqueName.includes(grade.id)) {
+          item.name = item.name + ' - ' + grade.tier
+          isSmall = false
+        }
+      }
+      if (isSmall) {
+        item.name = item.name + ' - Small'
       }
     }
 
@@ -427,11 +444,11 @@ class Scraper {
    * Limit items to tradable/untradable if specified.
    */
   addTradable (item, type) {
-    const tradableTypes = ['Gem', 'Fish', 'Key', 'Focus Lens', 'Relic']
-    const untradableTypes = ['Skin', 'Medallion', 'Extractor', 'Pets', 'Ship Decoration']
-    const tradableRegex = /(Prime|Vandal|Wraith|Rakta|Synoid|Sancti|Vaykor|Telos|Secura)/i
-    const untradableRegex = /(Glyph|Mandachord|Greater.*Lens|Sugatra)/i
-    const notFiltered = !untradableTypes.includes(item.type) && !item.name.match(untradableRegex)
+    const tradableTypes = ['Gem', 'Fish', 'Focus Lens', 'Relic']
+    const untradableTypes = ['Skin', 'Skins', 'Medallion', 'Extractor', 'Pets', 'Ship Decoration', 'Quests', 'Gear', 'Key']
+    const tradableRegex = /(Prime|Vandal|Wraith|Rakta|Synoid|Sancti|Vaykor|Telos|Secura|Archwing)/i
+    const untradableRegex = /(Glyph|Mandachord|Greater.*Lens|Sugatra|Sigil|Ducats|Quest|GrineerBootItem|Bait|Excalibur Prime)/i
+    const notFiltered = !untradableTypes.includes(item.type) && !untradableTypes.includes(item.category) && !item.name.match(untradableRegex) && (!item.tags || !item.tags.includes('Founder')) && !item.sentinel && !item.uniqueName.includes('GrineerBootItem')
     const isTradable = type === 'Upgrades' || (item.uniqueName.match(tradableRegex) && notFiltered) || (tradableTypes.includes(item.type) && notFiltered)
 
     item.tradable = isTradable
@@ -674,6 +691,7 @@ class Scraper {
     item.polarities = wikiaItem.polarities
     item.sex = wikiaItem.sex
     item.sprint = wikiaItem.sprint
+    item.tags = wikiaItem.tags
     item.vaulted = wikiaItem.vaulted
     item.wikiaThumbnail = wikiaItem.thumbnail
     item.wikiaUrl = wikiaItem.url

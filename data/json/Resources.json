@@ -54,7 +54,6 @@
     ],
     "imageName": "auroxium-alloy.png",
     "category": "Resources",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -65,7 +64,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemAItem",
@@ -74,7 +74,6 @@
     "type": "Gem",
     "imageName": "azurite.png",
     "category": "Resources",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.0.5",
@@ -84,7 +83,8 @@
         "changes": "",
         "fixes": "Fixed Pyrol and Azurite being rarer than intended and Coprun and Devar being more likely than intended. They should now be equally as likely."
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/OroFungusAPlantItem",
@@ -102,7 +102,6 @@
     "type": "Resource",
     "imageName": "cetus-wisp.png",
     "category": "Resources",
-    "tradable": false,
     "drops": [
       {
         "location": "Level 20 - 40 Bounty",
@@ -274,7 +273,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/BirdOfPreyPartItem",
@@ -331,7 +331,6 @@
     ],
     "imageName": "coprite-alloy.png",
     "category": "Resources",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -342,7 +341,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreBItem",
@@ -351,7 +351,6 @@
     "type": "Gem",
     "imageName": "coprun.png",
     "category": "Resources",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.0.5",
@@ -361,7 +360,8 @@
         "changes": "",
         "fixes": "Fixed Pyrol and Azurite being rarer than intended and Coprun and Devar being more likely than intended. They should now be equally as likely."
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/Research/CipherPlus",
@@ -370,7 +370,6 @@
     "type": "Resource",
     "imageName": "corpus-cipher.png",
     "category": "Resources",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 15.0.6",
@@ -388,7 +387,8 @@
         "changes": "Enabled selling of Corpus Ciphers and Data Masses.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/Research/DataMassPlus",
@@ -406,7 +406,6 @@
     "type": "Gem",
     "imageName": "crimzian.png",
     "category": "Resources",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -417,7 +416,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/Research/ChemFragment",
@@ -426,7 +426,6 @@
     "type": "Resource",
     "imageName": "detonite-ampule.png",
     "category": "Resources",
-    "tradable": false,
     "drops": [
       {
         "location": "Earth - Cervantes",
@@ -446,7 +445,8 @@
         "changes": "Detonite Ampule replaced with Detonite Injector ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/Research/ChemComponent",
@@ -502,7 +502,6 @@
     ],
     "imageName": "detonite-injector.png",
     "category": "Resources",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update: Specters of the Rail",
@@ -513,7 +512,8 @@
         "changes": "Detonite Ampule replaced with Detonite Injector ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemBItem",
@@ -522,7 +522,6 @@
     "type": "Gem",
     "imageName": "devar.png",
     "category": "Resources",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.20.0",
@@ -541,7 +540,8 @@
         "changes": "",
         "fixes": "Fixed Pyrol and Azurite being rarer than intended and Coprun and Devar being more likely than intended. They should now be equally as likely."
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/ZenCobraLotusPlantItem",
@@ -630,7 +630,6 @@
     ],
     "imageName": "exceptional-sentient-core.png",
     "category": "Resources",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Hotfix 22.13.3",
@@ -657,7 +656,8 @@
         "changes": "Increased Exceptional Sentient Cores from 400 Standing to 500 Standing. ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonOreAItem",
@@ -714,7 +714,6 @@
     ],
     "imageName": "fersteel-alloy.png",
     "category": "Resources",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -725,7 +724,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/Research/EnergyComponent",
@@ -781,7 +781,6 @@
     ],
     "imageName": "fieldron.png",
     "category": "Resources",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Specters of the Rail: Hotfix 13",
@@ -816,7 +815,8 @@
         "changes": "",
         "fixes": "Fixed issue where the Dual Cestra project can be started before you ever start the Fieldron research. Every other item in the energy lab has prior requirements except for Dual Cestras."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/Research/EnergyFragment",
@@ -825,7 +825,6 @@
     "type": "Resource",
     "imageName": "fieldron-sample.png",
     "category": "Resources",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update: Specters of the Rail",
@@ -836,7 +835,8 @@
         "changes": "Fieldron Sample replaced with Fieldron ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/QuillsRareDogTag",
@@ -845,7 +845,6 @@
     "type": "Resource",
     "imageName": "flawless-sentient-core.png",
     "category": "Resources",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Hotfix 22.13.3",
@@ -863,7 +862,8 @@
         "changes": "The Quills Standing increases (Flawless Sentient Cores remains the same for now): ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/WildGingerBPlantItem",
@@ -872,7 +872,6 @@
     "type": "Plant",
     "imageName": "frostleaf.png",
     "category": "Resources",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Silver Grove: Hotfix 4",
@@ -882,7 +881,8 @@
         "changes": "",
         "fixes": "Fixed issues with scanning the Frostleaf plant."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
@@ -891,7 +891,6 @@
     "type": "Resource",
     "imageName": "grokdrul.png",
     "category": "Resources",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.10.0",
@@ -936,7 +935,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemBCutAItem",
@@ -968,7 +968,6 @@
     ],
     "imageName": "heart-nyth.png",
     "category": "Resources",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -979,7 +978,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/QuillsDogTag",
@@ -988,7 +988,6 @@
     "type": "Resource",
     "imageName": "intact-sentient-core.png",
     "category": "Resources",
-    "tradable": false,
     "drops": [
       {
         "location": "Eidolon Vomvalyst 100.00",
@@ -1021,7 +1020,8 @@
         "changes": "Increased Intact Sentient Cores from 25 Standing to 100 Standing. ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/IraditeItem",
@@ -1030,7 +1030,6 @@
     "type": "Resource",
     "imageName": "iradite.png",
     "category": "Resources",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.3.4",
@@ -1074,7 +1073,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/ForestRodentPartItem",
@@ -1083,7 +1083,6 @@
     "type": "Resource",
     "imageName": "kuaka-spinal-claw.png",
     "category": "Resources",
-    "tradable": false,
     "drops": [
       {
         "location": "Kuaka 100.00",
@@ -1097,7 +1096,8 @@
         "rarity": "Common",
         "chance": 1
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/ZenPitcherPlantItem",
@@ -1115,7 +1115,6 @@
     "type": "Resource",
     "imageName": "maprico.png",
     "category": "Resources",
-    "tradable": false,
     "drops": [
       {
         "location": "Plains of Eidolon Incursions",
@@ -1151,7 +1150,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonGemACutAItem",
@@ -1183,7 +1183,6 @@
     ],
     "imageName": "marquise-veridos.png",
     "category": "Resources",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -1194,7 +1193,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonNightPlantItem",
@@ -1277,7 +1277,6 @@
     ],
     "imageName": "mutagen-mass.png",
     "category": "Resources",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update: Specters of the Rail",
@@ -1288,7 +1287,8 @@
         "changes": "Mutagen Sample replaced with Mutagen Mass ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/Research/BioFragment",
@@ -1297,7 +1297,6 @@
     "type": "Resource",
     "imageName": "mutagen-sample.png",
     "category": "Resources",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.3.4",
@@ -1316,7 +1315,8 @@
         "changes": "Mutagen Sample replaced with Mutagen Mass ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/NistlebrushItem",
@@ -1325,7 +1325,6 @@
     "type": "Resource",
     "imageName": "nistlepod.png",
     "category": "Resources",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -1336,7 +1335,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemBItem",
@@ -1345,7 +1345,6 @@
     "type": "Gem",
     "imageName": "nyth.png",
     "category": "Resources",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -1356,7 +1355,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreAItem",
@@ -1365,7 +1365,6 @@
     "type": "Gem",
     "imageName": "pyrol.png",
     "category": "Resources",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.0.5",
@@ -1375,7 +1374,8 @@
         "changes": "",
         "fixes": "Fixed Pyrol and Azurite being rarer than intended and Coprun and Devar being more likely than intended. They should now be equally as likely."
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreAAlloyAItem",
@@ -1423,7 +1423,6 @@
     ],
     "imageName": "pyrotic-alloy.png",
     "category": "Resources",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -1434,7 +1433,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemACutAItem",
@@ -1516,7 +1516,6 @@
     ],
     "imageName": "star-crimzian.png",
     "category": "Resources",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -1527,7 +1526,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonDayPlantItem",
@@ -1595,7 +1595,6 @@
     "type": "Gem",
     "imageName": "veridos.png",
     "category": "Resources",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -1606,7 +1605,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/MossGroundCoverAPlantItem",

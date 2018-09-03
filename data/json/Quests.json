@@ -6,7 +6,7 @@
     "type": "Key",
     "imageName": "a-man-of-few-words.png",
     "category": "Quests",
-    "tradable": true
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/ApostasyQuest/ApostasyKeyChain",
@@ -15,7 +15,6 @@
     "type": "Key",
     "imageName": "apostasy-prologue.png",
     "category": "Quests",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23",
@@ -34,7 +33,8 @@
         "changes": "You can now replay the Apostasy Prologue quest in your Codex! (Not that my body is ready for those feels AGAIN)",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/PriestFrameQuest/PriestQuestKeyChain",
@@ -43,7 +43,6 @@
     "type": "Key",
     "imageName": "chains-of-harrow.png",
     "category": "Quests",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Chains of Harrow: Hotfix 21.5.2",
@@ -212,7 +211,8 @@
         "changes": "Update 21: Chains Of Harrow:",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/MirageQuest/MirageQuestKeyChain",
@@ -260,7 +260,6 @@
     ],
     "imageName": "hidden-messages.png",
     "category": "Quests",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -329,7 +328,8 @@
         "changes": "",
         "fixes": "Fixed the “Hidden Messages” quest giving the wrong inbox message on the third leg of the quest. This fix includes a less ‘chatty’ Ordis for that leg of the quest."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/KubrowQuest/KubrowQuestKeyChain",
@@ -338,7 +338,7 @@
     "type": "Key",
     "imageName": "howl-of-the-kubrow.png",
     "category": "Quests",
-    "tradable": true
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/TestKeyErisBoss",
@@ -347,7 +347,6 @@
     "type": "Key",
     "imageName": "jordas-golem-assassinate.png",
     "category": "Quests",
-    "tradable": true,
     "drops": [
       {
         "location": "Jordas Golem Assassinate",
@@ -400,7 +399,8 @@
         "changes": "",
         "fixes": "•    Fixed the ‘Projectile Incoming” warning message not appearing for Clients in the Jordas Golem Assassinate mission."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/InfestedAladVQuest/AssassinateInfestedAladVKey",
@@ -456,7 +456,6 @@
     ],
     "imageName": "mutalist-alad-v-assassinate.png",
     "category": "Quests",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.3.0 + 23.3.0.1",
@@ -483,7 +482,8 @@
         "changes": "",
         "fixes": "Fixed the Mutalist Alad V Assassinate Key displaying an incorrect description in the Foundry."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/SentientQuest/SentientQuestKeyChain",
@@ -492,7 +492,6 @@
     "type": "Key",
     "imageName": "natah.png",
     "category": "Quests",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.1.1",
@@ -585,7 +584,8 @@
         "changes": "Exilus Mod slots can be unlocked using an item found in Simaris' offerings after completing the Quest: Natah, or can be purchased for 20 Platinum.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/BardQuest/BardQuestKeyChain",
@@ -594,7 +594,6 @@
     "type": "Key",
     "imageName": "octavia's-anthem.png",
     "category": "Quests",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Octavia's Anthem: Hotfix 20.0.9",
@@ -654,7 +653,8 @@
         "changes": "Octavia'S Anthem: Update 20:",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/InfestedIntroQuest/InfestedIntroQuestKeyChain",
@@ -663,7 +663,6 @@
     "type": "Key",
     "imageName": "once-awake.png",
     "category": "Quests",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.20.0",
@@ -749,7 +748,8 @@
         "changes": "",
         "fixes": "Fixed redundant End Mission transmission that plays at the completion of the Once Awake quest."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/InfestedAladVQuest/InfestedAladVQuestKeyChain",
@@ -797,7 +797,6 @@
     ],
     "imageName": "patient-zero.png",
     "category": "Quests",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -883,7 +882,8 @@
         "changes": "",
         "fixes": "Fixed Patient Zero quest not completing for some players."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/MummyQuest/MummyQuestKeyChain",
@@ -931,7 +931,7 @@
     ],
     "imageName": "sands-of-inaros.png",
     "category": "Quests",
-    "tradable": true
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/GlassQuest/GlassQuestKeyChain",
@@ -940,7 +940,7 @@
     "type": "Key",
     "imageName": "saya's-vigil.png",
     "category": "Quests",
-    "tradable": true
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/SpyQuestKeyChain/SpyQuestKeyChain",
@@ -949,7 +949,6 @@
     "type": "Key",
     "imageName": "stolen-dreams.png",
     "category": "Quests",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.10.0",
@@ -1049,7 +1048,8 @@
         "changes": "A new character and a completely revamped version of Spy Mode await you in the Stolen Dreams Quest. Embrace your inner secret agent, Tenno!",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/ArchwingQuest/ArchwingQuestKeyChain",
@@ -1058,7 +1058,6 @@
     "type": "Archwing",
     "imageName": "the-archwing.png",
     "category": "Quests",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Hotfix 22.20.1",
@@ -1161,7 +1160,8 @@
         "changes": "",
         "fixes": "Changed the number of Excavation extractions required in The Archwing Quest to 2.\nMade various optimization improvements to the final Mission in The Archwing Quest.\nArchwing Crafting requirements have been adjusted for players crafting the Odonata in The Archwing Quest:"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/IndexQuest/IndexQuestKeyChain",
@@ -1170,7 +1170,6 @@
     "type": "Key",
     "imageName": "the-glast-gambit.png",
     "category": "Quests",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.6.0 + Hotfix 22.6.0.1",
@@ -1403,7 +1402,8 @@
         "changes": "",
         "fixes": "As mentioned in the [PC Status Thread] Update 19.5: The Glast Gambit, update notes are pending as this was a rather sizable update and we want to assure we have everything accounted for. We also have our eyes peeled for any major bugs "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/GolemQuest/GolemQuestKeyChainItem",
@@ -1412,7 +1412,6 @@
     "type": "Key",
     "imageName": "the-jordas-precept.png",
     "category": "Quests",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Update: Specters of the Rail",
@@ -1439,7 +1438,8 @@
         "changes": "New Quest: The Jordas Precept:\nThe Jordas Precept requires players to hunt the elusive Infested Juggernaut, who only makes an appearance after slaying multiple Infested shortly after his signature roar...\nNew Boss: J-3 GolemThe J-3 Golem has received a major overhaul since its last appearance, and can be found after completing The Jordas Precept Quest.",
         "fixes": "Thank you all for your patience and support!  We hope you enjoy Warframe: The Jordas Precept!"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/LimboQuest/LimboQuestKeyChain",
@@ -1487,7 +1487,6 @@
     ],
     "imageName": "the-limbo-theorem.png",
     "category": "Quests",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -1507,7 +1506,8 @@
         "changes": "The Limbo Theorem (Jupiter-Europa Junction)\nThe Limbo Theorem Excavation missions will now guarantee one of the Blueprints at the end of 3 extractors as an End of Mission reward.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/DragonQuest/DragonQuestKeyChain",
@@ -1516,7 +1516,6 @@
     "type": "Key",
     "imageName": "the-new-strange.png",
     "category": "Quests",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.3 - Limbo Prime",
@@ -1726,7 +1725,8 @@
         "changes": "",
         "fixes": "In order to obtain this new Quest, players above Mastery Rank 5 must first visit Cephalon Simaris in his Sanctuary after completing the Stolen Dreams Quest.  From there players can acquire The New Strange and accept it from the Codex once they return to the Liset."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/SacrificeQuest/SacrificeQuestKeyChain",
@@ -1735,7 +1735,6 @@
     "type": "Key",
     "imageName": "the-sacrifice.png",
     "category": "Quests",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.4.2",
@@ -1906,7 +1905,8 @@
         "changes": "The Sacrifice: Update 23:",
         "fixes": "[SPOILERS] [PC] Update 23: The Sacrifice Quest Bug Report Megathread"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/OrokinMoonQuest/OrokinMoonQuestKeyChain",
@@ -1915,7 +1915,6 @@
     "type": "Key",
     "imageName": "the-second-dream.png",
     "category": "Quests",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23",
@@ -2051,7 +2050,8 @@
         "changes": "",
         "fixes": "The Second Dream is available to all players who have completed the Quest: Natah.\nWhat we know of the Moon is a mystery, and entering its halls requires the completion of The Second Dream Quest.\nAn additional weapon may be hidden within The Second Dream."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/FairyQuest/FairyQuestKeyChain",
@@ -2060,7 +2060,6 @@
     "type": "Key",
     "imageName": "the-silver-grove.png",
     "category": "Quests",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23",
@@ -2272,7 +2271,8 @@
         "changes": "The Silver Grove:",
         "fixes": "General FeedbackTitania and The Silver Grove QuestFusion SimplifiedBug Report MegathreadLunaro Additions and ChangesNew Weapons"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/WarWithinQuest/WarWithinQuestKeyChain",
@@ -2281,7 +2281,6 @@
     "type": "Key",
     "imageName": "the-war-within.png",
     "category": "Quests",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.1",
@@ -2720,7 +2719,8 @@
         "changes": "Warframe Update 19: The War Within:\nThe War Within is here on PC! This is the next chapter in the story of Warframe. What we set out to do always seems a little wild in hindsight, but it's the thrill and ambition of storytelling that drives us to challenge ourselves and you. We want to grow and change Warframe in interesting ways. We're presenting you another chapter of growth today.\nThe War Within is also a reflection of lessons for us on how to feed, respect, and tame the growing animal that is Warframe. This update's name has outgrown itself and it represents something bigger. If you asked any of us 4 years ago what we expected to happen with this project, none of us would believe you if you showed us this day.\nEver since the change to the new Solar Chart in Specters of the Rail, the Invasion system hasn't exactly been exciting or novel. The War Within brings some much needed freshness to this part of the game!\nSorties were introduced in The Second Dream. They originally launched with 'Seasons' that rotated with set rewards. Since launch we iterated in several ways, including adding repeatable/non-repeatable rewards and more. Now we bring you more change with The War Within: Sortie Seasons are no more. We now have a set reward list of rewards that are always repeatable.\nThe new pre-requisite to access Sorties is completion of The War Within. \nThere is a new addition to Sortie rewards, but this will be revealed upon completion of The War Within.\nVolumetric Lighting technology is here and has been implemented in The War Within quest!",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/VorsPrize/VorsPrizeQuestKeyChain",
@@ -2729,6 +2729,6 @@
     "type": "Key",
     "imageName": "vor's-prize.png",
     "category": "Quests",
-    "tradable": true
+    "tradable": false
   }
 ]

@@ -11,7 +11,6 @@
     "type": "Pets",
     "imageName": "adarza-kavat.png",
     "category": "Pets",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Hotfix 22.13.3",
@@ -30,7 +29,8 @@
         "changes": "Adarza Kavat grants increased critical chance to all nearby Tenno for a short duration.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/RetrieverKubrowPetPowerSuit",
@@ -44,7 +44,6 @@
     "type": "Pets",
     "imageName": "chesa-kubrow.png",
     "category": "Pets",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.5.0 + 22.5.0.1",
@@ -113,7 +112,8 @@
         "changes": "The Chesa Kubrow’s Retrieve ability will now grab multiple items at once.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/KubrowPetFood",
@@ -170,7 +170,6 @@
     ],
     "imageName": "genetic-code-template.png",
     "category": "Pets",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 17.8.0",
@@ -180,7 +179,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/ChargerKubrowPetPowerSuit",
@@ -194,7 +194,6 @@
     "type": "Pets",
     "imageName": "helminth-charger.png",
     "category": "Pets",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.4.0",
@@ -290,7 +289,8 @@
         "changes": "",
         "fixes": "Fixed incorrect Helminth Charger Codex entry."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/FurtiveKubrowPetPowerSuit",
@@ -304,7 +304,6 @@
     "type": "Pets",
     "imageName": "huras-kubrow.png",
     "category": "Pets",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 16.11.5",
@@ -330,7 +329,8 @@
         "changes": "Huras Kubrow Hunt Mod will now prompt Kubrow to pick an enemy near other enemies (since the charge is AoE).\nAdded knockdown to Huras Kubrow charge that should make enemies hit suffer an entertaining knockback.",
         "fixes": "Fixed issue with Huras Kubrow Hunt Mod where charge would end after 5 frames of no movement.\nFixed issue with Huras Kubrow Hunt Mod where all Kubrow in mission would share the same cooldown recharge time."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/EggHatcher",
@@ -378,7 +378,6 @@
     ],
     "imageName": "incubator-power-core.png",
     "category": "Pets",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 21: Chains of Harrow",
@@ -389,7 +388,8 @@
         "changes": "",
         "fixes": "Fixed Kavat and Kubrow bundles from the Market not awarding Incubator Power Cores."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/CatbrowPet/CatbrowGeneticSignature",
@@ -398,7 +398,6 @@
     "type": "Pets",
     "imageName": "kavat-genetic-code.png",
     "category": "Pets",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The War Within: Update 19.3.0",
@@ -418,7 +417,8 @@
         "changes": "10x Kavat Genetic Codes have been added to Alerts!",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/Eggs/KubrowEgg",
@@ -427,7 +427,6 @@
     "type": "Pets",
     "imageName": "kubrow-egg.png",
     "category": "Pets",
-    "tradable": false,
     "drops": [
       {
         "location": "Earth - Cervantes",
@@ -496,7 +495,8 @@
         "changes": "",
         "fixes": "A new visual effect has been added when a Kubrow Egg is picked up."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/KubrowPetCollarItem",
@@ -519,7 +519,6 @@
     "type": "Pets",
     "imageName": "raksa-kubrow.png",
     "category": "Pets",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 17: Echoes Of The Sentient",
@@ -529,7 +528,8 @@
         "changes": "",
         "fixes": "Fixed the Raksa Kubrow’s Howl sometimes not playing."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/AdventurerKubrowPetPowerSuit",
@@ -568,7 +568,6 @@
     ],
     "imageName": "sahasa-kubrow.png",
     "category": "Pets",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.4.0",
@@ -588,7 +587,8 @@
         "changes": "Sahasa Kubrows can no longer dig up Resources in Onslaught.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/CatbrowPet/CheshireCatbrowPetPowerSuit",
@@ -602,7 +602,6 @@
     "type": "Pets",
     "imageName": "smeeta-kavat.png",
     "category": "Pets",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Hotfix 22.13.3",
@@ -656,7 +655,8 @@
         "changes": "Allows Smeeta Kavat to become invisible while a decoy Kavat draws fire by running toward the enemy.\nSmeeta Kavat bestows its owner with good fortune during the course of a mission.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/HunterKubrowPetPowerSuit",
@@ -670,7 +670,6 @@
     "type": "Pets",
     "imageName": "sunika-kubrow.png",
     "category": "Pets",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 14.0.9",
@@ -688,6 +687,7 @@
         "changes": "",
         "fixes": "Fixed an issue with Sunika Kubrows not coming with their proper Mods when purchased.\nPSA: A script is in progress to give mods to those account affected by the Sunika Kubrows not coming with the proper mods."
       }
-    ]
+    ],
+    "tradable": false
   }
 ]

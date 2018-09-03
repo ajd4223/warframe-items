@@ -118,7 +118,6 @@
     ],
     "imageName": "ash.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.20.0",
@@ -990,7 +989,8 @@
     "sex": "Male",
     "sprint": 1.15,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/17/AshNewLook.png/revision/latest?cb=20141124022921",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Ash"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Ash",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Ninja/AshPrime",
@@ -1393,7 +1393,6 @@
     ],
     "imageName": "ash-prime.png",
     "category": "Warframes",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.20.0",
@@ -2266,7 +2265,8 @@
     "sprint": 1.2,
     "vaulted": true,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/62/AshPrimeNewLook.png/revision/latest?cb=20150707222051",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Ash_Prime"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Ash_Prime",
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Powersuits/Brawler/Brawler",
@@ -2369,7 +2369,6 @@
     ],
     "imageName": "atlas.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Update 22.17.0 + 22.17.0.1",
@@ -2688,7 +2687,8 @@
     "sex": "Male",
     "sprint": 0.9,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/7f/AtlasNewLook.png/revision/latest?cb=20151002032553",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Atlas"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Atlas",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Banshee/Banshee",
@@ -2767,7 +2767,6 @@
     ],
     "imageName": "banshee.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Mask of the Revenant: Update 23.5.0",
@@ -3429,7 +3428,8 @@
     "sex": "Female",
     "sprint": 1.1,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/9d/BansheeNewLook.png/revision/latest?cb=20141124023002",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Banshee"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Banshee",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Banshee/BansheePrime",
@@ -3904,7 +3904,6 @@
     ],
     "imageName": "banshee-prime.png",
     "category": "Warframes",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Mask of the Revenant: Update 23.5.0",
@@ -4566,7 +4565,8 @@
     "sex": "Female",
     "sprint": 1.15,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/8e/BansheePrimeIcon.png/revision/latest?cb=20170308023206",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Banshee_Prime"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Banshee_Prime",
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Powersuits/Dragon/Dragon",
@@ -4645,7 +4645,6 @@
     ],
     "imageName": "chroma.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Mask of the Revenant: Update 23.5.0",
@@ -5413,7 +5412,8 @@
     "sex": "Male",
     "sprint": 1,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/2d/ChromaNewLook.png/revision/latest?cb=20150324023405",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Chroma"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Chroma",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Ember/Ember",
@@ -5516,7 +5516,6 @@
     ],
     "imageName": "ember.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Hotfix 22.20.7",
@@ -6298,7 +6297,8 @@
     "sex": "Female",
     "sprint": 1.1,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a7/EmberNewLook.png/revision/latest?cb=20141124023013",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Ember"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Ember",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Ember/EmberPrime",
@@ -6605,7 +6605,6 @@
     ],
     "imageName": "ember-prime.png",
     "category": "Warframes",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Hotfix 22.20.7",
@@ -7388,7 +7387,8 @@
     "sprint": 1.1,
     "vaulted": true,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/39/EmberPrimeNewLook.png/revision/latest?cb=20141124023024",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Ember_Prime"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Ember_Prime",
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Powersuits/YinYang/YinYang",
@@ -7475,7 +7475,6 @@
     ],
     "imageName": "equinox.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Mask of the Revenant: Update 23.5.0",
@@ -7995,7 +7994,8 @@
     "polarities": [ "vazarin", "madurai" ],
     "sex": "Female",
     "sprint": 1.15,
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Equinox"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Equinox",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Excalibur/Excalibur",
@@ -8098,7 +8098,6 @@
     ],
     "imageName": "excalibur.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Mask of the Revenant: Update 23.5.0",
@@ -9093,7 +9092,8 @@
     "sex": "Male",
     "sprint": 1,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/40/ExcaliburNewLook.png/revision/latest?cb=20141124023040",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Excalibur"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Excalibur",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Excalibur/ExcaliburPrime",
@@ -9125,7 +9125,6 @@
     "type": "Warframe",
     "imageName": "excalibur-prime.png",
     "category": "Warframes",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Mask of the Revenant: Update 23.5.0",
@@ -10122,7 +10121,8 @@
     "sprint": 1,
     "vaulted": "N/A",
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/2a/ExcaliburPrimeNewLook.png/revision/latest?cb=20180628213418",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Excalibur_Prime"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Excalibur_Prime",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Excalibur/ExcaliburUmbra",
@@ -10154,7 +10154,6 @@
     "type": "Warframe",
     "imageName": "excalibur-umbra.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Mask of the Revenant: Update 23.5.0",
@@ -10193,7 +10192,8 @@
     "sprint": 1,
     "vaulted": "N/A",
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/5c/ExcaliburUmbra.png/revision/latest?cb=20180624022701",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Excalibur_Umbra"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Excalibur_Umbra",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Frost/Frost",
@@ -10299,7 +10299,6 @@
     ],
     "imageName": "frost.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.2.0",
@@ -11139,7 +11138,8 @@
     "sex": "Male",
     "sprint": 0.95,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/5a/FrostNewLook.png/revision/latest?cb=20141124023059",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Frost"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Frost",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Frost/FrostPrime",
@@ -11446,7 +11446,6 @@
     ],
     "imageName": "frost-prime.png",
     "category": "Warframes",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.2.0",
@@ -12287,7 +12286,8 @@
     "sprint": 0.95,
     "vaulted": true,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/d1/FrostPrimeNewLook.png/revision/latest?cb=20141124023106",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Frost_Prime"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Frost_Prime",
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Powersuits/Glass/Glass",
@@ -12534,7 +12534,6 @@
     ],
     "imageName": "gara.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.4.0",
@@ -12733,7 +12732,8 @@
     "sex": "Female",
     "sprint": 1.15,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/2c/GaraNewLook.png/revision/latest?cb=20171026104236",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Gara"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Gara",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Priest/Priest",
@@ -12858,7 +12858,6 @@
     ],
     "imageName": "harrow.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.2.0",
@@ -13198,7 +13197,8 @@
     "sex": "Male",
     "sprint": 1,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/4d/Harrow.png/revision/latest?cb=20180121173742",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Harrow"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Harrow",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Pirate/Pirate",
@@ -13319,7 +13319,6 @@
     ],
     "imageName": "hydroid.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.2.0",
@@ -13892,7 +13891,8 @@
     "sex": "Male",
     "sprint": 1.05,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/9f/HydroidNewLook.png/revision/latest?cb=20141124023113",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Hydroid"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Hydroid",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Pirate/HydroidPrime",
@@ -14223,7 +14223,6 @@
     ],
     "imageName": "hydroid-prime.png",
     "category": "Warframes",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.2.0",
@@ -14796,7 +14795,8 @@
     "sex": "Male",
     "sprint": 1.05,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/6f/HydroidPrimeBust.png/revision/latest?cb=20170903163610",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Hydroid_Prime"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Hydroid_Prime",
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Powersuits/Sandman/Sandman",
@@ -14875,7 +14875,6 @@
     ],
     "imageName": "inaros.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23",
@@ -15339,7 +15338,8 @@
     "sex": "Male",
     "sprint": 1,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/3a/InarosNewLook.png/revision/latest?cb=20160308025219",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Inaros"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Inaros",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Ranger/Ranger",
@@ -15622,7 +15622,6 @@
     ],
     "imageName": "ivara.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.3.0 + 23.3.0.1",
@@ -16174,7 +16173,8 @@
     "sex": "Female",
     "sprint": 1.15,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/8c/IvaraNewLook.png/revision/latest?cb=20151204065626",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Ivara"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Ivara",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Khora/Khora",
@@ -16289,7 +16289,6 @@
     ],
     "imageName": "khora.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.5",
@@ -16402,7 +16401,8 @@
     "sex": "Female",
     "sprint": 1.05,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/08/Khora.png/revision/latest?cb=20180422193150",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Khora"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Khora",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Magician/Magician",
@@ -16481,7 +16481,6 @@
     ],
     "imageName": "limbo.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.3 - Limbo Prime",
@@ -17295,7 +17294,8 @@
     "sex": "Male",
     "sprint": 1.15,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/14/LimboNewLook.png/revision/latest?cb=20141124023126",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Limbo"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Limbo",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Magician/LimboPrime",
@@ -17482,7 +17482,6 @@
     ],
     "imageName": "limbo-prime.png",
     "category": "Warframes",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.3 - Limbo Prime",
@@ -18296,7 +18295,8 @@
     "sex": "Male",
     "sprint": 1.15,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a8/Limbo_PrimeIcon272.png/revision/latest?cb=20180703112244",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Limbo_Prime"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Limbo_Prime",
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Powersuits/Loki/Loki",
@@ -18399,7 +18399,6 @@
     ],
     "imageName": "loki.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.1.0: TennoGen Round 13",
@@ -19201,7 +19200,8 @@
     "sex": "Male",
     "sprint": 1.25,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/1c/LokiNewLook.png/revision/latest?cb=20141124023132",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Loki"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Loki",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Loki/LokiPrime",
@@ -19412,7 +19412,6 @@
     ],
     "imageName": "loki-prime.png",
     "category": "Warframes",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.1.0: TennoGen Round 13",
@@ -20215,7 +20214,8 @@
     "sprint": 1.25,
     "vaulted": true,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/78/LokiPrimeNewLook.png/revision/latest?cb=20141124023139",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Loki_Prime"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Loki_Prime",
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Powersuits/Mag/Mag",
@@ -20318,7 +20318,6 @@
     ],
     "imageName": "mag.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Mask of the Revenant: Update 23.5.0",
@@ -21514,7 +21513,8 @@
     "sex": "Female",
     "sprint": 1,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/bf/MagNewLook.png/revision/latest?cb=20141124023147",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Mag"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Mag",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Mag/MagPrime",
@@ -21797,7 +21797,6 @@
     ],
     "imageName": "mag-prime.png",
     "category": "Warframes",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Mask of the Revenant: Update 23.5.0",
@@ -22994,7 +22993,8 @@
     "sprint": 1,
     "vaulted": true,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/31/MagPrimeNewLook.png/revision/latest?cb=20141124023154",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Mag_Prime"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Mag_Prime",
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Powersuits/Cowgirl/Cowgirl",
@@ -23115,7 +23115,6 @@
     ],
     "imageName": "mesa.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.2.0",
@@ -23757,7 +23756,8 @@
     "sex": "Female",
     "sprint": 1.1,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a6/MesaLarge.png/revision/latest?cb=20141211171927",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Mesa"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Mesa",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Harlequin/Harlequin",
@@ -23836,7 +23836,6 @@
     ],
     "imageName": "mirage.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Mask of the Revenant: Update 23.5.0",
@@ -24740,7 +24739,8 @@
     "sex": "Female",
     "sprint": 1.2,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/31/MirageNewLook.png/revision/latest?cb=20141124023203",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Mirage"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Mirage",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Harlequin/MiragePrime",
@@ -24999,7 +24999,6 @@
     ],
     "imageName": "mirage-prime.png",
     "category": "Warframes",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Mask of the Revenant: Update 23.5.0",
@@ -25902,7 +25901,8 @@
     "sex": "Female",
     "sprint": 1.2,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/ff/MiragePrime.png/revision/latest?cb=20171220211538",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Mirage_Prime"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Mirage_Prime",
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Powersuits/Necro/Necro",
@@ -26044,7 +26044,6 @@
     ],
     "imageName": "nekros.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.3.2",
@@ -26741,7 +26740,8 @@
     "sex": "Male",
     "sprint": 1.1,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/cc/NekrosNewLook.png/revision/latest?cb=20141124023210",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Nekros"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Nekros",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Necro/NekrosPrime",
@@ -27216,7 +27216,6 @@
     ],
     "imageName": "nekros-prime.png",
     "category": "Warframes",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.3.2",
@@ -27914,7 +27913,8 @@
     "sprint": 1.1,
     "vaulted": true,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/86/NekrosPrimeNewLook.png/revision/latest?cb=20180419201132",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Nekros_Prime"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Nekros_Prime",
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Powersuits/Nezha/Nezha",
@@ -27993,7 +27993,6 @@
     ],
     "imageName": "nezha.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23",
@@ -28403,7 +28402,8 @@
     "sex": "Male",
     "sprint": 1.15,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/45/NezhaNewLook.png/revision/latest?cb=20151217010251",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Nezha"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Nezha",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Infestation/Infestation",
@@ -28509,7 +28509,6 @@
     ],
     "imageName": "nidus.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.2.0",
@@ -28868,7 +28867,8 @@
     "sex": "Male",
     "sprint": 1,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/4c/NidusNewLook.png/revision/latest?cb=20161223053121",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Nidus"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Nidus",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/AntiMatter/Anti",
@@ -28971,7 +28971,6 @@
     ],
     "imageName": "nova.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.1.0: TennoGen Round 13",
@@ -29676,7 +29675,8 @@
     "sex": "Female",
     "sprint": 1.2,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/52/NovaNewLook.png/revision/latest?cb=20141124023217",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Nova"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Nova",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/AntiMatter/NovaPrime",
@@ -29959,7 +29959,6 @@
     ],
     "imageName": "nova-prime.png",
     "category": "Warframes",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.1.0: TennoGen Round 13",
@@ -30665,7 +30664,8 @@
     "sprint": 1.2,
     "vaulted": true,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/38/NovaPrimeNewLook.png/revision/latest?cb=20150204035825",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Nova_Prime"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Nova_Prime",
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Powersuits/Jade/Jade",
@@ -30768,7 +30768,6 @@
     ],
     "imageName": "nyx.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Mask of the Revenant: Update 23.5.0",
@@ -31834,7 +31833,8 @@
     "sex": "Female",
     "sprint": 1.1,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/cb/NyxNewLook.png/revision/latest?cb=20141124023223",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Nyx"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Nyx",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Jade/NyxPrime",
@@ -32141,7 +32141,6 @@
     ],
     "imageName": "nyx-prime.png",
     "category": "Warframes",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Mask of the Revenant: Update 23.5.0",
@@ -33208,7 +33207,8 @@
     "sprint": 1.125,
     "vaulted": true,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/aa/NyxPrimeNewLook.png/revision/latest?cb=20141124023232",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Nyx_Prime"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Nyx_Prime",
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Powersuits/Paladin/Paladin",
@@ -33287,7 +33287,6 @@
     ],
     "imageName": "oberon.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.1.1",
@@ -34029,7 +34028,8 @@
     "sex": "Male",
     "sprint": 1,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/8c/OberonNewLook.png/revision/latest?cb=20150223022507",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Oberon"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Oberon",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Paladin/PaladinPrime",
@@ -34408,7 +34408,6 @@
     ],
     "imageName": "oberon-prime.png",
     "category": "Warframes",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.1.1",
@@ -35150,7 +35149,8 @@
     "sex": "Male",
     "sprint": 1,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/08/OberonPrimeBust.png/revision/latest?cb=20170518034142",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Oberon_Prime"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Oberon_Prime",
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Powersuits/Bard/Bard",
@@ -35253,7 +35253,6 @@
     ],
     "imageName": "octavia.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.6",
@@ -35743,7 +35742,8 @@
     "sex": "Female",
     "sprint": 1.05,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a9/Octavia.png/revision/latest?cb=20170324225749",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Octavia"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Octavia",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Revenant/Revenant",
@@ -35972,7 +35972,6 @@
     ],
     "imageName": "revenant.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Mask of the Revenant: Update 23.5.0",
@@ -36001,7 +36000,8 @@
     "sex": "Male",
     "sprint": 1,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/07/Revenant.png/revision/latest?cb=20180827015802",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Revenant"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Revenant",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Rhino/Rhino",
@@ -36104,7 +36104,6 @@
     ],
     "imageName": "rhino.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.3.0 + 23.3.0.1",
@@ -36996,7 +36995,8 @@
     "sex": "Male",
     "sprint": 0.95,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/40/RhinoNewLook.png/revision/latest?cb=20141124023302",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Rhino"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Rhino",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Rhino/RhinoPrime",
@@ -37279,7 +37279,6 @@
     ],
     "imageName": "rhino-prime.png",
     "category": "Warframes",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.3.0 + 23.3.0.1",
@@ -38172,7 +38171,8 @@
     "sprint": 1,
     "vaulted": true,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/54/RhinoPrimeNewLook.png/revision/latest?cb=20141124023312",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Rhino_Prime"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Rhino_Prime",
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Powersuits/Saryn/Saryn",
@@ -38275,7 +38275,6 @@
     ],
     "imageName": "saryn.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.6",
@@ -39031,7 +39030,8 @@
     "sex": "Female",
     "sprint": 0.95,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/d9/SarynNewLook.png/revision/latest?cb=20141124023331",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Saryn"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Saryn",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Saryn/SarynPrime",
@@ -39506,7 +39506,6 @@
     ],
     "imageName": "saryn-prime.png",
     "category": "Warframes",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.6",
@@ -40263,7 +40262,8 @@
     "sprint": 1,
     "vaulted": true,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/08/SarynPrimeLarge.png/revision/latest?cb=20160217235603",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Saryn_Prime"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Saryn_Prime",
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Powersuits/Fairy/Fairy",
@@ -40342,7 +40342,6 @@
     ],
     "imageName": "titania.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.6",
@@ -40692,7 +40691,8 @@
     "sex": "Female",
     "sprint": 1,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/84/TitaniaNewLook.png/revision/latest?cb=20160822154359",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Titania"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Titania",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Trinity/Trinity",
@@ -40795,7 +40795,6 @@
     ],
     "imageName": "trinity.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.1.0: TennoGen Round 13",
@@ -41471,7 +41470,8 @@
     "sex": "Female",
     "sprint": 1,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/00/TrinityNewLook.png/revision/latest?cb=20141124023338",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Trinity"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Trinity",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Trinity/TrinityPrime",
@@ -42018,7 +42018,6 @@
     ],
     "imageName": "trinity-prime.png",
     "category": "Warframes",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.1.0: TennoGen Round 13",
@@ -42695,7 +42694,8 @@
     "sprint": 1.1,
     "vaulted": true,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/78/TrinityPrimeMain.png/revision/latest?cb=20151024080439",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Trinity_Prime"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Trinity_Prime",
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Powersuits/Berserker/Berserker",
@@ -42798,7 +42798,6 @@
     ],
     "imageName": "valkyr.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.8",
@@ -43541,7 +43540,8 @@
     "sex": "Female",
     "sprint": 1.1,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/0e/ValkyrNewLook.png/revision/latest?cb=20141124023346",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Valkyr"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Valkyr",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Berserker/ValkyrPrime",
@@ -44088,7 +44088,6 @@
     ],
     "imageName": "valkyr-prime.png",
     "category": "Warframes",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.8",
@@ -44831,7 +44830,8 @@
     "sex": "Female",
     "sprint": 1.1,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/14/ValkyrPrimeProfilePicture.png/revision/latest?cb=20180316165322",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Valkyr_Prime"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Valkyr_Prime",
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Powersuits/Trapper/Trapper",
@@ -44910,7 +44910,6 @@
     ],
     "imageName": "vauban.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.4.0",
@@ -45529,7 +45528,8 @@
     "sex": "Male",
     "sprint": 1,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/23/VaubanNewLook.png/revision/latest?cb=20141124023352",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Vauban"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Vauban",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Trapper/TrapperPrime",
@@ -45884,7 +45884,6 @@
     ],
     "imageName": "vauban-prime.png",
     "category": "Warframes",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.4.0",
@@ -46504,7 +46503,8 @@
     "sprint": 1,
     "vaulted": true,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/69/VaubanPrimeNewLook.png/revision/latest?cb=20160528082318",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Vauban_Prime"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Vauban_Prime",
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Powersuits/Volt/Volt",
@@ -46583,7 +46583,6 @@
     ],
     "imageName": "volt.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.4.2",
@@ -47465,7 +47464,8 @@
     "sex": "Male",
     "sprint": 1,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/4d/VoltNewLook.png/revision/latest?cb=20141124023359",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Volt"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Volt",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Volt/VoltPrime",
@@ -47796,7 +47796,6 @@
     ],
     "imageName": "volt-prime.png",
     "category": "Warframes",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.4.2",
@@ -48679,7 +48678,8 @@
     "sprint": 1,
     "vaulted": true,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/bd/VoltPrimeLarge.png/revision/latest?cb=20150324224840",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Volt_Prime"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Volt_Prime",
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Powersuits/MonkeyKing/MonkeyKing",
@@ -48758,7 +48758,6 @@
     ],
     "imageName": "wukong.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.8",
@@ -49048,7 +49047,8 @@
     "sex": "Male",
     "sprint": 0.95,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/91/WukongNewIcon.png/revision/latest?cb=20151125205508",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Wukong"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Wukong",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Tengu/Tengu",
@@ -49127,7 +49127,6 @@
     ],
     "imageName": "zephyr.png",
     "category": "Warframes",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.4.0",
@@ -49751,7 +49750,8 @@
     "sex": "Female",
     "sprint": 1.15,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/fc/ZephyrNewLook.png/revision/latest?cb=20141124023407",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Zephyr"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Zephyr",
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Powersuits/Tengu/ZephyrPrime",
@@ -50010,7 +50010,6 @@
     ],
     "imageName": "zephyr-prime.png",
     "category": "Warframes",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.4.0",
@@ -50634,6 +50633,7 @@
     "sex": "Female",
     "sprint": 1.2,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/68/ZephyrPrimeIcon.png/revision/latest?cb=20180320221426",
-    "wikiaUrl": "http://warframe.wikia.com/wiki/Zephyr_Prime"
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Zephyr_Prime",
+    "tradable": true
   }
 ]

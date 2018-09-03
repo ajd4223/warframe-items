@@ -348,7 +348,6 @@
     "type": "Sigil",
     "imageName": "conclave-sigil.png",
     "category": "Sigils",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 18: The Second Dream",
@@ -382,7 +381,8 @@
         "changes": "",
         "fixes": "Fixed the Freedom and Discovery Conclave Sigils having the same icon."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilJ",
@@ -436,7 +436,7 @@
     "type": "Sigil",
     "imageName": "cycuta-prime-sigil.png",
     "category": "Sigils",
-    "tradable": true
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DotD2016Sigil",
@@ -463,7 +463,6 @@
     "type": "Sigil",
     "imageName": "diligence-sigil.png",
     "category": "Sigils",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
@@ -474,7 +473,8 @@
         "changes": "•    Steel Meridian ‘Vigilance Sigil’ has been renamed to  ‘Diligence Sigil’",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceF",
@@ -645,7 +645,6 @@
     "type": "Sigil",
     "imageName": "grasp-sigil.png",
     "category": "Sigils",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
@@ -656,7 +655,8 @@
         "changes": "•    Arbiters of Hexis ‘Growth Sigil’ has been renamed to ‘Grasp Sigil’ ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaE",
@@ -665,7 +665,6 @@
     "type": "Sigil",
     "imageName": "growth-sigil.png",
     "category": "Sigils",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
@@ -676,7 +675,8 @@
         "changes": "•    Arbiters of Hexis ‘Growth Sigil’ has been renamed to ‘Grasp Sigil’ ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DeathMarkSigilGrustrag",
@@ -739,7 +739,6 @@
     "type": "Sigil",
     "imageName": "hyena-sigil.png",
     "category": "Sigils",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Chains of Harrow: Hotfix 21.0.9",
@@ -749,7 +748,8 @@
         "changes": "",
         "fixes": "Fixed the Hyena Sigil FX not fading enough near the edges. "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilJackal",
@@ -848,7 +848,6 @@
     "type": "Sigil",
     "imageName": "mastery-sigil.png",
     "category": "Sigils",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -932,7 +931,8 @@
         "changes": "",
         "fixes": "Fixed Mastery Sigils being unable to identify players Mastery Rank correctly."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/MonquisSigil",
@@ -968,7 +968,6 @@
     "type": "Sigil",
     "imageName": "new-loka-sigil.png",
     "category": "Sigils",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 15.1.0+15.1.01",
@@ -978,7 +977,8 @@
         "changes": "Increased the resolution of the New Loka Sigil.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HolidaySigilXmas2014B",
@@ -1041,7 +1041,6 @@
     "type": "Sigil",
     "imageName": "perrin-sequence-sigil.png",
     "category": "Sigils",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hydroid Prime: Update 21.6.0",
@@ -1052,7 +1051,8 @@
         "changes": "",
         "fixes": "Fixed the Perrin Sequence Sigil appearing bumpy."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ClanSigilBasicAdd",
@@ -1088,7 +1088,7 @@
     "type": "Sigil",
     "imageName": "prisma-sigil.png",
     "category": "Sigils",
-    "tradable": true
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceB",
@@ -1187,7 +1187,6 @@
     "type": "Sigil",
     "imageName": "rift-sigil.png",
     "category": "Sigils",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 15.16.2",
@@ -1197,7 +1196,8 @@
         "changes": "The Rift Sigil will now fully lit up in Liset/Hub, as there is no energy",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PrimeAccessSigilLimbo",
@@ -1206,7 +1206,6 @@
     "type": "Sigil",
     "imageName": "rift-walker-prime-sigil.png",
     "category": "Sigils",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.5",
@@ -1216,7 +1215,8 @@
         "changes": "Improved the Rift Walker Prime Sigil to be more metallic. This is the start of our Art team going through previous Prime Sigils to give them the same metallic treatment by request! ",
         "fixes": "Fixed Rift Walker Prime Sigil flickering in the Arsenal."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilG",
@@ -1477,7 +1477,6 @@
     "type": "Sigil",
     "imageName": "verlorum-prime-sigil.png",
     "category": "Sigils",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Update 21: Chains of Harrow",
@@ -1488,7 +1487,8 @@
         "changes": "Made the Cycuta and Verlorum Prime Sigils appear more metallic.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianD",
@@ -1497,7 +1497,6 @@
     "type": "Sigil",
     "imageName": "vigilance-sigil.png",
     "category": "Sigils",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
@@ -1508,7 +1507,8 @@
         "changes": "•    Steel Meridian ‘Vigilance Sigil’ has been renamed to  ‘Diligence Sigil’",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilH",

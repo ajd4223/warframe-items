@@ -834,7 +834,6 @@
     "type": "Misc",
     "imageName": "chroma-dynasty-glyph.png",
     "category": "Glyphs",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia's Anthem: Update 20.1.0",
@@ -845,7 +844,8 @@
         "changes": "",
         "fixes": "Chroma Dynasty Glyph is also available!"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageChromaBright",
@@ -1583,7 +1583,6 @@
     "type": "Misc",
     "imageName": "excalibur-umbra-glyph - Lotus-Types-StoreItems-AvatarImages-ImageExcaliburUmbraBright.png",
     "category": "Glyphs",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.6",
@@ -1594,7 +1593,8 @@
         "changes": "",
         "fixes": "Fixed not being able to purchase the Excalibur Umbra Glyph."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageExcaliburUmbraDark",
@@ -1603,7 +1603,6 @@
     "type": "Misc",
     "imageName": "excalibur-umbra-glyph.png",
     "category": "Glyphs",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.6",
@@ -1614,7 +1613,8 @@
         "changes": "",
         "fixes": "Fixed not being able to purchase the Excalibur Umbra Glyph."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageGrineerChampionHealer",
@@ -2082,7 +2082,6 @@
     "type": "Misc",
     "imageName": "guiding-rose-glyph.png",
     "category": "Glyphs",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.6.0 + Hotfix 22.6.0.1",
@@ -2093,7 +2092,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCreatorH3dsh0t",
@@ -2291,7 +2291,6 @@
     "type": "Misc",
     "imageName": "inaros-canopic-glyph - Lotus-Types-StoreItems-AvatarImages-ImageSandmanCanopicBright.png",
     "category": "Glyphs",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.11.0",
@@ -2302,7 +2301,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageSandmanCanopicDark",
@@ -2311,7 +2311,6 @@
     "type": "Misc",
     "imageName": "inaros-canopic-glyph.png",
     "category": "Glyphs",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.11.0",
@@ -2322,7 +2321,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageSandmanBright",
@@ -2448,7 +2448,6 @@
     "type": "Misc",
     "imageName": "ivara-zirastra-glyph - Lotus-Types-StoreItems-AvatarImages-ImageRangerZirastraBright.png",
     "category": "Glyphs",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.11.0",
@@ -2459,7 +2458,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageRangerZirastraDark",
@@ -2468,7 +2468,6 @@
     "type": "Misc",
     "imageName": "ivara-zirastra-glyph.png",
     "category": "Glyphs",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.11.0",
@@ -2479,7 +2478,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageIvorysMoon",
@@ -3001,7 +3001,6 @@
     "type": "Misc",
     "imageName": "loki-prime-glyph - Lotus-Types-StoreItems-AvatarImages-ImageLokiPrimeBright.png",
     "category": "Glyphs",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.20.0",
@@ -3020,7 +3019,8 @@
         "changes": "",
         "fixes": "Fixed the Loki Prime Glyphs description being unlocalized."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLokiPrimeDark",
@@ -3029,7 +3029,6 @@
     "type": "Misc",
     "imageName": "loki-prime-glyph.png",
     "category": "Glyphs",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.20.0",
@@ -3048,7 +3047,8 @@
         "changes": "",
         "fixes": "Fixed the Loki Prime Glyphs description being unlocalized."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLokiSwindleBright",
@@ -6063,7 +6063,6 @@
     "type": "Misc",
     "imageName": "wukong-macak-glyph - Lotus-Types-StoreItems-AvatarImages-ImageMonkeyKingMacakBright.png",
     "category": "Glyphs",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.11.0",
@@ -6074,7 +6073,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageMonkeyKingMacakDark",
@@ -6083,7 +6083,6 @@
     "type": "Misc",
     "imageName": "wukong-macak-glyph.png",
     "category": "Glyphs",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.11.0",
@@ -6094,7 +6093,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageX3lp",

@@ -74,7 +74,6 @@
     ],
     "imageName": "acrid.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Update 22.17.0 + 22.17.0.1",
@@ -211,7 +210,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a8/Acrid2.png/revision/latest?cb=20130530193010",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Acrid",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Afuris",
@@ -322,7 +322,6 @@
     ],
     "imageName": "afuris.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Hotfix 22.16.3",
@@ -388,7 +387,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/20/Afuris.png/revision/latest?cb=20170606011035",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Afuris",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Akbolto",
@@ -499,7 +499,6 @@
     ],
     "imageName": "akbolto.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 17.5: The Jordas Precept. + Hotfix 17.5.1",
@@ -572,7 +571,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/0e/Akbolto.png/revision/latest?cb=20130426075511",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Akbolto",
-    "disposition": 2
+    "disposition": 2,
+    "tradable": false
   },
   {
     "name": "Akbolto Prime",
@@ -845,7 +845,6 @@
     ],
     "imageName": "akbolto-prime.png",
     "category": "Secondary",
-    "tradable": true,
     "ammo": 210,
     "damage": "32.0",
     "damageTypes": {
@@ -860,7 +859,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/88/MirageAkboltoPrime.png/revision/latest?cb=20171213095347",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Akbolto_Prime",
-    "disposition": 2
+    "disposition": 2,
+    "tradable": true
   },
   {
     "name": "Akbronco",
@@ -971,7 +971,6 @@
     ],
     "imageName": "akbronco.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 21: Chains of Harrow",
@@ -997,7 +996,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a0/Dual_Broncos.png/revision/latest?cb=20130524143655",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Akbronco",
-    "disposition": 4
+    "disposition": 4,
+    "tradable": false
   },
   {
     "name": "Akbronco Prime",
@@ -1402,7 +1402,6 @@
     ],
     "imageName": "akbronco-prime.png",
     "category": "Secondary",
-    "tradable": true,
     "ammo": 210,
     "damage": "350.0",
     "damageTypes": {
@@ -1416,7 +1415,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/af/DEPrimeDualBroncos.png/revision/latest?cb=20140306030523",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Akbronco_Prime",
-    "disposition": 4
+    "disposition": 4,
+    "tradable": true
   },
   {
     "name": "Akjagara",
@@ -1527,7 +1527,6 @@
     ],
     "imageName": "akjagara.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 18.5: Sands of Inaros",
@@ -1561,7 +1560,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/89/TnoBladedPistols.png/revision/latest?cb=20150205211110",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Akjagara",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Aklato",
@@ -1591,7 +1591,6 @@
     "type": "Dual Pistols",
     "imageName": "aklato.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia's Anthem: Update 20",
@@ -1632,7 +1631,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/47/Aklato.png/revision/latest?cb=20170210002057",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Aklato",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Aklex",
@@ -1743,7 +1743,6 @@
     ],
     "imageName": "aklex.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 14.6.1",
@@ -1784,7 +1783,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/85/DEAklex.png/revision/latest?cb=20140124173940",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Aklex",
-    "disposition": 3
+    "disposition": 3,
+    "tradable": false
   },
   {
     "name": "Aklex Prime",
@@ -1973,7 +1973,6 @@
     ],
     "imageName": "aklex-prime.png",
     "category": "Secondary",
-    "tradable": true,
     "ammo": 210,
     "damage": "150.0",
     "damageTypes": {
@@ -1987,7 +1986,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/61/Aklex_Prime.png/revision/latest?cb=20170127212929",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Aklex_Prime",
-    "disposition": 3
+    "disposition": 3,
+    "tradable": true
   },
   {
     "name": "Akmagnus",
@@ -2098,7 +2098,6 @@
     ],
     "imageName": "akmagnus.png",
     "category": "Secondary",
-    "tradable": false,
     "damage": "76.0",
     "damageTypes": {
       "impact": 34.2,
@@ -2112,7 +2111,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/11/DEAkmagnus.png/revision/latest?cb=20140204013038",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Akmagnus",
-    "disposition": 4
+    "disposition": 4,
+    "tradable": false
   },
   {
     "name": "Aksomati",
@@ -2202,7 +2202,6 @@
     ],
     "imageName": "aksomati.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Hotfix 22.16.2",
@@ -2252,7 +2251,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/de/AkimboSomaPistols.png/revision/latest?cb=20150408223719",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Aksomati",
-    "disposition": 4
+    "disposition": 4,
+    "tradable": false
   },
   {
     "name": "Akstiletto",
@@ -2329,7 +2329,6 @@
     ],
     "imageName": "akstiletto.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Zephyr Prime 22.16.4",
@@ -2399,7 +2398,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/e/ef/TennoUzi.png/revision/latest?cb=20140206061957",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Akstiletto",
-    "disposition": 1
+    "disposition": 1,
+    "tradable": false
   },
   {
     "name": "Akstiletto Prime",
@@ -2816,7 +2816,6 @@
     ],
     "imageName": "akstiletto-prime.png",
     "category": "Secondary",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Zephyr Prime 22.16.4",
@@ -2867,7 +2866,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/43/PrimeAkstiletto.png/revision/latest?cb=20160520210650",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Akstiletto_Prime",
-    "disposition": 1
+    "disposition": 1,
+    "tradable": true
   },
   {
     "name": "Akvasto",
@@ -2978,7 +2978,6 @@
     ],
     "imageName": "akvasto.png",
     "category": "Secondary",
-    "tradable": false,
     "ammo": 210,
     "damage": "58.0",
     "damageTypes": {
@@ -2993,7 +2992,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/fa/Dual_vastos.png/revision/latest?cb=20130901100333",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Akvasto",
-    "disposition": 4
+    "disposition": 4,
+    "tradable": false
   },
   {
     "name": "Akzani",
@@ -3070,7 +3070,6 @@
     ],
     "imageName": "akzani.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Glast Gambit: Update 19.5",
@@ -3105,7 +3104,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/0c/Akzani.png/revision/latest?cb=20170403054851",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Akzani",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Angstrum",
@@ -3182,7 +3182,6 @@
     ],
     "imageName": "angstrum.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.3 - Limbo Prime",
@@ -3385,7 +3384,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/fe/CorpusHandRocket.png/revision/latest?cb=20170606150901",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Angstrum",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Arca Scisco",
@@ -3462,7 +3462,6 @@
     ],
     "imageName": "arca-scisco.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.3.5",
@@ -3494,7 +3493,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/0f/CrpScopePistol.png/revision/latest?cb=20170907190537",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Arca_Scisco",
-    "disposition": 3
+    "disposition": 3,
+    "tradable": false
   },
   {
     "name": "Artax",
@@ -3524,7 +3524,6 @@
     "type": "Rifle",
     "imageName": "artax.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.4",
@@ -3554,7 +3553,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/06/SentinelArtax.png/revision/latest?cb=20170209235027",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Artax",
-    "disposition": 3
+    "disposition": 3,
+    "tradable": false
   },
   {
     "name": "Atomos",
@@ -3631,7 +3631,6 @@
     ],
     "imageName": "atomos.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23",
@@ -3772,7 +3771,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/77/GrnHeatGun.png/revision/latest?cb=20150512233115",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Atomos",
-    "disposition": 2
+    "disposition": 2,
+    "tradable": false
   },
   {
     "name": "Azima",
@@ -3802,7 +3802,6 @@
     "type": "Pistol",
     "imageName": "azima.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Hotfix 22.17.1 - 22.17.1.1",
@@ -3921,7 +3920,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/4b/SundialPistol.png/revision/latest?cb=20171031145315",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Azima",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Ballistica",
@@ -3998,7 +3998,6 @@
     ],
     "imageName": "ballistica.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.8.1",
@@ -4147,7 +4146,7 @@
       "puncture": 80
     },
     "marketCost": 240,
-    "polarities": [  ],
+    "polarities": [ "Vazarin" ],
     "projectile": "Projectile",
     "secondary": {
       "name": "Burst Shot",
@@ -4166,7 +4165,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/92/DEBallistica.png/revision/latest?cb=20140101053337",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Ballistica",
-    "disposition": 2
+    "disposition": 2,
+    "tradable": false
   },
   {
     "name": "Ballistica Prime",
@@ -4498,7 +4498,6 @@
     ],
     "imageName": "ballistica-prime.png",
     "category": "Secondary",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.8.1",
@@ -4540,7 +4539,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/db/PrimeBallistica.png/revision/latest?cb=20170829215439",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Ballistica_Prime",
-    "disposition": 2
+    "disposition": 2,
+    "tradable": true
   },
   {
     "name": "Bolto",
@@ -4638,7 +4638,6 @@
     ],
     "imageName": "bolto.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Prime Vault Hotfix 23.1.2!",
@@ -4943,7 +4942,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a0/Bolto.png/revision/latest?cb=20130426074708",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Bolto",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Brakk",
@@ -5042,7 +5042,6 @@
     ],
     "imageName": "brakk.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.20.0",
@@ -5124,7 +5123,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/b5/DEGrineerHandShotgun.png/revision/latest?cb=20140116153506",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Brakk",
-    "disposition": 1
+    "disposition": 1,
+    "tradable": false
   },
   {
     "name": "Bronco",
@@ -5201,7 +5201,6 @@
     ],
     "imageName": "bronco.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Chains of Harrow: Hotfix 21.3.2",
@@ -5266,7 +5265,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/8e/Bronco.png/revision/latest?cb=20130426074714",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Bronco",
-    "disposition": 4
+    "disposition": 4,
+    "tradable": false
   },
   {
     "name": "Bronco Prime",
@@ -5848,7 +5848,6 @@
     ],
     "imageName": "bronco-prime.png",
     "category": "Secondary",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Chains of Harrow: Hotfix 21.3.2",
@@ -5888,7 +5887,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c8/PrimeBronco.png/revision/latest?cb=20130713204336",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Bronco_Prime",
-    "disposition": 4
+    "disposition": 4,
+    "tradable": true
   },
   {
     "name": "Burst Laser",
@@ -5918,7 +5918,6 @@
     "type": "Pistol",
     "imageName": "burst-laser.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Glast Gambit: Hotfix 19.6.1",
@@ -5949,7 +5948,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/d4/DESentinelBurstLaser.png/revision/latest?cb=20140122154227",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Burst_Laser",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Castanas",
@@ -6026,7 +6026,6 @@
     ],
     "imageName": "castanas.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.20.0",
@@ -6275,7 +6274,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/17/TaserStar.png/revision/latest?cb=20140226214533",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Castanas",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Cestra",
@@ -6352,7 +6352,6 @@
     ],
     "imageName": "cestra.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Glast Gambit: Update 19.5",
@@ -6467,7 +6466,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/16/CorpusMinigun.png/revision/latest?cb=20140221191931",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Cestra",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Cycron",
@@ -6544,7 +6544,6 @@
     ],
     "imageName": "cycron.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Update 22.14.0",
@@ -6621,7 +6620,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/66/Cycron.png/revision/latest?cb=20170426223716",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Cycron",
-    "disposition": 3
+    "disposition": 3,
+    "tradable": false
   },
   {
     "name": "Deconstructor",
@@ -6651,7 +6651,6 @@
     "type": "Glaive",
     "imageName": "deconstructor.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -6723,7 +6722,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a1/SentinelGlaiveWeapon.png/revision/latest?cb=20140422001413",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Deconstructor",
-    "disposition": 4
+    "disposition": 4,
+    "tradable": false
   },
   {
     "name": "Deconstructor Prime",
@@ -6753,7 +6753,6 @@
     "type": "Glaive",
     "imageName": "deconstructor-prime.png",
     "category": "Secondary",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -6784,7 +6783,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/9f/DeconstructorPrime.png/revision/latest?cb=20170222214714",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Deconstructor_Prime",
-    "disposition": 4
+    "disposition": 4,
+    "tradable": false
   },
   {
     "name": "Despair",
@@ -6899,7 +6899,6 @@
     ],
     "imageName": "despair.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 19: The War Within",
@@ -6990,7 +6989,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/25/Despair.png/revision/latest?cb=20170304062240",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Despair",
-    "disposition": 4
+    "disposition": 4,
+    "tradable": false
   },
   {
     "name": "Deth Machine Rifle",
@@ -7020,7 +7020,6 @@
     "type": "Rifle",
     "imageName": "deth-machine-rifle.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 12: Zephyr Rises",
@@ -7043,7 +7042,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f2/DESentinelDethMachineRifle.png/revision/latest?cb=20140122154228",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Deth_Machine_Rifle",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Detron",
@@ -7134,7 +7134,6 @@
     ],
     "imageName": "detron.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Hotfix 22.13.1",
@@ -7232,7 +7231,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/fd/DECorpusHandCannon.png/revision/latest?cb=20140116153506",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Detron",
-    "disposition": 3
+    "disposition": 3,
+    "tradable": false
   },
   {
     "name": "Dex Furis",
@@ -7262,7 +7262,6 @@
     "type": "Dual Pistols",
     "imageName": "dex-furis.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Glast Gambit: Update 19.5",
@@ -7336,7 +7335,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/33/DexFuris.png/revision/latest?cb=20170606011218",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Dex_Furis",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Dual Cestra",
@@ -7455,7 +7455,6 @@
     ],
     "imageName": "dual-cestra.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Glast Gambit: Update 19.5",
@@ -7538,7 +7537,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/4/4e/DualCorpusMinigun.png/revision/latest?cb=20140206061958",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Dual_Cestra",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Dual Toxocyst",
@@ -7615,7 +7615,6 @@
     ],
     "imageName": "dual-toxocyst.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Index Preview",
@@ -7684,7 +7683,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/09/InfVomitGun.png/revision/latest?cb=20160304215549",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Dual_Toxocyst",
-    "disposition": 4
+    "disposition": 4,
+    "tradable": false
   },
   {
     "name": "Embolist",
@@ -7761,7 +7761,6 @@
     ],
     "imageName": "embolist.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Update 22.14.0",
@@ -7877,7 +7876,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/8c/InfestedPistol.png/revision/latest?cb=20140314172859",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Embolist",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Euphona Prime",
@@ -8195,7 +8195,6 @@
     ],
     "imageName": "euphona-prime.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.2 + 23.0.2.1",
@@ -8264,7 +8263,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/23/EuphoraPrime.png/revision/latest?cb=20170301080132",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Euphona_Prime",
-    "disposition": 1
+    "disposition": 1,
+    "tradable": false
   },
   {
     "name": "Furis",
@@ -8341,7 +8341,6 @@
     ],
     "imageName": "furis.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Update 22.17.3",
@@ -8509,7 +8508,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/3e/Furis.png/revision/latest?cb=20170606011114",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Furis",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Fusilai",
@@ -8586,7 +8586,6 @@
     ],
     "imageName": "fusilai.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.0.9",
@@ -8626,7 +8625,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/6d/GlassKunai.png/revision/latest?cb=20171017224243",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Fusilai",
-    "disposition": 4
+    "disposition": 4,
+    "tradable": false
   },
   {
     "name": "Gammacor",
@@ -8703,7 +8703,6 @@
     ],
     "imageName": "gammacor.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Update 22.14.0",
@@ -8891,7 +8890,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/24/Gammacor.png/revision/latest?cb=20141127182228",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Gammacor",
-    "disposition": 1
+    "disposition": 1,
+    "tradable": false
   },
   {
     "name": "Hikou",
@@ -8968,7 +8968,6 @@
     ],
     "imageName": "hikou.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Prime Vault Hotfix 23.1.2!",
@@ -9092,7 +9091,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/d9/Hikou.png/revision/latest?cb=20171219142910",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Hikou",
-    "disposition": 1
+    "disposition": 1,
+    "tradable": false
   },
   {
     "name": "Hikou Prime",
@@ -9386,7 +9386,6 @@
     ],
     "imageName": "hikou-prime.png",
     "category": "Secondary",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "The Sacrifice: Prime Vault Hotfix 23.1.2!",
@@ -9436,7 +9435,8 @@
     "vaulted": true,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/b4/PrimeHikou.png/revision/latest?cb=20140923195818",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Hikou_Prime",
-    "disposition": 1
+    "disposition": 1,
+    "tradable": true
   },
   {
     "name": "Hystrix",
@@ -9555,7 +9555,6 @@
     ],
     "imageName": "hystrix.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.5",
@@ -9623,7 +9622,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a7/Hystrix.png/revision/latest?cb=20180417184116",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Hystrix",
-    "disposition": 3
+    "disposition": 3,
+    "tradable": false
   },
   {
     "name": "Knell",
@@ -9700,7 +9700,6 @@
     ],
     "imageName": "knell.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.20.0",
@@ -9776,7 +9775,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/8a/PriestPistol.png/revision/latest?cb=20170629034316",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Knell",
-    "disposition": 3
+    "disposition": 3,
+    "tradable": false
   },
   {
     "name": "Kohmak",
@@ -9853,7 +9853,6 @@
     ],
     "imageName": "kohmak.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Glast Gambit: Update 19.5",
@@ -9919,7 +9918,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/81/GrnWindUpPistol.png/revision/latest?cb=20150320022624",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Kohmak",
-    "disposition": 4
+    "disposition": 4,
+    "tradable": false
   },
   {
     "name": "Kraken",
@@ -9996,7 +9996,6 @@
     ],
     "imageName": "kraken.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.3.0 + 23.3.0.1",
@@ -10105,7 +10104,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/d3/Kraken.png/revision/latest?cb=20170406043414",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Kraken",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Kulstar",
@@ -10203,7 +10203,6 @@
     ],
     "imageName": "kulstar.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Octavia's Anthem: Update 20",
@@ -10304,7 +10303,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f0/GrnTorpedoPistol.png/revision/latest?cb=20150731174942",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Kulstar",
-    "disposition": 3
+    "disposition": 3,
+    "tradable": false
   },
   {
     "name": "Kunai",
@@ -10381,7 +10381,6 @@
     ],
     "imageName": "kunai.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hydroid Prime: Update 21.6.0",
@@ -10545,7 +10544,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/35/Kunai2.png/revision/latest?cb=20170210002129",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Kunai",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Laser Rifle",
@@ -10575,7 +10575,6 @@
     "type": "Rifle",
     "imageName": "laser-rifle.png",
     "category": "Secondary",
-    "tradable": false,
     "damage": "8.0",
     "damageTypes": {
       "impact": 0.8,
@@ -10588,7 +10587,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/d4/DESentinelLaserRifle.png/revision/latest?cb=20140122154228",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Laser_Rifle",
-    "disposition": 4
+    "disposition": 4,
+    "tradable": false
   },
   {
     "name": "Lato",
@@ -10618,7 +10618,6 @@
     "type": "Pistol",
     "imageName": "lato.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -10782,7 +10781,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/26/Lato.png/revision/latest?cb=20170210002056",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Lato",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Lato Prime",
@@ -10812,7 +10812,6 @@
     "type": "Pistol",
     "imageName": "lato-prime.png",
     "category": "Secondary",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Octavia's Anthem: Update 20",
@@ -10853,7 +10852,8 @@
     "vaulted": true,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/03/LatoPrime.png/revision/latest?cb=20161029030340",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Lato_Prime",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Lato Vandal",
@@ -10941,7 +10941,6 @@
     ],
     "imageName": "lato-vandal.png",
     "category": "Secondary",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Octavia's Anthem: Update 20",
@@ -10991,7 +10990,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/59/DELatoVandal.png/revision/latest?cb=20180422234655",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Lato_Vandal",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": true
   },
   {
     "name": "Lex",
@@ -11021,7 +11021,6 @@
     "type": "Pistol",
     "imageName": "lex.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hydroid Prime: Update 21.7.0",
@@ -11159,7 +11158,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/6f/Lex.png/revision/latest?cb=20130426074737",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Lex",
-    "disposition": 1
+    "disposition": 1,
+    "tradable": false
   },
   {
     "name": "Lex Prime",
@@ -11933,7 +11933,6 @@
     ],
     "imageName": "lex-prime.png",
     "category": "Secondary",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Specters of the Rail: U2.1",
@@ -11998,7 +11997,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/9e/PrimeLex.png/revision/latest?cb=20140410055707",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Lex_Prime",
-    "disposition": 1
+    "disposition": 1,
+    "tradable": true
   },
   {
     "name": "Magnus",
@@ -12075,7 +12075,6 @@
     ],
     "imageName": "magnus.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 17: Echoes Of The Sentient",
@@ -12132,7 +12131,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/26/TennoMagnum.png/revision/latest?cb=20140123005414",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Magnus",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Mara Detron",
@@ -12162,7 +12162,6 @@
     "type": "Shotgun Sidearm",
     "imageName": "mara-detron.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Glast Gambit: Hotfix 19.8.1",
@@ -12184,7 +12183,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c5/MaraDetron.png/revision/latest?cb=20141212183103",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Mara_Detron",
-    "disposition": 3
+    "disposition": 3,
+    "tradable": false
   },
   {
     "name": "Marelok",
@@ -12261,7 +12261,6 @@
     ],
     "imageName": "marelok.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.20.0",
@@ -12378,7 +12377,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/7e/GrineerLeverActionPistol.png/revision/latest?cb=20140227055729",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Marelok",
-    "disposition": 1
+    "disposition": 1,
+    "tradable": false
   },
   {
     "name": "Mk1-Furis",
@@ -12515,7 +12515,6 @@
     ],
     "imageName": "nukor.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Update 22.14.0",
@@ -12631,7 +12630,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/d3/GrineerMicrowaveGun.png/revision/latest?cb=20140828170520",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Nukor",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Pandero",
@@ -12708,7 +12708,6 @@
     ],
     "imageName": "pandero.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.6",
@@ -12809,7 +12808,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/cb/TnBardPistol.png/revision/latest?cb=20170324230208",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Pandero",
-    "disposition": 3
+    "disposition": 3,
+    "tradable": false
   },
   {
     "name": "Pox",
@@ -12886,7 +12886,6 @@
     ],
     "imageName": "pox.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Hotfix 22.16.2",
@@ -12951,7 +12950,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/bc/InfProximityStars.png/revision/latest?cb=20160819234428",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Pox",
-    "disposition": 2
+    "disposition": 2,
+    "tradable": false
   },
   {
     "name": "Prime Laser Rifle",
@@ -12981,7 +12981,6 @@
     "type": "Rifle",
     "imageName": "prime-laser-rifle.png",
     "category": "Secondary",
-    "tradable": true,
     "damage": "12.0",
     "damageTypes": {
       "impact": 1.2,
@@ -12994,7 +12993,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/93/SentinelBurstLaserPrime.png/revision/latest?cb=20140718041009",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Prime_Laser_Rifle",
-    "disposition": 4
+    "disposition": 4,
+    "tradable": false
   },
   {
     "name": "Prisma Angstrum",
@@ -13024,7 +13024,6 @@
     "type": "Pistol",
     "imageName": "prisma-angstrum.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Warframe Update 22: Plains of Eidolon",
@@ -13075,7 +13074,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/5f/PrismaAngstrum.png/revision/latest?cb=20170908141430",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Prisma_Angstrum",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Prisma Burst Laser",
@@ -13105,7 +13105,6 @@
     "type": "Pistol",
     "imageName": "prisma-burst-laser.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Glast Gambit: Hotfix 19.6.1",
@@ -13128,7 +13127,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/78/PrismaSentinelBurstLaser.png/revision/latest?cb=20160216223831",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Prisma_Burst_Laser",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Prisma Twin Gremlins",
@@ -13158,7 +13158,6 @@
     "type": "Dual Pistols",
     "imageName": "prisma-twin-gremlins.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Mask of the Revenant: Update 23.5.0",
@@ -13183,7 +13182,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/3a/PrismaTwinGremlins.png/revision/latest?cb=20180825235519",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Prisma_Twin_Gremlins",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Pyrana",
@@ -13260,7 +13260,6 @@
     ],
     "imageName": "pyrana.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.5",
@@ -13335,7 +13334,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/ad/SawnOffShotgun.png/revision/latest?cb=20140604224124",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Pyrana",
-    "disposition": 4
+    "disposition": 4,
+    "tradable": false
   },
   {
     "name": "Pyrana Prime",
@@ -13485,7 +13485,6 @@
     ],
     "imageName": "pyrana-prime.png",
     "category": "Secondary",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.5",
@@ -13527,7 +13526,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/e/e3/PyranaPrime.png/revision/latest?cb=20180619191908",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Pyrana_Prime",
-    "disposition": 4
+    "disposition": 4,
+    "tradable": true
   },
   {
     "name": "Rakta Ballistica",
@@ -13557,7 +13557,6 @@
     "type": "Crossbow",
     "imageName": "rakta-ballistica.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 16.8.1 + 16.8.2",
@@ -13634,7 +13633,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/2a/RVBallistica.png/revision/latest?cb=20141127183101",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Rakta_Ballistica",
-    "disposition": 2
+    "disposition": 2,
+    "tradable": false
   },
   {
     "name": "Sancti Castanas",
@@ -13664,7 +13664,6 @@
     "type": "Thrown",
     "imageName": "sancti-castanas.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Warframe: Sanctuary",
@@ -13703,7 +13702,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/ca/NLCastanas.png/revision/latest?cb=20141127182955",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Sancti_Castanas",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Secura Dual Cestra",
@@ -13733,7 +13733,6 @@
     "type": "Dual Pistols",
     "imageName": "secura-dual-cestra.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Glast Gambit: Update 19.5",
@@ -13782,7 +13781,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/8f/PSDualCestra.png/revision/latest?cb=20141127182956",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Secura_Dual_Cestra",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Seer",
@@ -13875,7 +13875,6 @@
     ],
     "imageName": "seer.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.20.0",
@@ -13951,7 +13950,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/75/CaptainVorPistol.png/revision/latest?cb=20130713203008",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Seer",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Sicarus",
@@ -13981,7 +13981,6 @@
     "type": "Pistol",
     "imageName": "sicarus.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.11.1",
@@ -14089,7 +14088,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/59/Sicarus.png/revision/latest?cb=20130426074741",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Sicarus",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Sicarus Prime",
@@ -14311,7 +14311,6 @@
     ],
     "imageName": "sicarus-prime.png",
     "category": "Secondary",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.11.1",
@@ -14362,7 +14361,8 @@
     "vaulted": true,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/d7/DESicarus_Prime.png/revision/latest?cb=20140124172933",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Sicarus_Prime",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": true
   },
   {
     "name": "Sonicor",
@@ -14439,7 +14439,6 @@
     ],
     "imageName": "sonicor.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.8.2",
@@ -14577,7 +14576,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a8/CrpAirPistolArray.png/revision/latest?cb=20151002090143",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Sonicor",
-    "disposition": 1
+    "disposition": 1,
+    "tradable": false
   },
   {
     "name": "Spectra",
@@ -14654,7 +14654,6 @@
     ],
     "imageName": "spectra.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23",
@@ -14836,7 +14835,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/7a/Spectra.png/revision/latest?cb=20131006130117",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Spectra",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Spira",
@@ -14913,7 +14913,6 @@
     ],
     "imageName": "spira.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Mirage Prime 22.7.0",
@@ -15039,7 +15038,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c5/LiDagger.png/revision/latest?cb=20150924014336",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Spira",
-    "disposition": 1
+    "disposition": 1,
+    "tradable": false
   },
   {
     "name": "Spira Prime",
@@ -15429,7 +15429,6 @@
     ],
     "imageName": "spira-prime.png",
     "category": "Secondary",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Mirage Prime 22.7.0",
@@ -15498,7 +15497,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/02/PrimeLiDagger.png/revision/latest?cb=20160207121252",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Spira_Prime",
-    "disposition": 1
+    "disposition": 1,
+    "tradable": true
   },
   {
     "name": "Staticor",
@@ -15575,7 +15575,6 @@
     ],
     "imageName": "staticor.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Chains of Harrow: Hotfix 21.0.4",
@@ -15724,7 +15723,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/64/CrpElectroMag.png/revision/latest?cb=20160205013734",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Staticor",
-    "disposition": 1
+    "disposition": 1,
+    "tradable": false
   },
   {
     "name": "Stinger",
@@ -15754,7 +15754,6 @@
     "type": "Rifle",
     "imageName": "stinger.png",
     "category": "Secondary",
-    "tradable": false,
     "damage": "15.0 toxin",
     "damageTypes": {
       "toxin": 15
@@ -15765,7 +15764,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/12/DESentinelStinger.png/revision/latest?cb=20140122154228",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Stinger",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Stubba",
@@ -15874,7 +15874,6 @@
     ],
     "imageName": "stubba.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.5",
@@ -15926,7 +15925,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/1/17/GrnUziWeapon.png/revision/latest?cb=20171221214433",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Stubba",
-    "disposition": 4
+    "disposition": 4,
+    "tradable": false
   },
   {
     "name": "Stug",
@@ -16003,7 +16003,6 @@
     ],
     "imageName": "stug.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Update 22.17.3",
@@ -16132,7 +16131,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/fc/GrineerCrossbowGooGun.png/revision/latest?cb=20140124172529",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Stug",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Sweeper",
@@ -16162,7 +16162,6 @@
     "type": "Shotgun",
     "imageName": "sweeper.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 18.11.0 & 18.11.1",
@@ -16193,7 +16192,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/2/25/DESentinelSweeper.png/revision/latest?cb=20140122154229",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Sweeper",
-    "disposition": 3
+    "disposition": 3,
+    "tradable": false
   },
   {
     "name": "Sweeper Prime",
@@ -16223,7 +16223,6 @@
     "type": "Shotgun",
     "imageName": "sweeper-prime.png",
     "category": "Secondary",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Update 18.11.0 & 18.11.1",
@@ -16246,7 +16245,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/8/81/SentinelSweeperPrime.png/revision/latest?cb=20150707200907",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Sweeper_Prime",
-    "disposition": 3
+    "disposition": 3,
+    "tradable": false
   },
   {
     "name": "Synoid Gammacor",
@@ -16276,7 +16276,6 @@
     "type": "Pistol",
     "imageName": "synoid-gammacor.png",
     "category": "Secondary",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Update 22.14.0",
@@ -16356,7 +16355,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/3b/SynoidGammacor.png/revision/latest?cb=20141127183102",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Synoid_Gammacor",
-    "disposition": 1
+    "disposition": 1,
+    "tradable": true
   },
   {
     "name": "Talons",
@@ -16433,7 +16433,6 @@
     ],
     "imageName": "talons.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23",
@@ -16569,7 +16568,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/c/c2/U18throwingknives.png/revision/latest?cb=20151204013310",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Talons",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Telos Akbolto",
@@ -16599,7 +16599,6 @@
     "type": "Dual Pistols",
     "imageName": "telos-akbolto.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 17.4.0",
@@ -16647,7 +16646,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/e/ec/AHAkbolto.png/revision/latest?cb=20141127181924",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Telos_Akbolto",
-    "disposition": 2
+    "disposition": 2,
+    "tradable": false
   },
   {
     "name": "Twin Grakatas",
@@ -16758,7 +16758,6 @@
     ],
     "imageName": "twin-grakatas.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Glast Gambit: Update 19.5",
@@ -16826,7 +16825,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f8/Akgrakata.png/revision/latest?cb=20150731174941",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Twin_Grakatas",
-    "disposition": 2
+    "disposition": 2,
+    "tradable": false
   },
   {
     "name": "Twin Gremlins",
@@ -16911,7 +16911,6 @@
     ],
     "imageName": "twin-gremlins.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Mask of the Revenant: Update 23.5.0",
@@ -17003,7 +17002,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/db/Gremlin.png/revision/latest?cb=20140314173236",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Twin_Gremlins",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Twin Kohmak",
@@ -17140,7 +17140,6 @@
     ],
     "imageName": "twin-kohmak.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 18.12.2",
@@ -17174,7 +17173,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/d/de/DualKohmak.png/revision/latest?cb=20160502123410",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Twin_Kohmak",
-    "disposition": 3
+    "disposition": 3,
+    "tradable": false
   },
   {
     "name": "Twin Rogga",
@@ -17251,7 +17251,6 @@
     ],
     "imageName": "twin-rogga.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Hotfix 22.17.4",
@@ -17302,7 +17301,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/b/b0/GrnQueenGuardDualPistols.png/revision/latest?cb=20161113000420",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Twin_Rogga",
-    "disposition": 3
+    "disposition": 3,
+    "tradable": false
   },
   {
     "name": "Twin Vipers",
@@ -17413,7 +17413,6 @@
     ],
     "imageName": "twin-vipers.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 19: The War Within",
@@ -17472,7 +17471,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/e/ed/Viper%2C_dual.png/revision/latest?cb=20130426075530",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Twin_Vipers",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Twin Vipers Wraith",
@@ -17541,7 +17541,6 @@
     ],
     "imageName": "twin-vipers-wraith.png",
     "category": "Secondary",
-    "tradable": true,
     "ammo": 440,
     "damage": "18.0",
     "damageTypes": {
@@ -17555,7 +17554,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a0/DEWraithTwinVipers.png/revision/latest?cb=20140124174609",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Twin_Vipers_Wraith",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": true
   },
   {
     "name": "Tysis",
@@ -17632,7 +17632,6 @@
     ],
     "imageName": "tysis.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Prime Vault Hotfix 23.1.2!",
@@ -17690,7 +17689,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/aa/DETysis.png/revision/latest?cb=20140116153508",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Tysis",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Vasto",
@@ -17767,7 +17767,6 @@
     ],
     "imageName": "vasto.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.0.2",
@@ -17859,7 +17858,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/6b/Vasto.png/revision/latest?cb=20130803104340",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Vasto",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Vasto Prime",
@@ -18081,7 +18081,6 @@
     ],
     "imageName": "vasto-prime.png",
     "category": "Secondary",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.0.2",
@@ -18137,7 +18136,8 @@
     "vaulted": true,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/f/f6/PrimeVasto.png/revision/latest?cb=20141217030947",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Vasto_Prime",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": true
   },
   {
     "name": "Vaykor Marelok",
@@ -18167,7 +18167,6 @@
     "type": "Pistol",
     "imageName": "vaykor-marelok.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 18.6.3",
@@ -18215,7 +18214,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a1/SMMarelok.png/revision/latest?cb=20141127183101",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Vaykor_Marelok",
-    "disposition": 1
+    "disposition": 1,
+    "tradable": false
   },
   {
     "name": "Viper",
@@ -18292,7 +18292,6 @@
     ],
     "imageName": "viper.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.20.0",
@@ -18449,7 +18448,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/9/99/Viper.png/revision/latest?cb=20130426074750",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Viper",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": false
   },
   {
     "name": "Viper Wraith",
@@ -18479,7 +18479,6 @@
     "type": "Pistol",
     "imageName": "viper-wraith.png",
     "category": "Secondary",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.20.0",
@@ -18521,7 +18520,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/7/72/ViperWraith.png/revision/latest?cb=20180121144809",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Viper_Wraith",
-    "disposition": 5
+    "disposition": 5,
+    "tradable": true
   },
   {
     "name": "Vulklok",
@@ -18551,7 +18551,6 @@
     "type": "Sniper Rifle",
     "imageName": "vulklok.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 17.4.3",
@@ -18596,7 +18595,8 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/3/34/SentinelElectricRailgun.png/revision/latest?cb=20150902215133",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Vulklok",
-    "disposition": 4
+    "disposition": 4,
+    "tradable": false
   },
   {
     "name": "Zakti",
@@ -18673,7 +18673,6 @@
     ],
     "imageName": "zakti.png",
     "category": "Secondary",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hydroid Prime: Update 21.6.0",
@@ -18716,6 +18715,50 @@
     "vaulted": false,
     "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/a7/Zakti.png/revision/latest?cb=20170720170336",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Zakti",
-    "disposition": 3
+    "disposition": 3,
+    "tradable": false
+  },
+  {
+    "name": "Zylok",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/ConclaveLeverPistol/ConclaveLeverPistol",
+    "secondsPerShot": 0.66666663,
+    "damagePerShot": [ 48.384003, 18.143999, 84.672005, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "magazineSize": 8,
+    "reloadTime": 1.2,
+    "totalDamage": 151.20001,
+    "damagePerSecond": 185,
+    "trigger": "Duplex",
+    "description": "Hammer the enemy with this light-bodied heavy hitter. Featuring a double-action trigger that fires hard and fast. ",
+    "accuracy": 200,
+    "criticalChance": 0.079999998,
+    "criticalMultiplier": 2,
+    "procChance": 0.25999999,
+    "fireRate": 1.5000001,
+    "chargeAttack": 0,
+    "spinAttack": 0,
+    "leapAttack": 0,
+    "wallAttack": 0,
+    "slot": 0,
+    "noise": "Alarming",
+    "sentinel": false,
+    "masteryReq": 6,
+    "omegaAttenuation": 1,
+    "type": "Pistol",
+    "imageName": "zylok.png",
+    "category": "Secondary",
+    "damage": "140.0",
+    "damageTypes": {
+      "impact": 44.8,
+      "slash": 78.4,
+      "puncture": 16.8
+    },
+    "polarities": [  ],
+    "projectile": "Hit-Scan",
+    "tags": [ "Tenno" ],
+    "vaulted": false,
+    "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/6/67/Zylok.png/revision/latest?cb=20180831004228",
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Zylok",
+    "disposition": 3,
+    "tradable": false
   }
 ]

@@ -78,7 +78,6 @@
     "type": "Relic",
     "imageName": "axi-a3-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Eris - Phalan",
@@ -476,7 +475,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionMiragePrimeBGold",
@@ -485,7 +485,6 @@
     "type": "Relic",
     "imageName": "axi-a3-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Eris - Phalan",
@@ -883,7 +882,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionMiragePrimeBBronze",
@@ -892,7 +892,6 @@
     "type": "Relic",
     "imageName": "axi-a3-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Eris - Phalan",
@@ -1290,7 +1289,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionMiragePrimeBPlatinum",
@@ -1299,7 +1299,6 @@
     "type": "Relic",
     "imageName": "axi-a3-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Eris - Phalan",
@@ -1697,7 +1696,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLimboPrimeDSilver",
@@ -1706,7 +1706,6 @@
     "type": "Relic",
     "imageName": "axi-a4-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Eris - Phalan",
@@ -2104,7 +2103,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLimboPrimeDGold",
@@ -2113,7 +2113,6 @@
     "type": "Relic",
     "imageName": "axi-a4-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Eris - Phalan",
@@ -2511,7 +2510,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLimboPrimeDBronze",
@@ -2520,7 +2520,6 @@
     "type": "Relic",
     "imageName": "axi-a4-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Eris - Phalan",
@@ -2918,7 +2917,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLimboPrimeDPlatinum",
@@ -2927,7 +2927,6 @@
     "type": "Relic",
     "imageName": "axi-a4-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Eris - Phalan",
@@ -3325,7 +3324,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionRSilver",
@@ -3514,7 +3514,6 @@
     "type": "Relic",
     "imageName": "axi-e2-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Eris - Phalan",
@@ -3912,7 +3911,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionSGold",
@@ -3921,7 +3921,6 @@
     "type": "Relic",
     "imageName": "axi-e2-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Eris - Phalan",
@@ -4319,7 +4318,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionSBronze",
@@ -4328,7 +4328,6 @@
     "type": "Relic",
     "imageName": "axi-e2-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Eris - Phalan",
@@ -4726,7 +4725,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionSPlatinum",
@@ -4735,7 +4735,6 @@
     "type": "Relic",
     "imageName": "axi-e2-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Eris - Phalan",
@@ -5133,7 +5132,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionKSilver",
@@ -5250,7 +5250,6 @@
     "type": "Relic",
     "imageName": "axi-h3-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Eris - Phalan",
@@ -5648,7 +5647,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionZephyrPrimeCGold",
@@ -5657,7 +5657,6 @@
     "type": "Relic",
     "imageName": "axi-h3-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Eris - Phalan",
@@ -6055,7 +6054,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionZephyrPrimeCBronze",
@@ -6064,7 +6064,6 @@
     "type": "Relic",
     "imageName": "axi-h3-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Eris - Phalan",
@@ -6462,7 +6461,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionZephyrPrimeCPlatinum",
@@ -6471,7 +6471,6 @@
     "type": "Relic",
     "imageName": "axi-h3-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Eris - Phalan",
@@ -6869,7 +6868,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCSilver",
@@ -6950,7 +6950,6 @@
     "type": "Relic",
     "imageName": "axi-k3-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 40 - 60 Bounty",
@@ -7366,7 +7365,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLimboPrimeAGold",
@@ -7375,7 +7375,6 @@
     "type": "Relic",
     "imageName": "axi-k3-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 40 - 60 Bounty",
@@ -7791,7 +7790,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLimboPrimeABronze",
@@ -7800,7 +7800,6 @@
     "type": "Relic",
     "imageName": "axi-k3-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 40 - 60 Bounty",
@@ -8216,7 +8215,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLimboPrimeAPlatinum",
@@ -8225,7 +8225,6 @@
     "type": "Relic",
     "imageName": "axi-k3-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 40 - 60 Bounty",
@@ -8641,7 +8640,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionELFVaultASilver",
@@ -8686,7 +8686,6 @@
     "type": "Relic",
     "imageName": "axi-l2-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 40 - 60 Bounty",
@@ -9102,7 +9101,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLimboPrimeCGold",
@@ -9111,7 +9111,6 @@
     "type": "Relic",
     "imageName": "axi-l2-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 40 - 60 Bounty",
@@ -9527,7 +9526,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLimboPrimeCBronze",
@@ -9536,7 +9536,6 @@
     "type": "Relic",
     "imageName": "axi-l2-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 40 - 60 Bounty",
@@ -9952,7 +9951,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLimboPrimeCPlatinum",
@@ -9961,7 +9961,6 @@
     "type": "Relic",
     "imageName": "axi-l2-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 40 - 60 Bounty",
@@ -10377,7 +10376,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionDSilver",
@@ -10638,7 +10638,6 @@
     "type": "Relic",
     "imageName": "axi-o3-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 40 - 60 Bounty",
@@ -11054,7 +11053,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLimboPrimeBGold",
@@ -11063,7 +11063,6 @@
     "type": "Relic",
     "imageName": "axi-o3-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 40 - 60 Bounty",
@@ -11479,7 +11478,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLimboPrimeBBronze",
@@ -11488,7 +11488,6 @@
     "type": "Relic",
     "imageName": "axi-o3-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 40 - 60 Bounty",
@@ -11904,7 +11903,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionLimboPrimeBPlatinum",
@@ -11913,7 +11913,6 @@
     "type": "Relic",
     "imageName": "axi-o3-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 40 - 60 Bounty",
@@ -12329,7 +12328,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionYSilver",
@@ -12446,7 +12446,6 @@
     "type": "Relic",
     "imageName": "axi-s3-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void - Mot",
@@ -12481,7 +12480,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionRhinoNyxVaultAGold",
@@ -12490,7 +12490,6 @@
     "type": "Relic",
     "imageName": "axi-s3-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void - Mot",
@@ -12525,7 +12524,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionRhinoNyxVaultABronze",
@@ -12534,7 +12534,6 @@
     "type": "Relic",
     "imageName": "axi-s3-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void - Mot",
@@ -12569,7 +12568,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionRhinoNyxVaultAPlatinum",
@@ -12578,7 +12578,6 @@
     "type": "Relic",
     "imageName": "axi-s3-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void - Mot",
@@ -12613,7 +12612,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionJSilver",
@@ -12874,7 +12874,6 @@
     "type": "Relic",
     "imageName": "axi-v7-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Eris - Phalan",
@@ -13272,7 +13271,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionMiragePrimeAGold",
@@ -13281,7 +13281,6 @@
     "type": "Relic",
     "imageName": "axi-v7-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Eris - Phalan",
@@ -13679,7 +13678,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionMiragePrimeABronze",
@@ -13688,7 +13688,6 @@
     "type": "Relic",
     "imageName": "axi-v7-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Eris - Phalan",
@@ -14086,7 +14085,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionMiragePrimeAPlatinum",
@@ -14095,7 +14095,6 @@
     "type": "Relic",
     "imageName": "axi-v7-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Eris - Phalan",
@@ -14493,7 +14492,8 @@
         "chance": 0.025099999999999997,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionVoltOdonataPrimeSilver",
@@ -14583,7 +14583,6 @@
     ],
     "imageName": "exodia-brave.png",
     "category": "Relics",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.2 + 23.0.2.1",
@@ -14593,7 +14592,8 @@
         "changes": "",
         "fixes": "Fixed Channeled finishers with Zaws not activating Dispatch Overdrive or Exodia Brave. "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeArcaneProjectileOnJump",
@@ -14647,7 +14647,6 @@
     ],
     "imageName": "exodia-contagion.png",
     "category": "Relics",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.20.0",
@@ -14676,7 +14675,8 @@
         "changes": "",
         "fixes": "Fixed the range increase from Iron Vault scaling with Exodia Contagion. "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeArcaneShockwaveOnJump",
@@ -14730,7 +14730,6 @@
     ],
     "imageName": "exodia-epidemic.png",
     "category": "Relics",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.19.0",
@@ -14749,7 +14748,8 @@
         "changes": "",
         "fixes": "Fixed Zaws with Covert Lethality and Exodia Epidemic unintentionally insta killing enemies. Covert Lethality does not carry over to projectiles or other effects created by weapons, and only applies on Melee finishers."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/StatusTriggerRadialDamage",
@@ -14803,7 +14803,6 @@
     ],
     "imageName": "exodia-force.png",
     "category": "Relics",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.20.0",
@@ -14832,7 +14831,8 @@
         "changes": "Melee combo multiplier now applies to the radial blast of Exodia Force. This also fixes Exodia Force not scaling off of Modded Damage.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GroundSlamPull",
@@ -14886,7 +14886,6 @@
     ],
     "imageName": "exodia-hunt.png",
     "category": "Relics",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.6.0 + Hotfix 22.6.0.1",
@@ -14897,7 +14896,8 @@
         "changes": "",
         "fixes": "Fixed Exodia Hunt affecting allies. "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/FinisherLifesteal",
@@ -15005,7 +15005,6 @@
     ],
     "imageName": "exodia-triumph.png",
     "category": "Relics",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.2.5",
@@ -15015,7 +15014,8 @@
         "changes": "",
         "fixes": "Fixed a black box HUD icon appearing when using a Zaw with the Exodia Triumph Arcane upgrade. This was an unintended Channeling Efficiency upgrade on top of its intended Channeling damage."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/CritChannelingDamage",
@@ -15114,7 +15114,6 @@
     "type": "Relic",
     "imageName": "lith-a2-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Chains of Harrow: Update 21.2.0 + 21.2.0.1",
@@ -15125,7 +15124,8 @@
         "changes": "Swapped out the Lith S1 Relic given upon completion of the Mars Junction to a Lith A2 Relic due to the Lith S1 being vaulted.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionXGold",
@@ -15134,7 +15134,6 @@
     "type": "Relic",
     "imageName": "lith-a2-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Chains of Harrow: Update 21.2.0 + 21.2.0.1",
@@ -15145,7 +15144,8 @@
         "changes": "Swapped out the Lith S1 Relic given upon completion of the Mars Junction to a Lith A2 Relic due to the Lith S1 being vaulted.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionXBronze",
@@ -15154,7 +15154,6 @@
     "type": "Relic",
     "imageName": "lith-a2-intact.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Chains of Harrow: Update 21.2.0 + 21.2.0.1",
@@ -15165,7 +15164,8 @@
         "changes": "Swapped out the Lith S1 Relic given upon completion of the Mars Junction to a Lith A2 Relic due to the Lith S1 being vaulted.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionXPlatinum",
@@ -15174,7 +15174,6 @@
     "type": "Relic",
     "imageName": "lith-a2-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Chains of Harrow: Update 21.2.0 + 21.2.0.1",
@@ -15185,7 +15184,8 @@
         "changes": "Swapped out the Lith S1 Relic given upon completion of the Mars Junction to a Lith A2 Relic due to the Lith S1 being vaulted.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionYSilver",
@@ -15266,7 +15266,6 @@
     "type": "Relic",
     "imageName": "lith-b3-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 10 - 30 Bounty",
@@ -15811,7 +15810,8 @@
         "chance": 0.0221,
         "rotation": "A"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLimboPrimeAGold",
@@ -15820,7 +15820,6 @@
     "type": "Relic",
     "imageName": "lith-b3-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 10 - 30 Bounty",
@@ -16365,7 +16364,8 @@
         "chance": 0.0221,
         "rotation": "A"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLimboPrimeABronze",
@@ -16374,7 +16374,6 @@
     "type": "Relic",
     "imageName": "lith-b3-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 10 - 30 Bounty",
@@ -16919,7 +16918,8 @@
         "chance": 0.0221,
         "rotation": "A"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLimboPrimeAPlatinum",
@@ -16928,7 +16928,6 @@
     "type": "Relic",
     "imageName": "lith-b3-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 10 - 30 Bounty",
@@ -17473,7 +17472,8 @@
         "chance": 0.0221,
         "rotation": "A"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionRhinoNyxVaultASilver",
@@ -17482,7 +17482,6 @@
     "type": "Relic",
     "imageName": "lith-b4-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void - Teshub",
@@ -17536,7 +17535,8 @@
         "rarity": "Rare",
         "chance": 0.0667
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionRhinoNyxVaultAGold",
@@ -17545,7 +17545,6 @@
     "type": "Relic",
     "imageName": "lith-b4-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void - Teshub",
@@ -17599,7 +17598,8 @@
         "rarity": "Rare",
         "chance": 0.0667
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionRhinoNyxVaultABronze",
@@ -17608,7 +17608,6 @@
     "type": "Relic",
     "imageName": "lith-b4-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void - Teshub",
@@ -17662,7 +17661,8 @@
         "rarity": "Rare",
         "chance": 0.0667
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionRhinoNyxVaultAPlatinum",
@@ -17671,7 +17671,6 @@
     "type": "Relic",
     "imageName": "lith-b4-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void - Teshub",
@@ -17725,7 +17724,8 @@
         "rarity": "Rare",
         "chance": 0.0667
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionJSilver",
@@ -17770,7 +17770,6 @@
     "type": "Relic",
     "imageName": "lith-c2-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Venus - Unda",
@@ -18283,7 +18282,8 @@
         "chance": 0.0221,
         "rotation": "A"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionMiragePrimeAGold",
@@ -18292,7 +18292,6 @@
     "type": "Relic",
     "imageName": "lith-c2-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Venus - Unda",
@@ -18805,7 +18804,8 @@
         "chance": 0.0221,
         "rotation": "A"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionMiragePrimeABronze",
@@ -18814,7 +18814,6 @@
     "type": "Relic",
     "imageName": "lith-c2-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Venus - Unda",
@@ -19327,7 +19326,8 @@
         "chance": 0.0221,
         "rotation": "A"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionMiragePrimeAPlatinum",
@@ -19336,7 +19336,6 @@
     "type": "Relic",
     "imageName": "lith-c2-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Venus - Unda",
@@ -19849,7 +19848,8 @@
         "chance": 0.0221,
         "rotation": "A"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionCSilver",
@@ -20038,7 +20038,6 @@
     "type": "Relic",
     "imageName": "lith-h2-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Venus - Unda",
@@ -20562,7 +20561,8 @@
         "changes": "",
         "fixes": "Fixed Rotation A in easy Defense missions rewarding Neo B4 Relic instead of the intended Lith H2 Relic. "
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionZephyrPrimeBGold",
@@ -20571,7 +20571,6 @@
     "type": "Relic",
     "imageName": "lith-h2-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Venus - Unda",
@@ -21095,7 +21094,8 @@
         "changes": "",
         "fixes": "Fixed Rotation A in easy Defense missions rewarding Neo B4 Relic instead of the intended Lith H2 Relic. "
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionZephyrPrimeBBronze",
@@ -21104,7 +21104,6 @@
     "type": "Relic",
     "imageName": "lith-h2-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Venus - Unda",
@@ -21628,7 +21627,8 @@
         "changes": "",
         "fixes": "Fixed Rotation A in easy Defense missions rewarding Neo B4 Relic instead of the intended Lith H2 Relic. "
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionZephyrPrimeBPlatinum",
@@ -21637,7 +21637,6 @@
     "type": "Relic",
     "imageName": "lith-h2-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Venus - Unda",
@@ -22161,7 +22160,8 @@
         "changes": "",
         "fixes": "Fixed Rotation A in easy Defense missions rewarding Neo B4 Relic instead of the intended Lith H2 Relic. "
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionKSilver",
@@ -22350,7 +22350,6 @@
     "type": "Relic",
     "imageName": "lith-p1-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 15 - 25 Ghoul Bounty",
@@ -22867,7 +22866,8 @@
         "chance": 0.0221,
         "rotation": "A"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLimboPrimeDGold",
@@ -22876,7 +22876,6 @@
     "type": "Relic",
     "imageName": "lith-p1-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 15 - 25 Ghoul Bounty",
@@ -23393,7 +23392,8 @@
         "chance": 0.0221,
         "rotation": "A"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLimboPrimeDBronze",
@@ -23402,7 +23402,6 @@
     "type": "Relic",
     "imageName": "lith-p1-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 15 - 25 Ghoul Bounty",
@@ -23919,7 +23918,8 @@
         "chance": 0.0221,
         "rotation": "A"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLimboPrimeDPlatinum",
@@ -23928,7 +23928,6 @@
     "type": "Relic",
     "imageName": "lith-p1-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 15 - 25 Ghoul Bounty",
@@ -24445,7 +24444,8 @@
         "chance": 0.0221,
         "rotation": "A"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionASilver",
@@ -24454,7 +24454,6 @@
     "type": "Relic",
     "imageName": "lith-s1-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Chains of Harrow: Update 21.2.0 + 21.2.0.1",
@@ -24465,7 +24464,8 @@
         "changes": "Swapped out the Lith S1 Relic given upon completion of the Mars Junction to a Lith A2 Relic due to the Lith S1 being vaulted.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionAGold",
@@ -24474,7 +24474,6 @@
     "type": "Relic",
     "imageName": "lith-s1-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Chains of Harrow: Update 21.2.0 + 21.2.0.1",
@@ -24485,7 +24484,8 @@
         "changes": "Swapped out the Lith S1 Relic given upon completion of the Mars Junction to a Lith A2 Relic due to the Lith S1 being vaulted.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionABronze",
@@ -24494,7 +24494,6 @@
     "type": "Relic",
     "imageName": "lith-s1-intact.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Chains of Harrow: Update 21.2.0 + 21.2.0.1",
@@ -24505,7 +24504,8 @@
         "changes": "Swapped out the Lith S1 Relic given upon completion of the Mars Junction to a Lith A2 Relic due to the Lith S1 being vaulted.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionAPlatinum",
@@ -24514,7 +24514,6 @@
     "type": "Relic",
     "imageName": "lith-s1-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Chains of Harrow: Update 21.2.0 + 21.2.0.1",
@@ -24525,7 +24524,8 @@
         "changes": "Swapped out the Lith S1 Relic given upon completion of the Mars Junction to a Lith A2 Relic due to the Lith S1 being vaulted.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionBSilver",
@@ -24786,7 +24786,6 @@
     "type": "Relic",
     "imageName": "lith-t2-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 15 - 25 Ghoul Bounty",
@@ -25346,7 +25345,8 @@
         "changes": "",
         "fixes": "Fixed the Lith T2 Relic having 2 Braton Prime Blueprints as a reward (1 common and 1 uncommon). We replaced the common reward with the Valkyr Prime Blueprint."
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLimboPrimeCGold",
@@ -25355,7 +25355,6 @@
     "type": "Relic",
     "imageName": "lith-t2-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 15 - 25 Ghoul Bounty",
@@ -25915,7 +25914,8 @@
         "changes": "",
         "fixes": "Fixed the Lith T2 Relic having 2 Braton Prime Blueprints as a reward (1 common and 1 uncommon). We replaced the common reward with the Valkyr Prime Blueprint."
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLimboPrimeCBronze",
@@ -25924,7 +25924,6 @@
     "type": "Relic",
     "imageName": "lith-t2-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 15 - 25 Ghoul Bounty",
@@ -26484,7 +26483,8 @@
         "changes": "",
         "fixes": "Fixed the Lith T2 Relic having 2 Braton Prime Blueprints as a reward (1 common and 1 uncommon). We replaced the common reward with the Valkyr Prime Blueprint."
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLimboPrimeCPlatinum",
@@ -26493,7 +26493,6 @@
     "type": "Relic",
     "imageName": "lith-t2-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 15 - 25 Ghoul Bounty",
@@ -27053,7 +27052,8 @@
         "changes": "",
         "fixes": "Fixed the Lith T2 Relic having 2 Braton Prime Blueprints as a reward (1 common and 1 uncommon). We replaced the common reward with the Valkyr Prime Blueprint."
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionDSilver",
@@ -27206,7 +27206,6 @@
     "type": "Relic",
     "imageName": "lith-v5-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 10 - 30 Bounty",
@@ -27748,7 +27747,8 @@
         "changes": "Replaced the Bounty Level 40-60 Relic with a Axi O3. This fixes Bounty Level 40-60 Rotation B having the same Lith V5 Relic as Level 10-30.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLimboPrimeBGold",
@@ -27757,7 +27757,6 @@
     "type": "Relic",
     "imageName": "lith-v5-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 10 - 30 Bounty",
@@ -28299,7 +28298,8 @@
         "changes": "Replaced the Bounty Level 40-60 Relic with a Axi O3. This fixes Bounty Level 40-60 Rotation B having the same Lith V5 Relic as Level 10-30.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLimboPrimeBBronze",
@@ -28308,7 +28308,6 @@
     "type": "Relic",
     "imageName": "lith-v5-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 10 - 30 Bounty",
@@ -28850,7 +28849,8 @@
         "changes": "Replaced the Bounty Level 40-60 Relic with a Axi O3. This fixes Bounty Level 40-60 Rotation B having the same Lith V5 Relic as Level 10-30.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionLimboPrimeBPlatinum",
@@ -28859,7 +28859,6 @@
     "type": "Relic",
     "imageName": "lith-v5-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 10 - 30 Bounty",
@@ -29401,7 +29400,8 @@
         "changes": "Replaced the Bounty Level 40-60 Relic with a Axi O3. This fixes Bounty Level 40-60 Rotation B having the same Lith V5 Relic as Level 10-30.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionZephyrPrimeASilver",
@@ -29410,7 +29410,6 @@
     "type": "Relic",
     "imageName": "lith-z1-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Venus - Unda",
@@ -29923,7 +29922,8 @@
         "chance": 0.0221,
         "rotation": "A"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionZephyrPrimeAGold",
@@ -29932,7 +29932,6 @@
     "type": "Relic",
     "imageName": "lith-z1-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Venus - Unda",
@@ -30445,7 +30444,8 @@
         "chance": 0.0221,
         "rotation": "A"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionZephyrPrimeABronze",
@@ -30454,7 +30454,6 @@
     "type": "Relic",
     "imageName": "lith-z1-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Venus - Unda",
@@ -30967,7 +30966,8 @@
         "chance": 0.0221,
         "rotation": "A"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionZephyrPrimeAPlatinum",
@@ -30976,7 +30976,6 @@
     "type": "Relic",
     "imageName": "lith-z1-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Venus - Unda",
@@ -31489,7 +31488,8 @@
         "chance": 0.0221,
         "rotation": "A"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/SpeedOnVoidDash",
@@ -31651,7 +31651,6 @@
     ],
     "imageName": "magus-elevate.png",
     "category": "Relics",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.3.4",
@@ -31661,7 +31660,8 @@
         "changes": "Reduced the Magus Elevate from 2300 to 230 Oxium per craft.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/ArmourOnOperatorMode",
@@ -31715,7 +31715,6 @@
     ],
     "imageName": "magus-husk.png",
     "category": "Relics",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.3.4",
@@ -31725,7 +31724,8 @@
         "changes": "Reduced the Magus Husk from 7100 to 710 Cryotic per item.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealOnTransferenceOut",
@@ -31779,7 +31779,6 @@
     ],
     "imageName": "magus-nourish.png",
     "category": "Relics",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.1.0: TennoGen Round 13",
@@ -31799,7 +31798,8 @@
         "changes": "Fixed Operator Magus Nourish not restoring Health over time to Umbra while Transference is active.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealOnVoidDash",
@@ -31853,7 +31853,6 @@
     ],
     "imageName": "magus-replenish.png",
     "category": "Relics",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Hotfix 22.15.1",
@@ -31863,7 +31862,8 @@
         "changes": "Removed an un-advertised Duration from Magus Replenish ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealthOnOperatorMode",
@@ -31962,7 +31962,6 @@
     "type": "Relic",
     "imageName": "meso-b2-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 20 - 40 Bounty",
@@ -32667,7 +32666,8 @@
         "chance": 0.017,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLimboPrimeCGold",
@@ -32676,7 +32676,6 @@
     "type": "Relic",
     "imageName": "meso-b2-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 20 - 40 Bounty",
@@ -33381,7 +33380,8 @@
         "chance": 0.017,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLimboPrimeCBronze",
@@ -33390,7 +33390,6 @@
     "type": "Relic",
     "imageName": "meso-b2-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 20 - 40 Bounty",
@@ -34095,7 +34094,8 @@
         "chance": 0.017,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLimboPrimeCPlatinum",
@@ -34104,7 +34104,6 @@
     "type": "Relic",
     "imageName": "meso-b2-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 20 - 40 Bounty",
@@ -34809,7 +34808,8 @@
         "chance": 0.017,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionCSilver",
@@ -34962,7 +34962,6 @@
     "type": "Relic",
     "imageName": "meso-d2-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 20 - 40 Bounty",
@@ -35667,7 +35666,8 @@
         "chance": 0.017,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLimboPrimeAGold",
@@ -35676,7 +35676,6 @@
     "type": "Relic",
     "imageName": "meso-d2-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 20 - 40 Bounty",
@@ -36381,7 +36380,8 @@
         "chance": 0.017,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLimboPrimeABronze",
@@ -36390,7 +36390,6 @@
     "type": "Relic",
     "imageName": "meso-d2-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 20 - 40 Bounty",
@@ -37095,7 +37094,8 @@
         "chance": 0.017,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLimboPrimeAPlatinum",
@@ -37104,7 +37104,6 @@
     "type": "Relic",
     "imageName": "meso-d2-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 20 - 40 Bounty",
@@ -37809,7 +37808,8 @@
         "chance": 0.017,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionELFVaultASilver",
@@ -38142,7 +38142,6 @@
     "type": "Relic",
     "imageName": "meso-n2-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Specters of the Rail: Hotfix 1",
@@ -38152,7 +38151,8 @@
         "changes": "",
         "fixes": "Fixed a typo in Meso N2 Relic names."
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionEGold",
@@ -38161,7 +38161,6 @@
     "type": "Relic",
     "imageName": "meso-n2-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Specters of the Rail: Hotfix 1",
@@ -38171,7 +38170,8 @@
         "changes": "",
         "fixes": "Fixed a typo in Meso N2 Relic names."
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionEBronze",
@@ -38180,7 +38180,6 @@
     "type": "Relic",
     "imageName": "meso-n2-intact.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Specters of the Rail: Hotfix 1",
@@ -38190,7 +38189,8 @@
         "changes": "",
         "fixes": "Fixed a typo in Meso N2 Relic names."
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionEPlatinum",
@@ -38199,7 +38199,6 @@
     "type": "Relic",
     "imageName": "meso-n2-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Specters of the Rail: Hotfix 1",
@@ -38209,7 +38208,8 @@
         "changes": "",
         "fixes": "Fixed a typo in Meso N2 Relic names."
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionRSilver",
@@ -38326,7 +38326,6 @@
     "type": "Relic",
     "imageName": "meso-n6-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void - Ani",
@@ -38394,7 +38393,8 @@
         "chance": 0.0322,
         "rotation": "A"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionRhinoNyxVaultAGold",
@@ -38403,7 +38403,6 @@
     "type": "Relic",
     "imageName": "meso-n6-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void - Ani",
@@ -38471,7 +38470,8 @@
         "chance": 0.0322,
         "rotation": "A"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionRhinoNyxVaultABronze",
@@ -38480,7 +38480,6 @@
     "type": "Relic",
     "imageName": "meso-n6-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void - Ani",
@@ -38548,7 +38547,8 @@
         "chance": 0.0322,
         "rotation": "A"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionRhinoNyxVaultAPlatinum",
@@ -38557,7 +38557,6 @@
     "type": "Relic",
     "imageName": "meso-n6-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void - Ani",
@@ -38625,7 +38624,8 @@
         "chance": 0.0322,
         "rotation": "A"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionUSilver",
@@ -38670,7 +38670,6 @@
     "type": "Relic",
     "imageName": "meso-o2-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Mercury - Odin",
@@ -39357,7 +39356,8 @@
         "chance": 0.017,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionZephyrPrimeAGold",
@@ -39366,7 +39366,6 @@
     "type": "Relic",
     "imageName": "meso-o2-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Mercury - Odin",
@@ -40053,7 +40052,8 @@
         "chance": 0.017,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionZephyrPrimeABronze",
@@ -40062,7 +40062,6 @@
     "type": "Relic",
     "imageName": "meso-o2-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Mercury - Odin",
@@ -40749,7 +40748,8 @@
         "chance": 0.017,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionZephyrPrimeAPlatinum",
@@ -40758,7 +40758,6 @@
     "type": "Relic",
     "imageName": "meso-o2-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Mercury - Odin",
@@ -41445,7 +41444,8 @@
         "chance": 0.017,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionISilver",
@@ -41634,7 +41634,6 @@
     "type": "Relic",
     "imageName": "meso-s6-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Oberon Prime: Hotfix 20.6.4",
@@ -41644,7 +41643,8 @@
         "changes": "The Neo N7 Relic has been introduced into the mix to fix Nekros Prime Systems Blueprint being accidentally vaulted, and the Meso S6 Relic has also been introduced to fix Spira Prime Blade being accidentally vaulted. ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionZGold",
@@ -41653,7 +41653,6 @@
     "type": "Relic",
     "imageName": "meso-s6-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Oberon Prime: Hotfix 20.6.4",
@@ -41663,7 +41662,8 @@
         "changes": "The Neo N7 Relic has been introduced into the mix to fix Nekros Prime Systems Blueprint being accidentally vaulted, and the Meso S6 Relic has also been introduced to fix Spira Prime Blade being accidentally vaulted. ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionZBronze",
@@ -41672,7 +41672,6 @@
     "type": "Relic",
     "imageName": "meso-s6-intact.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Oberon Prime: Hotfix 20.6.4",
@@ -41682,7 +41681,8 @@
         "changes": "The Neo N7 Relic has been introduced into the mix to fix Nekros Prime Systems Blueprint being accidentally vaulted, and the Meso S6 Relic has also been introduced to fix Spira Prime Blade being accidentally vaulted. ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionZPlatinum",
@@ -41691,7 +41691,6 @@
     "type": "Relic",
     "imageName": "meso-s6-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Oberon Prime: Hotfix 20.6.4",
@@ -41701,7 +41700,8 @@
         "changes": "The Neo N7 Relic has been introduced into the mix to fix Nekros Prime Systems Blueprint being accidentally vaulted, and the Meso S6 Relic has also been introduced to fix Spira Prime Blade being accidentally vaulted. ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLimboPrimeDSilver",
@@ -41710,7 +41710,6 @@
     "type": "Relic",
     "imageName": "meso-s7-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Mercury - Odin",
@@ -42397,7 +42396,8 @@
         "chance": 0.017,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLimboPrimeDGold",
@@ -42406,7 +42406,6 @@
     "type": "Relic",
     "imageName": "meso-s7-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Mercury - Odin",
@@ -43093,7 +43092,8 @@
         "chance": 0.017,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLimboPrimeDBronze",
@@ -43102,7 +43102,6 @@
     "type": "Relic",
     "imageName": "meso-s7-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Mercury - Odin",
@@ -43789,7 +43788,8 @@
         "chance": 0.017,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLimboPrimeDPlatinum",
@@ -43798,7 +43798,6 @@
     "type": "Relic",
     "imageName": "meso-s7-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Mercury - Odin",
@@ -44485,7 +44484,8 @@
         "chance": 0.017,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionZephyrPrimeBSilver",
@@ -44494,7 +44494,6 @@
     "type": "Relic",
     "imageName": "meso-t1-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Mercury - Odin",
@@ -45181,7 +45180,8 @@
         "chance": 0.017,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionZephyrPrimeBGold",
@@ -45190,7 +45190,6 @@
     "type": "Relic",
     "imageName": "meso-t1-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Mercury - Odin",
@@ -45877,7 +45876,8 @@
         "chance": 0.017,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionZephyrPrimeBBronze",
@@ -45886,7 +45886,6 @@
     "type": "Relic",
     "imageName": "meso-t1-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Mercury - Odin",
@@ -46573,7 +46572,8 @@
         "chance": 0.017,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionZephyrPrimeBPlatinum",
@@ -46582,7 +46582,6 @@
     "type": "Relic",
     "imageName": "meso-t1-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Mercury - Odin",
@@ -47269,7 +47268,8 @@
         "chance": 0.017,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionZephyrPrimeCSilver",
@@ -47494,7 +47494,6 @@
     "type": "Relic",
     "imageName": "meso-z1-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 20 - 40 Bounty",
@@ -48199,7 +48198,8 @@
         "chance": 0.017,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLimboPrimeBGold",
@@ -48208,7 +48208,6 @@
     "type": "Relic",
     "imageName": "meso-z1-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 20 - 40 Bounty",
@@ -48913,7 +48912,8 @@
         "chance": 0.017,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLimboPrimeBBronze",
@@ -48922,7 +48922,6 @@
     "type": "Relic",
     "imageName": "meso-z1-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 20 - 40 Bounty",
@@ -49627,7 +49626,8 @@
         "chance": 0.017,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionLimboPrimeBPlatinum",
@@ -49636,7 +49636,6 @@
     "type": "Relic",
     "imageName": "meso-z1-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 20 - 40 Bounty",
@@ -50341,7 +50340,8 @@
         "chance": 0.017,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionMSilver",
@@ -50494,7 +50494,6 @@
     "type": "Relic",
     "imageName": "neo-b4-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Update 22.17.0 + 22.17.0.1",
@@ -50505,7 +50504,8 @@
         "changes": "",
         "fixes": "Fixed Rotation A in easy Defense missions rewarding Neo B4 Relic instead of the intended Lith H2 Relic. "
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionZephyrPrimeBGold",
@@ -50514,7 +50514,6 @@
     "type": "Relic",
     "imageName": "neo-b4-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Update 22.17.0 + 22.17.0.1",
@@ -50525,7 +50524,8 @@
         "changes": "",
         "fixes": "Fixed Rotation A in easy Defense missions rewarding Neo B4 Relic instead of the intended Lith H2 Relic. "
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionZephyrPrimeBBronze",
@@ -50534,7 +50534,6 @@
     "type": "Relic",
     "imageName": "neo-b4-intact.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Update 22.17.0 + 22.17.0.1",
@@ -50545,7 +50544,8 @@
         "changes": "",
         "fixes": "Fixed Rotation A in easy Defense missions rewarding Neo B4 Relic instead of the intended Lith H2 Relic. "
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionZephyrPrimeBPlatinum",
@@ -50554,7 +50554,6 @@
     "type": "Relic",
     "imageName": "neo-b4-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Update 22.17.0 + 22.17.0.1",
@@ -50565,7 +50564,8 @@
         "changes": "",
         "fixes": "Fixed Rotation A in easy Defense missions rewarding Neo B4 Relic instead of the intended Lith H2 Relic. "
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLimboPrimeDSilver",
@@ -50574,7 +50574,6 @@
     "type": "Relic",
     "imageName": "neo-b5-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 40 - 50 Ghoul Bounty",
@@ -51260,7 +51259,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLimboPrimeDGold",
@@ -51269,7 +51269,6 @@
     "type": "Relic",
     "imageName": "neo-b5-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 40 - 50 Ghoul Bounty",
@@ -51955,7 +51954,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLimboPrimeDBronze",
@@ -51964,7 +51964,6 @@
     "type": "Relic",
     "imageName": "neo-b5-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 40 - 50 Ghoul Bounty",
@@ -52650,7 +52649,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLimboPrimeDPlatinum",
@@ -52659,7 +52659,6 @@
     "type": "Relic",
     "imageName": "neo-b5-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 40 - 50 Ghoul Bounty",
@@ -53345,7 +53344,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionFSilver",
@@ -53498,7 +53498,6 @@
     "type": "Relic",
     "imageName": "neo-k1-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Sanctuary - Sanctuary",
@@ -54187,7 +54186,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionZephyrPrimeAGold",
@@ -54196,7 +54196,6 @@
     "type": "Relic",
     "imageName": "neo-k1-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Sanctuary - Sanctuary",
@@ -54885,7 +54884,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionZephyrPrimeABronze",
@@ -54894,7 +54894,6 @@
     "type": "Relic",
     "imageName": "neo-k1-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Sanctuary - Sanctuary",
@@ -55583,7 +55582,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionZephyrPrimeAPlatinum",
@@ -55592,7 +55592,6 @@
     "type": "Relic",
     "imageName": "neo-k1-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Sanctuary - Sanctuary",
@@ -56281,7 +56280,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLimboPrimeASilver",
@@ -56290,7 +56290,6 @@
     "type": "Relic",
     "imageName": "neo-l1-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 30 - 50 Bounty",
@@ -57011,7 +57010,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLimboPrimeAGold",
@@ -57020,7 +57020,6 @@
     "type": "Relic",
     "imageName": "neo-l1-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 30 - 50 Bounty",
@@ -57741,7 +57740,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLimboPrimeABronze",
@@ -57750,7 +57750,6 @@
     "type": "Relic",
     "imageName": "neo-l1-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 30 - 50 Bounty",
@@ -58471,7 +58470,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLimboPrimeAPlatinum",
@@ -58480,7 +58480,6 @@
     "type": "Relic",
     "imageName": "neo-l1-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 30 - 50 Bounty",
@@ -59201,7 +59200,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionMiragePrimeASilver",
@@ -59210,7 +59210,6 @@
     "type": "Relic",
     "imageName": "neo-m1-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Sanctuary - Sanctuary",
@@ -59899,7 +59898,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionMiragePrimeAGold",
@@ -59908,7 +59908,6 @@
     "type": "Relic",
     "imageName": "neo-m1-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Sanctuary - Sanctuary",
@@ -60597,7 +60596,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionMiragePrimeABronze",
@@ -60606,7 +60606,6 @@
     "type": "Relic",
     "imageName": "neo-m1-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Sanctuary - Sanctuary",
@@ -61295,7 +61294,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionMiragePrimeAPlatinum",
@@ -61304,7 +61304,6 @@
     "type": "Relic",
     "imageName": "neo-m1-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Sanctuary - Sanctuary",
@@ -61993,7 +61992,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionCSilver",
@@ -62218,7 +62218,6 @@
     "type": "Relic",
     "imageName": "neo-n7-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Oberon Prime: Hotfix 20.6.4",
@@ -62228,7 +62227,8 @@
         "changes": "The Neo N7 Relic has been introduced into the mix to fix Nekros Prime Systems Blueprint being accidentally vaulted, and the Meso S6 Relic has also been introduced to fix Spira Prime Blade being accidentally vaulted. ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionZGold",
@@ -62237,7 +62237,6 @@
     "type": "Relic",
     "imageName": "neo-n7-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Oberon Prime: Hotfix 20.6.4",
@@ -62247,7 +62246,8 @@
         "changes": "The Neo N7 Relic has been introduced into the mix to fix Nekros Prime Systems Blueprint being accidentally vaulted, and the Meso S6 Relic has also been introduced to fix Spira Prime Blade being accidentally vaulted. ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionZBronze",
@@ -62256,7 +62256,6 @@
     "type": "Relic",
     "imageName": "neo-n7-intact.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Oberon Prime: Hotfix 20.6.4",
@@ -62266,7 +62265,8 @@
         "changes": "The Neo N7 Relic has been introduced into the mix to fix Nekros Prime Systems Blueprint being accidentally vaulted, and the Meso S6 Relic has also been introduced to fix Spira Prime Blade being accidentally vaulted. ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionZPlatinum",
@@ -62275,7 +62275,6 @@
     "type": "Relic",
     "imageName": "neo-n7-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Oberon Prime: Hotfix 20.6.4",
@@ -62285,7 +62284,8 @@
         "changes": "The Neo N7 Relic has been introduced into the mix to fix Nekros Prime Systems Blueprint being accidentally vaulted, and the Meso S6 Relic has also been introduced to fix Spira Prime Blade being accidentally vaulted. ",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLimboPrimeBSilver",
@@ -62294,7 +62294,6 @@
     "type": "Relic",
     "imageName": "neo-n8-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 30 - 50 Bounty",
@@ -63001,7 +63000,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLimboPrimeBGold",
@@ -63010,7 +63010,6 @@
     "type": "Relic",
     "imageName": "neo-n8-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 30 - 50 Bounty",
@@ -63717,7 +63716,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLimboPrimeBBronze",
@@ -63726,7 +63726,6 @@
     "type": "Relic",
     "imageName": "neo-n8-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 30 - 50 Bounty",
@@ -64433,7 +64432,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLimboPrimeBPlatinum",
@@ -64442,7 +64442,6 @@
     "type": "Relic",
     "imageName": "neo-n8-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 30 - 50 Bounty",
@@ -65149,7 +65148,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionVoltOdonataPrimeSilver",
@@ -65194,7 +65194,6 @@
     "type": "Relic",
     "imageName": "neo-r1-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void - Mithra",
@@ -65283,7 +65282,8 @@
         "chance": 0.0282,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionRhinoNyxVaultAGold",
@@ -65292,7 +65292,6 @@
     "type": "Relic",
     "imageName": "neo-r1-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void - Mithra",
@@ -65381,7 +65380,8 @@
         "chance": 0.0282,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionRhinoNyxVaultABronze",
@@ -65390,7 +65390,6 @@
     "type": "Relic",
     "imageName": "neo-r1-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void - Mithra",
@@ -65479,7 +65478,8 @@
         "chance": 0.0282,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionRhinoNyxVaultAPlatinum",
@@ -65488,7 +65488,6 @@
     "type": "Relic",
     "imageName": "neo-r1-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Void - Mithra",
@@ -65577,7 +65576,8 @@
         "chance": 0.0282,
         "rotation": "B"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionASilver",
@@ -65766,7 +65766,6 @@
     "type": "Relic",
     "imageName": "neo-s7-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Saturn - Rhea",
@@ -66455,7 +66454,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionHydroidPrimeAGold",
@@ -66464,7 +66464,6 @@
     "type": "Relic",
     "imageName": "neo-s7-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Saturn - Rhea",
@@ -67153,7 +67152,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionHydroidPrimeABronze",
@@ -67162,7 +67162,6 @@
     "type": "Relic",
     "imageName": "neo-s7-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Saturn - Rhea",
@@ -67851,7 +67850,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionHydroidPrimeAPlatinum",
@@ -67860,7 +67860,6 @@
     "type": "Relic",
     "imageName": "neo-s7-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Saturn - Rhea",
@@ -68549,7 +68548,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionHydroidPrimeBSilver",
@@ -68630,7 +68630,6 @@
     "type": "Relic",
     "imageName": "neo-v1-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Specters of the Rail: Hotfix 1",
@@ -68640,7 +68639,8 @@
         "changes": "",
         "fixes": "Corrected the type of Dual Kama awarded in the Neo V1 Relic. Should have been a Prime Blueprint."
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionEGold",
@@ -68649,7 +68649,6 @@
     "type": "Relic",
     "imageName": "neo-v1-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Specters of the Rail: Hotfix 1",
@@ -68659,7 +68658,8 @@
         "changes": "",
         "fixes": "Corrected the type of Dual Kama awarded in the Neo V1 Relic. Should have been a Prime Blueprint."
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionEBronze",
@@ -68668,7 +68668,6 @@
     "type": "Relic",
     "imageName": "neo-v1-intact.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Specters of the Rail: Hotfix 1",
@@ -68678,7 +68677,8 @@
         "changes": "",
         "fixes": "Corrected the type of Dual Kama awarded in the Neo V1 Relic. Should have been a Prime Blueprint."
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionEPlatinum",
@@ -68687,7 +68687,6 @@
     "type": "Relic",
     "imageName": "neo-v1-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Specters of the Rail: Hotfix 1",
@@ -68697,7 +68696,8 @@
         "changes": "",
         "fixes": "Corrected the type of Dual Kama awarded in the Neo V1 Relic. Should have been a Prime Blueprint."
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionJSilver",
@@ -68886,7 +68886,6 @@
     "type": "Relic",
     "imageName": "neo-v7-exceptional.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 30 - 50 Bounty",
@@ -69611,7 +69610,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLimboPrimeCGold",
@@ -69620,7 +69620,6 @@
     "type": "Relic",
     "imageName": "neo-v7-flawless.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 30 - 50 Bounty",
@@ -70345,7 +70344,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLimboPrimeCBronze",
@@ -70354,7 +70354,6 @@
     "type": "Relic",
     "imageName": "neo-v7-intact.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 30 - 50 Bounty",
@@ -71079,7 +71078,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLimboPrimeCPlatinum",
@@ -71088,7 +71088,6 @@
     "type": "Relic",
     "imageName": "neo-v7-radiant.png",
     "category": "Relics",
-    "tradable": true,
     "drops": [
       {
         "location": "Level 30 - 50 Bounty",
@@ -71813,7 +71812,8 @@
         "chance": 0.0184,
         "rotation": "C"
       }
-    ]
+    ],
+    "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionZephyrPrimeCSilver",
@@ -71905,7 +71905,7 @@
     ],
     "imageName": "orokin-derelict-assassinate.png",
     "category": "Relics",
-    "tradable": true
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/DerelictCaptureKey",
@@ -71961,7 +71961,7 @@
     ],
     "imageName": "orokin-derelict-capture.png",
     "category": "Relics",
-    "tradable": true
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/DerelictDefenseKey",
@@ -72017,7 +72017,6 @@
     ],
     "imageName": "orokin-derelict-defense.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.3 - Limbo Prime",
@@ -72044,7 +72043,8 @@
         "changes": "Tweaked Orokin Derelict Defense:",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/DerelictExterminateKey",
@@ -72100,7 +72100,7 @@
     ],
     "imageName": "orokin-derelict-exterminate.png",
     "category": "Relics",
-    "tradable": true
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/DerelictMobileDefenseKey",
@@ -72156,7 +72156,6 @@
     ],
     "imageName": "orokin-derelict-mobile-defense.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Update 17.5: The Jordas Precept. + Hotfix 17.5.1",
@@ -72166,7 +72165,8 @@
         "changes": "A new Orokin Derelict Mobile Defense Key is available in the Market.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/DerelictSabotageKey",
@@ -72222,7 +72222,6 @@
     ],
     "imageName": "orokin-derelict-sabotage.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "Chains of Harrow: Update 21.3.0",
@@ -72233,7 +72232,8 @@
         "changes": "",
         "fixes": "Fixed Orokin Derelict Sabotage Caches not giving any rewards."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Keys/DerelictSurvivalKey",
@@ -72289,7 +72289,6 @@
     ],
     "imageName": "orokin-derelict-survival.png",
     "category": "Relics",
-    "tradable": true,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.3 - Limbo Prime",
@@ -72333,7 +72332,8 @@
         "changes": "",
         "fixes": "Fixed Orokin Derelict Survival missions not giving guaranteed keys at 15 minute mark."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/IncreasedDamageOnStatusProc",
@@ -72387,7 +72387,6 @@
     ],
     "imageName": "virtuos-fury.png",
     "category": "Relics",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.1.0",
@@ -72397,7 +72396,8 @@
         "changes": "",
         "fixes": "Fixed issues with the description text of Virtuos Fury. "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/StatusChanceOnHeadshot",
@@ -72451,7 +72451,6 @@
     ],
     "imageName": "virtuos-ghost.png",
     "category": "Relics",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.0.7",
@@ -72461,7 +72460,8 @@
         "changes": "",
         "fixes": "Fixed Virtuos Ghost and Virtuos Shadow not having percentage values."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/OperatorAmmoRegenOnKill",
@@ -72569,7 +72569,6 @@
     ],
     "imageName": "virtuos-shadow.png",
     "category": "Relics",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.0.7",
@@ -72579,7 +72578,8 @@
         "changes": "",
         "fixes": "Fixed Virtuos Ghost and Virtuos Shadow not having percentage values."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/IncreasedCriticalDamageOnCriticalStrike",

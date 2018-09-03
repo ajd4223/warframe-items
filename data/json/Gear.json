@@ -137,7 +137,6 @@
     ],
     "imageName": "air-support-charges.png",
     "category": "Gear",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 21: Chains of Harrow",
@@ -165,7 +164,8 @@
         "changes": "",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Restoratives/Consumable/AlphaCorruptor",
@@ -310,7 +310,6 @@
     ],
     "imageName": "antiserum-injector.png",
     "category": "Gear",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.4.0",
@@ -346,7 +345,8 @@
         "changes": "Reduced value of Antiserum Injector Fragments from 25 to 5 credits.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Restoratives/OpenArchwingSummon",
@@ -365,7 +365,7 @@
         "name": "Blueprint",
         "description": "Summons an Archwing for use during free roam missions.",
         "itemCount": 1,
-        "tradable": false,
+        "tradable": true,
         "imageName": "blueprint.png"
       },
       {
@@ -403,7 +403,6 @@
     ],
     "imageName": "archwing-launcher.png",
     "category": "Gear",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.0.3",
@@ -421,7 +420,8 @@
         "changes": "",
         "fixes": "Fixed the Archwing Launcher Segment not being Chat linkable."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Restoratives/Consumable/Toxins/DayCommonAntitoxin",
@@ -615,7 +615,6 @@
     ],
     "imageName": "charger-specter.png",
     "category": "Gear",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Hotfix 22.20.8 + 22.20.8.1",
@@ -625,7 +624,8 @@
         "changes": "",
         "fixes": "Fixed Infested Charger Specters not doing any damage."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Restoratives/Cipher",
@@ -665,7 +665,6 @@
     ],
     "imageName": "cipher.png",
     "category": "Gear",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Hotfix 23.0.4",
@@ -814,7 +813,8 @@
         "changes": "",
         "fixes": "Ciphers should no longer appear as rewards when completing high level waves of Endless Defense"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Restoratives/Consumable/Toxins/DayUnCommonAntitoxin",
@@ -1059,7 +1059,6 @@
     "type": "Gear",
     "imageName": "codex-scanner.png",
     "category": "Gear",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Hotfix 22.8.2",
@@ -1142,7 +1141,8 @@
         "changes": "",
         "fixes": "Fixed issue where players knocked into bleedout while using Codex Scanner would lose weapon firing functionality until revived."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Restoratives/Consumable/CorruptedBombardBall",
@@ -1417,7 +1417,7 @@
   },
   {
     "uniqueName": "/Lotus/Types/Game/FishBait/NightRareFishBaitBItem",
-    "name": "Cuthol Bait",
+    "name": "Cuthol Bait - Small",
     "description": "This bait is comprised of materials that are known to attract Cuthols, a fish found only in pond hotspots during the night.",
     "type": "Fish",
     "buildPrice": 2000,
@@ -1467,9 +1467,9 @@
         "imageName": "fish-resource-organ.png"
       }
     ],
-    "imageName": "cuthol-bait.png",
+    "imageName": "cuthol-bait---small.png",
     "category": "Gear",
-    "tradable": true
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Restoratives/Upgraded/ShieldDebuffKey",
@@ -1557,7 +1557,6 @@
     ],
     "imageName": "eidolon-phylaxis.png",
     "category": "Gear",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.18.0",
@@ -1568,7 +1567,8 @@
         "changes": "",
         "fixes": "Fixed Host migrating while fighting the Hemocyte causing bonus Affinity to be lost for using Infested Catalysts and Eidolon Phylaxis."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Restoratives/Consumable/ValentinesArrowBundle",
@@ -1577,7 +1577,6 @@
     "type": "Gear",
     "imageName": "eros-arrow-skin.png",
     "category": "Gear",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hotfix 15.14.1",
@@ -1587,7 +1586,8 @@
         "changes": "",
         "fixes": "Show the enemy you care with the Eros Arrow Skin. This adds heart-shaped tips to any Bow Weapon you have equipped. Even Cupid will be envious!\nPick up some Eros Skins in the Market for 5,000 Credits each.  To use your Eros Arrow Skin simply purchase the item in the Market and equip it in your Gear.  Once in a Mission use the Arrow Skin just like a normal consumable item."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Restoratives/Upgraded/DamageDebuffKey",
@@ -1627,7 +1627,6 @@
     ],
     "imageName": "extinguished-dragon-key.png",
     "category": "Gear",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Silver Grove: Hotfix 2",
@@ -1637,7 +1636,8 @@
         "changes": "",
         "fixes": "Fixed the Extinguished Dragon Key causing the SCanner to work very slowly."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Restoratives/Consumable/CreditChipMedium",
@@ -1725,7 +1725,6 @@
     ],
     "imageName": "fomorian-disruptor.png",
     "category": "Gear",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Hotfix 22.20.1",
@@ -1743,7 +1742,8 @@
         "changes": "",
         "fixes": "Intelligence reports state that the Balor Fomorian’s power core emits a thick energy field composed of deadly omega radiation. In order to break through the field you will need to craft this Fomorian Disruptor. It will allow you to safely approach the core and when activated it will temporarily disrupt the core allowing you to inflict damage.\nFomorian Vessels will intermittently appear in the Solar System as event nodes. These event nodes will be locked until you have the Fomorian Disruptor in your Consumable Inventory.\nYou will receive a Blueprint from the Lotus for the Fomorian Disruptor. It will require Nano Spores, Cryotic, and Omega Isotopes to craft.\nThe Fomorian’s internal Shield Generators are protected by a magnetic field. Use your Fomorian Disruptor from the Gear menu to disrupt the magnetic field, and temporarily expose the Shield Generators, allowing you to destroy them.\nYour Fomorian Disruptor will be consumed after completing the Fomorian Sabotage mission.\nLeaderboards are available for players that want to compete for the best score during Fomorian Sabotage Missions. Your individual score is determined by the amount of damage dealt to the Fomorian Power Core during a single run. The highest scores can only be achieved by squads with coordinated deployment of Fomorian Disruptors, and efficient attacks on the Power Cores."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Restoratives/Consumable/GoldSpectre",
@@ -2083,7 +2083,7 @@
   },
   {
     "uniqueName": "/Lotus/Types/Game/FishBait/NightLegendaryFishBaitItem",
-    "name": "Glappid Bait",
+    "name": "Glappid Bait - Small",
     "description": "This bait is comprised of exotic materials that are known to attract the elusive Glappid, a fish found only in ocean hotspots during the night.",
     "type": "Fish",
     "buildPrice": 5000,
@@ -2133,9 +2133,9 @@
         "imageName": "fish-resource-brain.png"
       }
     ],
-    "imageName": "glappid-bait.png",
+    "imageName": "glappid-bait---small.png",
     "category": "Gear",
-    "tradable": true
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Restoratives/Consumable/FireWorksCrate",
@@ -2346,7 +2346,6 @@
     ],
     "imageName": "infested-catalyst.png",
     "category": "Gear",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Update 22.18.0",
@@ -2365,7 +2364,8 @@
         "changes": "",
         "fixes": "Fixed the Infested Catalyst not being Chat linkable for those that own it."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Restoratives/Consumable/BaroFireWorksCrate",
@@ -2383,7 +2383,6 @@
     "type": "Gear",
     "imageName": "kinetic-siphon-trap.png",
     "category": "Gear",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 21: Chains of Harrow",
@@ -2403,7 +2402,8 @@
         "changes": "",
         "fixes": "•    Fixed some hitching caused by deploying Kinetic Siphon Traps."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Restoratives/Consumable/Toxins/RareAntitoxin",
@@ -2569,7 +2569,7 @@
   },
   {
     "uniqueName": "/Lotus/Types/Game/FishBait/BothRareFishBaitAItem",
-    "name": "Murkray Bait",
+    "name": "Murkray Bait - Small",
     "description": "This bait is comprised of materials that are known to attract Murkrays, a fish found only in ocean hotspots during both day and night.",
     "type": "Fish",
     "buildPrice": 2000,
@@ -2619,9 +2619,9 @@
         "imageName": "fish-resource-eyes.png"
       }
     ],
-    "imageName": "murkray-bait.png",
+    "imageName": "murkray-bait---small.png",
     "category": "Gear",
-    "tradable": true
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Restoratives/TitaniaQuest/SpecterSummonKnaveLoki",
@@ -2681,7 +2681,7 @@
   },
   {
     "uniqueName": "/Lotus/Types/Game/FishBait/NightRareFishBaitAItem",
-    "name": "Norg Bait",
+    "name": "Norg Bait - Small",
     "description": "This bait is comprised of materials that are known to attract Norg, a fish found only in lake hotspots during the night.",
     "type": "Fish",
     "buildPrice": 2000,
@@ -2731,9 +2731,9 @@
         "imageName": "fish-resource-teeth.png"
       }
     ],
-    "imageName": "norg-bait.png",
+    "imageName": "norg-bait---small.png",
     "category": "Gear",
-    "tradable": true
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Restoratives/SelfOmniAmmo",
@@ -2742,7 +2742,6 @@
     "type": "Gear",
     "imageName": "omni-ammo-box.png",
     "category": "Gear",
-    "tradable": false,
     "drops": [
       {
         "location": "Ceres - Lex",
@@ -2910,7 +2909,8 @@
         "chance": 0.0034000000000000002,
         "rotation": "rewards"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Restoratives/LisetAutoHack",
@@ -2919,7 +2919,6 @@
     "type": "Gear",
     "imageName": "override.png",
     "category": "Gear",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 18.7.0",
@@ -2939,7 +2938,8 @@
         "changes": "",
         "fixes": "Improved the quality of the HUD icons for Zenurik Systemic Override and Vazarin New Moon Focus abilities."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Restoratives/Consumable/CreditChipLarge",
@@ -2983,7 +2983,7 @@
   },
   {
     "uniqueName": "/Lotus/Types/Game/FishBait/GenericFishBait",
-    "name": "Peppered Bait",
+    "name": "Peppered Bait - Small",
     "description": "This bait attracts fish that are active during the day.",
     "type": "Fish",
     "buildPrice": 500,
@@ -3017,19 +3017,9 @@
         "imageName": "nistlebrush-item.png"
       }
     ],
-    "imageName": "peppered-bait.png",
+    "imageName": "peppered-bait---small.png",
     "category": "Gear",
-    "tradable": true,
-    "patchlogs": [
-      {
-        "name": "Plains of Eidolon: Hotfix 22.0.3",
-        "date": "2017-10-16T21:47:16Z",
-        "url": "https://forums.warframe.com/topic/859709-plains-of-eidolon-hotfix-2203/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed unintentional fish being attracted to Peppered Bait. "
-      }
-    ]
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Restoratives/Consumable/FishingBoosts/SoftTouch",
@@ -3069,7 +3059,6 @@
     ],
     "imageName": "pharoma.png",
     "category": "Gear",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Plains of Eidolon: Update 22.6.0 + Hotfix 22.6.0.1",
@@ -3080,7 +3069,8 @@
         "changes": "The intent of the following changes is to make fishing a more harmonious experience for you and your squad! Until now, Bait, Dye, and Pharoma has only exclusively affected the player who used it. Moving forward, all squadmates will receive benefits from Bait or other fishing consumables in the Plains. The fish you see will still vary from player to player, however, the effects of these consumables will be shared across all members.\nYou can now throw Pharoma and Luminous Dye like Bait!*\nDye, Pharoma and Bait now only work within a certain radius around its casting point. Any player fishing within the radius around this casting point will benefit from its effects.\n*In order for Luminous Dye and Pharoma to work within this system, they are now thrown like bait. They float in the water and affect all fish in the same body of water within a certain radius. This way you can cast out the Dye in one place, and all players will see the fish get highlighted as they swim near it. Multiple Dyes can be used at once, if you want to affect a larger section of the water.",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Restoratives/Consumable/SilverSpectre",
@@ -3454,7 +3444,6 @@
     ],
     "imageName": "pherliac-pods.png",
     "category": "Gear",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Update 22.17.0 + 22.17.0.1",
@@ -3465,7 +3454,8 @@
         "changes": "",
         "fixes": "Fixed being able to cast Warframe abilities on Pherliac Pods. "
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Restoratives/SelfPistolAmmo",
@@ -3562,7 +3552,6 @@
     ],
     "imageName": "razorback-cipher.png",
     "category": "Gear",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Hydroid Prime: Update 21.6.0",
@@ -3573,7 +3562,8 @@
         "changes": "Reduced the Razorback Cipher cost from 3500 Polymer Bundle to 1500 Polymer Bundle. Back in May of this year we made numerous fixes towards the Razorback Armada, and with another Armada to appear soon we took a second look at the Polymer friction involved with this non-useable Blueprint. See here for past fixes you can expect: https://forums.warframe.com/topic/797284-sharpening-our-razorbacks-a-pc-weekend-post-mortem/",
         "fixes": ""
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Restoratives/Consumable/NpcBuffs/CloakingBuff",
@@ -3704,7 +3694,6 @@
     "type": "Gear",
     "imageName": "sentry-gun.png",
     "category": "Gear",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update: Specters of the Rail",
@@ -3724,7 +3713,8 @@
         "changes": "",
         "fixes": "Featuring Sentry Gun air-support, this stylish Landing Craft is an asset in any battle."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Restoratives/Consumable/ShieldDroneBall",
@@ -3808,7 +3798,6 @@
     "type": "Gear",
     "imageName": "snow-globe.png",
     "category": "Gear",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Beasts of the Sanctuary: Hotfix 22.18.2",
@@ -4087,7 +4076,8 @@
         "changes": "",
         "fixes": "Fixed an issue with Snow Globe persisting if user dies and then revives while it is active."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Restoratives/SyndicateTeamAmmoTotem",
@@ -4669,7 +4659,6 @@
     "type": "Gear",
     "imageName": "synthesis-scanner.png",
     "category": "Gear",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "The Sacrifice: Prime Vault Hotfix 23.1.2!",
@@ -4785,7 +4774,8 @@
         "changes": "",
         "fixes": "In the cradle of space on Tenno Relays across the Solar System Cephalon Simaris has constructed a Sanctuary with the goal of eternally preserving all life.  But Simaris needs your help, Tenno.  Using Simaris’ advanced Synthesis Scanner you must track down unique targets to scan in a Codex shared by Tenno all over the world, and help unlock exciting new lore and Syndicate rewards.\nSynthesis Scanners can be equipped like regular Gear, and are used in the same fashion a Codex scanner is."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Restoratives/Consumable/Toxins/NightUnCommonAntitoxin",
@@ -4885,7 +4875,7 @@
   },
   {
     "uniqueName": "/Lotus/Types/Game/FishBait/BothUncommonFishBaitItem",
-    "name": "Twilight Bait",
+    "name": "Twilight Bait - Small",
     "description": "This bait attracts predatory fish that are active in either day or night.",
     "type": "Fish",
     "buildPrice": 1000,
@@ -4935,9 +4925,9 @@
         "imageName": "nistlebrush-item.png"
       }
     ],
-    "imageName": "twilight-bait.png",
+    "imageName": "twilight-bait---small.png",
     "category": "Gear",
-    "tradable": true
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Restoratives/Consumable/BronzeSpectre",
@@ -5084,7 +5074,6 @@
     ],
     "imageName": "vapor-specter.png",
     "category": "Gear",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Specters of the Rail: Hotfix 4",
@@ -5094,7 +5083,8 @@
         "changes": "",
         "fixes": "Fixed an issue with a Junction progression stopper task by replacing the crafting requirements of Vapor Specters."
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/SpectreArmies/BronzeSpectreArmy",
@@ -5191,7 +5181,6 @@
     "type": "Gear",
     "imageName": "vortex.png",
     "category": "Gear",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 21: Chains of Harrow",
@@ -5502,7 +5491,8 @@
         "changes": "",
         "fixes": "Fixed crash that could occur when using Vortex"
       }
-    ]
+    ],
+    "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Restoratives/Upgraded/AssassinAttractor",
@@ -5592,7 +5582,6 @@
     "type": "Gear",
     "imageName": "zanuka-hunter-beacon.png",
     "category": "Gear",
-    "tradable": false,
     "patchlogs": [
       {
         "name": "Update 19: The War Within",
@@ -5603,6 +5592,7 @@
         "changes": "",
         "fixes": "Fixed a crash that could occur when being attacked by Zanuka after using a Zanuka Hunter Beacon."
       }
-    ]
+    ],
+    "tradable": false
   }
 ]
