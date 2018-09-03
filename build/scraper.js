@@ -229,8 +229,10 @@ class Scraper {
     if (item.type) item.type = title(item.type)
     if (item.trigger) item.trigger = title(item.trigger)
     if (item.noise) item.noise = title(item.noise)
-    if (item.type) item.type = title(item.type)
     if (item.rarity) item.rarity = title(item.rarity)
+    if (!item.type) {
+      this.addType(item)
+    }
 
     // Remove <Archwing> from archwing names, add archwing key instead
     if (item.name && item.name.includes('<Archwing>')) {
