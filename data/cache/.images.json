@@ -1909,7 +1909,7 @@
  },
  {
   "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageAywi",
-  "hash": 131612239540605860
+  "hash": 131807217637304180
  },
  {
   "uniqueName": "/Lotus/Weapons/Tenno/Pistols/SundialGun/SundialPistol",
@@ -16425,7 +16425,7 @@
  },
  {
   "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageZopney",
-  "hash": 131612239547781900
+  "hash": 131807217637304180
  },
  {
   "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageZotbot",
@@ -16878,5 +16878,141 @@
  {
   "uniqueName": "/Lotus/Weapons/Tenno/Pistols/ConclaveLeverPistol/ConclaveLeverPistol",
   "hash": 131799494468979980
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/RelayRebuild/PhaseTwoClanItem",
+  "hash": 131799494468979980
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/RelayRebuild/PhaseThreeClanItem",
+  "hash": 131799494468979980
+ },
+ {
+  "uniqueName": "/Lotus/Powersuits/Khora/KhoraCrackAugmentCard",
+  "hash": 131807166953325180
+ },
+ {
+  "uniqueName": "/Lotus/Upgrades/Skins/Scarves/NezhaDeluxeScarf",
+  "hash": 131810793199498320
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/BothCommonFishATrophyBlueprint",
+  "hash": 131729838819716140
+ },
+ {
+  "uniqueName": "/Lotus/Powersuits/Bard/BardCharmAugmentCard",
+  "hash": 131805500270212370
+ },
+ {
+  "uniqueName": "/Lotus/Types/Recipes/Fishing/FishBaits/NightRareFishBaitBBlueprint",
+  "hash": 131524868928433620
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/NightRareFishBTrophyBlueprint",
+  "hash": 131729838819872140
+ },
+ {
+  "uniqueName": "/Lotus/Powersuits/MonkeyKing/MonkeyCloudAugmentCard",
+  "hash": 131805500270212370
+ },
+ {
+  "uniqueName": "/Lotus/Types/Recipes/Fishing/FishBaits/NightLegendaryFishBaitBlueprint",
+  "hash": 131524868928433620
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/NightLegendaryFishATrophyBlueprint",
+  "hash": 131729838819872140
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/BothCommonFishBTrophyBlueprint",
+  "hash": 131729838819716140
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/BothUncommonFishBTrophyBlueprint",
+  "hash": 131729838819716140
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/DayCommonFishBTrophyBlueprint",
+  "hash": 131729838819716140
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/Boosters/AnglerVisionBlueprint",
+  "hash": 131729838819872140
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/DayCommonFishATrophyBlueprint",
+  "hash": 131729838819716140
+ },
+ {
+  "uniqueName": "/Lotus/Powersuits/Glass/GlassShatterAugmentCard",
+  "hash": 131805500270056370
+ },
+ {
+  "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/MirageAlternateSkin",
+  "hash": 131806436328791500
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/DayUncommonFishBTrophyBlueprint",
+  "hash": 131729838819872140
+ },
+ {
+  "uniqueName": "/Lotus/Types/Recipes/Fishing/FishBaits/BothRareFishBaitABlueprint",
+  "hash": 131524868928433620
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/BothRareFishATrophyBlueprint",
+  "hash": 131729838819716140
+ },
+ {
+  "uniqueName": "/Lotus/Upgrades/Skins/Nezha/NezhaDeluxeHelmet",
+  "hash": 131810793199498320
+ },
+ {
+  "uniqueName": "/Lotus/Upgrades/Skins/Nezha/NezhaDeluxeSkin",
+  "hash": 131810793199498320
+ },
+ {
+  "uniqueName": "/Lotus/Types/Recipes/Fishing/FishBaits/NightRareFishBaitABlueprint",
+  "hash": 131524868928433620
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/NightRareFishATrophyBlueprint",
+  "hash": 131729838819872140
+ },
+ {
+  "uniqueName": "/Lotus/Types/Recipes/Fishing/FishBaits/GenericFishBaitBlueprint",
+  "hash": 131524868928433620
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/Boosters/SoftTouchBlueprint",
+  "hash": 131729838819872140
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/RelayRebuild/PhaseOneClanItem",
+  "hash": 131799494468979980
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/RelayRebuild/PhaseThreeEarthEssence",
+  "hash": 131524868964781860
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/BothUncommonFishATrophyBlueprint",
+  "hash": 131524868928121620
+ },
+ {
+  "uniqueName": "/Lotus/Upgrades/Skins/Nezha/NezhaDeluxeDaggerSkin",
+  "hash": 131810793199498320
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/DayUncommonFishATrophyBlueprint",
+  "hash": 131729838819872140
+ },
+ {
+  "uniqueName": "/Lotus/Types/Recipes/Fishing/FishBaits/BothUncommonFishBaitBlueprint",
+  "hash": 131524868928433620
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/DayCommonFishCTrophyBlueprint",
+  "hash": 131729838819716140
  }
 ]

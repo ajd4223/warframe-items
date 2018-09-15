@@ -24,7 +24,8 @@
         "name": "Auron",
         "description": "A brilliant, dense and conductive metal.",
         "itemCount": 20,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "rare-ore-a.png"
       },
       {
@@ -32,22 +33,25 @@
         "name": "Blueprint",
         "description": "Auron that has been forged into a stronger metal.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
-        "description": "An amorphous solid. Possibly Orokin technology.",
+        "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-morphic.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
         "name": "Oxium",
-        "description": "Oxium is a rare lighter than air alloy of Orokin origin.",
+        "description": "Oxium is a rare lighter than air alloy of Orokin origin, used in certain Corpus Robotics.\nLocations: Venus, Jupiter, Mars, Neptune, Pluto, Eris, Europa, and Lua.",
         "itemCount": 600,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-oxium.png"
       }
@@ -301,6 +305,7 @@
         "name": "Blueprint",
         "description": "Coprun that has been forged into a stronger metal.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -309,22 +314,25 @@
         "name": "Coprun",
         "description": "A soft, malleable metal.",
         "itemCount": 20,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-ore-b.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 400,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
         "name": "Rubedo",
-        "description": "A jagged crystalline ore. Gives off radiant energy.",
+        "description": "A jagged crystalline ore. Gives off radiant energy.\nLocations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
         "itemCount": 50,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-rubedo.png"
       }
@@ -422,7 +430,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/Research/ChemFragment",
     "name": "Detonite Ampule",
-    "description": "Researching the Detonite traces within could advance our weapon technology.",
+    "description": "Researching the Detonite traces within could advance our weapon technology.\nLocations: Venus, Earth, Lua, Ceres, Saturn, Sedna, and the Kuva Fortress.",
     "type": "Resource",
     "imageName": "detonite-ampule.png",
     "category": "Resources",
@@ -464,38 +472,43 @@
         "name": "Blueprint",
         "description": "Detonite injectors are the basis for explosive and incendiary weapons.",
         "itemCount": 1,
+        "type": "Resource",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
         "name": "Control Module",
-        "description": "Autonomy processor for Robotics. A Corpus design.",
+        "description": "Autonomy processor for Robotics. A Corpus design.\nLocations: Europa, Neptune, and the Void.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "control-module.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/Research/ChemFragment",
         "name": "Detonite Ampule",
-        "description": "Researching the Detonite traces within could advance our weapon technology.",
+        "description": "Researching the Detonite traces within could advance our weapon technology.\nLocations: Venus, Earth, Lua, Ceres, Saturn, Sedna, and the Kuva Fortress.",
         "itemCount": 10,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grineer-fragment.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 250,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -568,6 +581,7 @@
         "name": "Blueprint",
         "description": "Polished and cut to perfection.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -576,7 +590,8 @@
         "name": "Devar",
         "description": "A cloudy crystal.",
         "itemCount": 10,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-gem-b.png"
       }
     ],
@@ -600,6 +615,7 @@
         "name": "Blueprint",
         "description": "An integral part of Vomvalysts and Teralysts, the exact function of this... device? Organ? is uncertain.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -608,7 +624,8 @@
         "name": "Heart Nyth",
         "description": "Polished and cut to perfection.",
         "itemCount": 1,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "eidolon-gem-bcut-a.png"
       },
       {
@@ -616,6 +633,7 @@
         "name": "Intact Sentient Core",
         "description": "An integral part of Vomvalysts and Teralysts, the exact function of this... device? Organ? is uncertain.",
         "itemCount": 2,
+        "type": "Resource",
         "tradable": false,
         "imageName": "quills-common-pickup.png"
       },
@@ -624,7 +642,8 @@
         "name": "Radian Sentirum",
         "description": "Polished and cut to perfection.",
         "itemCount": 1,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "eidolon-gem-acut-a.png"
       }
     ],
@@ -684,6 +703,7 @@
         "name": "Blueprint",
         "description": "Ferros that has been forged into a stronger metal.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -692,22 +712,25 @@
         "name": "Ferros",
         "description": "A resilient metal that is hardened by the inpurities within it.",
         "itemCount": 20,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "uncommon-ore-a.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 400,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
         "name": "Rubedo",
-        "description": "A jagged crystalline ore. Gives off radiant energy.",
+        "description": "A jagged crystalline ore. Gives off radiant energy.\nLocations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
         "itemCount": 200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-rubedo.png"
       }
@@ -743,38 +766,43 @@
         "name": "Blueprint",
         "description": "ClanTech weaponized containment field to contain super-heated substances.",
         "itemCount": 1,
+        "type": "Resource",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
         "name": "Control Module",
-        "description": "Autonomy processor for Robotics. A Corpus design.",
+        "description": "Autonomy processor for Robotics. A Corpus design.\nLocations: Europa, Neptune, and the Void.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "control-module.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 250,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/Research/EnergyFragment",
         "name": "Sample",
-        "description": "This destroyed Fieldron could further research into super-heated containment fields.",
+        "description": "This destroyed Fieldron could further research into super-heated containment fields.\nLocations: Venus, Mars, Jupiter, Europa, Neptune, and Pluto.",
         "itemCount": 10,
+        "type": "Resource",
         "tradable": false,
         "imageName": "corpus-fragment.png"
       }
@@ -821,7 +849,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/Research/EnergyFragment",
     "name": "Fieldron Sample",
-    "description": "This destroyed Fieldron could further research into super-heated containment fields.",
+    "description": "This destroyed Fieldron could further research into super-heated containment fields.\nLocations: Venus, Mars, Jupiter, Europa, Neptune, and Pluto.",
     "type": "Resource",
     "imageName": "fieldron-sample.png",
     "category": "Resources",
@@ -954,6 +982,7 @@
         "name": "Blueprint",
         "description": "Polished and cut to perfection.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -962,7 +991,8 @@
         "name": "Nyth",
         "description": "A rare local Gem, formed when the gas known as Breath of the Eidolon becomes trapped in molten iradite.",
         "itemCount": 3,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "eidolon-gem-b.png"
       }
     ],
@@ -1169,6 +1199,7 @@
         "name": "Blueprint",
         "description": "Polished and cut to perfection.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -1177,7 +1208,8 @@
         "name": "Veridos",
         "description": "A highly reflective, green gem.",
         "itemCount": 10,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "uncommon-gem-a.png"
       }
     ],
@@ -1239,38 +1271,43 @@
         "name": "Blueprint",
         "description": "This living mass can produce weaponized toxins for weaponry.",
         "itemCount": 1,
+        "type": "Resource",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
         "name": "Control Module",
-        "description": "Autonomy processor for Robotics. A Corpus design.",
+        "description": "Autonomy processor for Robotics. A Corpus design.\nLocations: Europa, Neptune, and the Void.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "control-module.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/Research/BioFragment",
         "name": "Mutagen Sample",
-        "description": "These samples could advance our knowledge of biological research.",
+        "description": "These samples could advance our knowledge of biological research.\nLocations: Eris and Orokin Derelicts.",
         "itemCount": 10,
+        "type": "Resource",
         "tradable": false,
         "imageName": "infested-fragment.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 250,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -1293,7 +1330,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/Research/BioFragment",
     "name": "Mutagen Sample",
-    "description": "These samples could advance our knowledge of biological research.",
+    "description": "These samples could advance our knowledge of biological research.\nLocations: Eris and Orokin Derelicts.",
     "type": "Resource",
     "imageName": "mutagen-sample.png",
     "category": "Resources",
@@ -1393,14 +1430,16 @@
         "name": "Blueprint",
         "description": "Pyrol that has been forged into a stronger metal.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
         "name": "Cryotic",
-        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.",
+        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\nLocations: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune.",
         "itemCount": 200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cryotic.png"
       },
@@ -1409,14 +1448,16 @@
         "name": "Pyrol",
         "description": "A tarnished, brittle metal.",
         "itemCount": 20,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-ore-a.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
         "name": "Rubedo",
-        "description": "A jagged crystalline ore. Gives off radiant energy.",
+        "description": "A jagged crystalline ore. Gives off radiant energy.\nLocations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
         "itemCount": 50,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-rubedo.png"
       }
@@ -1452,6 +1493,7 @@
         "name": "Blueprint",
         "description": "Polished and cut to perfection.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -1460,7 +1502,8 @@
         "name": "Sentirum",
         "description": "A rare Eidolon Gem, created from the fossilized blood of an ancient Sentient.",
         "itemCount": 3,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "eidolon-gem-a.png"
       }
     ],
@@ -1502,6 +1545,7 @@
         "name": "Blueprint",
         "description": "Polished and cut to perfection.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -1510,7 +1554,8 @@
         "name": "Crimzian",
         "description": "A blood-red gem.",
         "itemCount": 6,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "rare-gem-a.png"
       }
     ],
@@ -1572,7 +1617,8 @@
         "name": "Azurite",
         "description": "A blue gem layered with impurities.",
         "itemCount": 10,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-gem-a.png"
       },
       {
@@ -1580,6 +1626,7 @@
         "name": "Blueprint",
         "description": "Polished and cut to perfection.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       }

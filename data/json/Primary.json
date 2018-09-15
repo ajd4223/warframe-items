@@ -34,8 +34,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
         "name": "Argon Crystal",
-        "description": "Void based radioactive resource that decays every day it is out of the void.",
+        "description": "A Void based radioactive resource that decays every day it is out of the Void.\nThis resource can be found in the Void.",
         "itemCount": 3,
+        "type": "Misc",
         "tradable": false,
         "imageName": "argon-crystal.png"
       },
@@ -44,14 +45,16 @@
         "name": "Blueprint",
         "description": "The Amprex rifle fires a continuous beam of high voltage electricity that arcs among nearby enemies. This weapon excels at crowd control.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 9000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
@@ -60,14 +63,16 @@
         "name": "Fieldron",
         "description": "ClanTech weaponized containment field to contain super-heated substances.",
         "itemCount": 8,
+        "type": "Resource",
         "tradable": false,
         "imageName": "corpus-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 600,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       }
@@ -238,22 +243,25 @@
         "name": "Blueprint",
         "description": "Stagger targets with blasts from this Corpus engineered plasma shotgun. Surviving enemies are consumed with radiation.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
         "name": "Control Module",
-        "description": "Autonomy processor for Robotics. A Corpus design.",
+        "description": "Autonomy processor for Robotics. A Corpus design.\nLocations: Europa, Neptune, and the Void.",
         "itemCount": 25,
+        "type": "Misc",
         "tradable": false,
         "imageName": "control-module.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
         "name": "Cryotic",
-        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.",
+        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\nLocations: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune.",
         "itemCount": 925,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cryotic.png"
       },
@@ -262,6 +270,7 @@
         "name": "Fieldron",
         "description": "ClanTech weaponized containment field to contain super-heated substances.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "corpus-component.png"
       },
@@ -270,6 +279,7 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       }
@@ -372,8 +382,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 9950,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
@@ -382,6 +393,7 @@
         "name": "Blueprint",
         "description": "Pick off targets by highlighting distant enemies using this Grineer rifle's advanced laser sighting system. Deadly in both single fire and automatic modes.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -390,6 +402,7 @@
         "name": "Detonite Injector",
         "description": "Detonite injectors are the basis for explosive and incendiary weapons.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grineer-component.png"
       },
@@ -398,14 +411,16 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 700,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       }
@@ -522,38 +537,43 @@
         "name": "Blueprint",
         "description": "Blast enemies with glass slugs that devastate on impact. This is Gara’s signature weapon.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 7500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
         "name": "Oxium",
-        "description": "Oxium is a rare lighter than air alloy of Orokin origin.",
+        "description": "Oxium is a rare lighter than air alloy of Orokin origin, used in certain Corpus Robotics.\nLocations: Venus, Jupiter, Mars, Neptune, Pluto, Eris, Europa, and Lua.",
         "itemCount": 175,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-oxium.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 875,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Tellurium",
         "name": "Tellurium",
-        "description": "This rare metal is foreign to the Origin System and can only be found in asteroids that have made the long journey from other stars.",
+        "description": "This rare metal is foreign to the Origin System and can only be found in asteroids that have made the long journey from other stars.\nLocations: Archwing Missions on Uranus.",
         "itemCount": 4,
+        "type": "Misc",
         "tradable": false,
         "imageName": "tellurium.png"
       }
@@ -634,14 +654,16 @@
         "name": "Blueprint",
         "description": "Quickly fire off a volley of deadly bolts with the Attica repeating crossbow.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 800,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
@@ -650,22 +672,25 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
-        "description": "An amorphous solid. Possibly Orokin technology.",
+        "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-morphic.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
         "name": "Rubedo",
-        "description": "A jagged crystalline ore. Gives off radiant energy.",
+        "description": "A jagged crystalline ore. Gives off radiant energy.\nLocations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
         "itemCount": 200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-rubedo.png"
       }
@@ -794,8 +819,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 4300,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
@@ -804,22 +830,25 @@
         "name": "Blueprint",
         "description": "Make easy prey of enemies with this quiet, agile, and pinpoint accurate Tenno submachine gun.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
         "name": "Cryotic",
-        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.",
+        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\nLocations: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune.",
         "itemCount": 575,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cryotic.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 3500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
@@ -828,6 +857,7 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       }
@@ -1180,8 +1210,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 900,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
@@ -1190,6 +1221,7 @@
         "name": "Blueprint",
         "description": "A shotgun with low accuracy and strong recoil, but able to deliver its payload in full-auto. The Boar is best used at close range.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -1210,24 +1242,27 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
-        "description": "An amorphous solid. Possibly Orokin technology.",
+        "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
         "itemCount": 6,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-morphic.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 900,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 750,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -1418,6 +1453,7 @@
         "name": "Barrel",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-gun-prime-barrel.png",
@@ -1477,6 +1513,7 @@
         "name": "Blueprint",
         "description": "One of the finest examples of Tenno craftsmanship, the Boar Prime offers a higher Fire Rate, Magazine Capacity and a much higher per-shot damage.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -1534,8 +1571,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 10,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -1544,6 +1582,7 @@
         "name": "Receiver",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-gun-prime-receiver.png",
@@ -1603,6 +1642,7 @@
         "name": "Stock",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "generic-gun-prime-stock.png",
@@ -1769,8 +1809,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 100,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
@@ -1779,30 +1820,34 @@
         "name": "Blueprint",
         "description": "The Boltor fires slow, heavy bolts that are capable of impaling enemies to walls.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
         "name": "Neurodes",
-        "description": "Biotech sensor organ harvested from Infested entities.",
+        "description": "Biotech sensor organ harvested from Infested entities.\nLocations: Earth, Lua, Eris, and Orokin Derelicts.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-neurode.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
-        "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+        "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
         "itemCount": 600,
+        "type": "Misc",
         "tradable": false,
         "imageName": "polymer-bundle.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 900,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -2106,6 +2151,7 @@
         "name": "Barrel",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-gun-prime-barrel.png",
@@ -2165,6 +2211,7 @@
         "name": "Blueprint",
         "description": "Fires Orokin designed bolts that are faster and sharper.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -2222,8 +2269,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 10,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -2232,6 +2280,7 @@
         "name": "Receiver",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-gun-prime-receiver.png",
@@ -2291,6 +2340,7 @@
         "name": "Stock",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-gun-prime-stock.png",
@@ -2813,6 +2863,7 @@
         "name": "Barrel",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-gun-prime-barrel.png",
@@ -2992,6 +3043,7 @@
         "name": "Blueprint",
         "description": "A classic Orokin weapon, Braton Prime features modified damage levels and a larger magazine over the standard model.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 25,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -3217,8 +3269,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 10,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -3227,6 +3280,7 @@
         "name": "Receiver",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-gun-prime-receiver.png",
@@ -3358,6 +3412,7 @@
         "name": "Stock",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-gun-prime-stock.png",
@@ -3690,6 +3745,7 @@
         "name": "Barrel",
         "description": "A weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "generic-gun-barrel.png",
         "drops": [
@@ -3707,6 +3763,7 @@
         "name": "Blueprint",
         "description": "A special version of the standard Braton rifle with a slower Fire Rate but offering higher accuracy and damage values. The Braton Vandal has been customized by the Tenno with a blue-green metallic finish and Lotus branding on the grips.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "blueprint.png",
         "drops": [
@@ -3724,6 +3781,7 @@
         "name": "Receiver",
         "description": "A weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "generic-gun-receiver.png",
         "drops": [
@@ -3741,6 +3799,7 @@
         "name": "Stock",
         "description": "A weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "generic-gun-stock.png",
         "drops": [
@@ -3884,8 +3943,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 150,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
@@ -3894,30 +3954,34 @@
         "name": "Blueprint",
         "description": "The Burston fires 3-round bursts, which provides a balance between the lethality of automatic rifles and the accuracy of semi-automatic rifles.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
-        "description": "An amorphous solid. Possibly Orokin technology.",
+        "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-morphic.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 600,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
-        "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+        "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
         "itemCount": 400,
+        "type": "Misc",
         "tradable": false,
         "imageName": "polymer-bundle.png"
       }
@@ -4085,6 +4149,7 @@
         "name": "Barrel",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-gun-prime-barrel.png",
@@ -4216,6 +4281,7 @@
         "name": "Blueprint",
         "description": "Once thought lost to the ages, attempts to reengineer the Burston Prime never fully replicated this weapon's power and agility.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -4345,8 +4411,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 10,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -4355,6 +4422,7 @@
         "name": "Receiver",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-gun-prime-receiver.png",
@@ -4510,6 +4578,7 @@
         "name": "Stock",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-gun-prime-stock.png",
@@ -4831,14 +4900,16 @@
         "name": "Blueprint",
         "description": "Mark your targets and unleash a barrage of bullets, the Buzlok's homing rounds always find the enemy. Marked targets are more likely to take critical hits.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 600,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
@@ -4847,6 +4918,7 @@
         "name": "Detonite Injector",
         "description": "Detonite injectors are the basis for explosive and incendiary weapons.",
         "itemCount": 2,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grineer-component.png"
       },
@@ -4855,14 +4927,16 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 5000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -5085,38 +5159,43 @@
         "name": "Blueprint",
         "description": "Evoking the design of ancient bows, the high impact Cernos is perfect for hunting down highly shielded enemies.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 1750,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
         "name": "Gallium",
-        "description": "Soft metal used in microelectronics and energy weapons.",
+        "description": "Soft metal used in microelectronics and energy weapons.\nLocations: Mars and Uranus.",
         "itemCount": 3,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-gallium.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 700,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
-        "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+        "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
         "itemCount": 600,
+        "type": "Misc",
         "tradable": false,
         "imageName": "polymer-bundle.png"
       }
@@ -5440,6 +5519,7 @@
         "name": "Blueprint",
         "description": "A noble bow to hunt hellish beasts.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -5571,6 +5651,7 @@
         "name": "Grip",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-component-prime-latch.png",
@@ -5702,6 +5783,7 @@
         "name": "Lower Limb",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "generic-weapon-prime-blade.png",
@@ -5809,6 +5891,7 @@
         "name": "String",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-gun-prime-stock.png",
@@ -5964,6 +6047,7 @@
         "name": "Upper Limb",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-weapon-prime-blade.png",
@@ -6249,14 +6333,16 @@
         "name": "Blueprint",
         "description": "When its twin-lasers converge on a target a circuit is created, frying the subject.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
         "name": "Control Module",
-        "description": "Autonomy processor for Robotics. A Corpus design.",
+        "description": "Autonomy processor for Robotics. A Corpus design.\nLocations: Europa, Neptune, and the Void.",
         "itemCount": 10,
+        "type": "Misc",
         "tradable": false,
         "imageName": "control-module.png"
       },
@@ -6265,6 +6351,7 @@
         "name": "Fieldron",
         "description": "ClanTech weaponized containment field to contain super-heated substances.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "corpus-component.png"
       },
@@ -6273,14 +6360,16 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
         "name": "Oxium",
-        "description": "Oxium is a rare lighter than air alloy of Orokin origin.",
+        "description": "Oxium is a rare lighter than air alloy of Orokin origin, used in certain Corpus Robotics.\nLocations: Venus, Jupiter, Mars, Neptune, Pluto, Eris, Europa, and Lua.",
         "itemCount": 900,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-oxium.png"
       }
@@ -6375,8 +6464,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 13000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
@@ -6385,30 +6475,34 @@
         "name": "Blueprint",
         "description": "Deliver a massive punch with each blast of this shotgun, or launch a round that explodes mid-air knocking down nearby enemies.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
         "name": "Cryotic",
-        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.",
+        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\nLocations: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune.",
         "itemCount": 725,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cryotic.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
         "name": "Gallium",
-        "description": "Soft metal used in microelectronics and energy weapons.",
+        "description": "Soft metal used in microelectronics and energy weapons.\nLocations: Mars and Uranus.",
         "itemCount": 6,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-gallium.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
         "name": "Nitain Extract",
-        "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.",
+        "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.\nThis resource can be acquired as a reward from Alerts.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alertium.png"
       }
@@ -6521,6 +6615,7 @@
         "name": "Blueprint",
         "description": "Daikyu takes great strength to draw back, but provides added power and range to every shot.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -6529,30 +6624,34 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
         "name": "Neurodes",
-        "description": "Biotech sensor organ harvested from Infested entities.",
+        "description": "Biotech sensor organ harvested from Infested entities.\nLocations: Earth, Lua, Eris, and Orokin Derelicts.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-neurode.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
         "name": "Rubedo",
-        "description": "A jagged crystalline ore. Gives off radiant energy.",
+        "description": "A jagged crystalline ore. Gives off radiant energy.\nLocations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
         "itemCount": 300,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-rubedo.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 1200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -6770,22 +6869,25 @@
         "name": "Blueprint",
         "description": "The DERA is a repeater that fires super-heated plasma.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 600,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 4500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
@@ -6794,6 +6896,7 @@
         "name": "Fieldron",
         "description": "ClanTech weaponized containment field to contain super-heated substances.",
         "itemCount": 2,
+        "type": "Resource",
         "tradable": false,
         "imageName": "corpus-component.png"
       },
@@ -6802,6 +6905,7 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       }
@@ -7011,6 +7115,7 @@
         "name": "Barrel",
         "description": "A weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "generic-gun-barrel.png"
       },
@@ -7019,6 +7124,7 @@
         "name": "Blueprint",
         "description": "A customized version of the Dera, featuring a metallic finish and Lotus decal.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "blueprint.png"
       },
@@ -7027,6 +7133,7 @@
         "name": "Receiver",
         "description": "A weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "generic-gun-receiver.png"
       },
@@ -7035,6 +7142,7 @@
         "name": "Stock",
         "description": "A weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "generic-gun-stock.png"
       }
@@ -7201,8 +7309,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 950,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
@@ -7211,30 +7320,34 @@
         "name": "Blueprint",
         "description": "The Drakgoon flak cannon sends volleys of intensely hot shrapnel ricocheting around the room. Can be fired in wide or concentrated bursts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 1100,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
-        "description": "An amorphous solid. Possibly Orokin technology.",
+        "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-morphic.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 5500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       }
@@ -7389,6 +7502,7 @@
         "name": "Blueprint",
         "description": "Dread is the calling card of The Stalker. It fires arrows that can decapitate.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -7433,32 +7547,36 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 900,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
-        "description": "An amorphous solid. Possibly Orokin technology.",
+        "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
         "itemCount": 6,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-morphic.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 900,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
-        "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+        "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
         "itemCount": 750,
+        "type": "Misc",
         "tradable": false,
         "imageName": "polymer-bundle.png"
       }
@@ -7608,8 +7726,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 30000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
@@ -7618,6 +7737,7 @@
         "name": "Blueprint",
         "description": "Discharge a rail of ionized death or throw the Ferrox like a spear and create a localized field of attraction no enemy can escape from.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -7626,6 +7746,7 @@
         "name": "Fieldron",
         "description": "ClanTech weaponized containment field to contain super-heated substances.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "corpus-component.png"
       },
@@ -7634,14 +7755,16 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 35000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -7822,22 +7945,25 @@
         "name": "Blueprint",
         "description": "Laser Rifle with Corpus safe-guards removed.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 900,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 6000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
@@ -7846,6 +7972,7 @@
         "name": "Fieldron",
         "description": "ClanTech weaponized containment field to contain super-heated substances.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "corpus-component.png"
       },
@@ -7854,6 +7981,7 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       }
@@ -8046,22 +8174,25 @@
         "name": "Blueprint",
         "description": "Fires a photon beam that halts molecular vibrations, causing instant and painful freezing.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 550,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
         "name": "Cryotic",
-        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.",
+        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\nLocations: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune.",
         "itemCount": 2500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cryotic.png"
       },
@@ -8070,6 +8201,7 @@
         "name": "Fieldron",
         "description": "ClanTech weaponized containment field to contain super-heated substances.",
         "itemCount": 1,
+        "type": "Resource",
         "tradable": false,
         "imageName": "corpus-component.png"
       },
@@ -8078,6 +8210,7 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       }
@@ -8239,6 +8372,7 @@
         "name": "Blueprint",
         "description": "The Gorgon sports a large clip that allows it to provide suppressing fire and sustain a high damage rate over a long time. Its high Fire Rate is only achieved following a short wind-up cycle.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -8295,32 +8429,36 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 1000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 5000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
-        "description": "An amorphous solid. Possibly Orokin technology.",
+        "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-morphic.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 6000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -8619,6 +8757,7 @@
         "name": "Barrel",
         "description": "A weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "generic-gun-barrel.png",
         "drops": [
@@ -8635,6 +8774,7 @@
         "name": "Blueprint",
         "description": "The Gorgon Wraith is a powerful variant of its precursor that features unique styling.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "blueprint.png",
         "drops": [
@@ -8651,6 +8791,7 @@
         "name": "Receiver",
         "description": "A weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "generic-gun-receiver.png",
         "drops": [
@@ -8667,6 +8808,7 @@
         "name": "Stock",
         "description": "A weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "generic-gun-stock.png",
         "drops": [
@@ -8775,8 +8917,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 400,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
@@ -8785,30 +8928,34 @@
         "name": "Blueprint",
         "description": "Equipped with a huge Magazine and impressive Fire Rate, the Grakata is the preferred weapon of Grineer Lancers.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
         "name": "Neurodes",
-        "description": "Biotech sensor organ harvested from Infested entities.",
+        "description": "Biotech sensor organ harvested from Infested entities.\nLocations: Earth, Lua, Eris, and Orokin Derelicts.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-neurode.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
-        "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+        "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
         "itemCount": 100,
+        "type": "Misc",
         "tradable": false,
         "imageName": "polymer-bundle.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 900,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -9110,6 +9257,7 @@
         "name": "Blueprint",
         "description": "With pinpoint accuracy, the Grinlok lever-action repeating rifle can easily find the soft spot on any target.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -9118,14 +9266,16 @@
         "name": "Detonite Injector",
         "description": "Detonite injectors are the basis for explosive and incendiary weapons.",
         "itemCount": 2,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grineer-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 5000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
@@ -9134,14 +9284,16 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
-        "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+        "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
         "itemCount": 5000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "polymer-bundle.png"
       }
@@ -9286,8 +9438,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
         "name": "Argon Crystal",
-        "description": "Void based radioactive resource that decays every day it is out of the void.",
+        "description": "A Void based radioactive resource that decays every day it is out of the Void.\nThis resource can be found in the Void.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "argon-crystal.png"
       },
@@ -9296,30 +9449,34 @@
         "name": "Blueprint",
         "description": "Spike enemies to the wall or reel them in with this burst harpoon gun.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
         "name": "Gallium",
-        "description": "Soft metal used in microelectronics and energy weapons.",
+        "description": "Soft metal used in microelectronics and energy weapons.\nLocations: Mars and Uranus.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-gallium.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 6000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
         "name": "Rubedo",
-        "description": "A jagged crystalline ore. Gives off radiant energy.",
+        "description": "A jagged crystalline ore. Gives off radiant energy.\nLocations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
         "itemCount": 3600,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-rubedo.png"
       }
@@ -9460,38 +9617,43 @@
         "name": "Blueprint",
         "description": "The Hek is a powerful shotgun that fires its shots with a tight spread, making it efficient at medium range as long as its strong recoil is properly managed.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 900,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
         "name": "Neurodes",
-        "description": "Biotech sensor organ harvested from Infested entities.",
+        "description": "Biotech sensor organ harvested from Infested entities.\nLocations: Earth, Lua, Eris, and Orokin Derelicts.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-neurode.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
         "name": "Rubedo",
-        "description": "A jagged crystalline ore. Gives off radiant energy.",
+        "description": "A jagged crystalline ore. Gives off radiant energy.\nLocations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
         "itemCount": 1000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-rubedo.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 1200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -9499,6 +9661,15 @@
     "imageName": "hek.png",
     "category": "Primary",
     "patchlogs": [
+      {
+        "name": "Mask of the Revenant: Update 23.6.0",
+        "date": "2018-08-30T16:04:42Z",
+        "url": "https://forums.warframe.com/topic/1003787-mask-of-the-revenant-update-2360/",
+        "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/64179d467e89f2525b45bb65b23618b3.jpg",
+        "additions": "",
+        "changes": "",
+        "fixes": "Almost four years ago, Vay Hek launched an unprecedented attack on our Relays. We defeated his Fomorians, but not before three of our Relays were destroyed."
+      },
       {
         "name": "Shrine of the Eidolon: Hotfix 22.17.1 - 22.17.1.1",
         "date": "2018-04-05T18:31:09Z",
@@ -10061,14 +10232,16 @@
         "name": "Blueprint",
         "description": "A bloodsucker. This symbiotic burst-rifle leeches health to forge its ammo and then restores health with each headshot.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 5000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
@@ -10077,6 +10250,7 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
@@ -10085,14 +10259,16 @@
         "name": "Mutagen Mass",
         "description": "This living mass can produce weaponized toxins for weaponry.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "infested-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 50000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -10179,38 +10355,43 @@
         "name": "Blueprint",
         "description": "A powerful mid-range rifle used by Grineer shock troops, the Hind fires in five round bursts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 700,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
         "name": "Neurodes",
-        "description": "Biotech sensor organ harvested from Infested entities.",
+        "description": "Biotech sensor organ harvested from Infested entities.\nLocations: Earth, Lua, Eris, and Orokin Derelicts.",
         "itemCount": 6,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-neurode.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
         "name": "Rubedo",
-        "description": "A jagged crystalline ore. Gives off radiant energy.",
+        "description": "A jagged crystalline ore. Gives off radiant energy.\nLocations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
         "itemCount": 1200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-rubedo.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 1000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -10374,6 +10555,7 @@
         "name": "Blueprint",
         "description": "Ignis produces a stream of intense heat.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -10382,14 +10564,16 @@
         "name": "Detonite Injector",
         "description": "Detonite injectors are the basis for explosive and incendiary weapons.",
         "itemCount": 2,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grineer-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 5000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
@@ -10398,14 +10582,16 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 5000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       }
@@ -10708,8 +10894,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
         "name": "Argon Crystal",
-        "description": "Void based radioactive resource that decays every day it is out of the void.",
+        "description": "A Void based radioactive resource that decays every day it is out of the Void.\nThis resource can be found in the Void.",
         "itemCount": 3,
+        "type": "Misc",
         "tradable": false,
         "imageName": "argon-crystal.png"
       },
@@ -10718,6 +10905,7 @@
         "name": "Blueprint",
         "description": "A blood-red variant of this destructive flamethrower.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "blueprint.png"
       },
@@ -10726,22 +10914,25 @@
         "name": "Detonite Injector",
         "description": "Detonite injectors are the basis for explosive and incendiary weapons.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grineer-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 10000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
         "name": "Rubedo",
-        "description": "A jagged crystalline ore. Gives off radiant energy.",
+        "description": "A jagged crystalline ore. Gives off radiant energy.\nLocations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
         "itemCount": 5000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-rubedo.png"
       }
@@ -10833,8 +11024,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 10000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
@@ -10843,6 +11035,7 @@
         "name": "Blueprint",
         "description": "Launch super-heated slugs at individual foes, or hurl the entire weapon and ignite groups of enemies in a flash inferno.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -10851,6 +11044,7 @@
         "name": "Capacitor",
         "description": "Used in the construction of Javloks",
         "itemCount": 6,
+        "type": "Misc",
         "tradable": false,
         "imageName": "javlok-capacitor.png"
       },
@@ -10859,14 +11053,16 @@
         "name": "Detonite Injector",
         "description": "Detonite injectors are the basis for explosive and incendiary weapons.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grineer-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
         "name": "Nitain Extract",
-        "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.",
+        "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.\nThis resource can be acquired as a reward from Alerts.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alertium.png"
       }
@@ -11157,8 +11353,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 400,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
@@ -11167,30 +11364,34 @@
         "name": "Blueprint",
         "description": "Solid, dependable and deadly. The Karak is a standard issue rifle in many Grineer platoons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
         "name": "Neurodes",
-        "description": "Biotech sensor organ harvested from Infested entities.",
+        "description": "Biotech sensor organ harvested from Infested entities.\nLocations: Earth, Lua, Eris, and Orokin Derelicts.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-neurode.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
-        "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+        "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
         "itemCount": 100,
+        "type": "Misc",
         "tradable": false,
         "imageName": "polymer-bundle.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 900,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -11384,6 +11585,7 @@
         "name": "Barrel",
         "description": "A weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "generic-gun-barrel.png"
       },
@@ -11392,6 +11594,7 @@
         "name": "Blueprint",
         "description": "A different take on the Grineer assault rifle, the Karak Wraith features unique styling.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "blueprint.png"
       },
@@ -11400,6 +11603,7 @@
         "name": "Receiver",
         "description": "A weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "generic-gun-receiver.png"
       },
@@ -11408,6 +11612,7 @@
         "name": "Stock",
         "description": "A weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "generic-gun-stock.png"
       }
@@ -11516,8 +11721,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
         "name": "Argon Crystal",
-        "description": "Void based radioactive resource that decays every day it is out of the void.",
+        "description": "A Void based radioactive resource that decays every day it is out of the Void.\nThis resource can be found in the Void.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "argon-crystal.png"
       },
@@ -11526,30 +11732,34 @@
         "name": "Blueprint",
         "description": "For every shot fired in rapid succession the Kohm releases an additional bolt and grows more lethal.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
         "name": "Cryotic",
-        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.",
+        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\nLocations: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune.",
         "itemCount": 500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cryotic.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
         "name": "Oxium",
-        "description": "Oxium is a rare lighter than air alloy of Orokin origin.",
+        "description": "Oxium is a rare lighter than air alloy of Orokin origin, used in certain Corpus Robotics.\nLocations: Venus, Jupiter, Mars, Neptune, Pluto, Eris, Europa, and Lua.",
         "itemCount": 500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-oxium.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 2500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -11785,8 +11995,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 600,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
@@ -11795,6 +12006,7 @@
         "name": "Blueprint",
         "description": "The Lanka fires a high velocity projectile through magnetic induction.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -11803,6 +12015,7 @@
         "name": "Fieldron",
         "description": "ClanTech weaponized containment field to contain super-heated substances.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "corpus-component.png"
       },
@@ -11811,14 +12024,16 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
         "name": "Gallium",
-        "description": "Soft metal used in microelectronics and energy weapons.",
+        "description": "Soft metal used in microelectronics and energy weapons.\nLocations: Mars and Uranus.",
         "itemCount": 20,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-gallium.png"
       }
@@ -12027,8 +12242,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 1000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
@@ -12037,30 +12253,34 @@
         "name": "Blueprint",
         "description": "The Latron is a highly efficient rifle that performs well at medium and at long range, its accuracy making it a deadly weapon in the hands of skilled marksmen.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
-        "description": "An amorphous solid. Possibly Orokin technology.",
+        "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-morphic.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 800,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 900,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -12335,6 +12555,7 @@
         "name": "Barrel",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-gun-prime-barrel.png",
@@ -12394,6 +12615,7 @@
         "name": "Blueprint",
         "description": "The ornamental Latron Prime exploits ancient Orokin technology to get a slight damage increase over the standard Latron.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -12451,8 +12673,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 10,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -12461,6 +12684,7 @@
         "name": "Receiver",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-gun-prime-receiver.png",
@@ -12520,6 +12744,7 @@
         "name": "Stock",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-gun-prime-stock.png",
@@ -12730,6 +12955,7 @@
         "name": "Barrel",
         "description": "A weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "generic-gun-barrel.png"
       },
@@ -12738,6 +12964,7 @@
         "name": "Blueprint",
         "description": "The Latron Wraith is a powerful variation of the standard, semi-automatic rifle that features unique styling.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "blueprint.png"
       },
@@ -12746,6 +12973,7 @@
         "name": "Receiver",
         "description": "A weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "generic-gun-receiver.png"
       },
@@ -12754,6 +12982,7 @@
         "name": "Stock",
         "description": "A weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "generic-gun-stock.png"
       }
@@ -12861,8 +13090,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 8200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
@@ -12871,14 +13101,16 @@
         "name": "Blueprint",
         "description": "Bolts from this Corpus bow deliver a one-two punch of an icy pulse, followed by a conventional explosion. Excess ammo picked up for other weapons will be converted into charges for the Lenz. \nWarning: Safety-protocols do not exist on this prototype.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
         "name": "Cryotic",
-        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.",
+        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\nLocations: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune.",
         "itemCount": 2400,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cryotic.png"
       },
@@ -12887,14 +13119,16 @@
         "name": "Fieldron",
         "description": "ClanTech weaponized containment field to contain super-heated substances.",
         "itemCount": 10,
+        "type": "Resource",
         "tradable": false,
         "imageName": "corpus-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
         "name": "Nitain Extract",
-        "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.",
+        "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.\nThis resource can be acquired as a reward from Alerts.",
         "itemCount": 3,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alertium.png"
       }
@@ -13022,6 +13256,7 @@
         "name": "Barrel",
         "description": "A weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-gun-barrel.png",
         "drops": [
@@ -13038,6 +13273,7 @@
         "name": "Blade",
         "description": "A weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-weapon-blade.png",
         "drops": [
@@ -13054,6 +13290,7 @@
         "name": "Blueprint",
         "description": "The MITER launches high velocity saw blades, tearing apart anyone unfortunate enough to be in their path.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -13070,6 +13307,7 @@
         "name": "Chassis",
         "description": "A weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-gun-stock.png",
         "drops": [
@@ -13086,6 +13324,7 @@
         "name": "Handle",
         "description": "A weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-gun-receiver.png",
         "drops": [
@@ -13456,6 +13695,7 @@
         "name": "Blueprint",
         "description": "Overcome with Infestation, this bow's arrows now spread poisonous contagion to any surface they hit.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -13485,30 +13725,34 @@
         "masteryReq": 6,
         "omegaAttenuation": 0.86000001,
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "antler-bow.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
         "name": "Cryotic",
-        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.",
+        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\nLocations: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune.",
         "itemCount": 1200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cryotic.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 2300,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 1400,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       }
@@ -13642,14 +13886,16 @@
         "name": "Blueprint",
         "description": "A bizarre union of Corpus technology and Infested biology, this automatic rifle can also deploy an irradiated airborne infested mass. Further field testing is required to fully understand the potential of this weapon.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 1200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
@@ -13658,6 +13904,7 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
@@ -13666,14 +13913,16 @@
         "name": "Mutagen Mass",
         "description": "This living mass can produce weaponized toxins for weaponry.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "infested-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 15000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       }
@@ -13859,8 +14108,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 600,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
@@ -13869,6 +14119,7 @@
         "name": "Blueprint",
         "description": "Ogris fires detonite-infused casings.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -13877,6 +14128,7 @@
         "name": "Detonite Injector",
         "description": "Detonite injectors are the basis for explosive and incendiary weapons.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grineer-component.png"
       },
@@ -13885,14 +14137,16 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 5000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -14200,14 +14454,16 @@
         "name": "Blueprint",
         "description": "Once charged this Corpus laser cannon dispatches a devastating blast of light energy.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
         "name": "Cryotic",
-        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.",
+        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\nLocations: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune.",
         "itemCount": 600,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cryotic.png"
       },
@@ -14216,6 +14472,7 @@
         "name": "Fieldron",
         "description": "ClanTech weaponized containment field to contain super-heated substances.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "corpus-component.png"
       },
@@ -14224,14 +14481,16 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
         "name": "Gallium",
-        "description": "Soft metal used in microelectronics and energy weapons.",
+        "description": "Soft metal used in microelectronics and energy weapons.\nLocations: Mars and Uranus.",
         "itemCount": 20,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-gallium.png"
       }
@@ -14536,6 +14795,7 @@
         "name": "Blueprint",
         "description": "Firing high-velocity blades, this weapon can also be used as a battle-saw, shredding anything unfortunate enough to get within range.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -14565,6 +14825,7 @@
         "masteryReq": 2,
         "omegaAttenuation": 0.69,
         "itemCount": 1,
+        "type": "Throwing",
         "tradable": false,
         "imageName": "throwing-star.png"
       },
@@ -14594,22 +14855,25 @@
         "masteryReq": 6,
         "omegaAttenuation": 1.6,
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "grineer-sawblade-weapon.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
-        "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+        "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
         "itemCount": 600,
+        "type": "Misc",
         "tradable": false,
         "imageName": "polymer-bundle.png"
       }
@@ -14838,14 +15102,16 @@
         "name": "Blueprint",
         "description": "Completely overwhelmed by Infested biology, this former Quanta now fires organic ordnance and a harpoon like appendage.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 1200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
@@ -14854,6 +15120,7 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
@@ -14862,14 +15129,16 @@
         "name": "Mutagen Mass",
         "description": "This living mass can produce weaponized toxins for weaponry.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "infested-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 15000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       }
@@ -15009,38 +15278,43 @@
         "name": "Blueprint",
         "description": "Based on one of the world's oldest weapon designs, this Tenno-crafted weapon can be used both in stealth and in open combat. The Paris uses a chargeable magnetic field to launch arrows capable of impaling enemies to walls.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
-        "description": "An amorphous solid. Possibly Orokin technology.",
+        "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
         "itemCount": 3,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-morphic.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 2000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 600,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
-        "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+        "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
         "itemCount": 700,
+        "type": "Misc",
         "tradable": false,
         "imageName": "polymer-bundle.png"
       }
@@ -15349,6 +15623,7 @@
         "name": "Blueprint",
         "description": "Discovered deep inside an ancient Orokin derelict, the Paris Prime increases the kinetic energy of any bolt it fires, dealing more damage than its more common counterpart.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -15648,6 +15923,7 @@
         "name": "Grip",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-component-prime-latch.png",
@@ -15755,6 +16031,7 @@
         "name": "Lower Limb",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-weapon-prime-blade.png",
@@ -16006,6 +16283,7 @@
         "name": "String",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-gun-prime-stock.png",
@@ -16281,6 +16559,7 @@
         "name": "Upper Limb",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 25,
         "tradable": true,
         "imageName": "generic-weapon-prime-blade.png",
@@ -16699,8 +16978,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 400,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
@@ -16709,30 +16989,34 @@
         "name": "Blueprint",
         "description": "The Penta Launcher fires up to five grenades that can be remotely triggered at just the right moment.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 1000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
         "name": "Control Module",
-        "description": "Autonomy processor for Robotics. A Corpus design.",
+        "description": "Autonomy processor for Robotics. A Corpus design.\nLocations: Europa, Neptune, and the Void.",
         "itemCount": 3,
+        "type": "Misc",
         "tradable": false,
         "imageName": "control-module.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 1200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       }
@@ -17039,14 +17323,16 @@
         "name": "Blueprint",
         "description": "Fires seven beams of continuous biochemical energy which depletes the life of any surface they contact.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 1500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
@@ -17055,6 +17341,7 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
@@ -17063,14 +17350,16 @@
         "name": "Mutagen Mass",
         "description": "This living mass can produce weaponized toxins for weaponry.",
         "itemCount": 4,
+        "type": "Resource",
         "tradable": false,
         "imageName": "infested-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 6000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       }
@@ -17194,8 +17483,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
         "name": "Argon Crystal",
-        "description": "Void based radioactive resource that decays every day it is out of the void.",
+        "description": "A Void based radioactive resource that decays every day it is out of the Void.\nThis resource can be found in the Void.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "argon-crystal.png"
       },
@@ -17204,6 +17494,7 @@
         "name": "Blueprint",
         "description": "Irradiate enemies with a continuous stream of deadly plasma. Charging secondary fire releases a glob of plasma that erupts with homing bomblets on impact.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -17212,28 +17503,42 @@
         "name": "Intact Sentient Core",
         "description": "An integral part of Vomvalysts and Teralysts, the exact function of this... device? Organ? is uncertain.",
         "itemCount": 10,
+        "type": "Resource",
         "tradable": false,
         "imageName": "quills-common-pickup.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 12500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 650,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       }
     ],
     "imageName": "phantasma.png",
     "category": "Primary",
+    "patchlogs": [
+      {
+        "name": "Mask of the Revenant: Update 23.6.0",
+        "date": "2018-08-30T16:04:42Z",
+        "url": "https://forums.warframe.com/topic/1003787-mask-of-the-revenant-update-2360/",
+        "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/64179d467e89f2525b45bb65b23618b3.jpg",
+        "additions": "",
+        "changes": "",
+        "fixes": "Phantasma alt-fire will now seek targets in all directions, instead of behind the projectile. "
+      }
+    ],
     "ammo": 275,
     "damage": "50.0 radiation",
     "damageTypes": {
@@ -17551,14 +17856,16 @@
         "name": "Blueprint",
         "description": "This weapon was designed to assist with the excavation of mineral deposits from large asteroids, but has been adapted for military purposes.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 1000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
@@ -17567,6 +17874,7 @@
         "name": "Fieldron",
         "description": "ClanTech weaponized containment field to contain super-heated substances.",
         "itemCount": 7,
+        "type": "Resource",
         "tradable": false,
         "imageName": "corpus-component.png"
       },
@@ -17575,14 +17883,16 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 7000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -17970,6 +18280,7 @@
         "name": "Blueprint",
         "description": "Annihilate targets with four simultaneous shots from this high-caliber Grineer rifle.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -18010,7 +18321,8 @@
         "name": "Fersteel Alloy",
         "description": "Ferros that has been forged into a stronger metal.",
         "itemCount": 15,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "uncommon-ore-aalloy-a.png"
       },
       {
@@ -18018,22 +18330,25 @@
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
         "itemCount": 75,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grokdrul.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/NeuralSensor",
         "name": "Neural Sensors",
-        "description": "Implanted neural-link for controlling augmentations. Grineer design.",
+        "description": "Implanted neural-link for controlling augmentations. Grineer design.\nLocation: Jupiter.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "neural-sensor.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 12450,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -18253,8 +18568,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
         "name": "Argon Crystal",
-        "description": "Void based radioactive resource that decays every day it is out of the void.",
+        "description": "A Void based radioactive resource that decays every day it is out of the Void.\nThis resource can be found in the Void.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "argon-crystal.png"
       },
@@ -18263,30 +18579,34 @@
         "name": "Blueprint",
         "description": "Scope out the enemy with this long-range revolver style rifle.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
-        "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+        "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
         "itemCount": 1300,
+        "type": "Misc",
         "tradable": false,
         "imageName": "polymer-bundle.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
         "name": "Rubedo",
-        "description": "A jagged crystalline ore. Gives off radiant energy.",
+        "description": "A jagged crystalline ore. Gives off radiant energy.\nLocations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
         "itemCount": 900,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-rubedo.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 3800,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -18469,38 +18789,43 @@
         "name": "Blueprint",
         "description": "Blast targets with corrosive plasma projectiles, or toss the scepter to inflict an energy field upon nearby enemies that amplifies their brain waves to attract bullets.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 2500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
         "name": "Nitain Extract",
-        "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.",
+        "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.\nThis resource can be acquired as a reward from Alerts.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alertium.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
         "name": "Oxium",
-        "description": "Oxium is a rare lighter than air alloy of Orokin origin.",
+        "description": "Oxium is a rare lighter than air alloy of Orokin origin, used in certain Corpus Robotics.\nLocations: Venus, Jupiter, Mars, Neptune, Pluto, Eris, Europa, and Lua.",
         "itemCount": 350,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-oxium.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
-        "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+        "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
         "itemCount": 2500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "polymer-bundle.png"
       }
@@ -18735,8 +19060,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
         "name": "Argon Crystal",
-        "description": "Void based radioactive resource that decays every day it is out of the void.",
+        "description": "A Void based radioactive resource that decays every day it is out of the Void.\nThis resource can be found in the Void.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "argon-crystal.png"
       },
@@ -18745,30 +19071,34 @@
         "name": "Blueprint",
         "description": "Creates miniature gravitational singularities that can be used for scientific study or self-defense.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 1200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
-        "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+        "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
         "itemCount": 850,
+        "type": "Misc",
         "tradable": false,
         "imageName": "polymer-bundle.png"
       }
@@ -19049,8 +19379,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 900,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
@@ -19059,30 +19390,34 @@
         "name": "Blueprint",
         "description": "Manufactured by the Corpus, the Snipetron is a powerful and accurate rifle that sports optical zoom capabilities. Perfect for long range engagements.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
-        "description": "An amorphous solid. Possibly Orokin technology.",
+        "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-morphic.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 900,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 1200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -19315,6 +19650,7 @@
         "name": "Barrel",
         "description": "A weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "generic-gun-barrel.png"
       },
@@ -19323,6 +19659,7 @@
         "name": "Blueprint",
         "description": "A customized version of the elusive Snipetron, with metallic finish and Lotus decal.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "blueprint.png"
       },
@@ -19331,6 +19668,7 @@
         "name": "Receiver",
         "description": "A weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "generic-gun-receiver.png"
       },
@@ -19339,6 +19677,7 @@
         "name": "Stock",
         "description": "A weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "generic-gun-stock.png"
       }
@@ -19490,38 +19829,43 @@
         "name": "Blueprint",
         "description": "Sobek is a rapid-firing Grineer shotgun that has reduced damage per shot but boasts extra large clip capacity.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
         "name": "Neurodes",
-        "description": "Biotech sensor organ harvested from Infested entities.",
+        "description": "Biotech sensor organ harvested from Infested entities.\nLocations: Earth, Lua, Eris, and Orokin Derelicts.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-neurode.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
-        "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+        "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
         "itemCount": 400,
+        "type": "Misc",
         "tradable": false,
         "imageName": "polymer-bundle.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 900,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -19657,38 +20001,43 @@
         "name": "Blueprint",
         "description": "Accuracy coupled with a massive clip makes the Soma assault rifle a formidable weapon.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
-        "description": "An amorphous solid. Possibly Orokin technology.",
+        "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
         "itemCount": 7,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-morphic.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 850,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
         "name": "Rubedo",
-        "description": "A jagged crystalline ore. Gives off radiant energy.",
+        "description": "A jagged crystalline ore. Gives off radiant energy.\nLocations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
         "itemCount": 1200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-rubedo.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 8000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -20101,6 +20450,7 @@
         "name": "Barrel",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-gun-prime-barrel.png",
@@ -20136,6 +20486,7 @@
         "name": "Blueprint",
         "description": "Known for taking down whole squads with its single massive clip, few weapons were as feared as the Prime Soma.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -20193,8 +20544,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 10,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -20203,6 +20555,7 @@
         "name": "Receiver",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-gun-prime-receiver.png",
@@ -20262,6 +20615,7 @@
         "name": "Stock",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "generic-gun-prime-stock.png",
@@ -20486,8 +20840,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
         "name": "Argon Crystal",
-        "description": "Void based radioactive resource that decays every day it is out of the void.",
+        "description": "A Void based radioactive resource that decays every day it is out of the Void.\nThis resource can be found in the Void.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "argon-crystal.png"
       },
@@ -20496,30 +20851,34 @@
         "name": "Blueprint",
         "description": "A high-capacity, high-damage enforcer, this weapon can switch between the high crit semi-automatic and full automatic firing modes.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 15000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/NeuralSensor",
         "name": "Neural Sensors",
-        "description": "Implanted neural-link for controlling augmentations. Grineer design.",
+        "description": "Implanted neural-link for controlling augmentations. Grineer design.\nLocation: Jupiter.",
         "itemCount": 3,
+        "type": "Misc",
         "tradable": false,
         "imageName": "neural-sensor.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
-        "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+        "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
         "itemCount": 8000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "polymer-bundle.png"
       }
@@ -20937,6 +21296,7 @@
         "name": "Barrel",
         "description": "A weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "generic-gun-barrel.png"
       },
@@ -20945,6 +21305,7 @@
         "name": "Blueprint",
         "description": "A different take on a familiar shotgun, the Strun Wraith features unique styling.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "blueprint.png"
       },
@@ -20953,6 +21314,7 @@
         "name": "Receiver",
         "description": "A weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "generic-gun-receiver.png"
       },
@@ -20961,6 +21323,7 @@
         "name": "Stock",
         "description": "A weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "generic-gun-stock.png"
       }
@@ -21125,8 +21488,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 1000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
@@ -21135,6 +21499,7 @@
         "name": "Blueprint",
         "description": "The SUPRA is a heavy laser gun with a short wind up time.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -21143,6 +21508,7 @@
         "name": "Fieldron",
         "description": "ClanTech weaponized containment field to contain super-heated substances.",
         "itemCount": 7,
+        "type": "Resource",
         "tradable": false,
         "imageName": "corpus-component.png"
       },
@@ -21151,14 +21517,16 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 7000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -21481,6 +21849,7 @@
         "name": "Blueprint",
         "description": "This Tenno crafted, lever action rifle, is equal parts elegance and executioner.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -21489,30 +21858,34 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
-        "description": "An amorphous solid. Possibly Orokin technology.",
+        "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-morphic.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
         "name": "Rubedo",
-        "description": "A jagged crystalline ore. Gives off radiant energy.",
+        "description": "A jagged crystalline ore. Gives off radiant energy.\nLocations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
         "itemCount": 200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-rubedo.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 800,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -21689,6 +22062,7 @@
         "name": "Barrel",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "generic-gun-prime-barrel.png",
@@ -21772,6 +22146,7 @@
         "name": "Blueprint",
         "description": "Sleek and slender, a golden symbol of Tenno perfection.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -21853,8 +22228,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 10,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -21863,6 +22239,7 @@
         "name": "Receiver",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-gun-prime-receiver.png",
@@ -21922,6 +22299,7 @@
         "name": "Stock",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-gun-prime-stock.png",
@@ -22041,14 +22419,16 @@
         "name": "Blueprint",
         "description": "Powered by a bio-chemical reaction, the infested Synapse rifle fries its targets with a steady stream of <DT_CORROSIVE>Corrosive energy.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 3500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
@@ -22057,6 +22437,7 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
@@ -22065,14 +22446,16 @@
         "name": "Mutagen Mass",
         "description": "This living mass can produce weaponized toxins for weaponry.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "infested-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 30000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -22398,6 +22781,7 @@
         "name": "Blueprint",
         "description": "Unload percussive machine gun fire, or strike a heavy chord with a single charge shot. This is Octavia’s signature rifle.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -22406,30 +22790,34 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
         "name": "Neurodes",
-        "description": "Biotech sensor organ harvested from Infested entities.",
+        "description": "Biotech sensor organ harvested from Infested entities.\nLocations: Earth, Lua, Eris, and Orokin Derelicts.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-neurode.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
         "name": "Rubedo",
-        "description": "A jagged crystalline ore. Gives off radiant energy.",
+        "description": "A jagged crystalline ore. Gives off radiant energy.\nLocations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
         "itemCount": 4000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-rubedo.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 15000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -22547,8 +22935,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 400,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
@@ -22557,30 +22946,34 @@
         "name": "Blueprint",
         "description": "Drawing from its huge quad-chambered clip, the Tetra is capable of unleashing a sustained barrage of lethal energy bolts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
         "name": "Control Module",
-        "description": "Autonomy processor for Robotics. A Corpus design.",
+        "description": "Autonomy processor for Robotics. A Corpus design.\nLocations: Europa, Neptune, and the Void.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "control-module.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 900,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
-        "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+        "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
         "itemCount": 100,
+        "type": "Misc",
         "tradable": false,
         "imageName": "polymer-bundle.png"
       }
@@ -22757,6 +23150,7 @@
         "name": "Blueprint",
         "description": "Forged by a master gunsmith, this Tenno burst rifle will strike down targets with swift precision.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -22765,6 +23159,7 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
@@ -22794,22 +23189,25 @@
         "masteryReq": 0,
         "omegaAttenuation": 1.0700001,
         "itemCount": 1,
+        "type": "Rifle",
         "tradable": false,
         "imageName": "tenno-semi-auto-rifle.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 650,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
         "name": "Rubedo",
-        "description": "A jagged crystalline ore. Gives off radiant energy.",
+        "description": "A jagged crystalline ore. Gives off radiant energy.\nLocations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
         "itemCount": 600,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-rubedo.png"
       }
@@ -22938,6 +23336,7 @@
         "name": "Barrel",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "generic-gun-prime-barrel.png",
@@ -22973,6 +23372,7 @@
         "name": "Blueprint",
         "description": "Art meets ingenuity with this beautifully deadly rifle.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -23030,8 +23430,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 10,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -23040,6 +23441,7 @@
         "name": "Receiver",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-gun-prime-receiver.png",
@@ -23099,6 +23501,7 @@
         "name": "Stock",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "generic-gun-prime-stock.png",
@@ -23229,38 +23632,43 @@
         "name": "Blueprint",
         "description": "The double-barreled Tigris shotgun fires two bursts in rapid succession, easily taking down the toughest prey.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 900,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 3,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
         "name": "Rubedo",
-        "description": "A jagged crystalline ore. Gives off radiant energy.",
+        "description": "A jagged crystalline ore. Gives off radiant energy.\nLocations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
         "itemCount": 1200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-rubedo.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 1200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -23471,6 +23879,7 @@
         "name": "Barrel",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-gun-prime-barrel.png",
@@ -23602,6 +24011,7 @@
         "name": "Blueprint",
         "description": "An artifact of exquisite beauty. A weapon of deadly purpose.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -23683,8 +24093,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 10,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -23693,6 +24104,7 @@
         "name": "Receiver",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-gun-prime-receiver.png",
@@ -23872,6 +24284,7 @@
         "name": "Stock",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-gun-prime-stock.png",
@@ -24055,8 +24468,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
         "name": "Argon Crystal",
-        "description": "Void based radioactive resource that decays every day it is out of the void.",
+        "description": "A Void based radioactive resource that decays every day it is out of the Void.\nThis resource can be found in the Void.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "argon-crystal.png"
       },
@@ -24065,30 +24479,34 @@
         "name": "Blueprint",
         "description": "Hurl mayhem and destruction with this Grineer grenade launcher.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
         "name": "Cryotic",
-        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.",
+        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\nLocations: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune.",
         "itemCount": 800,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cryotic.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
         "name": "Oxium",
-        "description": "Oxium is a rare lighter than air alloy of Orokin origin.",
+        "description": "Oxium is a rare lighter than air alloy of Orokin origin, used in certain Corpus Robotics.\nLocations: Venus, Jupiter, Mars, Neptune, Pluto, Eris, Europa, and Lua.",
         "itemCount": 200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-oxium.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 1500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -24334,14 +24752,16 @@
         "name": "Blueprint",
         "description": "Torid lobs a toxic payload.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 600,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
@@ -24350,6 +24770,7 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
@@ -24358,14 +24779,16 @@
         "name": "Mutagen Mass",
         "description": "This living mass can produce weaponized toxins for weaponry.",
         "itemCount": 2,
+        "type": "Resource",
         "tradable": false,
         "imageName": "infested-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 4500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -24713,38 +25136,43 @@
         "name": "Blueprint",
         "description": "A classic Tenno sniper rifle, the Vectis is ideal for ranged takedowns.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 3000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
         "name": "Neurodes",
-        "description": "Biotech sensor organ harvested from Infested entities.",
+        "description": "Biotech sensor organ harvested from Infested entities.\nLocations: Earth, Lua, Eris, and Orokin Derelicts.",
         "itemCount": 4,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-neurode.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 4,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
         "name": "Rubedo",
-        "description": "A jagged crystalline ore. Gives off radiant energy.",
+        "description": "A jagged crystalline ore. Gives off radiant energy.\nLocations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
         "itemCount": 2500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-rubedo.png"
       }
@@ -24989,6 +25417,7 @@
         "name": "Barrel",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-gun-prime-barrel.png",
@@ -25096,6 +25525,7 @@
         "name": "Blueprint",
         "description": "Once thought destroyed, the newly uncovered Vectis Prime revives Tenno martial traditions.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -25153,8 +25583,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 10,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -25163,6 +25594,7 @@
         "name": "Receiver",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "generic-gun-prime-receiver.png",
@@ -25198,6 +25630,7 @@
         "name": "Stock",
         "description": "A prime weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 65,
         "tradable": true,
         "imageName": "generic-gun-prime-stock.png",
@@ -25400,22 +25833,25 @@
         "name": "Blueprint",
         "description": "Precise calibration, rapid trigger-pull and a steady hand all combine to bring down the hardiest prey on two legs or four.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
         "name": "Cryotic",
-        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.",
+        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\nLocations: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune.",
         "itemCount": 600,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cryotic.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 7250,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
@@ -25424,14 +25860,16 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
-        "description": "An amorphous solid. Possibly Orokin technology.",
+        "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
         "itemCount": 10,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-morphic.png"
       }
@@ -25492,38 +25930,43 @@
         "name": "Blueprint",
         "description": "Built by the Grineer for their elite troopers, the Vulkar is a devastating distance weapon. In the right hands it is capable of taking down targets long before they get into attack range.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 800,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
-        "description": "An amorphous solid. Possibly Orokin technology.",
+        "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-morphic.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 800,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 1200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -25795,8 +26238,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 2400,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
@@ -25805,6 +26249,7 @@
         "name": "Blueprint",
         "description": "Unload a barrage of explosives or a huge shot of flak from this cannon’s enormous barrel.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -25834,6 +26279,7 @@
         "masteryReq": 5,
         "omegaAttenuation": 1.48,
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "grineer-flak-cannon.png"
       },
@@ -25842,14 +26288,16 @@
         "name": "Kuva",
         "description": "A mysterious red fluid coveted by the Grineer Queens.",
         "itemCount": 1800,
+        "type": "Misc",
         "tradable": false,
         "imageName": "kuva.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 5500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -26143,8 +26591,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
         "name": "Argon Crystal",
-        "description": "Void based radioactive resource that decays every day it is out of the void.",
+        "description": "A Void based radioactive resource that decays every day it is out of the Void.\nThis resource can be found in the Void.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "argon-crystal.png"
       },
@@ -26153,30 +26602,34 @@
         "name": "Blueprint",
         "description": "This devastating automatic crossbow is the perfect marriage of ancient Earth weaponry and Tenno technology.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
         "name": "Cryotic",
-        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.",
+        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\nLocations: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune.",
         "itemCount": 2800,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cryotic.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
         "name": "Nitain Extract",
-        "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.",
+        "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.\nThis resource can be acquired as a reward from Alerts.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alertium.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
-        "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+        "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
         "itemCount": 900,
+        "type": "Misc",
         "tradable": false,
         "imageName": "polymer-bundle.png"
       }

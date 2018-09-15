@@ -15,6 +15,7 @@
         "name": "Blueprint",
         "description": "/Lotus/Language/Items/ClanCreatorDesc",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       }
@@ -33,9 +34,27 @@
     "tradable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/RelayRebuild/PhaseTwoClanItem",
+    "name": "/Lotus/Language/Relayreconstruction/Relayreconphase2clanitemname",
+    "description": "An integral building block in the construction of Tenno relays.",
+    "type": "Misc",
+    "imageName": "lotus-language-relayreconstruction-relayreconphase2clanitemname.png",
+    "category": "Misc",
+    "tradable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/RelayRebuild/PhaseThreeClanItem",
+    "name": "/Lotus/Language/Relayreconstruction/Relayreconphase3clanitemname",
+    "description": "An integral building block in the construction of Tenno relays.",
+    "type": "Misc",
+    "imageName": "lotus-language-relayreconstruction-relayreconphase3clanitemname.png",
+    "category": "Misc",
+    "tradable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
     "name": "Alloy Plate",
-    "description": "Carbon steel plates used to reinforce Grineer armor.",
+    "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
     "type": "Misc",
     "imageName": "alloy-plate.png",
     "category": "Misc",
@@ -82,6 +101,7 @@
         "uniqueName": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set2/Grip/SentAmpSet2GripPartABlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Amp",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -90,6 +110,7 @@
         "name": "Cetus Wisp",
         "description": "Strange stone lifeforms that call the Plains home. They are a rare find, clustering together, floating above a patch of ground they've taken an inexplicable interest in. They are an enigma.",
         "itemCount": 10,
+        "type": "Resource",
         "tradable": false,
         "imageName": "cetus-wisp.png"
       },
@@ -98,14 +119,16 @@
         "name": "Fish Oil",
         "description": "Used to create absolvents that purify gems.",
         "itemCount": 35,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-oil.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
-        "description": "An amorphous solid. Possibly Orokin technology.",
+        "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
         "itemCount": 10,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-morphic.png"
       },
@@ -114,6 +137,7 @@
         "name": "Murkray Liver",
         "description": "An ingredient used in Ostron cooking and medicines.",
         "itemCount": 2,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-organ.png"
       }
@@ -125,7 +149,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/SyringeComponent",
     "name": "Antiserum Injector Fragment",
-    "description": "A component of the Antiserum Injector",
+    "description": "A component of the Antiserum Injector.\nLocations: Infested Salvage Missions on Eris.",
     "type": "Misc",
     "imageName": "antiserum-injector-fragment.png",
     "category": "Misc",
@@ -157,7 +181,8 @@
         "name": "Blueprint",
         "description": "Adds the Archwing Launcher to the foundry",
         "itemCount": 1,
-        "tradable": true,
+        "type": "Extractor",
+        "tradable": false,
         "imageName": "blueprint.png"
       },
       {
@@ -165,6 +190,7 @@
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
         "itemCount": 50,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grokdrul.png"
       },
@@ -173,14 +199,16 @@
         "name": "Iradite",
         "description": "A valuable mineral found on the Plains.",
         "itemCount": 50,
+        "type": "Resource",
         "tradable": false,
         "imageName": "iradite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
         "name": "Oxium",
-        "description": "Oxium is a rare lighter than air alloy of Orokin origin.",
+        "description": "Oxium is a rare lighter than air alloy of Orokin origin, used in certain Corpus Robotics.\nLocations: Venus, Jupiter, Mars, Neptune, Pluto, Eris, Europa, and Lua.",
         "itemCount": 1200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-oxium.png"
       }
@@ -202,7 +230,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
     "name": "Argon Crystal",
-    "description": "Void based radioactive resource that decays every day it is out of the void.",
+    "description": "A Void based radioactive resource that decays every day it is out of the Void.\nThis resource can be found in the Void.",
     "type": "Misc",
     "imageName": "argon-crystal.png",
     "category": "Misc",
@@ -720,6 +748,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/TipOneBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -737,6 +766,7 @@
         "name": "Fish Scales",
         "description": "A material used in tailoring clothes and cultivating synthetics.",
         "itemCount": 15,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-scales.png"
       },
@@ -745,6 +775,7 @@
         "name": "Nistlepod",
         "description": "Used by the Nistlebrush to trap and kill prey.",
         "itemCount": 20,
+        "type": "Resource",
         "tradable": false,
         "imageName": "nistlebrush-item.png"
       },
@@ -753,7 +784,8 @@
         "name": "Pyrotic Alloy",
         "description": "Pyrol that has been forged into a stronger metal.",
         "itemCount": 60,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-ore-aalloy-a.png"
       },
       {
@@ -761,7 +793,8 @@
         "name": "Tear Azurite",
         "description": "Polished and cut to perfection.",
         "itemCount": 10,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-gem-acut-a.png"
       }
     ],
@@ -898,25 +931,28 @@
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/BothCommonFishATrophyBlueprint",
-        "name": "Blueprint",
+        "name": "Blueprint - Small",
         "description": "A trophy of a prized catch.",
         "itemCount": 1,
-        "tradable": false,
-        "imageName": "blueprint.png"
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-trophy-both-common-fish-a.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishAItemLarge",
-        "name": "Charc Eel",
+        "name": "Charc Eel - Large",
         "description": "Discharges electricity from luminous glands along its flanks to stun its prey.",
         "itemCount": 1,
-        "tradable": false,
+        "type": "Fish",
+        "tradable": true,
         "imageName": "fish-item-both-common-a.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
         "name": "Cryotic",
-        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.",
+        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\nLocations: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune.",
         "itemCount": 2000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cryotic.png"
       },
@@ -925,6 +961,7 @@
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grokdrul.png"
       },
@@ -933,6 +970,7 @@
         "name": "Iradite",
         "description": "A valuable mineral found on the Plains.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "iradite.png"
       }
@@ -982,7 +1020,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
     "name": "Circuits",
-    "description": "Various electronic components.",
+    "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
     "type": "Misc",
     "imageName": "circuits.png",
     "category": "Misc",
@@ -1062,6 +1100,7 @@
         "uniqueName": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set1/Grip/SentAmpSet1GripPartABlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Amp",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -1070,6 +1109,7 @@
         "name": "Cetus Wisp",
         "description": "Strange stone lifeforms that call the Plains home. They are a rare find, clustering together, floating above a patch of ground they've taken an inexplicable interest in. They are an enigma.",
         "itemCount": 10,
+        "type": "Resource",
         "tradable": false,
         "imageName": "cetus-wisp.png"
       },
@@ -1078,14 +1118,16 @@
         "name": "Fish Oil",
         "description": "Used to create absolvents that purify gems.",
         "itemCount": 35,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-oil.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
-        "description": "An amorphous solid. Possibly Orokin technology.",
+        "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
         "itemCount": 10,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-morphic.png"
       },
@@ -1094,6 +1136,7 @@
         "name": "Murkray Liver",
         "description": "An ingredient used in Ostron cooking and medicines.",
         "itemCount": 2,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-organ.png"
       }
@@ -1123,7 +1166,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
     "name": "Control Module",
-    "description": "Autonomy processor for Robotics. A Corpus design.",
+    "description": "Autonomy processor for Robotics. A Corpus design.\nLocations: Europa, Neptune, and the Void.",
     "type": "Misc",
     "buildPrice": 15000,
     "buildTime": 3600,
@@ -1134,40 +1177,45 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 10000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Components/ControlModuleResourceBlueprint",
         "name": "Blueprint",
-        "description": "Autonomy processor for Robotics. A Corpus design.",
+        "description": "Autonomy processor for Robotics. A Corpus design.\nLocations: Europa, Neptune, and the Void.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 10000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 25000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 10000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -1223,7 +1271,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
     "name": "Cryotic",
-    "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.",
+    "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\nLocations: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune.",
     "type": "Misc",
     "imageName": "cryotic.png",
     "category": "Misc",
@@ -1366,7 +1414,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/RazorbackCipherPart",
     "name": "Cryptographic Alu",
-    "description": "Excess circuitry disposed of during the Razorback manufacturing process, these components only appear in the vicinity of high level outer-orbit Corpus facilities after a Razorback Armada has been launched.",
+    "description": "Excess circuitry disposed of during the Razorback manufacturing process, these components only appear in the vicinity of high level outer-orbit Corpus facilities after a Razorback Armada has been launched.\nThis resource can be dropped from Corpus Archwing Units.",
     "type": "Misc",
     "imageName": "cryptographic-alu.png",
     "category": "Misc",
@@ -1404,18 +1452,20 @@
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/NightRareFishBTrophyBlueprint",
-        "name": "Blueprint",
+        "name": "Blueprint - Small",
         "description": "A trophy of a prized catch.",
         "itemCount": 1,
-        "tradable": false,
-        "imageName": "blueprint.png"
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-trophy-night-rare-fish-b.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishBItemLarge",
-        "name": "Cuthol",
+        "name": "Cuthol - Large",
         "description": "A grotesque crustacean that produces a potent, paralyzing toxin from its tentacles.",
         "itemCount": 1,
-        "tradable": false,
+        "type": "Fish",
+        "tradable": true,
         "imageName": "fish-item-night-rare-b.png"
       },
       {
@@ -1423,6 +1473,7 @@
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grokdrul.png"
       },
@@ -1431,14 +1482,16 @@
         "name": "Iradite",
         "description": "A valuable mineral found on the Plains.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "iradite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
-        "description": "An amorphous solid. Possibly Orokin technology.",
+        "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-morphic.png"
       }
@@ -1461,6 +1514,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/TipFourBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -1478,6 +1532,7 @@
         "name": "Breath Of The Eidolon",
         "description": "A gas found solely on the plains of Eidolon, refined to its purest form.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "eidolonium.png"
       },
@@ -1486,7 +1541,8 @@
         "name": "Fersteel Alloy",
         "description": "Ferros that has been forged into a stronger metal.",
         "itemCount": 20,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "uncommon-ore-aalloy-a.png"
       },
       {
@@ -1494,6 +1550,7 @@
         "name": "Fish Scales",
         "description": "A material used in tailoring clothes and cultivating synthetics.",
         "itemCount": 55,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-scales.png"
       },
@@ -1502,7 +1559,8 @@
         "name": "Marquise Veridos",
         "description": "Polished and cut to perfection.",
         "itemCount": 6,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "uncommon-gem-acut-a.png"
       }
     ],
@@ -1581,6 +1639,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/TipFiveBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -1598,7 +1657,8 @@
         "name": "Fersteel Alloy",
         "description": "Ferros that has been forged into a stronger metal.",
         "itemCount": 40,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "uncommon-ore-aalloy-a.png"
       },
       {
@@ -1606,6 +1666,7 @@
         "name": "Fish Scales",
         "description": "A material used in tailoring clothes and cultivating synthetics.",
         "itemCount": 45,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-scales.png"
       },
@@ -1614,6 +1675,7 @@
         "name": "Maprico",
         "description": "This hardy fruit is thick-skinned to withstand harsh conditions, concealing a mouthful of sweet pulp within.",
         "itemCount": 2,
+        "type": "Resource",
         "tradable": false,
         "imageName": "eidolon-fruit.png"
       },
@@ -1622,7 +1684,8 @@
         "name": "Marquise Veridos",
         "description": "Polished and cut to perfection.",
         "itemCount": 8,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "uncommon-gem-acut-a.png"
       }
     ],
@@ -1689,22 +1752,25 @@
         "name": "Blueprint",
         "description": "The Distilling Extractor has an increased chance of acquiring uncommon and rare resources.\nDeploy this Extractor on a planet to collect resources. It must be emptied regularly and monitored for damage.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
         "name": "Oxium",
-        "description": "Oxium is a rare lighter than air alloy of Orokin origin.",
+        "description": "Oxium is a rare lighter than air alloy of Orokin origin, used in certain Corpus Robotics.\nLocations: Venus, Jupiter, Mars, Neptune, Pluto, Eris, Europa, and Lua.",
         "itemCount": 150,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-oxium.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
-        "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+        "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
         "itemCount": 1000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "polymer-bundle.png"
       }
@@ -1754,22 +1820,25 @@
         "name": "Blueprint",
         "description": "The Distilling Extractor Prime has an increased chance of acquiring uncommon and rare resources.\nDeploy this Extractor on a planet to collect large amounts of resources. It must be emptied regularly and monitored for damage.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
         "name": "Oxium",
-        "description": "Oxium is a rare lighter than air alloy of Orokin origin.",
+        "description": "Oxium is a rare lighter than air alloy of Orokin origin, used in certain Corpus Robotics.\nLocations: Venus, Jupiter, Mars, Neptune, Pluto, Eris, Europa, and Lua.",
         "itemCount": 300,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-oxium.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
-        "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+        "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
         "itemCount": 2000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "polymer-bundle.png"
       }
@@ -1802,6 +1871,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee02/Tip/TipElevenBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -1810,6 +1880,7 @@
         "name": "Fish Scales",
         "description": "A material used in tailoring clothes and cultivating synthetics.",
         "itemCount": 45,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-scales.png"
       },
@@ -1818,7 +1889,8 @@
         "name": "Marquise Veridos",
         "description": "Polished and cut to perfection.",
         "itemCount": 7,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "uncommon-gem-acut-a.png"
       },
       {
@@ -1826,6 +1898,7 @@
         "name": "Nistlepod",
         "description": "Used by the Nistlebrush to trap and kill prey.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "nistlebrush-item.png"
       },
@@ -1834,7 +1907,8 @@
         "name": "Pyrotic Alloy",
         "description": "Pyrol that has been forged into a stronger metal.",
         "itemCount": 60,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-ore-aalloy-a.png"
       }
     ],
@@ -1869,6 +1943,7 @@
         "name": "Blueprint",
         "description": "An enhanced Greater Lens that has been infused with Breath of the Eidolon.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -1915,6 +1990,7 @@
         "name": "Breath Of The Eidolon",
         "description": "A gas found solely on the plains of Eidolon, refined to its purest form.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "eidolonium.png"
       },
@@ -1923,6 +1999,7 @@
         "name": "Greater Focus Lens",
         "description": "A Greater Lens that channels Affinity into Focus for one of the five Tenno Ways.",
         "itemCount": 1,
+        "type": "Focus Lens",
         "tradable": false,
         "imageName": "focus-lens2rank.png"
       }
@@ -1992,6 +2069,7 @@
         "name": "Blueprint",
         "description": "Channels a large amount of Affinity into Focus for the Madurai Way.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -2008,6 +2086,7 @@
         "name": "Breath Of The Eidolon",
         "description": "A gas found solely on the plains of Eidolon, refined to its purest form.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "eidolonium.png"
       },
@@ -2016,7 +2095,8 @@
         "name": "Eidolon Lens",
         "description": "An enhanced Greater Lens that has been infused with Breath of the Eidolon.",
         "itemCount": 1,
-        "tradable": false,
+        "type": "Focus Lens",
+        "tradable": true,
         "imageName": "focus-lens3rank.png"
       }
     ],
@@ -2040,6 +2120,7 @@
         "name": "Blueprint",
         "description": "Channels a large amount of Affinity into Focus for the Naramon Way.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -2056,6 +2137,7 @@
         "name": "Breath Of The Eidolon",
         "description": "A gas found solely on the plains of Eidolon, refined to its purest form.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "eidolonium.png"
       },
@@ -2064,7 +2146,8 @@
         "name": "Eidolon Lens",
         "description": "An enhanced Greater Lens that has been infused with Breath of the Eidolon.",
         "itemCount": 1,
-        "tradable": false,
+        "type": "Focus Lens",
+        "tradable": true,
         "imageName": "focus-lens3rank.png"
       }
     ],
@@ -2173,6 +2256,7 @@
         "name": "Blueprint",
         "description": "Channels a large amount of Affinity into Focus for the Unairu Way.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -2189,6 +2273,7 @@
         "name": "Breath Of The Eidolon",
         "description": "A gas found solely on the plains of Eidolon, refined to its purest form.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "eidolonium.png"
       },
@@ -2197,7 +2282,8 @@
         "name": "Eidolon Lens",
         "description": "An enhanced Greater Lens that has been infused with Breath of the Eidolon.",
         "itemCount": 1,
-        "tradable": false,
+        "type": "Focus Lens",
+        "tradable": true,
         "imageName": "focus-lens3rank.png"
       }
     ],
@@ -2221,6 +2307,7 @@
         "name": "Blueprint",
         "description": "Channels a large amount of Affinity into Focus for the Vazarin Way.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -2237,6 +2324,7 @@
         "name": "Breath Of The Eidolon",
         "description": "A gas found solely on the plains of Eidolon, refined to its purest form.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "eidolonium.png"
       },
@@ -2245,7 +2333,8 @@
         "name": "Eidolon Lens",
         "description": "An enhanced Greater Lens that has been infused with Breath of the Eidolon.",
         "itemCount": 1,
-        "tradable": false,
+        "type": "Focus Lens",
+        "tradable": true,
         "imageName": "focus-lens3rank.png"
       }
     ],
@@ -2269,6 +2358,7 @@
         "name": "Blueprint",
         "description": "Channels a large amount of Affinity into Focus for the Zenurik Way.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -2285,6 +2375,7 @@
         "name": "Breath Of The Eidolon",
         "description": "A gas found solely on the plains of Eidolon, refined to its purest form.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "eidolonium.png"
       },
@@ -2293,7 +2384,8 @@
         "name": "Eidolon Lens",
         "description": "An enhanced Greater Lens that has been infused with Breath of the Eidolon.",
         "itemCount": 1,
-        "tradable": false,
+        "type": "Focus Lens",
+        "tradable": true,
         "imageName": "focus-lens3rank.png"
       }
     ],
@@ -2315,6 +2407,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Balance/BalanceSpeedIStatusIIBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -2332,6 +2425,7 @@
         "name": "Condroc Wing",
         "description": "The talon on a condroc's wing is is sharp enough to tear through bone.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "bird-of-prey-part-item.png"
       },
@@ -2340,7 +2434,8 @@
         "name": "Fersteel Alloy",
         "description": "Ferros that has been forged into a stronger metal.",
         "itemCount": 20,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "uncommon-ore-aalloy-a.png"
       },
       {
@@ -2348,6 +2443,7 @@
         "name": "Maprico",
         "description": "This hardy fruit is thick-skinned to withstand harsh conditions, concealing a mouthful of sweet pulp within.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "eidolon-fruit.png"
       },
@@ -2356,6 +2452,7 @@
         "name": "Mortus Horn",
         "description": "The horn of a Mortus Lungfish is ground down into a powder and used by the Ostrons in herbal remedies.",
         "itemCount": 5,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-horn.png"
       }
@@ -2378,6 +2475,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Balance/BalanceDamageIStatusIIBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -2395,6 +2493,7 @@
         "name": "Condroc Wing",
         "description": "The talon on a condroc's wing is is sharp enough to tear through bone.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "bird-of-prey-part-item.png"
       },
@@ -2403,7 +2502,8 @@
         "name": "Fersteel Alloy",
         "description": "Ferros that has been forged into a stronger metal.",
         "itemCount": 20,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "uncommon-ore-aalloy-a.png"
       },
       {
@@ -2411,6 +2511,7 @@
         "name": "Maprico",
         "description": "This hardy fruit is thick-skinned to withstand harsh conditions, concealing a mouthful of sweet pulp within.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "eidolon-fruit.png"
       },
@@ -2419,6 +2520,7 @@
         "name": "Tralok Eyes",
         "description": "The Ostron boil these into a jelly which forms a strong adhesive when it dries.",
         "itemCount": 5,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-eyes.png"
       }
@@ -2441,6 +2543,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Balance/BalanceSpeedIStatusIBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -2458,6 +2561,7 @@
         "name": "Condroc Wing",
         "description": "The talon on a condroc's wing is is sharp enough to tear through bone.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "bird-of-prey-part-item.png"
       },
@@ -2466,7 +2570,8 @@
         "name": "Coprite Alloy",
         "description": "Coprun that has been forged into a stronger metal.",
         "itemCount": 20,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-ore-balloy-a.png"
       },
       {
@@ -2474,6 +2579,7 @@
         "name": "Goopolla Spleen",
         "description": "Used in Ostron remedies to purify toxins.",
         "itemCount": 5,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-flesh-tube.png"
       },
@@ -2482,6 +2588,7 @@
         "name": "Nistlepod",
         "description": "Used by the Nistlebrush to trap and kill prey.",
         "itemCount": 30,
+        "type": "Resource",
         "tradable": false,
         "imageName": "nistlebrush-item.png"
       }
@@ -2505,13 +2612,15 @@
         "name": "Auroxium Alloy",
         "description": "Auron that has been forged into a stronger metal.",
         "itemCount": 20,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "rare-ore-aalloy-a.png"
       },
       {
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Balance/BalanceSpeedIIStatusIBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -2529,6 +2638,7 @@
         "name": "Breath Of The Eidolon",
         "description": "A gas found solely on the plains of Eidolon, refined to its purest form.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "eidolonium.png"
       },
@@ -2537,6 +2647,7 @@
         "name": "Cetus Wisp",
         "description": "Strange stone lifeforms that call the Plains home. They are a rare find, clustering together, floating above a patch of ground they've taken an inexplicable interest in. They are an enigma.",
         "itemCount": 2,
+        "type": "Resource",
         "tradable": false,
         "imageName": "cetus-wisp.png"
       },
@@ -2545,6 +2656,7 @@
         "name": "Condroc Wing",
         "description": "The talon on a condroc's wing is is sharp enough to tear through bone.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "bird-of-prey-part-item.png"
       }
@@ -2567,6 +2679,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Balance/BalanceDamageIStatusIBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -2584,6 +2697,7 @@
         "name": "Charc Electroplax",
         "description": "Harvested by the Ostron as a catalyst used in their synthetics.",
         "itemCount": 5,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-gills.png"
       },
@@ -2592,6 +2706,7 @@
         "name": "Condroc Wing",
         "description": "The talon on a condroc's wing is is sharp enough to tear through bone.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "bird-of-prey-part-item.png"
       },
@@ -2600,7 +2715,8 @@
         "name": "Coprite Alloy",
         "description": "Coprun that has been forged into a stronger metal.",
         "itemCount": 20,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-ore-balloy-a.png"
       },
       {
@@ -2608,6 +2724,7 @@
         "name": "Nistlepod",
         "description": "Used by the Nistlebrush to trap and kill prey.",
         "itemCount": 30,
+        "type": "Resource",
         "tradable": false,
         "imageName": "nistlebrush-item.png"
       }
@@ -2631,13 +2748,15 @@
         "name": "Auroxium Alloy",
         "description": "Auron that has been forged into a stronger metal.",
         "itemCount": 20,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "rare-ore-aalloy-a.png"
       },
       {
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Balance/BalanceDamageIIStatusIBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -2655,6 +2774,7 @@
         "name": "Breath Of The Eidolon",
         "description": "A gas found solely on the plains of Eidolon, refined to its purest form.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "eidolonium.png"
       },
@@ -2663,6 +2783,7 @@
         "name": "Cetus Wisp",
         "description": "Strange stone lifeforms that call the Plains home. They are a rare find, clustering together, floating above a patch of ground they've taken an inexplicable interest in. They are an enigma.",
         "itemCount": 2,
+        "type": "Resource",
         "tradable": false,
         "imageName": "cetus-wisp.png"
       },
@@ -2671,6 +2792,7 @@
         "name": "Condroc Wing",
         "description": "The talon on a condroc's wing is is sharp enough to tear through bone.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "bird-of-prey-part-item.png"
       }
@@ -2711,8 +2833,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
         "name": "Argon Crystal",
-        "description": "Void based radioactive resource that decays every day it is out of the void.",
+        "description": "A Void based radioactive resource that decays every day it is out of the Void.\nThis resource can be found in the Void.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "argon-crystal.png"
       },
@@ -2721,6 +2844,7 @@
         "name": "Blueprint",
         "description": "Fuses with a Warframe to create an additional Exilus Mod Slot.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -2729,14 +2853,16 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       }
@@ -2800,7 +2926,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
     "name": "Ferrite",
-    "description": "Alloy pellets used in Grineer manufacturing.",
+    "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
     "type": "Misc",
     "imageName": "ferrite.png",
     "category": "Misc",
@@ -2923,6 +3049,7 @@
         "name": "Blueprint",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -5521,32 +5648,36 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
-        "description": "An amorphous solid. Possibly Orokin technology.",
+        "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-morphic.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/NeuralSensor",
         "name": "Neural Sensors",
-        "description": "Implanted neural-link for controlling augmentations. Grineer design.",
+        "description": "Implanted neural-link for controlling augmentations. Grineer design.\nLocation: Jupiter.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "neural-sensor.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
         "name": "Neurodes",
-        "description": "Biotech sensor organ harvested from Infested entities.",
+        "description": "Biotech sensor organ harvested from Infested entities.\nLocations: Earth, Lua, Eris, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-neurode.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       }
@@ -5803,7 +5934,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
     "name": "Gallium",
-    "description": "Soft metal used in microelectronics and energy weapons.",
+    "description": "Soft metal used in microelectronics and energy weapons.\nLocations: Mars and Uranus.",
     "type": "Misc",
     "buildPrice": 15000,
     "buildTime": 3600,
@@ -5814,40 +5945,45 @@
       {
         "uniqueName": "/Lotus/Types/Recipes/Components/GalliumResourceBlueprint",
         "name": "Blueprint",
-        "description": "Soft metal used in microelectronics and energy weapons.",
+        "description": "Soft metal used in microelectronics and energy weapons.\nLocations: Mars and Uranus.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 10000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 25000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
-        "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+        "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
         "itemCount": 5000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "polymer-bundle.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 10000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -5967,18 +6103,20 @@
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/NightLegendaryFishATrophyBlueprint",
-        "name": "Blueprint",
+        "name": "Blueprint - Small",
         "description": "A trophy of a prized catch.",
         "itemCount": 1,
-        "tradable": false,
-        "imageName": "blueprint.png"
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-trophy-night-legendary-fish-a.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightLegendaryFishAItemLarge",
-        "name": "Glappid",
+        "name": "Glappid - Large",
         "description": "The Glappid is a scavenger that feasts on the remains of dead fish. It has formed a symbiotic bond with the Seram Beetle which extracts and feeds upon any toxins ingested by the Glappid.",
         "itemCount": 1,
-        "tradable": false,
+        "type": "Fish",
+        "tradable": true,
         "imageName": "fish-item-night-legendary-fish-a.png"
       },
       {
@@ -5986,6 +6124,7 @@
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grokdrul.png"
       },
@@ -5994,14 +6133,16 @@
         "name": "Iradite",
         "description": "A valuable mineral found on the Plains.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "iradite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
-        "description": "An amorphous solid. Possibly Orokin technology.",
+        "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-morphic.png"
       }
@@ -6042,26 +6183,29 @@
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/BothCommonFishBTrophyBlueprint",
-        "name": "Blueprint",
+        "name": "Blueprint - Small",
         "description": "A trophy of a prized catch.",
         "itemCount": 1,
-        "tradable": false,
-        "imageName": "blueprint.png"
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-trophy-both-common-fish-b.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
         "name": "Cryotic",
-        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.",
+        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\nLocations: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune.",
         "itemCount": 2000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cryotic.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishBItemLarge",
-        "name": "Goopolla",
+        "name": "Goopolla - Large",
         "description": "A predatory fish that is attracted to the scent of blood.",
         "itemCount": 1,
-        "tradable": false,
+        "type": "Fish",
+        "tradable": true,
         "imageName": "fish-item-both-common-b.png"
       },
       {
@@ -6069,6 +6213,7 @@
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grokdrul.png"
       },
@@ -6077,6 +6222,7 @@
         "name": "Iradite",
         "description": "A valuable mineral found on the Plains.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "iradite.png"
       }
@@ -6099,6 +6245,7 @@
         "uniqueName": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set1/Barrel/SentAmpSet1BarrelPartCBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Amp",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -6107,6 +6254,7 @@
         "name": "Breath Of The Eidolon",
         "description": "A gas found solely on the plains of Eidolon, refined to its purest form.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "eidolonium.png"
       },
@@ -6115,6 +6263,7 @@
         "name": "Cetus Wisp",
         "description": "Strange stone lifeforms that call the Plains home. They are a rare find, clustering together, floating above a patch of ground they've taken an inexplicable interest in. They are an enigma.",
         "itemCount": 20,
+        "type": "Resource",
         "tradable": false,
         "imageName": "cetus-wisp.png"
       },
@@ -6123,7 +6272,8 @@
         "name": "Marquise Veridos",
         "description": "Polished and cut to perfection.",
         "itemCount": 20,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "uncommon-gem-acut-a.png"
       },
       {
@@ -6131,7 +6281,8 @@
         "name": "Star Crimzian",
         "description": "Polished and cut to perfection.",
         "itemCount": 10,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "rare-gem-acut-a.png"
       }
     ],
@@ -6215,8 +6366,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
         "name": "Argon Crystal",
-        "description": "Void based radioactive resource that decays every day it is out of the void.",
+        "description": "A Void based radioactive resource that decays every day it is out of the Void.\nThis resource can be found in the Void.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "argon-crystal.png"
       },
@@ -6225,6 +6377,7 @@
         "name": "Blueprint",
         "description": "Channels a greater amount of Affinity into Focus for the Madurai Way.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -6233,6 +6386,7 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
@@ -6241,14 +6395,16 @@
         "name": "Madurai Lens",
         "description": "Channels Affinity into Focus for the Madurai Way.",
         "itemCount": 4,
-        "tradable": false,
+        "type": "Focus Lens",
+        "tradable": true,
         "imageName": "focus-lens1rank.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       }
@@ -6271,8 +6427,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
         "name": "Argon Crystal",
-        "description": "Void based radioactive resource that decays every day it is out of the void.",
+        "description": "A Void based radioactive resource that decays every day it is out of the Void.\nThis resource can be found in the Void.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "argon-crystal.png"
       },
@@ -6281,6 +6438,7 @@
         "name": "Blueprint",
         "description": "Channels a greater amount of Affinity into Focus for the Naramon Way.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -6289,6 +6447,7 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
@@ -6297,14 +6456,16 @@
         "name": "Naramon Lens",
         "description": "Channels Affinity into Focus for the Naramon Way.",
         "itemCount": 4,
-        "tradable": false,
+        "type": "Focus Lens",
+        "tradable": true,
         "imageName": "focus-lens1rank.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       }
@@ -6327,8 +6488,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
         "name": "Argon Crystal",
-        "description": "Void based radioactive resource that decays every day it is out of the void.",
+        "description": "A Void based radioactive resource that decays every day it is out of the Void.\nThis resource can be found in the Void.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "argon-crystal.png"
       },
@@ -6337,6 +6499,7 @@
         "name": "Blueprint",
         "description": "Channels a greater amount of Affinity into Focus for the Unairu Way.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -6345,14 +6508,16 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -6361,7 +6526,8 @@
         "name": "Unairu Lens",
         "description": "Channels Affinity into Focus for the Unairu Way.",
         "itemCount": 4,
-        "tradable": false,
+        "type": "Focus Lens",
+        "tradable": true,
         "imageName": "focus-lens1rank.png"
       }
     ],
@@ -6383,8 +6549,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
         "name": "Argon Crystal",
-        "description": "Void based radioactive resource that decays every day it is out of the void.",
+        "description": "A Void based radioactive resource that decays every day it is out of the Void.\nThis resource can be found in the Void.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "argon-crystal.png"
       },
@@ -6393,6 +6560,7 @@
         "name": "Blueprint",
         "description": "Channels a greater amount of Affinity into Focus for the Vazarin Way.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -6401,14 +6569,16 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -6417,7 +6587,8 @@
         "name": "Vazarin Lens",
         "description": "Channels Affinity into Focus for the Vazarin Way.",
         "itemCount": 4,
-        "tradable": false,
+        "type": "Focus Lens",
+        "tradable": true,
         "imageName": "focus-lens1rank.png"
       }
     ],
@@ -6439,8 +6610,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
         "name": "Argon Crystal",
-        "description": "Void based radioactive resource that decays every day it is out of the void.",
+        "description": "A Void based radioactive resource that decays every day it is out of the Void.\nThis resource can be found in the Void.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "argon-crystal.png"
       },
@@ -6449,6 +6621,7 @@
         "name": "Blueprint",
         "description": "Channels a greater amount of Affinity into Focus for the Zenurik Way.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -6457,14 +6630,16 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -6473,7 +6648,8 @@
         "name": "Zenurik Lens",
         "description": "Channels Affinity into Focus for the Zenurik Way.",
         "itemCount": 4,
-        "tradable": false,
+        "type": "Focus Lens",
+        "tradable": true,
         "imageName": "focus-lens1rank.png"
       }
     ],
@@ -6569,6 +6745,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Balance/BalanceSpeedIBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -6586,6 +6763,7 @@
         "name": "Condroc Wing",
         "description": "The talon on a condroc's wing is is sharp enough to tear through bone.",
         "itemCount": 2,
+        "type": "Resource",
         "tradable": false,
         "imageName": "bird-of-prey-part-item.png"
       },
@@ -6594,6 +6772,7 @@
         "name": "Khut-Khut Venom Sac",
         "description": "The poison is used by the Ostrons to cure leather and as a reagent to produce an embalming fluid.",
         "itemCount": 5,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-sensor.png"
       },
@@ -6602,6 +6781,7 @@
         "name": "Nistlepod",
         "description": "Used by the Nistlebrush to trap and kill prey.",
         "itemCount": 10,
+        "type": "Resource",
         "tradable": false,
         "imageName": "nistlebrush-item.png"
       },
@@ -6610,7 +6790,8 @@
         "name": "Pyrotic Alloy",
         "description": "Pyrol that has been forged into a stronger metal.",
         "itemCount": 20,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-ore-aalloy-a.png"
       }
     ],
@@ -6632,6 +6813,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Balance/BalanceSpeedIIBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -6649,6 +6831,7 @@
         "name": "Condroc Wing",
         "description": "The talon on a condroc's wing is is sharp enough to tear through bone.",
         "itemCount": 2,
+        "type": "Resource",
         "tradable": false,
         "imageName": "bird-of-prey-part-item.png"
       },
@@ -6657,6 +6840,7 @@
         "name": "Nistlepod",
         "description": "Used by the Nistlebrush to trap and kill prey.",
         "itemCount": 20,
+        "type": "Resource",
         "tradable": false,
         "imageName": "nistlebrush-item.png"
       },
@@ -6665,7 +6849,8 @@
         "name": "Pyrotic Alloy",
         "description": "Pyrol that has been forged into a stronger metal.",
         "itemCount": 20,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-ore-aalloy-a.png"
       },
       {
@@ -6673,6 +6858,7 @@
         "name": "Yogwun Stomach",
         "description": "Once cleaned and tanned this organ can be turned into a durable leather.",
         "itemCount": 5,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-rib-cage.png"
       }
@@ -6704,6 +6890,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Handle/HandleFiveBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -6721,7 +6908,8 @@
         "name": "Fersteel Alloy",
         "description": "Ferros that has been forged into a stronger metal.",
         "itemCount": 40,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "uncommon-ore-aalloy-a.png"
       },
       {
@@ -6729,6 +6917,7 @@
         "name": "Fish Scales",
         "description": "A material used in tailoring clothes and cultivating synthetics.",
         "itemCount": 70,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-scales.png"
       },
@@ -6737,14 +6926,16 @@
         "name": "Maprico",
         "description": "This hardy fruit is thick-skinned to withstand harsh conditions, concealing a mouthful of sweet pulp within.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "eidolon-fruit.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
         "name": "Rubedo",
-        "description": "A jagged crystalline ore. Gives off radiant energy.",
+        "description": "A jagged crystalline ore. Gives off radiant energy.\nLocations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
         "itemCount": 600,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-rubedo.png"
       }
@@ -6767,6 +6958,7 @@
         "uniqueName": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set1/Grip/SentAmpSet1GripPartBBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Amp",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -6775,6 +6967,7 @@
         "name": "Cetus Wisp",
         "description": "Strange stone lifeforms that call the Plains home. They are a rare find, clustering together, floating above a patch of ground they've taken an inexplicable interest in. They are an enigma.",
         "itemCount": 15,
+        "type": "Resource",
         "tradable": false,
         "imageName": "cetus-wisp.png"
       },
@@ -6783,14 +6976,16 @@
         "name": "Fish Oil",
         "description": "Used to create absolvents that purify gems.",
         "itemCount": 35,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-oil.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/NeuralSensor",
         "name": "Neural Sensors",
-        "description": "Implanted neural-link for controlling augmentations. Grineer design.",
+        "description": "Implanted neural-link for controlling augmentations. Grineer design.\nLocation: Jupiter.",
         "itemCount": 10,
+        "type": "Misc",
         "tradable": false,
         "imageName": "neural-sensor.png"
       },
@@ -6799,6 +6994,7 @@
         "name": "Norg Brain",
         "description": "An Ostron delicacy.",
         "itemCount": 2,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-brain.png"
       }
@@ -6858,17 +7054,19 @@
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/BothUncommonFishBTrophyBlueprint",
-        "name": "Blueprint",
+        "name": "Blueprint - Small",
         "description": "A trophy of a prized catch.",
         "itemCount": 1,
-        "tradable": false,
-        "imageName": "blueprint.png"
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-trophy-both-uncommon-fish-b.png"
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grokdrul.png"
       },
@@ -6877,22 +7075,25 @@
         "name": "Iradite",
         "description": "A valuable mineral found on the Plains.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "iradite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishBItemLarge",
-        "name": "Karkina",
+        "name": "Karkina - Large",
         "description": "A crustacean that hunts during the twilight hours.",
         "itemCount": 1,
-        "tradable": false,
+        "type": "Fish",
+        "tradable": true,
         "imageName": "fish-item-both-uncommon-b.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 1200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       }
@@ -6949,17 +7150,19 @@
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/DayCommonFishBTrophyBlueprint",
-        "name": "Blueprint",
+        "name": "Blueprint - Small",
         "description": "A trophy of a prized catch.",
         "itemCount": 1,
-        "tradable": false,
-        "imageName": "blueprint.png"
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-trophy-day-common-fish-b.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
         "name": "Cryotic",
-        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.",
+        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\nLocations: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune.",
         "itemCount": 2000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cryotic.png"
       },
@@ -6968,6 +7171,7 @@
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grokdrul.png"
       },
@@ -6976,15 +7180,17 @@
         "name": "Iradite",
         "description": "A valuable mineral found on the Plains.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "iradite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishBItemLarge",
-        "name": "Khut-Khut",
+        "name": "Khut-Khut - Large",
         "description": "A poisonous fish protected by a hardened carapace around its skull.",
         "itemCount": 1,
-        "tradable": false,
+        "type": "Fish",
+        "tradable": true,
         "imageName": "fish-item-day-common-b.png"
       }
     ],
@@ -7015,6 +7221,7 @@
         "uniqueName": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set1/Chassis/SentAmpSet1ChassisPartCBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Amp",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -7023,6 +7230,7 @@
         "name": "Breath Of The Eidolon",
         "description": "A gas found solely on the plains of Eidolon, refined to its purest form.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "eidolonium.png"
       },
@@ -7031,6 +7239,7 @@
         "name": "Cetus Wisp",
         "description": "Strange stone lifeforms that call the Plains home. They are a rare find, clustering together, floating above a patch of ground they've taken an inexplicable interest in. They are an enigma.",
         "itemCount": 20,
+        "type": "Resource",
         "tradable": false,
         "imageName": "cetus-wisp.png"
       },
@@ -7039,6 +7248,7 @@
         "name": "Cuthol Tendrils",
         "description": "Ostrons extract the toxin and apply it to their weapons when hunting animals.",
         "itemCount": 5,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-sac.png"
       },
@@ -7047,7 +7257,8 @@
         "name": "Fersteel Alloy",
         "description": "Ferros that has been forged into a stronger metal.",
         "itemCount": 50,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "uncommon-ore-aalloy-a.png"
       }
     ],
@@ -7088,6 +7299,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee02/Handle/HandleNineBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -7096,6 +7308,7 @@
         "name": "Fish Scales",
         "description": "A material used in tailoring clothes and cultivating synthetics.",
         "itemCount": 55,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-scales.png"
       },
@@ -7104,6 +7317,7 @@
         "name": "Iradite",
         "description": "A valuable mineral found on the Plains.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "iradite.png"
       },
@@ -7112,14 +7326,16 @@
         "name": "Pyrotic Alloy",
         "description": "Pyrol that has been forged into a stronger metal.",
         "itemCount": 60,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-ore-aalloy-a.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
         "name": "Rubedo",
-        "description": "A jagged crystalline ore. Gives off radiant energy.",
+        "description": "A jagged crystalline ore. Gives off radiant energy.\nLocations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
         "itemCount": 650,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-rubedo.png"
       }
@@ -7153,6 +7369,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/TipSixBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -7170,7 +7387,8 @@
         "name": "Coprite Alloy",
         "description": "Coprun that has been forged into a stronger metal.",
         "itemCount": 60,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-ore-balloy-a.png"
       },
       {
@@ -7178,7 +7396,8 @@
         "name": "Esher Devar",
         "description": "Polished and cut to perfection.",
         "itemCount": 10,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-gem-bcut-a.png"
       },
       {
@@ -7186,6 +7405,7 @@
         "name": "Fish Scales",
         "description": "A material used in tailoring clothes and cultivating synthetics.",
         "itemCount": 45,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-scales.png"
       },
@@ -7194,6 +7414,7 @@
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
         "itemCount": 20,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grokdrul.png"
       }
@@ -7227,6 +7448,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Handle/HandleSixBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -7244,14 +7466,16 @@
         "name": "Breath Of The Eidolon",
         "description": "A gas found solely on the plains of Eidolon, refined to its purest form.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "eidolonium.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
@@ -7260,7 +7484,8 @@
         "name": "Fersteel Alloy",
         "description": "Ferros that has been forged into a stronger metal.",
         "itemCount": 20,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "uncommon-ore-aalloy-a.png"
       },
       {
@@ -7268,6 +7493,7 @@
         "name": "Fish Scales",
         "description": "A material used in tailoring clothes and cultivating synthetics.",
         "itemCount": 85,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-scales.png"
       }
@@ -7779,6 +8005,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Handle/HandleThreeBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -7796,6 +8023,7 @@
         "name": "Cetus Wisp",
         "description": "Strange stone lifeforms that call the Plains home. They are a rare find, clustering together, floating above a patch of ground they've taken an inexplicable interest in. They are an enigma.",
         "itemCount": 1,
+        "type": "Resource",
         "tradable": false,
         "imageName": "cetus-wisp.png"
       },
@@ -7804,7 +8032,8 @@
         "name": "Fersteel Alloy",
         "description": "Ferros that has been forged into a stronger metal.",
         "itemCount": 20,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "uncommon-ore-aalloy-a.png"
       },
       {
@@ -7812,14 +8041,16 @@
         "name": "Fish Scales",
         "description": "A material used in tailoring clothes and cultivating synthetics.",
         "itemCount": 85,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-scales.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 700,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       }
@@ -7862,6 +8093,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Handle/HandleTwoBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -7879,14 +8111,16 @@
         "name": "Coprite Alloy",
         "description": "Coprun that has been forged into a stronger metal.",
         "itemCount": 60,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-ore-balloy-a.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
         "name": "Cryotic",
-        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.",
+        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\nLocations: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune.",
         "itemCount": 750,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cryotic.png"
       },
@@ -7895,6 +8129,7 @@
         "name": "Fish Scales",
         "description": "A material used in tailoring clothes and cultivating synthetics.",
         "itemCount": 55,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-scales.png"
       },
@@ -7903,6 +8138,7 @@
         "name": "Nistlepod",
         "description": "Used by the Nistlebrush to trap and kill prey.",
         "itemCount": 20,
+        "type": "Resource",
         "tradable": false,
         "imageName": "nistlebrush-item.png"
       }
@@ -7973,6 +8209,7 @@
         "uniqueName": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set1/Grip/SentAmpSet1GripPartCBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Amp",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -7981,6 +8218,7 @@
         "name": "Breath Of The Eidolon",
         "description": "A gas found solely on the plains of Eidolon, refined to its purest form.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "eidolonium.png"
       },
@@ -7989,6 +8227,7 @@
         "name": "Cetus Wisp",
         "description": "Strange stone lifeforms that call the Plains home. They are a rare find, clustering together, floating above a patch of ground they've taken an inexplicable interest in. They are an enigma.",
         "itemCount": 20,
+        "type": "Resource",
         "tradable": false,
         "imageName": "cetus-wisp.png"
       },
@@ -7997,6 +8236,7 @@
         "name": "Cuthol Tendrils",
         "description": "Ostrons extract the toxin and apply it to their weapons when hunting animals.",
         "itemCount": 2,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-sac.png"
       },
@@ -8005,6 +8245,7 @@
         "name": "Fish Oil",
         "description": "Used to create absolvents that purify gems.",
         "itemCount": 35,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-oil.png"
       }
@@ -8114,14 +8355,16 @@
         "name": "Blueprint",
         "description": "A rare Orokin instrument.",
         "itemCount": 1,
+        "type": "Key",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
-        "description": "An amorphous solid. Possibly Orokin technology.",
+        "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
         "itemCount": 3,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-morphic.png"
       }
@@ -8341,6 +8584,15 @@
     "imageName": "mark.png",
     "category": "Misc",
     "patchlogs": [
+      {
+        "name": "Mask of the Revenant: Update 23.6.0",
+        "date": "2018-08-30T16:04:42Z",
+        "url": "https://forums.warframe.com/topic/1003787-mask-of-the-revenant-update-2360/",
+        "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/64179d467e89f2525b45bb65b23618b3.jpg",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed navigating the cursor over the search field in the Market blocking other inputs.  "
+      },
       {
         "name": "The Sacrifice: Update 23.2.0",
         "date": "2018-08-02T15:02:26Z",
@@ -9845,17 +10097,19 @@
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/DayCommonFishATrophyBlueprint",
-        "name": "Blueprint",
+        "name": "Blueprint - Small",
         "description": "A trophy of a prized catch.",
         "itemCount": 1,
-        "tradable": false,
-        "imageName": "blueprint.png"
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-trophy-day-common-fish-a.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
         "name": "Cryotic",
-        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.",
+        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\nLocations: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune.",
         "itemCount": 2000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cryotic.png"
       },
@@ -9864,6 +10118,7 @@
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grokdrul.png"
       },
@@ -9872,15 +10127,17 @@
         "name": "Iradite",
         "description": "A valuable mineral found on the Plains.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "iradite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishAItemLarge",
-        "name": "Mawfish",
+        "name": "Mawfish - Large",
         "description": "Its gaping maw allows it to scoop up smaller fish as it swims by them.",
         "itemCount": 1,
-        "tradable": false,
+        "type": "Fish",
+        "tradable": true,
         "imageName": "fish-item-day-common-a.png"
       }
     ],
@@ -10239,6 +10496,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/TipThreeBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -10256,6 +10514,7 @@
         "name": "Cetus Wisp",
         "description": "Strange stone lifeforms that call the Plains home. They are a rare find, clustering together, floating above a patch of ground they've taken an inexplicable interest in. They are an enigma.",
         "itemCount": 1,
+        "type": "Resource",
         "tradable": false,
         "imageName": "cetus-wisp.png"
       },
@@ -10264,7 +10523,8 @@
         "name": "Fersteel Alloy",
         "description": "Ferros that has been forged into a stronger metal.",
         "itemCount": 20,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "uncommon-ore-aalloy-a.png"
       },
       {
@@ -10272,6 +10532,7 @@
         "name": "Fish Scales",
         "description": "A material used in tailoring clothes and cultivating synthetics.",
         "itemCount": 55,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-scales.png"
       },
@@ -10280,7 +10541,8 @@
         "name": "Marquise Veridos",
         "description": "Polished and cut to perfection.",
         "itemCount": 6,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "uncommon-gem-acut-a.png"
       }
     ],
@@ -10320,7 +10582,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
     "name": "Morphics",
-    "description": "An amorphous solid. Possibly Orokin technology.",
+    "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
     "type": "Misc",
     "buildPrice": 15000,
     "buildTime": 3600,
@@ -10331,40 +10593,45 @@
       {
         "uniqueName": "/Lotus/Types/Recipes/Components/MorphicsResourceBlueprint",
         "name": "Blueprint",
-        "description": "An amorphous solid. Possibly Orokin technology.",
+        "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 10000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 25000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
-        "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+        "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
         "itemCount": 5000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "polymer-bundle.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 10000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -10432,17 +10699,19 @@
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/DayUncommonFishBTrophyBlueprint",
-        "name": "Blueprint",
+        "name": "Blueprint - Small",
         "description": "A trophy of a prized catch.",
         "itemCount": 1,
-        "tradable": false,
-        "imageName": "blueprint.png"
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-trophy-day-uncommon-fish-b.png"
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grokdrul.png"
       },
@@ -10451,22 +10720,25 @@
         "name": "Iradite",
         "description": "A valuable mineral found on the Plains.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "iradite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishBItemLarge",
-        "name": "Mortus Lungfish",
+        "name": "Mortus Lungfish - Large",
         "description": "Displays blood-spattered pattern on its scales and has its ribs exposed through open cavities along both flanks. When predators approach it lies still at the bottom of the sand banks, disguised as a carcass in hopes of being ignored.",
         "itemCount": 1,
-        "tradable": false,
+        "type": "Fish",
+        "tradable": true,
         "imageName": "fish-item-day-uncommon-b.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 1200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       }
@@ -10515,17 +10787,19 @@
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/BothRareFishATrophyBlueprint",
-        "name": "Blueprint",
+        "name": "Blueprint - Small",
         "description": "A trophy of a prized catch.",
         "itemCount": 1,
-        "tradable": false,
-        "imageName": "blueprint.png"
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-trophy-both-rare-fish-a.png"
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grokdrul.png"
       },
@@ -10534,23 +10808,26 @@
         "name": "Iradite",
         "description": "A valuable mineral found on the Plains.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "iradite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
-        "description": "An amorphous solid. Possibly Orokin technology.",
+        "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-morphic.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothRareFishAItemLarge",
-        "name": "Murkray",
+        "name": "Murkray - Large",
         "description": "A cunning hunter that hides within the mud at the bottom of the ocean and ambushes passing prey.",
         "itemCount": 1,
-        "tradable": false,
+        "type": "Fish",
+        "tradable": true,
         "imageName": "fish-item-both-rare-a.png"
       }
     ],
@@ -10650,7 +10927,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
     "name": "Nano Spores",
-    "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+    "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
     "type": "Misc",
     "imageName": "nano-spores.png",
     "category": "Misc",
@@ -10716,7 +10993,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/NavCode",
     "name": "Nav Coordinate",
-    "description": "Coordinate used to locate lost ships.",
+    "description": "Coordinate used to locate lost ships.\nCan be acquired from Storage Containers.",
     "type": "Misc",
     "imageName": "nav-coordinate.png",
     "category": "Misc",
@@ -10791,7 +11068,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/NeuralSensor",
     "name": "Neural Sensors",
-    "description": "Implanted neural-link for controlling augmentations. Grineer design.",
+    "description": "Implanted neural-link for controlling augmentations. Grineer design.\nLocation: Jupiter.",
     "type": "Misc",
     "buildPrice": 15000,
     "buildTime": 3600,
@@ -10802,32 +11079,36 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 50000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Components/NeuralSensorResourceBlueprint",
         "name": "Blueprint",
-        "description": "Implanted neural-link for controlling augmentations. Grineer design.",
+        "description": "Implanted neural-link for controlling augmentations. Grineer design.\nLocation: Jupiter.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 50000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 25000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -10890,7 +11171,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
     "name": "Neurodes",
-    "description": "Biotech sensor organ harvested from Infested entities.",
+    "description": "Biotech sensor organ harvested from Infested entities.\nLocations: Earth, Lua, Eris, and Orokin Derelicts.",
     "type": "Misc",
     "buildPrice": 15000,
     "buildTime": 3600,
@@ -10901,32 +11182,36 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 50000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Components/NeurodeResourceBlueprint",
         "name": "Blueprint",
-        "description": "Biotech sensor organ harvested from Infested entities.",
+        "description": "Biotech sensor organ harvested from Infested entities.\nLocations: Earth, Lua, Eris, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 50000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 25000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -10988,7 +11273,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
     "name": "Nitain Extract",
-    "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.",
+    "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.\nThis resource can be acquired as a reward from Alerts.",
     "type": "Misc",
     "imageName": "nitain-extract.png",
     "category": "Misc",
@@ -11198,17 +11483,19 @@
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/NightRareFishATrophyBlueprint",
-        "name": "Blueprint",
+        "name": "Blueprint - Small",
         "description": "A trophy of a prized catch.",
         "itemCount": 1,
-        "tradable": false,
-        "imageName": "blueprint.png"
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-trophy-night-rare-fish-a.png"
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grokdrul.png"
       },
@@ -11217,23 +11504,26 @@
         "name": "Iradite",
         "description": "A valuable mineral found on the Plains.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "iradite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
-        "description": "An amorphous solid. Possibly Orokin technology.",
+        "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-morphic.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishAItemLarge",
-        "name": "Norg",
+        "name": "Norg - Large",
         "description": "This fish inhabits the shallows and feeds of crabs and other small crustaceans. When threatened it forces air into its brain to give it the impression of being much bigger than it normally is.",
         "itemCount": 1,
-        "tradable": false,
+        "type": "Fish",
+        "tradable": true,
         "imageName": "fish-item-night-rare-a.png"
       }
     ],
@@ -11273,7 +11563,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/OmegaIsotope",
     "name": "Omega Isotope",
-    "description": "Produced by a Fomorian’s power core, these particles only appear on or around planets where a Fomorian is present.",
+    "description": "Produced by a Fomorian’s power core, these particles only appear on or around planets where a Fomorian is present.\nLocation: Any planet with a Balor Fomorian.",
     "type": "Misc",
     "imageName": "omega-isotope.png",
     "category": "Misc",
@@ -11312,6 +11602,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/TipTwoBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -11329,6 +11620,7 @@
         "name": "Fish Scales",
         "description": "A material used in tailoring clothes and cultivating synthetics.",
         "itemCount": 20,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-scales.png"
       },
@@ -11337,6 +11629,7 @@
         "name": "Iradite",
         "description": "A valuable mineral found on the Plains.",
         "itemCount": 20,
+        "type": "Resource",
         "tradable": false,
         "imageName": "iradite.png"
       },
@@ -11345,7 +11638,8 @@
         "name": "Pyrotic Alloy",
         "description": "Pyrol that has been forged into a stronger metal.",
         "itemCount": 60,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-ore-aalloy-a.png"
       },
       {
@@ -11353,7 +11647,8 @@
         "name": "Tear Azurite",
         "description": "Polished and cut to perfection.",
         "itemCount": 10,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-gem-acut-a.png"
       }
     ],
@@ -11397,6 +11692,7 @@
         "name": "Blueprint",
         "description": "Orokin modification technology used to super-charge weaponry. Doubles the available Mod Capacity on a Weapon.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -11411,32 +11707,36 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
         "name": "Control Module",
-        "description": "Autonomy processor for Robotics. A Corpus design.",
+        "description": "Autonomy processor for Robotics. A Corpus design.\nLocations: Europa, Neptune, and the Void.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "control-module.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
         "name": "Gallium",
-        "description": "Soft metal used in microelectronics and energy weapons.",
+        "description": "Soft metal used in microelectronics and energy weapons.\nLocations: Mars and Uranus.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-gallium.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
-        "description": "An amorphous solid. Possibly Orokin technology.",
+        "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-morphic.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       }
@@ -11507,7 +11807,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
     "name": "Orokin Cell",
-    "description": "Ancient energy cell from the Orokin era.",
+    "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
     "type": "Misc",
     "buildPrice": 15000,
     "buildTime": 3600,
@@ -11518,32 +11818,36 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 50000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
       {
         "uniqueName": "/Lotus/Types/Recipes/Components/OrokinCellResourceBlueprint",
         "name": "Blueprint",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 50000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 25000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -11741,6 +12045,7 @@
         "name": "Blueprint",
         "description": "Reactor used to super-charge Warframes. Doubles the available Mod Capacity on a Warframe, Archwing, and Companions.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -11755,32 +12060,36 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
-        "description": "An amorphous solid. Possibly Orokin technology.",
+        "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-morphic.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/NeuralSensor",
         "name": "Neural Sensors",
-        "description": "Implanted neural-link for controlling augmentations. Grineer design.",
+        "description": "Implanted neural-link for controlling augmentations. Grineer design.\nLocation: Jupiter.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "neural-sensor.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
         "name": "Neurodes",
-        "description": "Biotech sensor organ harvested from Infested entities.",
+        "description": "Biotech sensor organ harvested from Infested entities.\nLocations: Earth, Lua, Eris, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-neurode.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       }
@@ -11844,7 +12153,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
     "name": "Oxium",
-    "description": "Oxium is a rare lighter than air alloy of Orokin origin.",
+    "description": "Oxium is a rare lighter than air alloy of Orokin origin, used in certain Corpus Robotics.\nLocations: Venus, Jupiter, Mars, Neptune, Pluto, Eris, Europa, and Lua.",
     "type": "Misc",
     "imageName": "oxium.png",
     "category": "Misc",
@@ -12037,6 +12346,7 @@
         "uniqueName": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set1/Chassis/SentAmpSet1ChassisPartABlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Amp",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -12045,6 +12355,7 @@
         "name": "Cetus Wisp",
         "description": "Strange stone lifeforms that call the Plains home. They are a rare find, clustering together, floating above a patch of ground they've taken an inexplicable interest in. They are an enigma.",
         "itemCount": 10,
+        "type": "Resource",
         "tradable": false,
         "imageName": "cetus-wisp.png"
       },
@@ -12053,6 +12364,7 @@
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
         "itemCount": 60,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grokdrul.png"
       },
@@ -12061,6 +12373,7 @@
         "name": "Murkray Liver",
         "description": "An ingredient used in Ostron cooking and medicines.",
         "itemCount": 5,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-organ.png"
       },
@@ -12069,7 +12382,8 @@
         "name": "Pyrotic Alloy",
         "description": "Pyrol that has been forged into a stronger metal.",
         "itemCount": 85,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-ore-aalloy-a.png"
       }
     ],
@@ -12102,8 +12416,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
         "name": "Argon Crystal",
-        "description": "Void based radioactive resource that decays every day it is out of the void.",
+        "description": "A Void based radioactive resource that decays every day it is out of the Void.\nThis resource can be found in the Void.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "argon-crystal.png"
       },
@@ -12112,30 +12427,34 @@
         "name": "Blueprint",
         "description": "",
         "itemCount": 1,
+        "type": "Extractor",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 3000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
         "name": "Rubedo",
-        "description": "A jagged crystalline ore. Gives off radiant energy.",
+        "description": "A jagged crystalline ore. Gives off radiant energy.\nLocations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
         "itemCount": 800,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-rubedo.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Tellurium",
         "name": "Tellurium",
-        "description": "This rare metal is foreign to the Origin System and can only be found in asteroids that have made the long journey from other stars.",
+        "description": "This rare metal is foreign to the Origin System and can only be found in asteroids that have made the long journey from other stars.\nLocations: Archwing Missions on Uranus.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "tellurium.png"
       }
@@ -12168,8 +12487,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 850,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
@@ -12177,6 +12497,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Handle/HandleOneBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -12194,6 +12515,7 @@
         "name": "Fish Scales",
         "description": "A material used in tailoring clothes and cultivating synthetics.",
         "itemCount": 30,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-scales.png"
       },
@@ -12202,6 +12524,7 @@
         "name": "Iradite",
         "description": "A valuable mineral found on the Plains.",
         "itemCount": 20,
+        "type": "Resource",
         "tradable": false,
         "imageName": "iradite.png"
       },
@@ -12210,7 +12533,8 @@
         "name": "Pyrotic Alloy",
         "description": "Pyrol that has been forged into a stronger metal.",
         "itemCount": 60,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-ore-aalloy-a.png"
       }
     ],
@@ -12242,6 +12566,7 @@
         "uniqueName": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set2/Chassis/SentAmpSet2ChassisPartABlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Amp",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -12250,6 +12575,7 @@
         "name": "Cetus Wisp",
         "description": "Strange stone lifeforms that call the Plains home. They are a rare find, clustering together, floating above a patch of ground they've taken an inexplicable interest in. They are an enigma.",
         "itemCount": 10,
+        "type": "Resource",
         "tradable": false,
         "imageName": "cetus-wisp.png"
       },
@@ -12258,6 +12584,7 @@
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
         "itemCount": 60,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grokdrul.png"
       },
@@ -12266,6 +12593,7 @@
         "name": "Murkray Liver",
         "description": "An ingredient used in Ostron cooking and medicines.",
         "itemCount": 5,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-organ.png"
       },
@@ -12274,7 +12602,8 @@
         "name": "Pyrotic Alloy",
         "description": "Pyrol that has been forged into a stronger metal.",
         "itemCount": 85,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-ore-aalloy-a.png"
       }
     ],
@@ -12315,6 +12644,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMeleeInfested/Handles/InfestedHandleOneBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -12323,6 +12653,7 @@
         "name": "Fish Scales",
         "description": "A material used in tailoring clothes and cultivating synthetics.",
         "itemCount": 15,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-scales.png"
       },
@@ -12331,14 +12662,16 @@
         "name": "Iradite",
         "description": "A valuable mineral found on the Plains.",
         "itemCount": 20,
+        "type": "Resource",
         "tradable": false,
         "imageName": "iradite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 1100,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       },
@@ -12347,7 +12680,8 @@
         "name": "Pyrotic Alloy",
         "description": "Pyrol that has been forged into a stronger metal.",
         "itemCount": 30,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-ore-aalloy-a.png"
       }
     ],
@@ -12369,6 +12703,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMeleeInfested/Handles/InfestedHandleTwoBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -12377,7 +12712,8 @@
         "name": "Coprite Alloy",
         "description": "Coprun that has been forged into a stronger metal.",
         "itemCount": 30,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-ore-balloy-a.png"
       },
       {
@@ -12385,6 +12721,7 @@
         "name": "Fish Scales",
         "description": "A material used in tailoring clothes and cultivating synthetics.",
         "itemCount": 15,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-scales.png"
       },
@@ -12393,14 +12730,16 @@
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
         "itemCount": 20,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grokdrul.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 1100,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       }
@@ -12423,6 +12762,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMeleeInfested/Tips/InfestedTipTwoBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -12431,7 +12771,8 @@
         "name": "Coprite Alloy",
         "description": "Coprun that has been forged into a stronger metal.",
         "itemCount": 60,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-ore-balloy-a.png"
       },
       {
@@ -12439,22 +12780,25 @@
         "name": "Esher Devar",
         "description": "Polished and cut to perfection.",
         "itemCount": 10,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-gem-bcut-a.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 1600,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 700,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       }
@@ -12496,22 +12840,25 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMeleeInfested/Tips/InfestedTipOneBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 1600,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 700,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       },
@@ -12520,7 +12867,8 @@
         "name": "Pyrotic Alloy",
         "description": "Pyrol that has been forged into a stronger metal.",
         "itemCount": 60,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-ore-aalloy-a.png"
       },
       {
@@ -12528,7 +12876,8 @@
         "name": "Tear Azurite",
         "description": "Polished and cut to perfection.",
         "itemCount": 10,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-gem-acut-a.png"
       }
     ],
@@ -12558,7 +12907,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
     "name": "Plastids",
-    "description": "A disgusting nanite-infested tissue mass.",
+    "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
     "type": "Misc",
     "imageName": "plastids.png",
     "category": "Misc",
@@ -12587,7 +12936,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
     "name": "Polymer Bundle",
-    "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+    "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
     "type": "Misc",
     "imageName": "polymer-bundle.png",
     "category": "Misc",
@@ -12665,6 +13014,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee02/Tip/TipTenBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -12673,7 +13023,8 @@
         "name": "Esher Devar",
         "description": "Polished and cut to perfection.",
         "itemCount": 10,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-gem-bcut-a.png"
       },
       {
@@ -12681,7 +13032,8 @@
         "name": "Fersteel Alloy",
         "description": "Ferros that has been forged into a stronger metal.",
         "itemCount": 20,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "uncommon-ore-aalloy-a.png"
       },
       {
@@ -12689,6 +13041,7 @@
         "name": "Fish Scales",
         "description": "A material used in tailoring clothes and cultivating synthetics.",
         "itemCount": 50,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-scales.png"
       },
@@ -12697,6 +13050,7 @@
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
         "itemCount": 35,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grokdrul.png"
       }
@@ -12764,6 +13118,7 @@
         "uniqueName": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set2/Barrel/SentAmpSet2BarrelPartABlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Amp",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -12772,6 +13127,7 @@
         "name": "Cetus Wisp",
         "description": "Strange stone lifeforms that call the Plains home. They are a rare find, clustering together, floating above a patch of ground they've taken an inexplicable interest in. They are an enigma.",
         "itemCount": 10,
+        "type": "Resource",
         "tradable": false,
         "imageName": "cetus-wisp.png"
       },
@@ -12780,7 +13136,8 @@
         "name": "Esher Devar",
         "description": "Polished and cut to perfection.",
         "itemCount": 30,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-gem-bcut-a.png"
       },
       {
@@ -12788,6 +13145,7 @@
         "name": "Iradite",
         "description": "A valuable mineral found on the Plains.",
         "itemCount": 60,
+        "type": "Resource",
         "tradable": false,
         "imageName": "iradite.png"
       },
@@ -12796,7 +13154,8 @@
         "name": "Tear Azurite",
         "description": "Polished and cut to perfection.",
         "itemCount": 30,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-gem-acut-a.png"
       }
     ],
@@ -12818,6 +13177,7 @@
         "uniqueName": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set1/Barrel/SentAmpSet1BarrelPartABlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Amp",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -12826,6 +13186,7 @@
         "name": "Cetus Wisp",
         "description": "Strange stone lifeforms that call the Plains home. They are a rare find, clustering together, floating above a patch of ground they've taken an inexplicable interest in. They are an enigma.",
         "itemCount": 10,
+        "type": "Resource",
         "tradable": false,
         "imageName": "cetus-wisp.png"
       },
@@ -12834,7 +13195,8 @@
         "name": "Esher Devar",
         "description": "Polished and cut to perfection.",
         "itemCount": 30,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-gem-bcut-a.png"
       },
       {
@@ -12842,6 +13204,7 @@
         "name": "Iradite",
         "description": "A valuable mineral found on the Plains.",
         "itemCount": 60,
+        "type": "Resource",
         "tradable": false,
         "imageName": "iradite.png"
       },
@@ -12850,7 +13213,8 @@
         "name": "Tear Azurite",
         "description": "Polished and cut to perfection.",
         "itemCount": 30,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-gem-acut-a.png"
       }
     ],
@@ -12879,9 +13243,61 @@
     "tradable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/RelayRebuild/PhaseOneClanItem",
+    "name": "Relay Strut Component",
+    "description": "An integral building block in the construction of Tenno relays.",
+    "type": "Misc",
+    "buildPrice": 5000,
+    "buildTime": 10800,
+    "skipBuildTimePrice": 10,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Components/RelayThermicStrutBlueprint",
+        "name": "Blueprint",
+        "description": "An integral building block in the construction of Tenno relays.",
+        "itemCount": 1,
+        "type": "Misc",
+        "tradable": false,
+        "imageName": "blueprint.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+        "name": "Morphics",
+        "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
+        "itemCount": 2,
+        "type": "Misc",
+        "tradable": false,
+        "imageName": "component-morphic.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
+        "itemCount": 5000,
+        "type": "Misc",
+        "tradable": false,
+        "imageName": "component-salvage.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/RelayRebuild/PhaseThreeEarthEssence",
+        "name": "Trembera Essence",
+        "description": "A highly purified mineral compound prized for its strength, resiliency, and resistance to heat. Widely used in the construction of Tenno relays.",
+        "itemCount": 15,
+        "type": "Misc",
+        "tradable": false,
+        "imageName": "relay-essence-earth.png"
+      }
+    ],
+    "imageName": "relay-strut-component.png",
+    "category": "Misc",
+    "tradable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
     "name": "Rubedo",
-    "description": "A jagged crystalline ore. Gives off radiant energy.",
+    "description": "A jagged crystalline ore. Gives off radiant energy.\nLocations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
     "type": "Misc",
     "imageName": "rubedo.png",
     "category": "Misc",
@@ -12937,6 +13353,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Balance/BalanceDamageIBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -12954,6 +13371,7 @@
         "name": "Kuaka Spinal Claw",
         "description": "The sinew from the Kuaka's spinal claws can be tanned to make a resilient and flexible leather.",
         "itemCount": 2,
+        "type": "Resource",
         "tradable": false,
         "imageName": "forest-rodent-spine.png"
       },
@@ -12962,6 +13380,7 @@
         "name": "Mawfish Bones",
         "description": "The bones of the Mawfish are carved by the Ostron to produce onaments and tools.",
         "itemCount": 5,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-bones.png"
       },
@@ -12970,6 +13389,7 @@
         "name": "Nistlepod",
         "description": "Used by the Nistlebrush to trap and kill prey.",
         "itemCount": 10,
+        "type": "Resource",
         "tradable": false,
         "imageName": "nistlebrush-item.png"
       },
@@ -12978,7 +13398,8 @@
         "name": "Pyrotic Alloy",
         "description": "Pyrol that has been forged into a stronger metal.",
         "itemCount": 20,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-ore-aalloy-a.png"
       }
     ],
@@ -13011,6 +13432,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Balance/BalanceDamageIIBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -13028,6 +13450,7 @@
         "name": "Kuaka Spinal Claw",
         "description": "The sinew from the Kuaka's spinal claws can be tanned to make a resilient and flexible leather.",
         "itemCount": 2,
+        "type": "Resource",
         "tradable": false,
         "imageName": "forest-rodent-spine.png"
       },
@@ -13036,6 +13459,7 @@
         "name": "Nistlepod",
         "description": "Used by the Nistlebrush to trap and kill prey.",
         "itemCount": 20,
+        "type": "Resource",
         "tradable": false,
         "imageName": "nistlebrush-item.png"
       },
@@ -13044,7 +13468,8 @@
         "name": "Pyrotic Alloy",
         "description": "Pyrol that has been forged into a stronger metal.",
         "itemCount": 20,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-ore-aalloy-a.png"
       },
       {
@@ -13052,6 +13477,7 @@
         "name": "Yogwun Stomach",
         "description": "Once cleaned and tanned this organ can be turned into a durable leather.",
         "itemCount": 5,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-rib-cage.png"
       }
@@ -13063,7 +13489,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
     "name": "Salvage",
-    "description": "High value metals collected from war salvage.",
+    "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
     "type": "Misc",
     "imageName": "salvage.png",
     "category": "Misc",
@@ -13220,6 +13646,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Handle/HandleFourBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -13237,6 +13664,7 @@
         "name": "Fish Scales",
         "description": "A material used in tailoring clothes and cultivating synthetics.",
         "itemCount": 30,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-scales.png"
       },
@@ -13245,6 +13673,7 @@
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
         "itemCount": 20,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grokdrul.png"
       },
@@ -13253,14 +13682,16 @@
         "name": "Pyrotic Alloy",
         "description": "Pyrol that has been forged into a stronger metal.",
         "itemCount": 60,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-ore-aalloy-a.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 900,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -13283,6 +13714,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee02/Tip/TipNineBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -13291,6 +13723,7 @@
         "name": "Condroc Wing",
         "description": "The talon on a condroc's wing is is sharp enough to tear through bone.",
         "itemCount": 15,
+        "type": "Resource",
         "tradable": false,
         "imageName": "bird-of-prey-part-item.png"
       },
@@ -13299,7 +13732,8 @@
         "name": "Coprite Alloy",
         "description": "Coprun that has been forged into a stronger metal.",
         "itemCount": 60,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-ore-balloy-a.png"
       },
       {
@@ -13307,6 +13741,7 @@
         "name": "Fish Scales",
         "description": "A material used in tailoring clothes and cultivating synthetics.",
         "itemCount": 55,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-scales.png"
       },
@@ -13315,7 +13750,8 @@
         "name": "Tear Azurite",
         "description": "Polished and cut to perfection.",
         "itemCount": 10,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-gem-acut-a.png"
       }
     ],
@@ -13412,17 +13848,19 @@
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/BothUncommonFishATrophyBlueprint",
-        "name": "Blueprint",
+        "name": "Blueprint - Small",
         "description": "A trophy of a prized catch.",
         "itemCount": 1,
-        "tradable": false,
-        "imageName": "blueprint.png"
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-trophy-both-uncommon-fish-a.png"
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grokdrul.png"
       },
@@ -13431,23 +13869,26 @@
         "name": "Iradite",
         "description": "A valuable mineral found on the Plains.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "iradite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 1200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishAItemLarge",
-        "name": "Sharrac",
+        "name": "Sharrac - Large",
         "description": "While rarely venturing from the deepest waters of the plains, the Sharrac is a fearsome predator who will prey on unwary Ostrons swimming alone.",
         "itemCount": 1,
-        "tradable": false,
+        "type": "Fish",
+        "tradable": true,
         "imageName": "fish-item-both-uncommon-a.png"
       }
     ],
@@ -13469,6 +13910,7 @@
         "uniqueName": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set1/Chassis/SentAmpSet1ChassisPartBBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Amp",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -13477,6 +13919,7 @@
         "name": "Cetus Wisp",
         "description": "Strange stone lifeforms that call the Plains home. They are a rare find, clustering together, floating above a patch of ground they've taken an inexplicable interest in. They are an enigma.",
         "itemCount": 15,
+        "type": "Resource",
         "tradable": false,
         "imageName": "cetus-wisp.png"
       },
@@ -13485,7 +13928,8 @@
         "name": "Coprite Alloy",
         "description": "Coprun that has been forged into a stronger metal.",
         "itemCount": 85,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-ore-balloy-a.png"
       },
       {
@@ -13493,6 +13937,7 @@
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
         "itemCount": 80,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grokdrul.png"
       },
@@ -13501,6 +13946,7 @@
         "name": "Norg Brain",
         "description": "An Ostron delicacy.",
         "itemCount": 5,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-brain.png"
       }
@@ -13533,14 +13979,16 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee02/Handle/HandleTenBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 850,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
@@ -13549,6 +13997,7 @@
         "name": "Fish Scales",
         "description": "A material used in tailoring clothes and cultivating synthetics.",
         "itemCount": 55,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-scales.png"
       },
@@ -13557,6 +14006,7 @@
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grokdrul.png"
       },
@@ -13565,7 +14015,8 @@
         "name": "Pyrotic Alloy",
         "description": "Pyrol that has been forged into a stronger metal.",
         "itemCount": 60,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-ore-aalloy-a.png"
       }
     ],
@@ -13598,6 +14049,7 @@
         "uniqueName": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set1/Barrel/SentAmpSet1BarrelPartBBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Amp",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -13606,6 +14058,7 @@
         "name": "Cetus Wisp",
         "description": "Strange stone lifeforms that call the Plains home. They are a rare find, clustering together, floating above a patch of ground they've taken an inexplicable interest in. They are an enigma.",
         "itemCount": 15,
+        "type": "Resource",
         "tradable": false,
         "imageName": "cetus-wisp.png"
       },
@@ -13614,7 +14067,8 @@
         "name": "Esher Devar",
         "description": "Polished and cut to perfection.",
         "itemCount": 30,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-gem-bcut-a.png"
       },
       {
@@ -13622,6 +14076,7 @@
         "name": "Iradite",
         "description": "A valuable mineral found on the Plains.",
         "itemCount": 80,
+        "type": "Resource",
         "tradable": false,
         "imageName": "iradite.png"
       },
@@ -13630,7 +14085,8 @@
         "name": "Marquise Veridos",
         "description": "Polished and cut to perfection.",
         "itemCount": 20,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "uncommon-gem-acut-a.png"
       }
     ],
@@ -13933,7 +14389,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/MiscItems/Tellurium",
     "name": "Tellurium",
-    "description": "This rare metal is foreign to the Origin System and can only be found in asteroids that have made the long journey from other stars.",
+    "description": "This rare metal is foreign to the Origin System and can only be found in asteroids that have made the long journey from other stars.\nLocations: Archwing Missions on Uranus.",
     "type": "Misc",
     "imageName": "tellurium.png",
     "category": "Misc",
@@ -14195,22 +14651,25 @@
         "name": "Blueprint",
         "description": "Deploy the EXTRACTOR on a planet to collect resources.\nMust be emptied regularly for maximum efficiency and monitored for damage.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 300,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
-        "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+        "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
         "itemCount": 500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "polymer-bundle.png"
       }
@@ -14258,8 +14717,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
@@ -14268,14 +14728,16 @@
         "name": "Blueprint",
         "description": "Deploy the EXTRACTOR on a planet to collect large amounts of resources.\nMust be emptied regularly for maximum efficiency and monitored for damage.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 300,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       }
@@ -14326,17 +14788,19 @@
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/DayUncommonFishATrophyBlueprint",
-        "name": "Blueprint",
+        "name": "Blueprint - Small",
         "description": "A trophy of a prized catch.",
         "itemCount": 1,
-        "tradable": false,
-        "imageName": "blueprint.png"
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-trophy-day-uncommon-fish-a.png"
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grokdrul.png"
       },
@@ -14345,27 +14809,39 @@
         "name": "Iradite",
         "description": "A valuable mineral found on the Plains.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "iradite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 1200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishAItemLarge",
-        "name": "Tralok",
+        "name": "Tralok - Large",
         "description": "Strong, predatory fish with eyes that can pierce the darkest shadows.",
         "itemCount": 1,
-        "tradable": false,
+        "type": "Fish",
+        "tradable": true,
         "imageName": "fish-item-day-uncommon-a.png"
       }
     ],
     "imageName": "tralok-trophy.png",
+    "category": "Misc",
+    "tradable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/RelayRebuild/PhaseThreeEarthEssence",
+    "name": "Trembera Essence",
+    "description": "A highly purified mineral compound prized for its strength, resiliency, and resistance to heat. Widely used in the construction of Tenno relays.",
+    "type": "Misc",
+    "imageName": "trembera-essence.png",
     "category": "Misc",
     "tradable": false
   },
@@ -14430,6 +14906,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Balance/BalanceSpeedICritIIBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -14447,7 +14924,8 @@
         "name": "Fersteel Alloy",
         "description": "Ferros that has been forged into a stronger metal.",
         "itemCount": 20,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "uncommon-ore-aalloy-a.png"
       },
       {
@@ -14455,6 +14933,7 @@
         "name": "Kuaka Spinal Claw",
         "description": "The sinew from the Kuaka's spinal claws can be tanned to make a resilient and flexible leather.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "forest-rodent-spine.png"
       },
@@ -14463,6 +14942,7 @@
         "name": "Maprico",
         "description": "This hardy fruit is thick-skinned to withstand harsh conditions, concealing a mouthful of sweet pulp within.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "eidolon-fruit.png"
       },
@@ -14471,6 +14951,7 @@
         "name": "Mortus Horn",
         "description": "The horn of a Mortus Lungfish is ground down into a powder and used by the Ostrons in herbal remedies.",
         "itemCount": 5,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-horn.png"
       }
@@ -14493,6 +14974,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Balance/BalanceDamageICritIIBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -14510,7 +14992,8 @@
         "name": "Fersteel Alloy",
         "description": "Ferros that has been forged into a stronger metal.",
         "itemCount": 20,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "uncommon-ore-aalloy-a.png"
       },
       {
@@ -14518,6 +15001,7 @@
         "name": "Kuaka Spinal Claw",
         "description": "The sinew from the Kuaka's spinal claws can be tanned to make a resilient and flexible leather.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "forest-rodent-spine.png"
       },
@@ -14526,6 +15010,7 @@
         "name": "Maprico",
         "description": "This hardy fruit is thick-skinned to withstand harsh conditions, concealing a mouthful of sweet pulp within.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "eidolon-fruit.png"
       },
@@ -14534,6 +15019,7 @@
         "name": "Tralok Eyes",
         "description": "The Ostron boil these into a jelly which forms a strong adhesive when it dries.",
         "itemCount": 5,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-eyes.png"
       }
@@ -14556,6 +15042,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Balance/BalanceSpeedICritIBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -14573,7 +15060,8 @@
         "name": "Coprite Alloy",
         "description": "Coprun that has been forged into a stronger metal.",
         "itemCount": 20,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-ore-balloy-a.png"
       },
       {
@@ -14581,6 +15069,7 @@
         "name": "Goopolla Spleen",
         "description": "Used in Ostron remedies to purify toxins.",
         "itemCount": 5,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-flesh-tube.png"
       },
@@ -14589,6 +15078,7 @@
         "name": "Kuaka Spinal Claw",
         "description": "The sinew from the Kuaka's spinal claws can be tanned to make a resilient and flexible leather.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "forest-rodent-spine.png"
       },
@@ -14597,6 +15087,7 @@
         "name": "Nistlepod",
         "description": "Used by the Nistlebrush to trap and kill prey.",
         "itemCount": 30,
+        "type": "Resource",
         "tradable": false,
         "imageName": "nistlebrush-item.png"
       }
@@ -14620,13 +15111,15 @@
         "name": "Auroxium Alloy",
         "description": "Auron that has been forged into a stronger metal.",
         "itemCount": 20,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "rare-ore-aalloy-a.png"
       },
       {
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Balance/BalanceSpeedIICritIBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -14644,6 +15137,7 @@
         "name": "Breath Of The Eidolon",
         "description": "A gas found solely on the plains of Eidolon, refined to its purest form.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "eidolonium.png"
       },
@@ -14652,6 +15146,7 @@
         "name": "Cetus Wisp",
         "description": "Strange stone lifeforms that call the Plains home. They are a rare find, clustering together, floating above a patch of ground they've taken an inexplicable interest in. They are an enigma.",
         "itemCount": 2,
+        "type": "Resource",
         "tradable": false,
         "imageName": "cetus-wisp.png"
       },
@@ -14660,6 +15155,7 @@
         "name": "Kuaka Spinal Claw",
         "description": "The sinew from the Kuaka's spinal claws can be tanned to make a resilient and flexible leather.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "forest-rodent-spine.png"
       }
@@ -14682,6 +15178,7 @@
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Balance/BalanceDamageICritIBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -14699,6 +15196,7 @@
         "name": "Charc Electroplax",
         "description": "Harvested by the Ostron as a catalyst used in their synthetics.",
         "itemCount": 5,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-gills.png"
       },
@@ -14707,7 +15205,8 @@
         "name": "Coprite Alloy",
         "description": "Coprun that has been forged into a stronger metal.",
         "itemCount": 20,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "common-ore-balloy-a.png"
       },
       {
@@ -14715,6 +15214,7 @@
         "name": "Kuaka Spinal Claw",
         "description": "The sinew from the Kuaka's spinal claws can be tanned to make a resilient and flexible leather.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "forest-rodent-spine.png"
       },
@@ -14723,6 +15223,7 @@
         "name": "Nistlepod",
         "description": "Used by the Nistlebrush to trap and kill prey.",
         "itemCount": 30,
+        "type": "Resource",
         "tradable": false,
         "imageName": "nistlebrush-item.png"
       }
@@ -14746,13 +15247,15 @@
         "name": "Auroxium Alloy",
         "description": "Auron that has been forged into a stronger metal.",
         "itemCount": 20,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "rare-ore-aalloy-a.png"
       },
       {
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Balance/BalanceDamageIICritIBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -14770,6 +15273,7 @@
         "name": "Breath Of The Eidolon",
         "description": "A gas found solely on the plains of Eidolon, refined to its purest form.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "eidolonium.png"
       },
@@ -14778,6 +15282,7 @@
         "name": "Cetus Wisp",
         "description": "Strange stone lifeforms that call the Plains home. They are a rare find, clustering together, floating above a patch of ground they've taken an inexplicable interest in. They are an enigma.",
         "itemCount": 2,
+        "type": "Resource",
         "tradable": false,
         "imageName": "cetus-wisp.png"
       },
@@ -14786,6 +15291,7 @@
         "name": "Kuaka Spinal Claw",
         "description": "The sinew from the Kuaka's spinal claws can be tanned to make a resilient and flexible leather.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "forest-rodent-spine.png"
       }
@@ -14969,17 +15475,19 @@
     "components": [
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/DayCommonFishCTrophyBlueprint",
-        "name": "Blueprint",
+        "name": "Blueprint - Small",
         "description": "A trophy of a prized catch.",
         "itemCount": 1,
-        "tradable": false,
-        "imageName": "blueprint.png"
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-trophy-day-common-fish-c.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
         "name": "Cryotic",
-        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.",
+        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\nLocations: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune.",
         "itemCount": 2000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cryotic.png"
       },
@@ -14988,6 +15496,7 @@
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grokdrul.png"
       },
@@ -14996,15 +15505,17 @@
         "name": "Iradite",
         "description": "A valuable mineral found on the Plains.",
         "itemCount": 25,
+        "type": "Resource",
         "tradable": false,
         "imageName": "iradite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishCItemLarge",
-        "name": "Yogwun",
+        "name": "Yogwun - Large",
         "description": "This slow fish meanders through the waters and is often preyed upon by larger predators.",
         "itemCount": 1,
-        "tradable": false,
+        "type": "Fish",
+        "tradable": true,
         "imageName": "fish-item-day-common-c.png"
       }
     ],

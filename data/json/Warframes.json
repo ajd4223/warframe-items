@@ -38,6 +38,7 @@
         "name": "Blueprint",
         "description": "Ash is great for players looking for a stealthier approach to combat. Lethal abilities are complemented by powers of distraction.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -46,6 +47,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Ash Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png",
         "drops": [
@@ -68,6 +70,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Ash Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png",
         "drops": [
@@ -88,8 +91,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -98,6 +102,7 @@
         "name": "Systems",
         "description": "Systems component of the Ash Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png",
         "drops": [
@@ -1031,6 +1036,7 @@
         "name": "Blueprint",
         "description": "Distraction and subterfuge become lethal weapons with Ash Prime. Featuring altered mod polarities for greater customization.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -1114,6 +1120,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Ash Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-warframe-prime-chassis.png",
@@ -1197,6 +1204,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Ash Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-warframe-prime-helmet.png",
@@ -1326,8 +1334,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -1336,6 +1345,7 @@
         "name": "Systems",
         "description": "Systems component of the Ash Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 65,
         "tradable": true,
         "imageName": "generic-warframe-prime-system.png",
@@ -2307,6 +2317,7 @@
         "name": "Blueprint",
         "description": "Titan of stone, lord of the earthly elementals.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -2315,6 +2326,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Atlas Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png",
         "drops": [
@@ -2331,6 +2343,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Atlas Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png",
         "drops": [
@@ -2345,8 +2358,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -2355,6 +2369,7 @@
         "name": "Systems",
         "description": "Systems component of the Atlas Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png",
         "drops": [
@@ -2729,6 +2744,7 @@
         "name": "Blueprint",
         "description": "Using sonic attacks and acoustic target detection, Banshee is well suited for stealth gameplay and is capable of filling both attack and support roles.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -2737,6 +2753,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Banshee Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png"
       },
@@ -2745,14 +2762,16 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Banshee Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -2761,6 +2780,7 @@
         "name": "Systems",
         "description": "Systems component of the Banshee Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png"
       }
@@ -3470,6 +3490,7 @@
         "name": "Blueprint",
         "description": "Banshee Prime assails her foes by manipulating sonic forces to deadly effect. Featuring altered mod polarities for greater customization.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -3625,6 +3646,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Banshee Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "generic-warframe-prime-chassis.png",
@@ -3708,6 +3730,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Banshee Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-warframe-prime-helmet.png",
@@ -3789,8 +3812,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -3799,6 +3823,7 @@
         "name": "Systems",
         "description": "Systems component of the Banshee Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "generic-warframe-prime-system.png",
@@ -4607,6 +4632,7 @@
         "name": "Blueprint",
         "description": "A master of the deadly elements, Chroma can alter his damage output by changing his energy color.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -4615,6 +4641,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Chroma Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png"
       },
@@ -4623,6 +4650,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Chroma Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png"
       },
@@ -4631,6 +4659,7 @@
         "name": "Systems",
         "description": "Systems component of the Chroma Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png"
       },
@@ -4639,6 +4668,7 @@
         "name": "Volt Neuroptics",
         "description": "Neuroptics component of the Volt Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png"
       }
@@ -5454,6 +5484,7 @@
         "name": "Blueprint",
         "description": "Ember is a nightmare for light-armored targets. Ember can super-heat the air which opens up surprising crowd-control possibilities.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -5462,6 +5493,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Ember Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png",
         "drops": [
@@ -5478,6 +5510,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Ember Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png",
         "drops": [
@@ -5492,8 +5525,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -5502,6 +5536,7 @@
         "name": "Systems",
         "description": "Systems component of the Ember Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png",
         "drops": [
@@ -6339,6 +6374,7 @@
         "name": "Blueprint",
         "description": "Ember Prime offers the same potential for wanton destruction as Ember but provides unique mod polarities, allowing for greater customization.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -6422,6 +6458,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Ember Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-warframe-prime-chassis.png",
@@ -6481,6 +6518,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Ember Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-warframe-prime-helmet.png",
@@ -6538,8 +6576,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -6548,6 +6587,7 @@
         "name": "Systems",
         "description": "Systems component of the Ember Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-warframe-prime-system.png",
@@ -7429,6 +7469,7 @@
         "name": "Blueprint",
         "description": "Split between day and night, Equinox manifests aggressive and defensive forms at will.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -7437,6 +7478,7 @@
         "name": "Day Aspect",
         "description": "Day Aspect of the Equinox Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "animus-aspect.png",
         "drops": [
@@ -7453,6 +7495,7 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
@@ -7461,6 +7504,7 @@
         "name": "Night Aspect",
         "description": "Night Aspect of the Equinox Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "anima-aspect.png",
         "drops": [
@@ -8036,6 +8080,7 @@
         "name": "Blueprint",
         "description": "A perfect balance of mobility and offense, Excalibur is the ideal Warframe for new players.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -8044,6 +8089,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Excalibur Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png",
         "drops": [
@@ -8060,6 +8106,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Excalibur Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png",
         "drops": [
@@ -8074,8 +8121,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -8084,6 +8132,7 @@
         "name": "Systems",
         "description": "Systems component of the Excalibur Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png",
         "drops": [
@@ -10191,7 +10240,7 @@
     "sex": "Male",
     "sprint": 1,
     "vaulted": "N/A",
-    "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/5c/ExcaliburUmbra.png/revision/latest?cb=20180624022701",
+    "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/5/5c/ExcaliburUmbra.png/revision/latest?cb=20180908125114",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Excalibur_Umbra",
     "tradable": false
   },
@@ -10234,6 +10283,7 @@
         "name": "Blueprint",
         "description": "By channeling moisture and vapor in the surrounding environment, Frost creates formidable defenses and lethal attacks from sub zero conditions.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -10242,6 +10292,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Frost Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png",
         "drops": [
@@ -10259,6 +10310,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Frost Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png",
         "drops": [
@@ -10274,8 +10326,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -10284,6 +10337,7 @@
         "name": "Systems",
         "description": "Systems component of the Frost Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png",
         "drops": [
@@ -11180,6 +11234,7 @@
         "name": "Blueprint",
         "description": "Frost Prime has the same chilling abilities as Frost but provides unique mod polarities, allowing for greater customization.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -11263,6 +11318,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Frost Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-warframe-prime-chassis.png",
@@ -11322,6 +11378,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Frost Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-warframe-prime-helmet.png",
@@ -11379,8 +11436,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -11389,6 +11447,7 @@
         "name": "Systems",
         "description": "Systems component of the Frost Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-warframe-prime-system.png",
@@ -12328,6 +12387,7 @@
         "name": "Blueprint",
         "description": "The battlefield trembles before Gara's crystalline power, her ringing touch transforming opponents to targets of brittle beauty.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -12336,6 +12396,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Gara Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png",
         "drops": [
@@ -12400,6 +12461,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Gara Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png",
         "drops": [
@@ -12462,8 +12524,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 3,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -12472,6 +12535,7 @@
         "name": "Systems",
         "description": "Systems component of the Gara Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png",
         "drops": [
@@ -12774,6 +12838,7 @@
         "name": "Blueprint",
         "description": "Always prepared to sacrifice. This monastic Warframe uses the Void to bolster allies’ defenses and amplify their lethality.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -12782,6 +12847,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Harrow Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png",
         "drops": [
@@ -12804,6 +12870,7 @@
         "name": "Kuva",
         "description": "A mysterious red fluid coveted by the Grineer Queens.",
         "itemCount": 2000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "kuva.png"
       },
@@ -12812,6 +12879,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Harrow Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png",
         "drops": [
@@ -12829,6 +12897,7 @@
         "name": "Systems",
         "description": "Systems component of the Harrow Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png",
         "drops": [
@@ -13239,6 +13308,7 @@
         "name": "Blueprint",
         "description": "Rising from the ocean depths, Hydroid harnesses the power of water to a devastating effect.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -13247,6 +13317,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Hydroid Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png",
         "drops": [
@@ -13269,6 +13340,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Hydroid Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png",
         "drops": [
@@ -13289,8 +13361,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -13299,6 +13372,7 @@
         "name": "Systems",
         "description": "Systems component of the Hydroid Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png",
         "drops": [
@@ -13933,6 +14007,7 @@
         "name": "Blueprint",
         "description": "Command the ocean’s fury with this king of gold and silver. Featuring altered mod polarities for greater customization.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -13992,6 +14067,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Hydroid Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-warframe-prime-chassis.png",
@@ -14099,6 +14175,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Hydroid Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-warframe-prime-helmet.png",
@@ -14156,8 +14233,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -14166,6 +14244,7 @@
         "name": "Systems",
         "description": "Systems component of the Hydroid Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "generic-warframe-prime-system.png",
@@ -14837,6 +14916,7 @@
         "name": "Blueprint",
         "description": "Risen from the sands, Inaros commands the desert's fearsome power.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -14845,6 +14925,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Inaros Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png"
       },
@@ -14853,14 +14934,16 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Inaros Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -14869,6 +14952,7 @@
         "name": "Systems",
         "description": "Systems component of the Inaros Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png"
       }
@@ -15380,6 +15464,7 @@
         "name": "Blueprint",
         "description": "With her quiver of tactical arrows, this huntress prowls unseen and strikes without warning.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -15439,6 +15524,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Ivara Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png",
         "drops": [
@@ -15491,6 +15577,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Ivara Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png",
         "drops": [
@@ -15548,8 +15635,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -15558,6 +15646,7 @@
         "name": "Systems",
         "description": "Systems component of the Ivara Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png",
         "drops": [
@@ -16215,6 +16304,7 @@
         "name": "Blueprint",
         "description": "Tenno and beast, red in whip and claw. Khora and her Kavat companion, Venari, embody lethal versatility. Two bodies, one will.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png",
         "drops": [
@@ -16232,6 +16322,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Khora Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png",
         "drops": [
@@ -16249,6 +16340,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Khora Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png",
         "drops": [
@@ -16264,8 +16356,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 3,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -16274,6 +16367,7 @@
         "name": "Systems",
         "description": "Systems component of the Khora Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png",
         "drops": [
@@ -16394,13 +16488,13 @@
     ],
     "aura": "vazarin",
     "conclave": true,
-    "color": 2498336,
+    "color": 2893609,
     "introduced": "22.18.0",
     "masteryReq": 0,
     "polarities": [ "madurai", "naramon" ],
     "sex": "Female",
     "sprint": 1.05,
-    "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/08/Khora.png/revision/latest?cb=20180422193150",
+    "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/0/08/Khora.png/revision/latest?cb=20180910140009",
     "wikiaUrl": "http://warframe.wikia.com/wiki/Khora",
     "tradable": false
   },
@@ -16443,6 +16537,7 @@
         "name": "Blueprint",
         "description": "Limbo manipulates the very planes of existence to divide his enemies and conquer them in the rift.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -16451,6 +16546,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Limbo Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png"
       },
@@ -16459,14 +16555,16 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Limbo Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 3,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -16475,6 +16573,7 @@
         "name": "Systems",
         "description": "Systems component of the Limbo Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png"
       }
@@ -17336,6 +17435,7 @@
         "name": "Blueprint",
         "description": "Dance between realms with this golden rift walker. Featuring altered mod polarities for greater customization.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -17371,6 +17471,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Limbo Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "generic-warframe-prime-chassis.png",
@@ -17406,6 +17507,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Limbo Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "generic-warframe-prime-helmet.png",
@@ -17439,8 +17541,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -17449,6 +17552,7 @@
         "name": "Systems",
         "description": "Systems component of the Limbo Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-warframe-prime-system.png",
@@ -18337,6 +18441,7 @@
         "name": "Blueprint",
         "description": "Desired by advanced players, Loki offers a variety of specialized reconfiguring abilities. The creativity of Loki's powers allows players to master the battlefield through manipulation.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -18345,6 +18450,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Loki Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png",
         "drops": [
@@ -18361,6 +18467,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Loki Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png",
         "drops": [
@@ -18375,8 +18482,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -18385,6 +18493,7 @@
         "name": "Systems",
         "description": "Systems component of the Loki Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png",
         "drops": [
@@ -19242,6 +19351,7 @@
         "name": "Blueprint",
         "description": "Confuse, deceive and destroy with Loki Prime. Featuring altered mod polarities for greater customization.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -19301,6 +19411,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Loki Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-warframe-prime-chassis.png",
@@ -19336,6 +19447,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Loki Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-warframe-prime-helmet.png",
@@ -19369,8 +19481,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -19379,6 +19492,7 @@
         "name": "Systems",
         "description": "Systems component of the Loki Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "generic-warframe-prime-system.png",
@@ -20256,6 +20370,7 @@
         "name": "Blueprint",
         "description": "With full command of surrounding magnetic energy, Mag is an expert at enemy manipulation.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -20264,6 +20379,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Mag Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png",
         "drops": [
@@ -20280,6 +20396,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Mag Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png",
         "drops": [
@@ -20294,8 +20411,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -20304,6 +20422,7 @@
         "name": "Systems",
         "description": "Systems component of the Mag Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png",
         "drops": [
@@ -20319,6 +20438,14 @@
     "imageName": "mag.png",
     "category": "Warframes",
     "patchlogs": [
+      {
+        "name": "Mask of the Revenant: Hotfix 23.6.2",
+        "date": "2018-08-31T20:29:23Z",
+        "url": "https://forums.warframe.com/topic/1004345-mask-of-the-revenant-hotfix-2362/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Mag’s Crush FX and animation timing. \nFixed Mag Prime’s mesh not using her accent color. "
+      },
       {
         "name": "Mask of the Revenant: Update 23.5.0",
         "date": "2018-08-24T21:39:09Z",
@@ -21555,6 +21682,7 @@
         "name": "Blueprint",
         "description": "The exquisite Mag Prime offers the same abilities as Mag but with unique mod polarities for greater customization.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -21614,6 +21742,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Mag Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-warframe-prime-chassis.png",
@@ -21673,6 +21802,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Mag Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-warframe-prime-helmet.png",
@@ -21730,8 +21860,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 3,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -21740,6 +21871,7 @@
         "name": "Systems",
         "description": "Systems component of the Mag Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-warframe-prime-system.png",
@@ -21798,6 +21930,14 @@
     "imageName": "mag-prime.png",
     "category": "Warframes",
     "patchlogs": [
+      {
+        "name": "Mask of the Revenant: Hotfix 23.6.2",
+        "date": "2018-08-31T20:29:23Z",
+        "url": "https://forums.warframe.com/topic/1004345-mask-of-the-revenant-hotfix-2362/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Mag’s Crush FX and animation timing. \nFixed Mag Prime’s mesh not using her accent color. "
+      },
       {
         "name": "Mask of the Revenant: Update 23.5.0",
         "date": "2018-08-24T21:39:09Z",
@@ -23035,6 +23175,7 @@
         "name": "Blueprint",
         "description": "With a steady hand and quick reflexes, Mesa is a true gunfighter.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -23043,6 +23184,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Mesa Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png",
         "drops": [
@@ -23065,6 +23207,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Mesa Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png",
         "drops": [
@@ -23085,8 +23228,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -23095,6 +23239,7 @@
         "name": "Systems",
         "description": "Systems component of the Mesa Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png",
         "drops": [
@@ -23796,8 +23941,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
         "name": "Argon Crystal",
-        "description": "Void based radioactive resource that decays every day it is out of the void.",
+        "description": "A Void based radioactive resource that decays every day it is out of the Void.\nThis resource can be found in the Void.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "argon-crystal.png"
       },
@@ -23806,6 +23952,7 @@
         "name": "Blueprint",
         "description": "A master of illusion, Mirage confounds the enemy in a spectacle of style and power.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -23814,6 +23961,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Mirage Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png"
       },
@@ -23822,6 +23970,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Mirage Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png"
       },
@@ -23830,6 +23979,7 @@
         "name": "Systems",
         "description": "Systems component of the Mirage Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png"
       }
@@ -24781,6 +24931,7 @@
         "name": "Blueprint",
         "description": "Dazzle the opposition with this golden master of illusion and mayhem. Featuring altered mod polarities allow for greater customization.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -24816,6 +24967,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Mirage Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-warframe-prime-chassis.png",
@@ -24875,6 +25027,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Mirage Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-warframe-prime-helmet.png",
@@ -24932,8 +25085,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -24942,6 +25096,7 @@
         "name": "Systems",
         "description": "Systems component of the Mirage Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-warframe-prime-system.png",
@@ -25943,6 +26098,7 @@
         "name": "Blueprint",
         "description": "Nekros uses his dark powers to manipulate his enemies, both living and dead.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -25951,6 +26107,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Nekros Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png",
         "drops": [
@@ -25980,6 +26137,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Nekros Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png",
         "drops": [
@@ -26007,8 +26165,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 3,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -26017,6 +26176,7 @@
         "name": "Systems",
         "description": "Systems component of the Nekros Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png",
         "drops": [
@@ -26782,6 +26942,7 @@
         "name": "Blueprint",
         "description": "Death's new master. Featuring altered mod polarities allow for greater customization.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -26865,6 +27026,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Nekros Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-warframe-prime-chassis.png",
@@ -27044,6 +27206,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Nekros Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-warframe-prime-helmet.png",
@@ -27101,8 +27264,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 3,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -27111,6 +27275,7 @@
         "name": "Systems",
         "description": "Systems component of the Nekros Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "generic-warframe-prime-system.png",
@@ -27920,19 +28085,19 @@
     "uniqueName": "/Lotus/Powersuits/Nezha/Nezha",
     "name": "Nezha",
     "description": "A petite and playful facade conceals this frame’s immense power.",
-    "health": 75,
-    "shield": 75,
+    "health": 125,
+    "shield": 50,
     "armor": 175,
     "stamina": 3,
     "power": 150,
     "abilities": [
       {
         "name": "Fire Walker",
-        "description": "Blaze a trail of flames, scorching enemies and cleansing allies."
+        "description": "Blaze a trail of flames, scorching enemies and cleansing allies. Teleporting blasts the landing area with a ring of fire."
       },
       {
         "name": "Blazing Chakram",
-        "description": "Hurl a flaming ring that burns enemies and causes them to emit a healing blast on death. Reactivate to instantly travel to the ring's location."
+        "description": "Hurl a flaming ring that sets enemies ablaze making them vulnerable to any damage. Flaming enemies drop Restorative Orbs on death. Charge to amplify the power of the ring, and reactivate to instantly travel to the ring's location."
       },
       {
         "name": "Warding Halo",
@@ -27940,7 +28105,7 @@
       },
       {
         "name": "Divine Spears",
-        "description": "Impale nearby enemies on spears that erupt from the ground."
+        "description": "Impale nearby enemies on spears that erupt from the below. Activate again to slam surviving enemies back into the ground."
       }
     ],
     "type": "Warframe",
@@ -27955,6 +28120,7 @@
         "name": "Blueprint",
         "description": "A petite and playful facade conceals this frame’s immense power.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -27963,6 +28129,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Nezha Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png"
       },
@@ -27971,14 +28138,16 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Nezha Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -27987,6 +28156,7 @@
         "name": "Systems",
         "description": "Systems component of the Nezha Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png"
       }
@@ -28444,6 +28614,7 @@
         "name": "Blueprint",
         "description": "Command the Infestation to mutate and grow ever more destructive.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -28452,6 +28623,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Nidus Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png",
         "drops": [
@@ -28469,6 +28641,7 @@
         "name": "Kuva",
         "description": "A mysterious red fluid coveted by the Grineer Queens.",
         "itemCount": 2000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "kuva.png"
       },
@@ -28477,6 +28650,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Nidus Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png",
         "drops": [
@@ -28494,6 +28668,7 @@
         "name": "Systems",
         "description": "Systems component of the Nidus Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png",
         "drops": [
@@ -28909,6 +29084,7 @@
         "name": "Blueprint",
         "description": "Nova uses electromagnetic energy to contain and control highly volatile antimatter that fuels her abilities.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -28917,6 +29093,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Nova Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png",
         "drops": [
@@ -28933,6 +29110,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Nova Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png",
         "drops": [
@@ -28947,8 +29125,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -28957,6 +29136,7 @@
         "name": "Systems",
         "description": "Systems component of the Nova Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png",
         "drops": [
@@ -29717,6 +29897,7 @@
         "name": "Blueprint",
         "description": "Nova Prime wreaks devastation on her enemies using volatile antimatter. Featuring altered mod polarities for greater customization.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -29752,6 +29933,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Nova Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "generic-warframe-prime-chassis.png",
@@ -29811,6 +29993,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Nova Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-warframe-prime-helmet.png",
@@ -29868,8 +30051,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -29878,6 +30062,7 @@
         "name": "Systems",
         "description": "Systems component of the Nova Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-warframe-prime-system.png",
@@ -30706,6 +30891,7 @@
         "name": "Blueprint",
         "description": "Mind control and psychic attacks make Nyx a very dangerous foe. Her ability to reach into enemy consciousness and manipulate their behavior can turn the tide of battle.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -30714,6 +30900,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Nyx Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png",
         "drops": [
@@ -30730,6 +30917,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Nyx Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png",
         "drops": [
@@ -30744,8 +30932,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -30754,6 +30943,7 @@
         "name": "Systems",
         "description": "Systems component of the Nyx Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png",
         "drops": [
@@ -31875,6 +32065,7 @@
         "name": "Blueprint",
         "description": "Infiltrate the minds of your enemies with Nyx Prime. Featuring altered mod polarities for greater customization.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -31958,6 +32149,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Nyx Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 65,
         "tradable": true,
         "imageName": "generic-warframe-prime-chassis.png",
@@ -32017,6 +32209,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Nyx Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "generic-warframe-prime-helmet.png",
@@ -32074,8 +32267,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -32084,6 +32278,7 @@
         "name": "Systems",
         "description": "Systems component of the Nyx Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-warframe-prime-system.png",
@@ -33249,6 +33444,7 @@
         "name": "Blueprint",
         "description": "Equally adept at healing friends or striking down the enemy. Oberon embodies the balance Tenno are sworn to uphold.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -33257,6 +33453,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Oberon Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png"
       },
@@ -33265,14 +33462,16 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Oberon Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -33281,6 +33480,7 @@
         "name": "Systems",
         "description": "Systems component of the Oberon Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png"
       }
@@ -34070,6 +34270,7 @@
         "name": "Blueprint",
         "description": "Protect the balance with this regal forest guardian. Featuring altered mod polarities for greater customization.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -34177,6 +34378,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Oberon Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-warframe-prime-chassis.png",
@@ -34260,6 +34462,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Oberon Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "generic-warframe-prime-helmet.png",
@@ -34317,8 +34520,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -34327,6 +34531,7 @@
         "name": "Systems",
         "description": "Systems component of the Oberon Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "generic-warframe-prime-system.png",
@@ -35191,6 +35396,7 @@
         "name": "Blueprint",
         "description": "Compose her song and then conduct the mighty Mandachord, turning bass, beat and melody into an anthem of devastation.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -35199,6 +35405,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Octavia Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png"
       },
@@ -35207,6 +35414,7 @@
         "name": "Mandachord",
         "description": "A rare Orokin instrument.",
         "itemCount": 1,
+        "type": "Key",
         "tradable": false,
         "imageName": "mandochord.png"
       },
@@ -35215,6 +35423,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Octavia Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png",
         "drops": [
@@ -35238,6 +35447,7 @@
         "name": "Systems",
         "description": "Systems component of the Octavia Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png",
         "drops": [
@@ -35254,6 +35464,15 @@
     "imageName": "octavia.png",
     "category": "Warframes",
     "patchlogs": [
+      {
+        "name": "Mask of the Revenant: Update 23.6.0",
+        "date": "2018-08-30T16:04:42Z",
+        "url": "https://forums.warframe.com/topic/1003787-mask-of-the-revenant-update-2360/",
+        "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/64179d467e89f2525b45bb65b23618b3.jpg",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Ordis' glass material used in Octavia's Anthem boss battle."
+      },
       {
         "name": "The Sacrifice: Hotfix 23.0.6",
         "date": "2018-06-27T17:23:10Z",
@@ -35784,6 +36003,7 @@
         "name": "Blueprint",
         "description": "Rise from the broken remains of the Eidolon to seduce an army of zealous thralls.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -35792,6 +36012,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Revenant Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png",
         "drops": [
@@ -35856,6 +36077,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Revenant Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png",
         "drops": [
@@ -35900,8 +36122,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -35910,6 +36133,7 @@
         "name": "Systems",
         "description": "Systems component of the Revenant Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png",
         "drops": [
@@ -35973,6 +36197,23 @@
     "imageName": "revenant.png",
     "category": "Warframes",
     "patchlogs": [
+      {
+        "name": "Mask of the Revenant: Hotfix 23.6.1",
+        "date": "2018-08-30T23:04:15Z",
+        "url": "https://forums.warframe.com/topic/1003947-mask-of-the-revenant-hotfix-2361/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed being unable to start the Revenant miniquest immediately after reaching Rank 2 with the Quills without leaving Cetus and returning. "
+      },
+      {
+        "name": "Mask of the Revenant: Update 23.6.0",
+        "date": "2018-08-30T16:04:42Z",
+        "url": "https://forums.warframe.com/topic/1003787-mask-of-the-revenant-update-2360/",
+        "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/64179d467e89f2525b45bb65b23618b3.jpg",
+        "additions": "",
+        "changes": "",
+        "fixes": "Revenant Fixes & Changes:"
+      },
       {
         "name": "Mask of the Revenant: Update 23.5.0",
         "date": "2018-08-24T21:39:09Z",
@@ -36042,6 +36283,7 @@
         "name": "Blueprint",
         "description": "Rhino is the heaviest Warframe, combining offensive and defensive capabilities.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -36050,6 +36292,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Rhino Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png",
         "drops": [
@@ -36064,8 +36307,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
         "name": "Gallium",
-        "description": "Soft metal used in microelectronics and energy weapons.",
+        "description": "Soft metal used in microelectronics and energy weapons.\nLocations: Mars and Uranus.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-gallium.png"
       },
@@ -36074,6 +36318,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Rhino Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png",
         "drops": [
@@ -36090,6 +36335,7 @@
         "name": "Systems",
         "description": "Systems component of the Rhino Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png",
         "drops": [
@@ -37037,6 +37283,7 @@
         "name": "Blueprint",
         "description": "Takes Rhino's ground-shaking abilities to the next level with altered mod polarities that offer greater customization.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -37096,6 +37343,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Rhino Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 65,
         "tradable": true,
         "imageName": "generic-warframe-prime-chassis.png",
@@ -37155,6 +37403,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Rhino Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-warframe-prime-helmet.png",
@@ -37212,8 +37461,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 3,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -37222,6 +37472,7 @@
         "name": "Systems",
         "description": "Systems component of the Rhino Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-warframe-prime-system.png",
@@ -38213,6 +38464,7 @@
         "name": "Blueprint",
         "description": "Saryn's venomous attacks are horrifyingly effective against organic and synthetic enemies, and her ability to 'shed' her skin makes her very elusive.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -38221,6 +38473,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Saryn Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png",
         "drops": [
@@ -38237,6 +38490,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Saryn Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png",
         "drops": [
@@ -38251,8 +38505,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -38261,6 +38516,7 @@
         "name": "Systems",
         "description": "Systems component of the Saryn Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png",
         "drops": [
@@ -39072,6 +39328,7 @@
         "name": "Blueprint",
         "description": "A golden blossom conceals deadly nectar. Featuring altered mod polarities for greater customization.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 65,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -39179,6 +39436,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Saryn Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "generic-warframe-prime-chassis.png",
@@ -39238,6 +39496,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Saryn Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-warframe-prime-helmet.png",
@@ -39319,8 +39578,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -39329,6 +39589,7 @@
         "name": "Systems",
         "description": "Systems component of the Saryn Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-warframe-prime-system.png",
@@ -40304,6 +40565,7 @@
         "name": "Blueprint",
         "description": "Take flight with this mischievous pixie.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -40312,6 +40574,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Titania Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png"
       },
@@ -40320,14 +40583,16 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Titania Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 3,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -40336,6 +40601,7 @@
         "name": "Systems",
         "description": "Systems component of the Titania Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png"
       }
@@ -40733,6 +40999,7 @@
         "name": "Blueprint",
         "description": "Trinity is great for players who prefer a supportive role. Warframes with healing technology are rare making Trinity a great equalizer when the odds are stacked against the Tenno.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -40741,6 +41008,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Trinity Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png",
         "drops": [
@@ -40757,6 +41025,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Trinity Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png",
         "drops": [
@@ -40771,8 +41040,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -40781,6 +41051,7 @@
         "name": "Systems",
         "description": "Systems component of the Trinity Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png",
         "drops": [
@@ -41512,6 +41783,7 @@
         "name": "Blueprint",
         "description": "Become the bastion that defends allies using powerful healing abilities with Trinity Prime. Featuring altered mod polarities for greater customization.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -41619,6 +41891,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Trinity Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-warframe-prime-chassis.png",
@@ -41726,6 +41999,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Trinity Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 25,
         "tradable": true,
         "imageName": "generic-warframe-prime-helmet.png",
@@ -41855,8 +42129,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -41865,6 +42140,7 @@
         "name": "Systems",
         "description": "Systems component of the Trinity Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-warframe-prime-system.png",
@@ -42736,6 +43012,7 @@
         "name": "Blueprint",
         "description": "Forged in the labs of the Zanuka project, the original Valkyr was subject to cruel experiments, leaving her scarred, angry and frighteningly adept at killing.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -42744,6 +43021,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Valkyr Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png",
         "drops": [
@@ -42760,6 +43038,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Valkyr Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png",
         "drops": [
@@ -42774,8 +43053,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -42784,6 +43064,7 @@
         "name": "Systems",
         "description": "Systems component of the Valkyr Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png",
         "drops": [
@@ -43582,6 +43863,7 @@
         "name": "Blueprint",
         "description": "A proud fighter emerges unscarred by time or malice. Featuring altered mod polarities allow for greater customization.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -43761,6 +44043,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Valkyr Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "generic-warframe-prime-chassis.png",
@@ -43844,6 +44127,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Valkyr Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-warframe-prime-helmet.png",
@@ -43997,8 +44281,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 3,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -44007,6 +44292,7 @@
         "name": "Systems",
         "description": "Systems component of the Valkyr Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "generic-warframe-prime-system.png",
@@ -44872,6 +45158,7 @@
         "name": "Blueprint",
         "description": "The highly tactical Vauban uses his powers to create deadly traps that can zap, imprison and dimensionally crush enemies.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -44880,6 +45167,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Vauban Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png"
       },
@@ -44888,14 +45176,16 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Vauban Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -44904,6 +45194,7 @@
         "name": "Systems",
         "description": "Systems component of the Vauban Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png"
       }
@@ -45570,6 +45861,7 @@
         "name": "Blueprint",
         "description": "Transform the battlefield into a weapon with this gilded tactician. Features unique mod polarities for extended customization.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -45629,6 +45921,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Vauban Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "generic-warframe-prime-chassis.png",
@@ -45736,6 +46029,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Vauban Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "generic-warframe-prime-helmet.png",
@@ -45817,8 +46111,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
         "name": "Nitain Extract",
-        "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.",
+        "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.\nThis resource can be acquired as a reward from Alerts.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alertium.png"
       },
@@ -45827,6 +46122,7 @@
         "name": "Systems",
         "description": "Systems component of the Vauban Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "generic-warframe-prime-system.png",
@@ -46545,6 +46841,7 @@
         "name": "Blueprint",
         "description": "Volt can create and harness electrical elements. This is a high-damage Warframe perfect for players who want a potent alternative to gun-play.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -46553,6 +46850,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Volt Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png"
       },
@@ -46561,14 +46859,16 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Volt Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -46577,6 +46877,7 @@
         "name": "Systems",
         "description": "Systems component of the Volt Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png"
       }
@@ -47506,6 +47807,7 @@
         "name": "Blueprint",
         "description": "A glorious warrior from the past, Volt Prime features the same abilities as Volt but with unique mod polarities for greater customization.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 25,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -47589,6 +47891,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Volt Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-warframe-prime-chassis.png",
@@ -47672,6 +47975,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Volt Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 65,
         "tradable": true,
         "imageName": "generic-warframe-prime-helmet.png",
@@ -47729,8 +48033,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -47739,6 +48044,7 @@
         "name": "Systems",
         "description": "Systems component of the Volt Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-warframe-prime-system.png",
@@ -48720,6 +49026,7 @@
         "name": "Blueprint",
         "description": "A primal warrior with the heart of a trickster.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -48728,6 +49035,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Wukong Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png"
       },
@@ -48736,14 +49044,16 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Wukong Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -48752,6 +49062,7 @@
         "name": "Systems",
         "description": "Systems component of the Wukong Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png"
       }
@@ -49089,6 +49400,7 @@
         "name": "Blueprint",
         "description": "Specializing in air attacks and mobility, Zephyr dominates from above.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -49097,6 +49409,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Zephyr Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-chassis.png"
       },
@@ -49105,14 +49418,16 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Zephyr Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-helmet.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -49121,6 +49436,7 @@
         "name": "Systems",
         "description": "Systems component of the Zephyr Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-warframe-system.png"
       }
@@ -49792,6 +50108,7 @@
         "name": "Blueprint",
         "description": "Take to the skies with this golden bird of destruction.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -49851,6 +50168,7 @@
         "name": "Chassis",
         "description": "Chassis component of the Zephyr Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-warframe-prime-chassis.png",
@@ -49910,6 +50228,7 @@
         "name": "Neuroptics",
         "description": "Neuroptics component of the Zephyr Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-warframe-prime-helmet.png",
@@ -49967,8 +50286,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -49977,6 +50297,7 @@
         "name": "Systems",
         "description": "Systems component of the Zephyr Prime Warframe.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "generic-warframe-prime-system.png",

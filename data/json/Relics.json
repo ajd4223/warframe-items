@@ -14545,6 +14545,7 @@
         "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Arcanes/Weaponsmith/ChannelKillEnergyRateBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -14553,6 +14554,7 @@
         "name": "Breath Of The Eidolon",
         "description": "A gas found solely on the plains of Eidolon, refined to its purest form.",
         "itemCount": 10,
+        "type": "Misc",
         "tradable": false,
         "imageName": "eidolonium.png"
       },
@@ -14561,6 +14563,7 @@
         "name": "Cetus Wisp",
         "description": "Strange stone lifeforms that call the Plains home. They are a rare find, clustering together, floating above a patch of ground they've taken an inexplicable interest in. They are an enigma.",
         "itemCount": 10,
+        "type": "Resource",
         "tradable": false,
         "imageName": "cetus-wisp.png"
       },
@@ -14569,7 +14572,8 @@
         "name": "Heart Nyth",
         "description": "Polished and cut to perfection.",
         "itemCount": 3,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "eidolon-gem-bcut-a.png"
       },
       {
@@ -14577,6 +14581,7 @@
         "name": "Kuaka Spinal Claw",
         "description": "The sinew from the Kuaka's spinal claws can be tanned to make a resilient and flexible leather.",
         "itemCount": 10,
+        "type": "Resource",
         "tradable": false,
         "imageName": "forest-rodent-spine.png"
       }
@@ -14609,6 +14614,7 @@
         "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Arcanes/Weaponsmith/MeleeArcaneProjectileOnJumpBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -14617,22 +14623,25 @@
         "name": "Cetus Wisp",
         "description": "Strange stone lifeforms that call the Plains home. They are a rare find, clustering together, floating above a patch of ground they've taken an inexplicable interest in. They are an enigma.",
         "itemCount": 10,
+        "type": "Resource",
         "tradable": false,
         "imageName": "cetus-wisp.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
         "name": "Neurodes",
-        "description": "Biotech sensor organ harvested from Infested entities.",
+        "description": "Biotech sensor organ harvested from Infested entities.\nLocations: Earth, Lua, Eris, and Orokin Derelicts.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-neurode.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 800,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       },
@@ -14641,7 +14650,8 @@
         "name": "Radian Sentirum",
         "description": "Polished and cut to perfection.",
         "itemCount": 3,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "eidolon-gem-acut-a.png"
       }
     ],
@@ -14692,6 +14702,7 @@
         "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Arcanes/Weaponsmith/MeleeArcaneShockwaveOnJumpBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -14700,6 +14711,7 @@
         "name": "Cetus Wisp",
         "description": "Strange stone lifeforms that call the Plains home. They are a rare find, clustering together, floating above a patch of ground they've taken an inexplicable interest in. They are an enigma.",
         "itemCount": 10,
+        "type": "Resource",
         "tradable": false,
         "imageName": "cetus-wisp.png"
       },
@@ -14708,22 +14720,25 @@
         "name": "Heart Nyth",
         "description": "Polished and cut to perfection.",
         "itemCount": 3,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "eidolon-gem-bcut-a.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
         "name": "Neurodes",
-        "description": "Biotech sensor organ harvested from Infested entities.",
+        "description": "Biotech sensor organ harvested from Infested entities.\nLocations: Earth, Lua, Eris, and Orokin Derelicts.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-neurode.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 800,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       }
@@ -14765,6 +14780,7 @@
         "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Arcanes/Weaponsmith/StatusTriggerRadialDamageBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -14773,6 +14789,7 @@
         "name": "Breath Of The Eidolon",
         "description": "A gas found solely on the plains of Eidolon, refined to its purest form.",
         "itemCount": 10,
+        "type": "Misc",
         "tradable": false,
         "imageName": "eidolonium.png"
       },
@@ -14781,6 +14798,7 @@
         "name": "Cetus Wisp",
         "description": "Strange stone lifeforms that call the Plains home. They are a rare find, clustering together, floating above a patch of ground they've taken an inexplicable interest in. They are an enigma.",
         "itemCount": 10,
+        "type": "Resource",
         "tradable": false,
         "imageName": "cetus-wisp.png"
       },
@@ -14789,7 +14807,8 @@
         "name": "Heart Nyth",
         "description": "Polished and cut to perfection.",
         "itemCount": 3,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "eidolon-gem-bcut-a.png"
       },
       {
@@ -14797,6 +14816,7 @@
         "name": "Karkina Antenna",
         "description": "Ground into a powder this substance can make fires burn hotter for a brief amount of time.",
         "itemCount": 5,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-antenna.png"
       }
@@ -14848,6 +14868,7 @@
         "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Arcanes/Weaponsmith/GroundSlamPullBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -14856,6 +14877,7 @@
         "name": "Breath Of The Eidolon",
         "description": "A gas found solely on the plains of Eidolon, refined to its purest form.",
         "itemCount": 10,
+        "type": "Misc",
         "tradable": false,
         "imageName": "eidolonium.png"
       },
@@ -14864,6 +14886,7 @@
         "name": "Cetus Wisp",
         "description": "Strange stone lifeforms that call the Plains home. They are a rare find, clustering together, floating above a patch of ground they've taken an inexplicable interest in. They are an enigma.",
         "itemCount": 10,
+        "type": "Resource",
         "tradable": false,
         "imageName": "cetus-wisp.png"
       },
@@ -14872,7 +14895,8 @@
         "name": "Heart Nyth",
         "description": "Polished and cut to perfection.",
         "itemCount": 3,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "eidolon-gem-bcut-a.png"
       },
       {
@@ -14880,6 +14904,7 @@
         "name": "Sharrac Teeth",
         "description": "These will often adorn ceremonial garb or as a reagent for synthetics.",
         "itemCount": 5,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-teeth.png"
       }
@@ -14913,6 +14938,7 @@
         "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Arcanes/Weaponsmith/FinisherLifestealBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -14921,6 +14947,7 @@
         "name": "Breath Of The Eidolon",
         "description": "A gas found solely on the plains of Eidolon, refined to its purest form.",
         "itemCount": 10,
+        "type": "Misc",
         "tradable": false,
         "imageName": "eidolonium.png"
       },
@@ -14929,6 +14956,7 @@
         "name": "Cetus Wisp",
         "description": "Strange stone lifeforms that call the Plains home. They are a rare find, clustering together, floating above a patch of ground they've taken an inexplicable interest in. They are an enigma.",
         "itemCount": 10,
+        "type": "Resource",
         "tradable": false,
         "imageName": "cetus-wisp.png"
       },
@@ -14937,7 +14965,8 @@
         "name": "Heart Nyth",
         "description": "Polished and cut to perfection.",
         "itemCount": 3,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "eidolon-gem-bcut-a.png"
       },
       {
@@ -14945,6 +14974,7 @@
         "name": "Tralok Eyes",
         "description": "The Ostron boil these into a jelly which forms a strong adhesive when it dries.",
         "itemCount": 5,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-eyes.png"
       }
@@ -14967,6 +14997,7 @@
         "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Arcanes/Weaponsmith/StatusChannelingDamageBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -14975,6 +15006,7 @@
         "name": "Breath Of The Eidolon",
         "description": "A gas found solely on the plains of Eidolon, refined to its purest form.",
         "itemCount": 10,
+        "type": "Misc",
         "tradable": false,
         "imageName": "eidolonium.png"
       },
@@ -14983,6 +15015,7 @@
         "name": "Cetus Wisp",
         "description": "Strange stone lifeforms that call the Plains home. They are a rare find, clustering together, floating above a patch of ground they've taken an inexplicable interest in. They are an enigma.",
         "itemCount": 10,
+        "type": "Resource",
         "tradable": false,
         "imageName": "cetus-wisp.png"
       },
@@ -14991,7 +15024,8 @@
         "name": "Heart Nyth",
         "description": "Polished and cut to perfection.",
         "itemCount": 3,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "eidolon-gem-bcut-a.png"
       },
       {
@@ -14999,6 +15033,7 @@
         "name": "Mortus Horn",
         "description": "The horn of a Mortus Lungfish is ground down into a powder and used by the Ostrons in herbal remedies.",
         "itemCount": 5,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-horn.png"
       }
@@ -15031,6 +15066,7 @@
         "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Arcanes/Weaponsmith/CritChannelingDamageBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -15039,6 +15075,7 @@
         "name": "Breath Of The Eidolon",
         "description": "A gas found solely on the plains of Eidolon, refined to its purest form.",
         "itemCount": 10,
+        "type": "Misc",
         "tradable": false,
         "imageName": "eidolonium.png"
       },
@@ -15047,6 +15084,7 @@
         "name": "Cetus Wisp",
         "description": "Strange stone lifeforms that call the Plains home. They are a rare find, clustering together, floating above a patch of ground they've taken an inexplicable interest in. They are an enigma.",
         "itemCount": 10,
+        "type": "Resource",
         "tradable": false,
         "imageName": "cetus-wisp.png"
       },
@@ -15055,6 +15093,7 @@
         "name": "Condroc Wing",
         "description": "The talon on a condroc's wing is is sharp enough to tear through bone.",
         "itemCount": 10,
+        "type": "Resource",
         "tradable": false,
         "imageName": "bird-of-prey-part-item.png"
       },
@@ -15063,7 +15102,8 @@
         "name": "Heart Nyth",
         "description": "Polished and cut to perfection.",
         "itemCount": 3,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "eidolon-gem-bcut-a.png"
       }
     ],
@@ -31505,6 +31545,7 @@
         "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Arcanes/Quills/SpeedOnVoidDashBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -31513,6 +31554,7 @@
         "name": "Eidolon Shard",
         "description": "Shard gained from the sentients roaming the Plains of Eidolon.",
         "itemCount": 3,
+        "type": "Eidolon Shard",
         "tradable": false,
         "imageName": "sentient-shard-common.png"
       },
@@ -31521,14 +31563,16 @@
         "name": "Heart Nyth",
         "description": "Polished and cut to perfection.",
         "itemCount": 3,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "eidolon-gem-bcut-a.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 8100,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       },
@@ -31537,6 +31581,7 @@
         "name": "Norg Brain",
         "description": "An Ostron delicacy.",
         "itemCount": 2,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-brain.png"
       }
@@ -31559,6 +31604,7 @@
         "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Arcanes/Quills/ImmunityFallDamageOnVoidDashBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -31567,6 +31613,7 @@
         "name": "Cuthol Tendrils",
         "description": "Ostrons extract the toxin and apply it to their weapons when hunting animals.",
         "itemCount": 2,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-sac.png"
       },
@@ -31575,14 +31622,16 @@
         "name": "Eidolon Shard",
         "description": "Shard gained from the sentients roaming the Plains of Eidolon.",
         "itemCount": 3,
+        "type": "Eidolon Shard",
         "tradable": false,
         "imageName": "sentient-shard-common.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 7600,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
@@ -31591,7 +31640,8 @@
         "name": "Radian Sentirum",
         "description": "Polished and cut to perfection.",
         "itemCount": 3,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "eidolon-gem-acut-a.png"
       }
     ],
@@ -31613,6 +31663,7 @@
         "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Arcanes/Quills/HealOnTransferenceInBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -31621,14 +31672,16 @@
         "name": "Eidolon Shard",
         "description": "Shard gained from the sentients roaming the Plains of Eidolon.",
         "itemCount": 3,
+        "type": "Eidolon Shard",
         "tradable": false,
         "imageName": "sentient-shard-common.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
         "name": "Oxium",
-        "description": "Oxium is a rare lighter than air alloy of Orokin origin.",
+        "description": "Oxium is a rare lighter than air alloy of Orokin origin, used in certain Corpus Robotics.\nLocations: Venus, Jupiter, Mars, Neptune, Pluto, Eris, Europa, and Lua.",
         "itemCount": 230,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-oxium.png"
       },
@@ -31637,7 +31690,8 @@
         "name": "Radian Sentirum",
         "description": "Polished and cut to perfection.",
         "itemCount": 3,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "eidolon-gem-acut-a.png"
       },
       {
@@ -31645,6 +31699,7 @@
         "name": "Seram Beetle Shell",
         "description": "This thick shell is used by Ostrons to manufacture tools and weapons.",
         "itemCount": 1,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-shell.png"
       }
@@ -31677,14 +31732,16 @@
         "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Arcanes/Quills/ArmourOnOperatorModeBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
         "name": "Cryotic",
-        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.",
+        "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\nLocations: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune.",
         "itemCount": 710,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cryotic.png"
       },
@@ -31693,6 +31750,7 @@
         "name": "Fish Scales",
         "description": "A material used in tailoring clothes and cultivating synthetics.",
         "itemCount": 20,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-scales.png"
       },
@@ -31701,7 +31759,8 @@
         "name": "Heart Nyth",
         "description": "Polished and cut to perfection.",
         "itemCount": 3,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "eidolon-gem-bcut-a.png"
       },
       {
@@ -31709,6 +31768,7 @@
         "name": "Murkray Liver",
         "description": "An ingredient used in Ostron cooking and medicines.",
         "itemCount": 2,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-organ.png"
       }
@@ -31741,6 +31801,7 @@
         "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Arcanes/Quills/HealOnTransferenceOutBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -31749,6 +31810,7 @@
         "name": "Eidolon Shard",
         "description": "Shard gained from the sentients roaming the Plains of Eidolon.",
         "itemCount": 3,
+        "type": "Eidolon Shard",
         "tradable": false,
         "imageName": "sentient-shard-common.png"
       },
@@ -31757,14 +31819,16 @@
         "name": "Heart Nyth",
         "description": "Polished and cut to perfection.",
         "itemCount": 3,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "eidolon-gem-bcut-a.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
-        "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+        "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
         "itemCount": 8700,
+        "type": "Misc",
         "tradable": false,
         "imageName": "polymer-bundle.png"
       },
@@ -31773,6 +31837,7 @@
         "name": "Seram Beetle Shell",
         "description": "This thick shell is used by Ostrons to manufacture tools and weapons.",
         "itemCount": 1,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-shell.png"
       }
@@ -31815,6 +31880,7 @@
         "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Arcanes/Quills/HealOnVoidDashBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -31823,6 +31889,7 @@
         "name": "Eidolon Shard",
         "description": "Shard gained from the sentients roaming the Plains of Eidolon.",
         "itemCount": 3,
+        "type": "Eidolon Shard",
         "tradable": false,
         "imageName": "sentient-shard-common.png"
       },
@@ -31831,14 +31898,16 @@
         "name": "Radian Sentirum",
         "description": "Polished and cut to perfection.",
         "itemCount": 3,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "eidolon-gem-acut-a.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 9200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       },
@@ -31847,6 +31916,7 @@
         "name": "Seram Beetle Shell",
         "description": "This thick shell is used by Ostrons to manufacture tools and weapons.",
         "itemCount": 1,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-shell.png"
       }
@@ -31878,8 +31948,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 6400,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
@@ -31887,6 +31958,7 @@
         "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Arcanes/Quills/HealthOnOperatorModeBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -31895,6 +31967,7 @@
         "name": "Fish Scales",
         "description": "A material used in tailoring clothes and cultivating synthetics.",
         "itemCount": 20,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-scales.png"
       },
@@ -31903,6 +31976,7 @@
         "name": "Murkray Liver",
         "description": "An ingredient used in Ostron cooking and medicines.",
         "itemCount": 2,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-organ.png"
       },
@@ -31911,7 +31985,8 @@
         "name": "Radian Sentirum",
         "description": "Polished and cut to perfection.",
         "itemCount": 3,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "eidolon-gem-acut-a.png"
       }
     ],
@@ -71867,14 +71942,16 @@
         "name": "Blueprint",
         "description": "An Assassination mission on board an Orokin Derelict ship",
         "itemCount": 1,
+        "type": "Key",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 100,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
@@ -71883,22 +71960,25 @@
         "name": "Lephantis Nav Coordinate",
         "description": "Coordinate used to locate the Lephantis.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "nav-code-icon.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 4000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 1000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -71923,38 +72003,43 @@
         "name": "Blueprint",
         "description": "A Capture mission on board an Orokin Derelict ship",
         "itemCount": 1,
+        "type": "Key",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 80,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 750,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 2500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/NavCode",
         "name": "Nav Coordinate",
-        "description": "Coordinate used to locate lost ships.",
+        "description": "Coordinate used to locate lost ships.\nCan be acquired from Storage Containers.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "nav-code-icon.png"
       }
@@ -71979,38 +72064,43 @@
         "name": "Blueprint",
         "description": "An Endless Defense mission on board an Orokin Derelict ship",
         "itemCount": 1,
+        "type": "Key",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 2500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/NavCode",
         "name": "Nav Coordinate",
-        "description": "Coordinate used to locate lost ships.",
+        "description": "Coordinate used to locate lost ships.\nCan be acquired from Storage Containers.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "nav-code-icon.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
-        "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+        "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
         "itemCount": 80,
+        "type": "Misc",
         "tradable": false,
         "imageName": "polymer-bundle.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 750,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -72062,38 +72152,43 @@
         "name": "Blueprint",
         "description": "An Exterminate mission on board an Orokin Derelict ship",
         "itemCount": 1,
+        "type": "Key",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 80,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 2500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/NavCode",
         "name": "Nav Coordinate",
-        "description": "Coordinate used to locate lost ships.",
+        "description": "Coordinate used to locate lost ships.\nCan be acquired from Storage Containers.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "nav-code-icon.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 750,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -72118,38 +72213,43 @@
         "name": "Blueprint",
         "description": "A Mobile Defense mission on board an Orokin Derelict ship",
         "itemCount": 1,
+        "type": "Key",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 750,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 2500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/NavCode",
         "name": "Nav Coordinate",
-        "description": "Coordinate used to locate lost ships.",
+        "description": "Coordinate used to locate lost ships.\nCan be acquired from Storage Containers.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "nav-code-icon.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
-        "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+        "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
         "itemCount": 80,
+        "type": "Misc",
         "tradable": false,
         "imageName": "polymer-bundle.png"
       }
@@ -72184,38 +72284,43 @@
         "name": "Blueprint",
         "description": "A Sabotage mission on board an Orokin Derelict ship",
         "itemCount": 1,
+        "type": "Key",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 750,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 2500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/NavCode",
         "name": "Nav Coordinate",
-        "description": "Coordinate used to locate lost ships.",
+        "description": "Coordinate used to locate lost ships.\nCan be acquired from Storage Containers.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "nav-code-icon.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
-        "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+        "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
         "itemCount": 80,
+        "type": "Misc",
         "tradable": false,
         "imageName": "polymer-bundle.png"
       }
@@ -72251,38 +72356,43 @@
         "name": "Blueprint",
         "description": "A Survival mission on board an Orokin Derelict ship",
         "itemCount": 1,
+        "type": "Key",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 80,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 2500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/NavCode",
         "name": "Nav Coordinate",
-        "description": "Coordinate used to locate lost ships.",
+        "description": "Coordinate used to locate lost ships.\nCan be acquired from Storage Containers.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "nav-code-icon.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 750,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -72349,6 +72459,7 @@
         "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Arcanes/Quills/IncreasedDamageOnStatusProcBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -72357,6 +72468,7 @@
         "name": "Cuthol Tendrils",
         "description": "Ostrons extract the toxin and apply it to their weapons when hunting animals.",
         "itemCount": 2,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-sac.png"
       },
@@ -72365,6 +72477,7 @@
         "name": "Eidolon Shard",
         "description": "Shard gained from the sentients roaming the Plains of Eidolon.",
         "itemCount": 3,
+        "type": "Eidolon Shard",
         "tradable": false,
         "imageName": "sentient-shard-common.png"
       },
@@ -72373,14 +72486,16 @@
         "name": "Radian Sentirum",
         "description": "Polished and cut to perfection.",
         "itemCount": 3,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "eidolon-gem-acut-a.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
         "name": "Rubedo",
-        "description": "A jagged crystalline ore. Gives off radiant energy.",
+        "description": "A jagged crystalline ore. Gives off radiant energy.\nLocations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
         "itemCount": 4100,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-rubedo.png"
       }
@@ -72413,6 +72528,7 @@
         "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Arcanes/Quills/StatusChanceOnHeadshotBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -72421,6 +72537,7 @@
         "name": "Eidolon Shard",
         "description": "Shard gained from the sentients roaming the Plains of Eidolon.",
         "itemCount": 3,
+        "type": "Eidolon Shard",
         "tradable": false,
         "imageName": "sentient-shard-common.png"
       },
@@ -72429,14 +72546,16 @@
         "name": "Heart Nyth",
         "description": "Polished and cut to perfection.",
         "itemCount": 3,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "eidolon-gem-bcut-a.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 4800,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       },
@@ -72445,6 +72564,7 @@
         "name": "Seram Beetle Shell",
         "description": "This thick shell is used by Ostrons to manufacture tools and weapons.",
         "itemCount": 1,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-shell.png"
       }
@@ -72477,14 +72597,16 @@
         "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Arcanes/Quills/OperatorAmmoRegenOnKillBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 3200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
@@ -72493,6 +72615,7 @@
         "name": "Fish Scales",
         "description": "A material used in tailoring clothes and cultivating synthetics.",
         "itemCount": 20,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-scales.png"
       },
@@ -72501,6 +72624,7 @@
         "name": "Murkray Liver",
         "description": "An ingredient used in Ostron cooking and medicines.",
         "itemCount": 2,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-organ.png"
       },
@@ -72509,7 +72633,8 @@
         "name": "Radian Sentirum",
         "description": "Polished and cut to perfection.",
         "itemCount": 3,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "eidolon-gem-acut-a.png"
       }
     ],
@@ -72531,6 +72656,7 @@
         "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Arcanes/Quills/CriticalChanceOnHeadshotBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -72539,6 +72665,7 @@
         "name": "Eidolon Shard",
         "description": "Shard gained from the sentients roaming the Plains of Eidolon.",
         "itemCount": 3,
+        "type": "Eidolon Shard",
         "tradable": false,
         "imageName": "sentient-shard-common.png"
       },
@@ -72547,14 +72674,16 @@
         "name": "Radian Sentirum",
         "description": "Polished and cut to perfection.",
         "itemCount": 3,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "eidolon-gem-acut-a.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
         "name": "Rubedo",
-        "description": "A jagged crystalline ore. Gives off radiant energy.",
+        "description": "A jagged crystalline ore. Gives off radiant energy.\nLocations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
         "itemCount": 5200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-rubedo.png"
       },
@@ -72563,6 +72692,7 @@
         "name": "Seram Beetle Shell",
         "description": "This thick shell is used by Ostrons to manufacture tools and weapons.",
         "itemCount": 1,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-shell.png"
       }
@@ -72595,14 +72725,16 @@
         "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Arcanes/Quills/IncreasedCriticalDamageOnCriticalStrikeBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 4400,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
@@ -72611,6 +72743,7 @@
         "name": "Eidolon Shard",
         "description": "Shard gained from the sentients roaming the Plains of Eidolon.",
         "itemCount": 3,
+        "type": "Eidolon Shard",
         "tradable": false,
         "imageName": "sentient-shard-common.png"
       },
@@ -72619,7 +72752,8 @@
         "name": "Heart Nyth",
         "description": "Polished and cut to perfection.",
         "itemCount": 3,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "eidolon-gem-bcut-a.png"
       },
       {
@@ -72627,6 +72761,7 @@
         "name": "Norg Brain",
         "description": "An Ostron delicacy.",
         "itemCount": 2,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-brain.png"
       }
@@ -72649,6 +72784,7 @@
         "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Arcanes/Quills/AttackSpeedOnKillBlueprint",
         "name": "Blueprint",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -72657,6 +72793,7 @@
         "name": "Fish Scales",
         "description": "A material used in tailoring clothes and cultivating synthetics.",
         "itemCount": 20,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-scales.png"
       },
@@ -72665,14 +72802,16 @@
         "name": "Murkray Liver",
         "description": "An ingredient used in Ostron cooking and medicines.",
         "itemCount": 2,
+        "type": "Fish Part",
         "tradable": false,
         "imageName": "fish-resource-organ.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 3500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       },
@@ -72681,7 +72820,8 @@
         "name": "Radian Sentirum",
         "description": "Polished and cut to perfection.",
         "itemCount": 3,
-        "tradable": false,
+        "type": "Gem",
+        "tradable": true,
         "imageName": "eidolon-gem-acut-a.png"
       }
     ],

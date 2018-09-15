@@ -18,8 +18,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 1000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
@@ -28,30 +29,34 @@
         "name": "Blueprint",
         "description": "With 'Striker' and 'Ammo Case' as default Precepts, Carrier is a seeker Sentinel. Carrier also comes with a shotgun weapon.\nNote: This item requires two open slots.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 400,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
         "name": "Control Module",
-        "description": "Autonomy processor for Robotics. A Corpus design.",
+        "description": "Autonomy processor for Robotics. A Corpus design.\nLocations: Europa, Neptune, and the Void.",
         "itemCount": 3,
+        "type": "Misc",
         "tradable": false,
         "imageName": "control-module.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 1500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       }
@@ -59,6 +64,14 @@
     "imageName": "carrier.png",
     "category": "Sentinels",
     "patchlogs": [
+      {
+        "name": "Mask of the Revenant: Hotfix 23.6.2",
+        "date": "2018-08-31T20:29:23Z",
+        "url": "https://forums.warframe.com/topic/1004345-mask-of-the-revenant-hotfix-2362/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Pyrus Essence not dropping from Nox enemies when they are marked as Essence Carriers. \nFixed the Jordas Golem being marked as an Essence Carrier."
+      },
       {
         "name": "The Sacrifice: Hotfix 23.0.8",
         "date": "2018-07-09T20:05:25Z",
@@ -411,6 +424,7 @@
         "name": "Blueprint",
         "description": "This ornate sentinel is an excellent example of late Orokin craftsmanship and styling.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -518,6 +532,7 @@
         "name": "Carapace",
         "description": "A prime sentinel-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-warframe-chassis.png",
@@ -601,6 +616,7 @@
         "name": "Cerebrum",
         "description": "A prime sentinel-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 65,
         "tradable": true,
         "imageName": "generic-warframe-helmet.png",
@@ -706,8 +722,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 6,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -716,6 +733,7 @@
         "name": "Systems",
         "description": "A prime sentinel-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-warframe-system.png",
@@ -908,8 +926,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
@@ -918,30 +937,34 @@
         "name": "Blueprint",
         "description": "With 'Swift Deth' and 'Vaporize' as default precepts, Dethcube acts exactly as advertised, as a badass cube of 'deth'. Comes loaded with Deth Machine Rifle weapon.\nNote: This item requires two open slots.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 400,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
         "name": "Control Module",
-        "description": "Autonomy processor for Robotics. A Corpus design.",
+        "description": "Autonomy processor for Robotics. A Corpus design.\nLocations: Europa, Neptune, and the Void.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "control-module.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       }
@@ -1043,16 +1066,18 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 600,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
         "name": "Argon Crystal",
-        "description": "Void based radioactive resource that decays every day it is out of the void.",
+        "description": "A Void based radioactive resource that decays every day it is out of the Void.\nThis resource can be found in the Void.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "argon-crystal.png"
       },
@@ -1061,22 +1086,25 @@
         "name": "Blueprint",
         "description": "Diriga shocks nearby enemies, and picks off distant threats, utilizing the Vulklok sniper rifle and the 'Calculated Shot', 'Arc Coil' and 'Electro Pulse' precepts.\nNote: This item requires two open slots.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 350,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
-        "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+        "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
         "itemCount": 500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "polymer-bundle.png"
       }
@@ -1177,14 +1205,16 @@
         "name": "Blueprint",
         "description": "With 'Thumper' and 'Fatal Attraction' as default Precepts, Djinn is a combat Sentinel. Djinn also comes with a poison dart weapon.\nNote: This item requires two open slots.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 3500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
@@ -1193,6 +1223,7 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
@@ -1201,14 +1232,16 @@
         "name": "Mutagen Mass",
         "description": "This living mass can produce weaponized toxins for weaponry.",
         "itemCount": 6,
+        "type": "Resource",
         "tradable": false,
         "imageName": "infested-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 30000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       }
@@ -1386,14 +1419,16 @@
         "name": "Blueprint",
         "description": "With 'Investigator' as its unique Precept and 'Deconstructor' as its weapon, the versatile Helios Sentinel acts as both a lethal guardian and an automatic codex scanner. Scans require an equipped Codex Scanner and an available charge.\nNote: This item requires two open slots.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 5000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
@@ -1402,6 +1437,7 @@
         "name": "Fieldron",
         "description": "ClanTech weaponized containment field to contain super-heated substances.",
         "itemCount": 10,
+        "type": "Resource",
         "tradable": false,
         "imageName": "corpus-component.png"
       },
@@ -1410,14 +1446,16 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
         "name": "Oxium",
-        "description": "Oxium is a rare lighter than air alloy of Orokin origin.",
+        "description": "Oxium is a rare lighter than air alloy of Orokin origin, used in certain Corpus Robotics.\nLocations: Venus, Jupiter, Mars, Neptune, Pluto, Eris, Europa, and Lua.",
         "itemCount": 300,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-oxium.png"
       }
@@ -1653,6 +1691,7 @@
         "name": "Blueprint",
         "description": "This knowledge hungry protector defends its master with Deconstructor Prime.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -1808,6 +1847,7 @@
         "name": "Carapace",
         "description": "A prime sentinel-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-warframe-chassis.png",
@@ -1987,6 +2027,7 @@
         "name": "Cerebrum",
         "description": "A prime sentinel-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 100,
         "tradable": true,
         "imageName": "generic-warframe-helmet.png",
@@ -2116,8 +2157,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 6,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -2126,6 +2168,7 @@
         "name": "Systems",
         "description": "A prime sentinel-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-warframe-system.png",
@@ -2296,8 +2339,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
@@ -2306,30 +2350,34 @@
         "name": "Blueprint",
         "description": "With 'Revenge' and 'Ghost' as default Precepts, Shade is well suited for stealth gameplay. Shade also comes with a burst laser pistol.\nNote: This item requires two open slots.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 400,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
         "name": "Control Module",
-        "description": "Autonomy processor for Robotics. A Corpus design.",
+        "description": "Autonomy processor for Robotics. A Corpus design.\nLocations: Europa, Neptune, and the Void.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "control-module.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       }
@@ -2459,38 +2507,43 @@
         "name": "Blueprint",
         "description": "With 'Retarget' and 'Molecular Conversion' as its default Precepts, Taxon protects its owner with shield restoration. Equipped with the Artax ice-beam.\nNote: This item requires two open slots.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
         "name": "Neurodes",
-        "description": "Biotech sensor organ harvested from Infested entities.",
+        "description": "Biotech sensor organ harvested from Infested entities.\nLocations: Earth, Lua, Eris, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-neurode.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
         "name": "Polymer Bundle",
-        "description": "A hard, thermoplastic casing. Manufactured by Corpus.",
+        "description": "A hard, thermoplastic casing. Manufactured by Corpus.\nLocations: Mercury, Venus, and Uranus.",
         "itemCount": 200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "polymer-bundle.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
         "name": "Rubedo",
-        "description": "A jagged crystalline ore. Gives off radiant energy.",
+        "description": "A jagged crystalline ore. Gives off radiant energy.\nLocations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
         "itemCount": 200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-rubedo.png"
       }
@@ -2554,8 +2607,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.",
+        "description": "Carbon steel plates used to reinforce Grineer armor.\nLocations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
         "itemCount": 500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alloy-plate.png"
       },
@@ -2564,30 +2618,34 @@
         "name": "Blueprint",
         "description": "With 'Warrior' and 'Crowd Dispersion' as default Precepts, Wyrm is a highly offensive Sentinel. Wyrm also comes with a laser rifle.\nNote: This item requires two open slots.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 400,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
         "name": "Control Module",
-        "description": "Autonomy processor for Robotics. A Corpus design.",
+        "description": "Autonomy processor for Robotics. A Corpus design.\nLocations: Europa, Neptune, and the Void.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "control-module.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       }
@@ -2826,6 +2884,7 @@
         "name": "Blueprint",
         "description": "Both bodyguard and status symbol, the Wyrm Prime Sentinel was the last line of defense for high ranking Tenno in the Orokin Era.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -2885,6 +2944,7 @@
         "name": "Carapace",
         "description": "A prime sentinel-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-warframe-chassis.png",
@@ -2920,6 +2980,7 @@
         "name": "Cerebrum",
         "description": "A prime sentinel-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-warframe-helmet.png",
@@ -2953,8 +3014,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 6,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -2963,6 +3025,7 @@
         "name": "Systems",
         "description": "A prime sentinel-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "ducats": 45,
         "tradable": true,
         "imageName": "generic-warframe-system.png",

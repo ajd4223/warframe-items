@@ -140,30 +140,34 @@
         "name": "Blueprint",
         "description": "Copies the dominant genes of a pet onto the template. \rThis can then be used to increase the chances that traits from the original pet will carry across to a newborn clone.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 300,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
         "name": "Control Module",
-        "description": "Autonomy processor for Robotics. A Corpus design.",
+        "description": "Autonomy processor for Robotics. A Corpus design.\nLocations: Europa, Neptune, and the Void.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "control-module.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 700,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       }
@@ -346,8 +350,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
         "name": "Argon Crystal",
-        "description": "Void based radioactive resource that decays every day it is out of the void.",
+        "description": "A Void based radioactive resource that decays every day it is out of the Void.\nThis resource can be found in the Void.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "argon-crystal.png"
       },
@@ -356,22 +361,25 @@
         "name": "Blueprint",
         "description": "This device facilitates the growth of a Kubrow clone, from birth to puppyhood.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
         "name": "Control Module",
-        "description": "Autonomy processor for Robotics. A Corpus design.",
+        "description": "Autonomy processor for Robotics. A Corpus design.\nLocations: Europa, Neptune, and the Void.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "control-module.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 4500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       }
@@ -554,6 +562,7 @@
         "name": "Blueprint",
         "description": "Enterprising Orokin genetic designers recognized that the Kubrow's affinity for games of fetch could be used for more serious endeavors. They soon developed a strain adept at reconnaissance and contraband recovery. Tenno often used the creatures to help resupply while in the field.",
         "itemCount": 1,
+        "type": "Pets",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -562,6 +571,7 @@
         "name": "Incubator Power Core",
         "description": "This device facilitates the growth of a Kubrow clone, from birth to puppyhood.",
         "itemCount": 1,
+        "type": "Pets",
         "tradable": false,
         "imageName": "egg-hatcher.png"
       }

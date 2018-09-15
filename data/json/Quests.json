@@ -228,8 +228,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
         "name": "Argon Crystal",
-        "description": "Void based radioactive resource that decays every day it is out of the void.",
+        "description": "A Void based radioactive resource that decays every day it is out of the Void.\nThis resource can be found in the Void.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "argon-crystal.png"
       },
@@ -238,6 +239,7 @@
         "name": "Blueprint",
         "description": "Seek out the Warframe Mirage",
         "itemCount": 1,
+        "type": "Key",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -246,14 +248,16 @@
         "name": "Orokin Cipher",
         "description": "This device is used to bypass Orokin encryptions.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "orokin-cipher.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
         "name": "Oxium",
-        "description": "Oxium is a rare lighter than air alloy of Orokin origin.",
+        "description": "Oxium is a rare lighter than air alloy of Orokin origin, used in certain Corpus Robotics.\nLocations: Venus, Jupiter, Mars, Neptune, Pluto, Eris, Europa, and Lua.",
         "itemCount": 4,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-oxium.png"
       }
@@ -418,14 +422,16 @@
         "name": "Blueprint",
         "description": "Put an end to Alad V and his Mutalist experiments",
         "itemCount": 1,
+        "type": "Key",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.",
+        "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
         "itemCount": 750,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-ferrite.png"
       },
@@ -433,23 +439,26 @@
         "uniqueName": "/Lotus/Types/Items/MiscItems/InfestedAladCoordinate",
         "name": "Mutalist Alad V Nav Coordinate",
         "description": "Nav coordinates of Alad V's Infestation Research Ship",
-        "itemCount": 3,
+        "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "mutalist-nav-coord.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 2500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/NavCode",
         "name": "Nav Coordinate",
-        "description": "Coordinate used to locate lost ships.",
+        "description": "Coordinate used to locate lost ships.\nCan be acquired from Storage Containers.",
         "itemCount": 6,
+        "type": "Misc",
         "tradable": false,
         "imageName": "nav-code-icon.png"
       }
@@ -493,6 +502,15 @@
     "imageName": "natah.png",
     "category": "Quests",
     "patchlogs": [
+      {
+        "name": "Mask of the Revenant: Update 23.6.0",
+        "date": "2018-08-30T16:04:42Z",
+        "url": "https://forums.warframe.com/topic/1003787-mask-of-the-revenant-update-2360/",
+        "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/64179d467e89f2525b45bb65b23618b3.jpg",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed lighting in Natah quest diorama. "
+      },
       {
         "name": "Plains of Eidolon: Hotfix 22.1.1",
         "date": "2017-10-27T20:21:43Z",
@@ -767,30 +785,34 @@
         "name": "Blueprint",
         "description": "Find Alad V’s laboratory and put a stop to his madness",
         "itemCount": 1,
+        "type": "Key",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 1200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
         "name": "Neurodes",
-        "description": "Biotech sensor organ harvested from Infested entities.",
+        "description": "Biotech sensor organ harvested from Infested entities.\nLocations: Earth, Lua, Eris, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-neurode.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
-        "description": "A disgusting nanite-infested tissue mass.",
+        "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
         "itemCount": 200,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
       }
@@ -901,30 +923,34 @@
         "name": "Blueprint",
         "description": "Help Baro Ki'Teer raid an ancient Martian tomb for a mysterious treasure.",
         "itemCount": 1,
+        "type": "Key",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "name": "Nano Spores",
-        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.",
+        "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\nLocations: Saturn, Neptune, Eris, and Orokin Derelicts.",
         "itemCount": 5000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-nanospores.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
         "name": "Nitain Extract",
-        "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.",
+        "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.\nThis resource can be acquired as a reward from Alerts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alertium.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
         "name": "Oxium",
-        "description": "Oxium is a rare lighter than air alloy of Orokin origin.",
+        "description": "Oxium is a rare lighter than air alloy of Orokin origin, used in certain Corpus Robotics.\nLocations: Venus, Jupiter, Mars, Neptune, Pluto, Eris, Europa, and Lua.",
         "itemCount": 400,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-oxium.png"
       }
@@ -1455,8 +1481,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
         "name": "Argon Crystal",
-        "description": "Void based radioactive resource that decays every day it is out of the void.",
+        "description": "A Void based radioactive resource that decays every day it is out of the Void.\nThis resource can be found in the Void.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "argon-crystal.png"
       },
@@ -1465,22 +1492,25 @@
         "name": "Blueprint",
         "description": "The Limbo Theorem quest cannot be completed without an Archwing\nPiece together the Limbo Theorem to uncover its source",
         "itemCount": 1,
+        "type": "Key",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/NeuralSensor",
         "name": "Neural Sensors",
-        "description": "Implanted neural-link for controlling augmentations. Grineer design.",
+        "description": "Implanted neural-link for controlling augmentations. Grineer design.\nLocation: Jupiter.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "neural-sensor.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       }
@@ -1736,6 +1766,14 @@
     "imageName": "the-sacrifice.png",
     "category": "Quests",
     "patchlogs": [
+      {
+        "name": "Mask of the Revenant: Hotfix 23.6.2",
+        "date": "2018-08-31T20:29:23Z",
+        "url": "https://forums.warframe.com/topic/1004345-mask-of-the-revenant-hotfix-2362/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed issue with Operator appearing invisible in The Sacrifice’s final cinematic if you have not yet visited The Quills."
+      },
       {
         "name": "The Sacrifice: Hotfix 23.4.2",
         "date": "2018-08-17T20:08:27Z",
@@ -2282,6 +2320,15 @@
     "imageName": "the-war-within.png",
     "category": "Quests",
     "patchlogs": [
+      {
+        "name": "Mask of the Revenant: Update 23.6.0",
+        "date": "2018-08-30T16:04:42Z",
+        "url": "https://forums.warframe.com/topic/1003787-mask-of-the-revenant-update-2360/",
+        "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/64179d467e89f2525b45bb65b23618b3.jpg",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a bug that let you get outside the level during The War Within. "
+      },
       {
         "name": "The Sacrifice: Hotfix 23.0.1",
         "date": "2018-06-15T05:28:21Z",

@@ -35,6 +35,7 @@
         "name": "Blade",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-weapon-blade.png"
       },
@@ -43,6 +44,7 @@
         "name": "Blueprint",
         "description": "Tear apart incoming enemies with this massive hooked blade.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -51,6 +53,7 @@
         "name": "Guard",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component-latch.png"
       },
@@ -59,6 +62,7 @@
         "name": "Handle",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-weapon-hilt.png"
       }
@@ -119,6 +123,7 @@
         "name": "Blueprint",
         "description": "Transform into a winged guardian.",
         "itemCount": 1,
+        "type": "Archwing",
         "tradable": true,
         "imageName": "blueprint.png"
       },
@@ -127,14 +132,16 @@
         "name": "Harness",
         "description": "Harness component of the Amesha Archwing.",
         "itemCount": 1,
+        "type": "Archwing",
         "tradable": true,
         "imageName": "generic-archwing-harness.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
         "name": "Nitain Extract",
-        "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.",
+        "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.\nThis resource can be acquired as a reward from Alerts.",
         "itemCount": 4,
+        "type": "Misc",
         "tradable": false,
         "imageName": "alertium.png"
       },
@@ -143,6 +150,7 @@
         "name": "Systems",
         "description": "Systems component of the Amesha Archwing.",
         "itemCount": 1,
+        "type": "Archwing",
         "tradable": true,
         "imageName": "generic-archwing-systems.png"
       },
@@ -151,6 +159,7 @@
         "name": "Wings",
         "description": "Wings component of the Amesha Archwing.",
         "itemCount": 1,
+        "type": "Archwing",
         "tradable": true,
         "imageName": "generic-archwing-wings.png"
       }
@@ -213,6 +222,7 @@
         "name": "Aegis",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component-latch.png"
       },
@@ -221,6 +231,7 @@
         "name": "Blade",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-weapon-blade.png"
       },
@@ -229,6 +240,7 @@
         "name": "Blueprint",
         "description": "Part sword, part shield, the Centaur excels at charging headlong into enemy fire.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -237,6 +249,7 @@
         "name": "Handle",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-weapon-hilt.png"
       }
@@ -303,8 +316,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
         "name": "Argon Crystal",
-        "description": "Void based radioactive resource that decays every day it is out of the void.",
+        "description": "A Void based radioactive resource that decays every day it is out of the Void.\nThis resource can be found in the Void.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "argon-crystal.png"
       },
@@ -313,6 +327,7 @@
         "name": "Barrel",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-gun-barrel.png"
       },
@@ -321,6 +336,7 @@
         "name": "Blueprint",
         "description": "When fully charged, this flak-cannon delivers a devastating shot. Perfect for taking down fast-moving interceptors.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -329,6 +345,7 @@
         "name": "Receiver",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-gun-receiver.png"
       },
@@ -337,6 +354,7 @@
         "name": "Stock",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-gun-stock.png"
       }
@@ -430,6 +448,7 @@
         "name": "Barrel",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-gun-barrel.png"
       },
@@ -438,6 +457,7 @@
         "name": "Blueprint",
         "description": "Unload deadly accurate bursts of mayhem.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -446,6 +466,7 @@
         "name": "Receiver",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-gun-receiver.png"
       },
@@ -454,14 +475,16 @@
         "name": "Stock",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-gun-stock.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Tellurium",
         "name": "Tellurium",
-        "description": "This rare metal is foreign to the Origin System and can only be found in asteroids that have made the long journey from other stars.",
+        "description": "This rare metal is foreign to the Origin System and can only be found in asteroids that have made the long journey from other stars.\nLocations: Archwing Missions on Uranus.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "tellurium.png"
       }
@@ -540,14 +563,16 @@
         "name": "Blueprint",
         "description": "Delivering twin streams of highly accurate, rapid-fire ordnance, the Decurion are specifically designed for combat in the vacuum of space.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
         "name": "Control Module",
-        "description": "Autonomy processor for Robotics. A Corpus design.",
+        "description": "Autonomy processor for Robotics. A Corpus design.\nLocations: Europa, Neptune, and the Void.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "control-module.png"
       },
@@ -556,6 +581,7 @@
         "name": "Decurion Barrel",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-gun-barrel.png"
       },
@@ -564,6 +590,7 @@
         "name": "Decurion Receiver",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-gun-receiver.png"
       }
@@ -635,14 +662,16 @@
         "name": "Blueprint",
         "description": "This heavy duty Archwing was designed for one purpose, destruction.",
         "itemCount": 1,
+        "type": "Archwing",
         "tradable": true,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
         "name": "Control Module",
-        "description": "Autonomy processor for Robotics. A Corpus design.",
+        "description": "Autonomy processor for Robotics. A Corpus design.\nLocations: Europa, Neptune, and the Void.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "control-module.png"
       },
@@ -651,6 +680,7 @@
         "name": "Harness",
         "description": "Harness component of the Elytron Archwing.",
         "itemCount": 1,
+        "type": "Archwing",
         "tradable": true,
         "imageName": "generic-archwing-harness.png"
       },
@@ -659,6 +689,7 @@
         "name": "Systems",
         "description": "Systems component of the Elytron Archwing.",
         "itemCount": 1,
+        "type": "Archwing",
         "tradable": true,
         "imageName": "generic-archwing-systems.png"
       },
@@ -667,6 +698,7 @@
         "name": "Wings",
         "description": "Wings component of the Elytron Archwing.",
         "itemCount": 1,
+        "type": "Archwing",
         "tradable": true,
         "imageName": "generic-archwing-wings.png"
       }
@@ -808,8 +840,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
         "name": "Argon Crystal",
-        "description": "Void based radioactive resource that decays every day it is out of the void.",
+        "description": "A Void based radioactive resource that decays every day it is out of the Void.\nThis resource can be found in the Void.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "argon-crystal.png"
       },
@@ -818,6 +851,7 @@
         "name": "Barrel",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-gun-barrel.png"
       },
@@ -826,6 +860,7 @@
         "name": "Blueprint",
         "description": "An Archwing energy weapon that sends waves of deadly plasma crashing into enemies.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -834,6 +869,7 @@
         "name": "Limbs",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-gun-stock.png"
       },
@@ -842,6 +878,7 @@
         "name": "Stock",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-gun-receiver.png"
       }
@@ -975,6 +1012,7 @@
         "name": "Blueprint",
         "description": "Shatter your targets with explosive shells from this devastating Archwing cannon.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -983,30 +1021,34 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
         "name": "Oxium",
-        "description": "Oxium is a rare lighter than air alloy of Orokin origin.",
+        "description": "Oxium is a rare lighter than air alloy of Orokin origin, used in certain Corpus Robotics.\nLocations: Venus, Jupiter, Mars, Neptune, Pluto, Eris, Europa, and Lua.",
         "itemCount": 3500,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-oxium.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
         "name": "Salvage",
-        "description": "High value metals collected from war salvage.",
+        "description": "High value metals collected from war salvage.\nLocations: Mars, Jupiter, and Sedna.",
         "itemCount": 6000,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-salvage.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Tellurium",
         "name": "Tellurium",
-        "description": "This rare metal is foreign to the Origin System and can only be found in asteroids that have made the long journey from other stars.",
+        "description": "This rare metal is foreign to the Origin System and can only be found in asteroids that have made the long journey from other stars.\nLocations: Archwing Missions on Uranus.",
         "itemCount": 5,
+        "type": "Misc",
         "tradable": false,
         "imageName": "tellurium.png"
       }
@@ -1218,6 +1260,7 @@
         "name": "Barrel",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "generic-gun-barrel.png",
         "drops": [
@@ -1234,6 +1277,7 @@
         "name": "Blueprint",
         "description": "The Imperator Vandal has been customized by the Tenno with a blue-green metallic finish and Lotus branding on the barrel.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "blueprint.png",
         "drops": [
@@ -1250,6 +1294,7 @@
         "name": "Receiver",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": true,
         "imageName": "generic-gun-receiver.png",
         "drops": [
@@ -1264,8 +1309,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Tellurium",
         "name": "Tellurium",
-        "description": "This rare metal is foreign to the Origin System and can only be found in asteroids that have made the long journey from other stars.",
+        "description": "This rare metal is foreign to the Origin System and can only be found in asteroids that have made the long journey from other stars.\nLocations: Archwing Missions on Uranus.",
         "itemCount": 10,
+        "type": "Misc",
         "tradable": false,
         "imageName": "tellurium.png"
       }
@@ -1362,14 +1408,16 @@
         "name": "Blueprint",
         "description": "Designed for quick clandestine attacks, the Itzal Archwing excels at striking from the darkness of space.",
         "itemCount": 1,
+        "type": "Archwing",
         "tradable": true,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
         "name": "Control Module",
-        "description": "Autonomy processor for Robotics. A Corpus design.",
+        "description": "Autonomy processor for Robotics. A Corpus design.\nLocations: Europa, Neptune, and the Void.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "control-module.png"
       },
@@ -1378,6 +1426,7 @@
         "name": "Harness",
         "description": "Harness component of the Itzal Archwing.",
         "itemCount": 1,
+        "type": "Archwing",
         "tradable": true,
         "imageName": "generic-archwing-harness.png"
       },
@@ -1386,6 +1435,7 @@
         "name": "Systems",
         "description": "Systems component of the Itzal Archwing.",
         "itemCount": 1,
+        "type": "Archwing",
         "tradable": true,
         "imageName": "generic-archwing-systems.png"
       },
@@ -1394,6 +1444,7 @@
         "name": "Wings",
         "description": "Wings component of the Itzal Archwing.",
         "itemCount": 1,
+        "type": "Archwing",
         "tradable": true,
         "imageName": "generic-archwing-wings.png"
       }
@@ -1621,6 +1672,7 @@
         "name": "Blade",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-weapon-blade.png"
       },
@@ -1629,6 +1681,7 @@
         "name": "Blueprint",
         "description": "Become an angel of death, with this Archwing scythe.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -1637,14 +1690,16 @@
         "name": "Handle",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-weapon-hilt.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Tellurium",
         "name": "Tellurium",
-        "description": "This rare metal is foreign to the Origin System and can only be found in asteroids that have made the long journey from other stars.",
+        "description": "This rare metal is foreign to the Origin System and can only be found in asteroids that have made the long journey from other stars.\nLocations: Archwing Missions on Uranus.",
         "itemCount": 3,
+        "type": "Misc",
         "tradable": false,
         "imageName": "tellurium.png"
       }
@@ -1729,6 +1784,7 @@
         "name": "Blueprint",
         "description": "Gallium-alloy gauntlets for close-range Archwing combat. Designed by the infamous Tyl Regor.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -1737,6 +1793,7 @@
         "name": "Detonite Injector",
         "description": "Detonite injectors are the basis for explosive and incendiary weapons.",
         "itemCount": 5,
+        "type": "Resource",
         "tradable": false,
         "imageName": "grineer-component.png"
       },
@@ -1745,6 +1802,7 @@
         "name": "Forma",
         "description": "This shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe, Companions or Weapon and then resets their affinity to Unranked. This can only be used on Level 30 Warframes, Companions and Weapons.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-component.png"
       },
@@ -1774,14 +1832,16 @@
         "masteryReq": 0,
         "omegaAttenuation": 1.38,
         "itemCount": 1,
+        "type": "Melee",
         "tradable": false,
         "imageName": "melee-gauntlets.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
         "name": "Gallium",
-        "description": "Soft metal used in microelectronics and energy weapons.",
+        "description": "Soft metal used in microelectronics and energy weapons.\nLocations: Mars and Uranus.",
         "itemCount": 10,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-gallium.png"
       }
@@ -1852,14 +1912,16 @@
         "name": "Blueprint",
         "description": "The systems built into this Archwing balance offensive capabilities with defensive countermeasures.",
         "itemCount": 1,
+        "type": "Archwing",
         "tradable": true,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 300,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
@@ -1868,6 +1930,7 @@
         "name": "Harness",
         "description": "Harness component of the Odonata Archwing.",
         "itemCount": 1,
+        "type": "Archwing",
         "tradable": true,
         "imageName": "generic-archwing-harness.png"
       },
@@ -1876,6 +1939,7 @@
         "name": "Systems",
         "description": "Systems component of the Odonata Archwing.",
         "itemCount": 1,
+        "type": "Archwing",
         "tradable": true,
         "imageName": "generic-archwing-systems.png"
       },
@@ -1884,6 +1948,7 @@
         "name": "Wings",
         "description": "Wings component of the Odonata Archwing.",
         "itemCount": 1,
+        "type": "Archwing",
         "tradable": true,
         "imageName": "generic-archwing-wings.png"
       }
@@ -2022,6 +2087,7 @@
         "name": "Blueprint",
         "description": "This enhanced version of the first Archwing prototype takes the design to its theoretical limits.",
         "itemCount": 1,
+        "type": "Archwing",
         "ducats": 45,
         "tradable": true,
         "imageName": "blueprint.png",
@@ -2129,6 +2195,7 @@
         "name": "Harness",
         "description": "Harness component of the Odonata Prime Archwing.",
         "itemCount": 1,
+        "type": "Archwing",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-archwing-harness.png",
@@ -2258,8 +2325,9 @@
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "name": "Orokin Cell",
-        "description": "Ancient energy cell from the Orokin era.",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-cell.png"
       },
@@ -2268,6 +2336,7 @@
         "name": "Systems",
         "description": "Systems component of the Odonata Prime Archwing.",
         "itemCount": 1,
+        "type": "Archwing",
         "ducats": 15,
         "tradable": true,
         "imageName": "generic-archwing-systems.png",
@@ -2375,6 +2444,7 @@
         "name": "Wings",
         "description": "Wings component of the Odonata Prime Archwing.",
         "itemCount": 1,
+        "type": "Archwing",
         "ducats": 65,
         "tradable": true,
         "imageName": "generic-archwing-wings.png",
@@ -2488,6 +2558,7 @@
         "name": "Blade",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-weapon-blade.png"
       },
@@ -2496,6 +2567,7 @@
         "name": "Blueprint",
         "description": "This laser bladed battle-axe easily hacks through a ship's defenses and the forces protecting it.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -2504,14 +2576,16 @@
         "name": "Handle",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-weapon-hilt.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
         "name": "Neurodes",
-        "description": "Biotech sensor organ harvested from Infested entities.",
+        "description": "Biotech sensor organ harvested from Infested entities.\nLocations: Earth, Lua, Eris, and Orokin Derelicts.",
         "itemCount": 3,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-neurode.png"
       }
@@ -2587,6 +2661,7 @@
         "name": "Barrel",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-gun-barrel.png"
       },
@@ -2595,6 +2670,7 @@
         "name": "Blueprint",
         "description": "Devastate free-space enemies with Phaedra, the Soma's big-sister.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
@@ -2603,6 +2679,7 @@
         "name": "Receiver",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-gun-receiver.png",
         "drops": [
@@ -2631,14 +2708,16 @@
         "name": "Stock",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-gun-stock.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Tellurium",
         "name": "Tellurium",
-        "description": "This rare metal is foreign to the Origin System and can only be found in asteroids that have made the long journey from other stars.",
+        "description": "This rare metal is foreign to the Origin System and can only be found in asteroids that have made the long journey from other stars.\nLocations: Archwing Missions on Uranus.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "tellurium.png"
       }
@@ -2774,22 +2853,25 @@
         "name": "Blueprint",
         "description": "Using Archwing’s jets for thrust, this massive hammer crushes anything in its path.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "name": "Circuits",
-        "description": "Various electronic components.",
+        "description": "Various electronic components.\nLocations: Venus, Ceres, and the Kuva Fortress.",
         "itemCount": 300,
+        "type": "Misc",
         "tradable": false,
         "imageName": "component-circuits.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
         "name": "Control Module",
-        "description": "Autonomy processor for Robotics. A Corpus design.",
+        "description": "Autonomy processor for Robotics. A Corpus design.\nLocations: Europa, Neptune, and the Void.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "control-module.png"
       },
@@ -2798,6 +2880,7 @@
         "name": "Handle",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-weapon-hilt.png"
       },
@@ -2806,6 +2889,7 @@
         "name": "Head",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-weapon-blade.png"
       }
@@ -2889,6 +2973,7 @@
         "name": "Barrel",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-gun-barrel.png"
       },
@@ -2897,14 +2982,16 @@
         "name": "Blueprint",
         "description": "When fully charged, the magnetized barrel of the Velocitus accelerates a metal slug to tremendous speeds, piercing hulls and obliterating armor.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "blueprint.png"
       },
       {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
         "name": "Control Module",
-        "description": "Autonomy processor for Robotics. A Corpus design.",
+        "description": "Autonomy processor for Robotics. A Corpus design.\nLocations: Europa, Neptune, and the Void.",
         "itemCount": 2,
+        "type": "Misc",
         "tradable": false,
         "imageName": "control-module.png"
       },
@@ -2913,6 +3000,7 @@
         "name": "Receiver",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-gun-receiver.png"
       },
@@ -2921,6 +3009,7 @@
         "name": "Stock",
         "description": "An Archwing weapon-crafting component.",
         "itemCount": 1,
+        "type": "Misc",
         "tradable": false,
         "imageName": "generic-gun-stock.png"
       }
