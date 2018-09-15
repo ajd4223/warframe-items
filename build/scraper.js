@@ -263,12 +263,12 @@ class Scraper {
       let isSmall = true
       for (let grade of grades) {
         if (item.uniqueName.includes(grade.id)) {
-          item.name = item.name + ' - ' + grade.tier
+          item.name = grade.tier + ' ' + item.name
           isSmall = false
         }
       }
       if (isSmall) {
-        item.name = item.name + ' - Small'
+        item.name = 'Small ' + item.name
       }
     }
 

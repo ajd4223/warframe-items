@@ -930,24 +930,6 @@
     "consumeOnBuild": true,
     "components": [
       {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/BothCommonFishATrophyBlueprint",
-        "name": "Blueprint - Small",
-        "description": "A trophy of a prized catch.",
-        "itemCount": 1,
-        "type": "Fish",
-        "tradable": true,
-        "imageName": "fish-trophy-both-common-fish-a.png"
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishAItemLarge",
-        "name": "Charc Eel - Large",
-        "description": "Discharges electricity from luminous glands along its flanks to stun its prey.",
-        "itemCount": 1,
-        "type": "Fish",
-        "tradable": true,
-        "imageName": "fish-item-both-common-a.png"
-      },
-      {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
         "name": "Cryotic",
         "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\nLocations: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune.",
@@ -973,6 +955,24 @@
         "type": "Resource",
         "tradable": false,
         "imageName": "iradite.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishAItemLarge",
+        "name": "Large Charc Eel",
+        "description": "Discharges electricity from luminous glands along its flanks to stun its prey.",
+        "itemCount": 1,
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-item-both-common-a.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/BothCommonFishATrophyBlueprint",
+        "name": "Small Blueprint",
+        "description": "A trophy of a prized catch.",
+        "itemCount": 1,
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-trophy-both-common-fish-a.png"
       }
     ],
     "imageName": "charc-eel-trophy.png",
@@ -1451,24 +1451,6 @@
     "consumeOnBuild": true,
     "components": [
       {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/NightRareFishBTrophyBlueprint",
-        "name": "Blueprint - Small",
-        "description": "A trophy of a prized catch.",
-        "itemCount": 1,
-        "type": "Fish",
-        "tradable": true,
-        "imageName": "fish-trophy-night-rare-fish-b.png"
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishBItemLarge",
-        "name": "Cuthol - Large",
-        "description": "A grotesque crustacean that produces a potent, paralyzing toxin from its tentacles.",
-        "itemCount": 1,
-        "type": "Fish",
-        "tradable": true,
-        "imageName": "fish-item-night-rare-b.png"
-      },
-      {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
@@ -1487,6 +1469,15 @@
         "imageName": "iradite.png"
       },
       {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishBItemLarge",
+        "name": "Large Cuthol",
+        "description": "A grotesque crustacean that produces a potent, paralyzing toxin from its tentacles.",
+        "itemCount": 1,
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-item-night-rare-b.png"
+      },
+      {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
         "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
@@ -1494,6 +1485,15 @@
         "type": "Misc",
         "tradable": false,
         "imageName": "component-morphic.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/NightRareFishBTrophyBlueprint",
+        "name": "Small Blueprint",
+        "description": "A trophy of a prized catch.",
+        "itemCount": 1,
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-trophy-night-rare-fish-b.png"
       }
     ],
     "imageName": "cuthol-trophy.png",
@@ -6102,24 +6102,6 @@
     "consumeOnBuild": true,
     "components": [
       {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/NightLegendaryFishATrophyBlueprint",
-        "name": "Blueprint - Small",
-        "description": "A trophy of a prized catch.",
-        "itemCount": 1,
-        "type": "Fish",
-        "tradable": true,
-        "imageName": "fish-trophy-night-legendary-fish-a.png"
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightLegendaryFishAItemLarge",
-        "name": "Glappid - Large",
-        "description": "The Glappid is a scavenger that feasts on the remains of dead fish. It has formed a symbiotic bond with the Seram Beetle which extracts and feeds upon any toxins ingested by the Glappid.",
-        "itemCount": 1,
-        "type": "Fish",
-        "tradable": true,
-        "imageName": "fish-item-night-legendary-fish-a.png"
-      },
-      {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
@@ -6138,6 +6120,15 @@
         "imageName": "iradite.png"
       },
       {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightLegendaryFishAItemLarge",
+        "name": "Large Glappid",
+        "description": "The Glappid is a scavenger that feasts on the remains of dead fish. It has formed a symbiotic bond with the Seram Beetle which extracts and feeds upon any toxins ingested by the Glappid.",
+        "itemCount": 1,
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-item-night-legendary-fish-a.png"
+      },
+      {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
         "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
@@ -6145,6 +6136,15 @@
         "type": "Misc",
         "tradable": false,
         "imageName": "component-morphic.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/NightLegendaryFishATrophyBlueprint",
+        "name": "Small Blueprint",
+        "description": "A trophy of a prized catch.",
+        "itemCount": 1,
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-trophy-night-legendary-fish-a.png"
       }
     ],
     "imageName": "glappid-trophy.png",
@@ -6182,15 +6182,6 @@
     "consumeOnBuild": true,
     "components": [
       {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/BothCommonFishBTrophyBlueprint",
-        "name": "Blueprint - Small",
-        "description": "A trophy of a prized catch.",
-        "itemCount": 1,
-        "type": "Fish",
-        "tradable": true,
-        "imageName": "fish-trophy-both-common-fish-b.png"
-      },
-      {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
         "name": "Cryotic",
         "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\nLocations: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune.",
@@ -6198,15 +6189,6 @@
         "type": "Misc",
         "tradable": false,
         "imageName": "component-cryotic.png"
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishBItemLarge",
-        "name": "Goopolla - Large",
-        "description": "A predatory fish that is attracted to the scent of blood.",
-        "itemCount": 1,
-        "type": "Fish",
-        "tradable": true,
-        "imageName": "fish-item-both-common-b.png"
       },
       {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
@@ -6225,6 +6207,24 @@
         "type": "Resource",
         "tradable": false,
         "imageName": "iradite.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishBItemLarge",
+        "name": "Large Goopolla",
+        "description": "A predatory fish that is attracted to the scent of blood.",
+        "itemCount": 1,
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-item-both-common-b.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/BothCommonFishBTrophyBlueprint",
+        "name": "Small Blueprint",
+        "description": "A trophy of a prized catch.",
+        "itemCount": 1,
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-trophy-both-common-fish-b.png"
       }
     ],
     "imageName": "goopolla-trophy.png",
@@ -7053,15 +7053,6 @@
     "consumeOnBuild": true,
     "components": [
       {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/BothUncommonFishBTrophyBlueprint",
-        "name": "Blueprint - Small",
-        "description": "A trophy of a prized catch.",
-        "itemCount": 1,
-        "type": "Fish",
-        "tradable": true,
-        "imageName": "fish-trophy-both-uncommon-fish-b.png"
-      },
-      {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
@@ -7081,7 +7072,7 @@
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishBItemLarge",
-        "name": "Karkina - Large",
+        "name": "Large Karkina",
         "description": "A crustacean that hunts during the twilight hours.",
         "itemCount": 1,
         "type": "Fish",
@@ -7096,6 +7087,15 @@
         "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/BothUncommonFishBTrophyBlueprint",
+        "name": "Small Blueprint",
+        "description": "A trophy of a prized catch.",
+        "itemCount": 1,
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-trophy-both-uncommon-fish-b.png"
       }
     ],
     "imageName": "karkina-trophy.png",
@@ -7149,15 +7149,6 @@
     "consumeOnBuild": true,
     "components": [
       {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/DayCommonFishBTrophyBlueprint",
-        "name": "Blueprint - Small",
-        "description": "A trophy of a prized catch.",
-        "itemCount": 1,
-        "type": "Fish",
-        "tradable": true,
-        "imageName": "fish-trophy-day-common-fish-b.png"
-      },
-      {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
         "name": "Cryotic",
         "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\nLocations: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune.",
@@ -7186,12 +7177,21 @@
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishBItemLarge",
-        "name": "Khut-Khut - Large",
+        "name": "Large Khut-Khut",
         "description": "A poisonous fish protected by a hardened carapace around its skull.",
         "itemCount": 1,
         "type": "Fish",
         "tradable": true,
         "imageName": "fish-item-day-common-b.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/DayCommonFishBTrophyBlueprint",
+        "name": "Small Blueprint",
+        "description": "A trophy of a prized catch.",
+        "itemCount": 1,
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-trophy-day-common-fish-b.png"
       }
     ],
     "imageName": "khut-khut-trophy.png",
@@ -10096,15 +10096,6 @@
     "consumeOnBuild": true,
     "components": [
       {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/DayCommonFishATrophyBlueprint",
-        "name": "Blueprint - Small",
-        "description": "A trophy of a prized catch.",
-        "itemCount": 1,
-        "type": "Fish",
-        "tradable": true,
-        "imageName": "fish-trophy-day-common-fish-a.png"
-      },
-      {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
         "name": "Cryotic",
         "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\nLocations: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune.",
@@ -10133,12 +10124,21 @@
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishAItemLarge",
-        "name": "Mawfish - Large",
+        "name": "Large Mawfish",
         "description": "Its gaping maw allows it to scoop up smaller fish as it swims by them.",
         "itemCount": 1,
         "type": "Fish",
         "tradable": true,
         "imageName": "fish-item-day-common-a.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/DayCommonFishATrophyBlueprint",
+        "name": "Small Blueprint",
+        "description": "A trophy of a prized catch.",
+        "itemCount": 1,
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-trophy-day-common-fish-a.png"
       }
     ],
     "imageName": "mawfish-trophy.png",
@@ -10698,15 +10698,6 @@
     "consumeOnBuild": true,
     "components": [
       {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/DayUncommonFishBTrophyBlueprint",
-        "name": "Blueprint - Small",
-        "description": "A trophy of a prized catch.",
-        "itemCount": 1,
-        "type": "Fish",
-        "tradable": true,
-        "imageName": "fish-trophy-day-uncommon-fish-b.png"
-      },
-      {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
@@ -10726,7 +10717,7 @@
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishBItemLarge",
-        "name": "Mortus Lungfish - Large",
+        "name": "Large Mortus Lungfish",
         "description": "Displays blood-spattered pattern on its scales and has its ribs exposed through open cavities along both flanks. When predators approach it lies still at the bottom of the sand banks, disguised as a carcass in hopes of being ignored.",
         "itemCount": 1,
         "type": "Fish",
@@ -10741,6 +10732,15 @@
         "type": "Misc",
         "tradable": false,
         "imageName": "component-plastids.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/DayUncommonFishBTrophyBlueprint",
+        "name": "Small Blueprint",
+        "description": "A trophy of a prized catch.",
+        "itemCount": 1,
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-trophy-day-uncommon-fish-b.png"
       }
     ],
     "imageName": "mortus-lungfish-trophy.png",
@@ -10786,15 +10786,6 @@
     "consumeOnBuild": true,
     "components": [
       {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/BothRareFishATrophyBlueprint",
-        "name": "Blueprint - Small",
-        "description": "A trophy of a prized catch.",
-        "itemCount": 1,
-        "type": "Fish",
-        "tradable": true,
-        "imageName": "fish-trophy-both-rare-fish-a.png"
-      },
-      {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
@@ -10813,6 +10804,15 @@
         "imageName": "iradite.png"
       },
       {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothRareFishAItemLarge",
+        "name": "Large Murkray",
+        "description": "A cunning hunter that hides within the mud at the bottom of the ocean and ambushes passing prey.",
+        "itemCount": 1,
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-item-both-rare-a.png"
+      },
+      {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
         "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
@@ -10822,13 +10822,13 @@
         "imageName": "component-morphic.png"
       },
       {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothRareFishAItemLarge",
-        "name": "Murkray - Large",
-        "description": "A cunning hunter that hides within the mud at the bottom of the ocean and ambushes passing prey.",
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/BothRareFishATrophyBlueprint",
+        "name": "Small Blueprint",
+        "description": "A trophy of a prized catch.",
         "itemCount": 1,
         "type": "Fish",
         "tradable": true,
-        "imageName": "fish-item-both-rare-a.png"
+        "imageName": "fish-trophy-both-rare-fish-a.png"
       }
     ],
     "imageName": "murkray-trophy.png",
@@ -11482,15 +11482,6 @@
     "consumeOnBuild": true,
     "components": [
       {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/NightRareFishATrophyBlueprint",
-        "name": "Blueprint - Small",
-        "description": "A trophy of a prized catch.",
-        "itemCount": 1,
-        "type": "Fish",
-        "tradable": true,
-        "imageName": "fish-trophy-night-rare-fish-a.png"
-      },
-      {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
@@ -11509,6 +11500,15 @@
         "imageName": "iradite.png"
       },
       {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishAItemLarge",
+        "name": "Large Norg",
+        "description": "This fish inhabits the shallows and feeds of crabs and other small crustaceans. When threatened it forces air into its brain to give it the impression of being much bigger than it normally is.",
+        "itemCount": 1,
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-item-night-rare-a.png"
+      },
+      {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "name": "Morphics",
         "description": "An amorphous solid. Possibly Orokin technology.\nLocations: Mercury, Mars, Phobos, Europa, and Pluto.",
@@ -11518,13 +11518,13 @@
         "imageName": "component-morphic.png"
       },
       {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishAItemLarge",
-        "name": "Norg - Large",
-        "description": "This fish inhabits the shallows and feeds of crabs and other small crustaceans. When threatened it forces air into its brain to give it the impression of being much bigger than it normally is.",
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/NightRareFishATrophyBlueprint",
+        "name": "Small Blueprint",
+        "description": "A trophy of a prized catch.",
         "itemCount": 1,
         "type": "Fish",
         "tradable": true,
-        "imageName": "fish-item-night-rare-a.png"
+        "imageName": "fish-trophy-night-rare-fish-a.png"
       }
     ],
     "imageName": "norg-trophy.png",
@@ -13847,15 +13847,6 @@
     "consumeOnBuild": true,
     "components": [
       {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/BothUncommonFishATrophyBlueprint",
-        "name": "Blueprint - Small",
-        "description": "A trophy of a prized catch.",
-        "itemCount": 1,
-        "type": "Fish",
-        "tradable": true,
-        "imageName": "fish-trophy-both-uncommon-fish-a.png"
-      },
-      {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
@@ -13874,6 +13865,15 @@
         "imageName": "iradite.png"
       },
       {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishAItemLarge",
+        "name": "Large Sharrac",
+        "description": "While rarely venturing from the deepest waters of the plains, the Sharrac is a fearsome predator who will prey on unwary Ostrons swimming alone.",
+        "itemCount": 1,
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-item-both-uncommon-a.png"
+      },
+      {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
         "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
@@ -13883,13 +13883,13 @@
         "imageName": "component-plastids.png"
       },
       {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishAItemLarge",
-        "name": "Sharrac - Large",
-        "description": "While rarely venturing from the deepest waters of the plains, the Sharrac is a fearsome predator who will prey on unwary Ostrons swimming alone.",
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/BothUncommonFishATrophyBlueprint",
+        "name": "Small Blueprint",
+        "description": "A trophy of a prized catch.",
         "itemCount": 1,
         "type": "Fish",
         "tradable": true,
-        "imageName": "fish-item-both-uncommon-a.png"
+        "imageName": "fish-trophy-both-uncommon-fish-a.png"
       }
     ],
     "imageName": "sharrac-trophy.png",
@@ -14787,15 +14787,6 @@
     "consumeOnBuild": true,
     "components": [
       {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/DayUncommonFishATrophyBlueprint",
-        "name": "Blueprint - Small",
-        "description": "A trophy of a prized catch.",
-        "itemCount": 1,
-        "type": "Fish",
-        "tradable": true,
-        "imageName": "fish-trophy-day-uncommon-fish-a.png"
-      },
-      {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
         "name": "Grokdrul",
         "description": "A noxious mix of polyssachharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.",
@@ -14814,6 +14805,15 @@
         "imageName": "iradite.png"
       },
       {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishAItemLarge",
+        "name": "Large Tralok",
+        "description": "Strong, predatory fish with eyes that can pierce the darkest shadows.",
+        "itemCount": 1,
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-item-day-uncommon-a.png"
+      },
+      {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "name": "Plastids",
         "description": "A disgusting nanite-infested tissue mass.\nLocations: Phobos, Saturn, Uranus, Pluto, and Eris.",
@@ -14823,13 +14823,13 @@
         "imageName": "component-plastids.png"
       },
       {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishAItemLarge",
-        "name": "Tralok - Large",
-        "description": "Strong, predatory fish with eyes that can pierce the darkest shadows.",
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/DayUncommonFishATrophyBlueprint",
+        "name": "Small Blueprint",
+        "description": "A trophy of a prized catch.",
         "itemCount": 1,
         "type": "Fish",
         "tradable": true,
-        "imageName": "fish-item-day-uncommon-a.png"
+        "imageName": "fish-trophy-day-uncommon-fish-a.png"
       }
     ],
     "imageName": "tralok-trophy.png",
@@ -15474,15 +15474,6 @@
     "consumeOnBuild": true,
     "components": [
       {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/DayCommonFishCTrophyBlueprint",
-        "name": "Blueprint - Small",
-        "description": "A trophy of a prized catch.",
-        "itemCount": 1,
-        "type": "Fish",
-        "tradable": true,
-        "imageName": "fish-trophy-day-common-fish-c.png"
-      },
-      {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
         "name": "Cryotic",
         "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\nLocations: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune.",
@@ -15511,12 +15502,21 @@
       },
       {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishCItemLarge",
-        "name": "Yogwun - Large",
+        "name": "Large Yogwun",
         "description": "This slow fish meanders through the waters and is often preyed upon by larger predators.",
         "itemCount": 1,
         "type": "Fish",
         "tradable": true,
         "imageName": "fish-item-day-common-c.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/TrophyBlueprints/DayCommonFishCTrophyBlueprint",
+        "name": "Small Blueprint",
+        "description": "A trophy of a prized catch.",
+        "itemCount": 1,
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-trophy-day-common-fish-c.png"
       }
     ],
     "imageName": "yogwun-trophy.png",

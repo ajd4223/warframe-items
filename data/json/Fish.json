@@ -1,361 +1,361 @@
 [
   {
-    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/GrineerBootItem",
-    "name": "Boot - Small",
-    "description": "Synthetic fibers and a molded foam insole were the basis for what was once a robust and comfortable combat boot. Now, it's a home for tiny aquatic organisms.",
-    "type": "Fish",
-    "imageName": "boot---small.png",
-    "category": "Fish",
-    "tradable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishAItemLarge",
-    "name": "Charc Eel - Large",
+    "name": "Large Charc Eel",
     "description": "Discharges electricity from luminous glands along its flanks to stun its prey.",
     "type": "Fish",
-    "imageName": "charc-eel---large.png",
-    "category": "Fish",
-    "tradable": true
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishAItemMedium",
-    "name": "Charc Eel - Medium",
-    "description": "Discharges electricity from luminous glands along its flanks to stun its prey.",
-    "type": "Fish",
-    "imageName": "charc-eel---medium.png",
-    "category": "Fish",
-    "tradable": true
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishAItem",
-    "name": "Charc Eel - Small",
-    "description": "Discharges electricity from luminous glands along its flanks to stun its prey.",
-    "type": "Fish",
-    "imageName": "charc-eel---small.png",
+    "imageName": "large-charc-eel.png",
     "category": "Fish",
     "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishBItemLarge",
-    "name": "Cuthol - Large",
+    "name": "Large Cuthol",
     "description": "A grotesque crustacean that produces a potent, paralyzing toxin from its tentacles.",
     "type": "Fish",
-    "imageName": "cuthol---large.png",
-    "category": "Fish",
-    "tradable": true
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishBItemMedium",
-    "name": "Cuthol - Medium",
-    "description": "A grotesque crustacean that produces a potent, paralyzing toxin from its tentacles.",
-    "type": "Fish",
-    "imageName": "cuthol---medium.png",
-    "category": "Fish",
-    "tradable": true
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishBItem",
-    "name": "Cuthol - Small",
-    "description": "A grotesque crustacean that produces a potent, paralyzing toxin from its tentacles.",
-    "type": "Fish",
-    "imageName": "cuthol---small.png",
+    "imageName": "large-cuthol.png",
     "category": "Fish",
     "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightLegendaryFishAItemLarge",
-    "name": "Glappid - Large",
+    "name": "Large Glappid",
     "description": "The Glappid is a scavenger that feasts on the remains of dead fish. It has formed a symbiotic bond with the Seram Beetle which extracts and feeds upon any toxins ingested by the Glappid.",
     "type": "Fish",
-    "imageName": "glappid---large.png",
-    "category": "Fish",
-    "tradable": true
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightLegendaryFishAItemMedium",
-    "name": "Glappid - Medium",
-    "description": "The Glappid is a scavenger that feasts on the remains of dead fish. It has formed a symbiotic bond with the Seram Beetle which extracts and feeds upon any toxins ingested by the Glappid.",
-    "type": "Fish",
-    "imageName": "glappid---medium.png",
-    "category": "Fish",
-    "tradable": true
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightLegendaryFishAItem",
-    "name": "Glappid - Small",
-    "description": "The Glappid is a scavenger that feasts on the remains of dead fish. It has formed a symbiotic bond with the Seram Beetle which extracts and feeds upon any toxins ingested by the Glappid.",
-    "type": "Fish",
-    "imageName": "glappid---small.png",
+    "imageName": "large-glappid.png",
     "category": "Fish",
     "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishBItemLarge",
-    "name": "Goopolla - Large",
+    "name": "Large Goopolla",
     "description": "A predatory fish that is attracted to the scent of blood.",
     "type": "Fish",
-    "imageName": "goopolla---large.png",
-    "category": "Fish",
-    "tradable": true
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishBItemMedium",
-    "name": "Goopolla - Medium",
-    "description": "A predatory fish that is attracted to the scent of blood.",
-    "type": "Fish",
-    "imageName": "goopolla---medium.png",
-    "category": "Fish",
-    "tradable": true
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishBItem",
-    "name": "Goopolla - Small",
-    "description": "A predatory fish that is attracted to the scent of blood.",
-    "type": "Fish",
-    "imageName": "goopolla---small.png",
+    "imageName": "large-goopolla.png",
     "category": "Fish",
     "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishBItemLarge",
-    "name": "Karkina - Large",
+    "name": "Large Karkina",
     "description": "A crustacean that hunts during the twilight hours.",
     "type": "Fish",
-    "imageName": "karkina---large.png",
-    "category": "Fish",
-    "tradable": true
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishBItemMedium",
-    "name": "Karkina - Medium",
-    "description": "A crustacean that hunts during the twilight hours.",
-    "type": "Fish",
-    "imageName": "karkina---medium.png",
-    "category": "Fish",
-    "tradable": true
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishBItem",
-    "name": "Karkina - Small",
-    "description": "A crustacean that hunts during the twilight hours.",
-    "type": "Fish",
-    "imageName": "karkina---small.png",
+    "imageName": "large-karkina.png",
     "category": "Fish",
     "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishBItemLarge",
-    "name": "Khut-Khut - Large",
+    "name": "Large Khut-Khut",
     "description": "A poisonous fish protected by a hardened carapace around its skull.",
     "type": "Fish",
-    "imageName": "khut-khut---large.png",
-    "category": "Fish",
-    "tradable": true
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishBItemMedium",
-    "name": "Khut-Khut - Medium",
-    "description": "A poisonous fish protected by a hardened carapace around its skull.",
-    "type": "Fish",
-    "imageName": "khut-khut---medium.png",
-    "category": "Fish",
-    "tradable": true
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishBItem",
-    "name": "Khut-Khut - Small",
-    "description": "A poisonous fish protected by a hardened carapace around its skull.",
-    "type": "Fish",
-    "imageName": "khut-khut---small.png",
+    "imageName": "large-khut-khut.png",
     "category": "Fish",
     "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishAItemLarge",
-    "name": "Mawfish - Large",
+    "name": "Large Mawfish",
     "description": "Its gaping maw allows it to scoop up smaller fish as it swims by them.",
     "type": "Fish",
-    "imageName": "mawfish---large.png",
-    "category": "Fish",
-    "tradable": true
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishAItemMedium",
-    "name": "Mawfish - Medium",
-    "description": "Its gaping maw allows it to scoop up smaller fish as it swims by them.",
-    "type": "Fish",
-    "imageName": "mawfish---medium.png",
-    "category": "Fish",
-    "tradable": true
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishAItem",
-    "name": "Mawfish - Small",
-    "description": "Its gaping maw allows it to scoop up smaller fish as it swims by them.",
-    "type": "Fish",
-    "imageName": "mawfish---small.png",
+    "imageName": "large-mawfish.png",
     "category": "Fish",
     "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishBItemLarge",
-    "name": "Mortus Lungfish - Large",
+    "name": "Large Mortus Lungfish",
     "description": "Displays blood-spattered pattern on its scales and has its ribs exposed through open cavities along both flanks. When predators approach it lies still at the bottom of the sand banks, disguised as a carcass in hopes of being ignored.",
     "type": "Fish",
-    "imageName": "mortus-lungfish---large.png",
-    "category": "Fish",
-    "tradable": true
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishBItemMedium",
-    "name": "Mortus Lungfish - Medium",
-    "description": "Displays blood-spattered pattern on its scales and has its ribs exposed through open cavities along both flanks. When predators approach it lies still at the bottom of the sand banks, disguised as a carcass in hopes of being ignored.",
-    "type": "Fish",
-    "imageName": "mortus-lungfish---medium.png",
-    "category": "Fish",
-    "tradable": true
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishBItem",
-    "name": "Mortus Lungfish - Small",
-    "description": "Displays blood-spattered pattern on its scales and has its ribs exposed through open cavities along both flanks. When predators approach it lies still at the bottom of the sand banks, disguised as a carcass in hopes of being ignored.",
-    "type": "Fish",
-    "imageName": "mortus-lungfish---small.png",
+    "imageName": "large-mortus-lungfish.png",
     "category": "Fish",
     "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothRareFishAItemLarge",
-    "name": "Murkray - Large",
+    "name": "Large Murkray",
     "description": "A cunning hunter that hides within the mud at the bottom of the ocean and ambushes passing prey.",
     "type": "Fish",
-    "imageName": "murkray---large.png",
-    "category": "Fish",
-    "tradable": true
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothRareFishAItemMedium",
-    "name": "Murkray - Medium",
-    "description": "A cunning hunter that hides within the mud at the bottom of the ocean and ambushes passing prey.",
-    "type": "Fish",
-    "imageName": "murkray---medium.png",
-    "category": "Fish",
-    "tradable": true
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothRareFishAItem",
-    "name": "Murkray - Small",
-    "description": "A cunning hunter that hides within the mud at the bottom of the ocean and ambushes passing prey.",
-    "type": "Fish",
-    "imageName": "murkray---small.png",
+    "imageName": "large-murkray.png",
     "category": "Fish",
     "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishAItemLarge",
-    "name": "Norg - Large",
+    "name": "Large Norg",
     "description": "This fish inhabits the shallows and feeds of crabs and other small crustaceans. When threatened it forces air into its brain to give it the impression of being much bigger than it normally is.",
     "type": "Fish",
-    "imageName": "norg---large.png",
-    "category": "Fish",
-    "tradable": true
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishAItemMedium",
-    "name": "Norg - Medium",
-    "description": "This fish inhabits the shallows and feeds of crabs and other small crustaceans. When threatened it forces air into its brain to give it the impression of being much bigger than it normally is.",
-    "type": "Fish",
-    "imageName": "norg---medium.png",
-    "category": "Fish",
-    "tradable": true
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishAItem",
-    "name": "Norg - Small",
-    "description": "This fish inhabits the shallows and feeds of crabs and other small crustaceans. When threatened it forces air into its brain to give it the impression of being much bigger than it normally is.",
-    "type": "Fish",
-    "imageName": "norg---small.png",
+    "imageName": "large-norg.png",
     "category": "Fish",
     "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishAItemLarge",
-    "name": "Sharrac - Large",
+    "name": "Large Sharrac",
     "description": "While rarely venturing from the deepest waters of the plains, the Sharrac is a fearsome predator who will prey on unwary Ostrons swimming alone.",
     "type": "Fish",
-    "imageName": "sharrac---large.png",
-    "category": "Fish",
-    "tradable": true
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishAItemMedium",
-    "name": "Sharrac - Medium",
-    "description": "While rarely venturing from the deepest waters of the plains, the Sharrac is a fearsome predator who will prey on unwary Ostrons swimming alone.",
-    "type": "Fish",
-    "imageName": "sharrac---medium.png",
-    "category": "Fish",
-    "tradable": true
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishAItem",
-    "name": "Sharrac - Small",
-    "description": "While rarely venturing from the deepest waters of the plains, the Sharrac is a fearsome predator who will prey on unwary Ostrons swimming alone.",
-    "type": "Fish",
-    "imageName": "sharrac---small.png",
+    "imageName": "large-sharrac.png",
     "category": "Fish",
     "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishAItemLarge",
-    "name": "Tralok - Large",
+    "name": "Large Tralok",
     "description": "Strong, predatory fish with eyes that can pierce the darkest shadows.",
     "type": "Fish",
-    "imageName": "tralok---large.png",
-    "category": "Fish",
-    "tradable": true
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishAItemMedium",
-    "name": "Tralok - Medium",
-    "description": "Strong, predatory fish with eyes that can pierce the darkest shadows.",
-    "type": "Fish",
-    "imageName": "tralok---medium.png",
-    "category": "Fish",
-    "tradable": true
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishAItem",
-    "name": "Tralok - Small",
-    "description": "Strong, predatory fish with eyes that can pierce the darkest shadows.",
-    "type": "Fish",
-    "imageName": "tralok---small.png",
+    "imageName": "large-tralok.png",
     "category": "Fish",
     "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishCItemLarge",
-    "name": "Yogwun - Large",
+    "name": "Large Yogwun",
     "description": "This slow fish meanders through the waters and is often preyed upon by larger predators.",
     "type": "Fish",
-    "imageName": "yogwun---large.png",
+    "imageName": "large-yogwun.png",
+    "category": "Fish",
+    "tradable": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishAItemMedium",
+    "name": "Medium Charc Eel",
+    "description": "Discharges electricity from luminous glands along its flanks to stun its prey.",
+    "type": "Fish",
+    "imageName": "medium-charc-eel.png",
+    "category": "Fish",
+    "tradable": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishBItemMedium",
+    "name": "Medium Cuthol",
+    "description": "A grotesque crustacean that produces a potent, paralyzing toxin from its tentacles.",
+    "type": "Fish",
+    "imageName": "medium-cuthol.png",
+    "category": "Fish",
+    "tradable": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightLegendaryFishAItemMedium",
+    "name": "Medium Glappid",
+    "description": "The Glappid is a scavenger that feasts on the remains of dead fish. It has formed a symbiotic bond with the Seram Beetle which extracts and feeds upon any toxins ingested by the Glappid.",
+    "type": "Fish",
+    "imageName": "medium-glappid.png",
+    "category": "Fish",
+    "tradable": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishBItemMedium",
+    "name": "Medium Goopolla",
+    "description": "A predatory fish that is attracted to the scent of blood.",
+    "type": "Fish",
+    "imageName": "medium-goopolla.png",
+    "category": "Fish",
+    "tradable": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishBItemMedium",
+    "name": "Medium Karkina",
+    "description": "A crustacean that hunts during the twilight hours.",
+    "type": "Fish",
+    "imageName": "medium-karkina.png",
+    "category": "Fish",
+    "tradable": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishBItemMedium",
+    "name": "Medium Khut-Khut",
+    "description": "A poisonous fish protected by a hardened carapace around its skull.",
+    "type": "Fish",
+    "imageName": "medium-khut-khut.png",
+    "category": "Fish",
+    "tradable": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishAItemMedium",
+    "name": "Medium Mawfish",
+    "description": "Its gaping maw allows it to scoop up smaller fish as it swims by them.",
+    "type": "Fish",
+    "imageName": "medium-mawfish.png",
+    "category": "Fish",
+    "tradable": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishBItemMedium",
+    "name": "Medium Mortus Lungfish",
+    "description": "Displays blood-spattered pattern on its scales and has its ribs exposed through open cavities along both flanks. When predators approach it lies still at the bottom of the sand banks, disguised as a carcass in hopes of being ignored.",
+    "type": "Fish",
+    "imageName": "medium-mortus-lungfish.png",
+    "category": "Fish",
+    "tradable": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothRareFishAItemMedium",
+    "name": "Medium Murkray",
+    "description": "A cunning hunter that hides within the mud at the bottom of the ocean and ambushes passing prey.",
+    "type": "Fish",
+    "imageName": "medium-murkray.png",
+    "category": "Fish",
+    "tradable": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishAItemMedium",
+    "name": "Medium Norg",
+    "description": "This fish inhabits the shallows and feeds of crabs and other small crustaceans. When threatened it forces air into its brain to give it the impression of being much bigger than it normally is.",
+    "type": "Fish",
+    "imageName": "medium-norg.png",
+    "category": "Fish",
+    "tradable": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishAItemMedium",
+    "name": "Medium Sharrac",
+    "description": "While rarely venturing from the deepest waters of the plains, the Sharrac is a fearsome predator who will prey on unwary Ostrons swimming alone.",
+    "type": "Fish",
+    "imageName": "medium-sharrac.png",
+    "category": "Fish",
+    "tradable": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishAItemMedium",
+    "name": "Medium Tralok",
+    "description": "Strong, predatory fish with eyes that can pierce the darkest shadows.",
+    "type": "Fish",
+    "imageName": "medium-tralok.png",
     "category": "Fish",
     "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishCItemMedium",
-    "name": "Yogwun - Medium",
+    "name": "Medium Yogwun",
     "description": "This slow fish meanders through the waters and is often preyed upon by larger predators.",
     "type": "Fish",
-    "imageName": "yogwun---medium.png",
+    "imageName": "medium-yogwun.png",
+    "category": "Fish",
+    "tradable": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/GrineerBootItem",
+    "name": "Small Boot",
+    "description": "Synthetic fibers and a molded foam insole were the basis for what was once a robust and comfortable combat boot. Now, it's a home for tiny aquatic organisms.",
+    "type": "Fish",
+    "imageName": "small-boot.png",
+    "category": "Fish",
+    "tradable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishAItem",
+    "name": "Small Charc Eel",
+    "description": "Discharges electricity from luminous glands along its flanks to stun its prey.",
+    "type": "Fish",
+    "imageName": "small-charc-eel.png",
+    "category": "Fish",
+    "tradable": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishBItem",
+    "name": "Small Cuthol",
+    "description": "A grotesque crustacean that produces a potent, paralyzing toxin from its tentacles.",
+    "type": "Fish",
+    "imageName": "small-cuthol.png",
+    "category": "Fish",
+    "tradable": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightLegendaryFishAItem",
+    "name": "Small Glappid",
+    "description": "The Glappid is a scavenger that feasts on the remains of dead fish. It has formed a symbiotic bond with the Seram Beetle which extracts and feeds upon any toxins ingested by the Glappid.",
+    "type": "Fish",
+    "imageName": "small-glappid.png",
+    "category": "Fish",
+    "tradable": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishBItem",
+    "name": "Small Goopolla",
+    "description": "A predatory fish that is attracted to the scent of blood.",
+    "type": "Fish",
+    "imageName": "small-goopolla.png",
+    "category": "Fish",
+    "tradable": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishBItem",
+    "name": "Small Karkina",
+    "description": "A crustacean that hunts during the twilight hours.",
+    "type": "Fish",
+    "imageName": "small-karkina.png",
+    "category": "Fish",
+    "tradable": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishBItem",
+    "name": "Small Khut-Khut",
+    "description": "A poisonous fish protected by a hardened carapace around its skull.",
+    "type": "Fish",
+    "imageName": "small-khut-khut.png",
+    "category": "Fish",
+    "tradable": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishAItem",
+    "name": "Small Mawfish",
+    "description": "Its gaping maw allows it to scoop up smaller fish as it swims by them.",
+    "type": "Fish",
+    "imageName": "small-mawfish.png",
+    "category": "Fish",
+    "tradable": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishBItem",
+    "name": "Small Mortus Lungfish",
+    "description": "Displays blood-spattered pattern on its scales and has its ribs exposed through open cavities along both flanks. When predators approach it lies still at the bottom of the sand banks, disguised as a carcass in hopes of being ignored.",
+    "type": "Fish",
+    "imageName": "small-mortus-lungfish.png",
+    "category": "Fish",
+    "tradable": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothRareFishAItem",
+    "name": "Small Murkray",
+    "description": "A cunning hunter that hides within the mud at the bottom of the ocean and ambushes passing prey.",
+    "type": "Fish",
+    "imageName": "small-murkray.png",
+    "category": "Fish",
+    "tradable": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishAItem",
+    "name": "Small Norg",
+    "description": "This fish inhabits the shallows and feeds of crabs and other small crustaceans. When threatened it forces air into its brain to give it the impression of being much bigger than it normally is.",
+    "type": "Fish",
+    "imageName": "small-norg.png",
+    "category": "Fish",
+    "tradable": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishAItem",
+    "name": "Small Sharrac",
+    "description": "While rarely venturing from the deepest waters of the plains, the Sharrac is a fearsome predator who will prey on unwary Ostrons swimming alone.",
+    "type": "Fish",
+    "imageName": "small-sharrac.png",
+    "category": "Fish",
+    "tradable": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishAItem",
+    "name": "Small Tralok",
+    "description": "Strong, predatory fish with eyes that can pierce the darkest shadows.",
+    "type": "Fish",
+    "imageName": "small-tralok.png",
     "category": "Fish",
     "tradable": true
   },
   {
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishCItem",
-    "name": "Yogwun - Small",
+    "name": "Small Yogwun",
     "description": "This slow fish meanders through the waters and is often preyed upon by larger predators.",
     "type": "Fish",
-    "imageName": "yogwun---small.png",
+    "imageName": "small-yogwun.png",
     "category": "Fish",
     "tradable": true
   }

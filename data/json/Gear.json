@@ -1487,67 +1487,6 @@
     "tradable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Game/FishBait/NightRareFishBaitBItem",
-    "name": "Cuthol Bait - Small",
-    "description": "This bait is comprised of materials that are known to attract Cuthols, a fish found only in pond hotspots during the night.",
-    "type": "Fish",
-    "buildPrice": 2000,
-    "buildTime": 300,
-    "skipBuildTimePrice": 5,
-    "buildQuantity": 20,
-    "consumeOnBuild": false,
-    "components": [
-      {
-        "uniqueName": "/Lotus/Types/Recipes/Fishing/FishBaits/NightRareFishBaitBBlueprint",
-        "name": "Blueprint - Small",
-        "description": "This bait is comprised of materials that are known to attract Cuthols, a fish found only in pond hotspots during the night.",
-        "itemCount": 1,
-        "type": "Fish",
-        "tradable": true,
-        "imageName": "fish-bait-night-rare-b.png"
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
-        "name": "Fish Meat",
-        "description": "Used as a source of food and to create bait for predatory fish.",
-        "itemCount": 20,
-        "type": "Fish Part",
-        "tradable": false,
-        "imageName": "fish-resource-meat.png"
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothCommonFishBPartItem",
-        "name": "Goopolla Spleen",
-        "description": "Used in Ostron remedies to purify toxins.",
-        "itemCount": 10,
-        "type": "Fish Part",
-        "tradable": false,
-        "imageName": "fish-resource-flesh-tube.png"
-      },
-      {
-        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/EidolonFruitItem",
-        "name": "Maprico",
-        "description": "This hardy fruit is thick-skinned to withstand harsh conditions, concealing a mouthful of sweet pulp within.",
-        "itemCount": 5,
-        "type": "Resource",
-        "tradable": false,
-        "imageName": "eidolon-fruit.png"
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothRareFishAPartItem",
-        "name": "Murkray Liver",
-        "description": "An ingredient used in Ostron cooking and medicines.",
-        "itemCount": 5,
-        "type": "Fish Part",
-        "tradable": false,
-        "imageName": "fish-resource-organ.png"
-      }
-    ],
-    "imageName": "cuthol-bait---small.png",
-    "category": "Gear",
-    "tradable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Restoratives/Upgraded/ShieldDebuffKey",
     "name": "Decaying Dragon Key",
     "description": "Shields are greatly reduced while key is equipped.",
@@ -2193,67 +2132,6 @@
     "tradable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Game/FishBait/NightLegendaryFishBaitItem",
-    "name": "Glappid Bait - Small",
-    "description": "This bait is comprised of exotic materials that are known to attract the elusive Glappid, a fish found only in ocean hotspots during the night.",
-    "type": "Fish",
-    "buildPrice": 5000,
-    "buildTime": 600,
-    "skipBuildTimePrice": 5,
-    "buildQuantity": 20,
-    "consumeOnBuild": false,
-    "components": [
-      {
-        "uniqueName": "/Lotus/Types/Recipes/Fishing/FishBaits/NightLegendaryFishBaitBlueprint",
-        "name": "Blueprint - Small",
-        "description": "This bait is comprised of exotic materials that are known to attract the elusive Glappid, a fish found only in ocean hotspots during the night.",
-        "itemCount": 1,
-        "type": "Fish",
-        "tradable": true,
-        "imageName": "fish-bait-night-legendary.png"
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightRareFishBPartItem",
-        "name": "Cuthol Tendrils",
-        "description": "Ostrons extract the toxin and apply it to their weapons when hunting animals.",
-        "itemCount": 5,
-        "type": "Fish Part",
-        "tradable": false,
-        "imageName": "fish-resource-sac.png"
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
-        "name": "Fish Meat",
-        "description": "Used as a source of food and to create bait for predatory fish.",
-        "itemCount": 10,
-        "type": "Fish Part",
-        "tradable": false,
-        "imageName": "fish-resource-meat.png"
-      },
-      {
-        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/EidolonFruitItem",
-        "name": "Maprico",
-        "description": "This hardy fruit is thick-skinned to withstand harsh conditions, concealing a mouthful of sweet pulp within.",
-        "itemCount": 5,
-        "type": "Resource",
-        "tradable": false,
-        "imageName": "eidolon-fruit.png"
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightRareFishAPartItem",
-        "name": "Norg Brain",
-        "description": "An Ostron delicacy.",
-        "itemCount": 5,
-        "type": "Fish Part",
-        "tradable": false,
-        "imageName": "fish-resource-brain.png"
-      }
-    ],
-    "imageName": "glappid-bait---small.png",
-    "category": "Gear",
-    "tradable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Restoratives/Consumable/FireWorksCrate",
     "name": "Grand Finale",
     "description": "Want a more spectacular fireworks display to show your patriotism? Celebrate in style with this single use consumable item.",
@@ -2618,15 +2496,6 @@
     "consumeOnBuild": false,
     "components": [
       {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/Boosters/AnglerVisionBlueprint",
-        "name": "Blueprint - Small",
-        "description": "Dyes the waters with a compound that sticks to fish passing through it, making them easier to see from the shore.",
-        "itemCount": 1,
-        "type": "Fish",
-        "tradable": true,
-        "imageName": "fishing-booster-blue.png"
-      },
-      {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "name": "Ferrite",
         "description": "Alloy pellets used in Grineer manufacturing.\nLocations: Mercury, Earth, Lua, Neptune, and the Void.",
@@ -2643,6 +2512,15 @@
         "type": "Resource",
         "tradable": false,
         "imageName": "iradite.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/Boosters/AnglerVisionBlueprint",
+        "name": "Small Blueprint",
+        "description": "Dyes the waters with a compound that sticks to fish passing through it, making them easier to see from the shore.",
+        "itemCount": 1,
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fishing-booster-blue.png"
       }
     ],
     "imageName": "luminos-dye.png",
@@ -2711,67 +2589,6 @@
     "tradable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Game/FishBait/BothRareFishBaitAItem",
-    "name": "Murkray Bait - Small",
-    "description": "This bait is comprised of materials that are known to attract Murkrays, a fish found only in ocean hotspots during both day and night.",
-    "type": "Fish",
-    "buildPrice": 2000,
-    "buildTime": 300,
-    "skipBuildTimePrice": 5,
-    "buildQuantity": 20,
-    "consumeOnBuild": false,
-    "components": [
-      {
-        "uniqueName": "/Lotus/Types/Recipes/Fishing/FishBaits/BothRareFishBaitABlueprint",
-        "name": "Blueprint - Small",
-        "description": "This bait is comprised of materials that are known to attract Murkrays, a fish found only in ocean hotspots during both day and night.",
-        "itemCount": 1,
-        "type": "Fish",
-        "tradable": true,
-        "imageName": "fish-bait-both-rare.png"
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
-        "name": "Fish Meat",
-        "description": "Used as a source of food and to create bait for predatory fish.",
-        "itemCount": 20,
-        "type": "Fish Part",
-        "tradable": false,
-        "imageName": "fish-resource-meat.png"
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothCommonFishBPartItem",
-        "name": "Goopolla Spleen",
-        "description": "Used in Ostron remedies to purify toxins.",
-        "itemCount": 10,
-        "type": "Fish Part",
-        "tradable": false,
-        "imageName": "fish-resource-flesh-tube.png"
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayUncommonFishBPartItem",
-        "name": "Mortus Horn",
-        "description": "The horn of a Mortus Lungfish is ground down into a powder and used by the Ostrons in herbal remedies.",
-        "itemCount": 5,
-        "type": "Fish Part",
-        "tradable": false,
-        "imageName": "fish-resource-horn.png"
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayUncommonFishAPartItem",
-        "name": "Tralok Eyes",
-        "description": "The Ostron boil these into a jelly which forms a strong adhesive when it dries.",
-        "itemCount": 5,
-        "type": "Fish Part",
-        "tradable": false,
-        "imageName": "fish-resource-eyes.png"
-      }
-    ],
-    "imageName": "murkray-bait---small.png",
-    "category": "Gear",
-    "tradable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Restoratives/TitaniaQuest/SpecterSummonKnaveLoki",
     "name": "Nightfall Apothic",
     "description": "Creates an organic compound composed of rare plant species. Effects unknown.",
@@ -2829,67 +2646,6 @@
       }
     ],
     "imageName": "nightfall-apothic.png",
-    "category": "Gear",
-    "tradable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Game/FishBait/NightRareFishBaitAItem",
-    "name": "Norg Bait - Small",
-    "description": "This bait is comprised of materials that are known to attract Norg, a fish found only in lake hotspots during the night.",
-    "type": "Fish",
-    "buildPrice": 2000,
-    "buildTime": 300,
-    "skipBuildTimePrice": 5,
-    "buildQuantity": 20,
-    "consumeOnBuild": false,
-    "components": [
-      {
-        "uniqueName": "/Lotus/Types/Recipes/Fishing/FishBaits/NightRareFishBaitABlueprint",
-        "name": "Blueprint - Small",
-        "description": "This bait is comprised of materials that are known to attract Norg, a fish found only in lake hotspots during the night.",
-        "itemCount": 1,
-        "type": "Fish",
-        "tradable": true,
-        "imageName": "fish-bait-night-rare-a.png"
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
-        "name": "Fish Meat",
-        "description": "Used as a source of food and to create bait for predatory fish.",
-        "itemCount": 20,
-        "type": "Fish Part",
-        "tradable": false,
-        "imageName": "fish-resource-meat.png"
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishBPartItem",
-        "name": "Karkina Antenna",
-        "description": "Ground into a powder this substance can make fires burn hotter for a brief amount of time.",
-        "itemCount": 5,
-        "type": "Fish Part",
-        "tradable": false,
-        "imageName": "fish-resource-antenna.png"
-      },
-      {
-        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/EidolonFruitItem",
-        "name": "Maprico",
-        "description": "This hardy fruit is thick-skinned to withstand harsh conditions, concealing a mouthful of sweet pulp within.",
-        "itemCount": 5,
-        "type": "Resource",
-        "tradable": false,
-        "imageName": "eidolon-fruit.png"
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishAPartItem",
-        "name": "Sharrac Teeth",
-        "description": "These will often adorn ceremonial garb or as a reagent for synthetics.",
-        "itemCount": 5,
-        "type": "Fish Part",
-        "tradable": false,
-        "imageName": "fish-resource-teeth.png"
-      }
-    ],
-    "imageName": "norg-bait---small.png",
     "category": "Gear",
     "tradable": false
   },
@@ -3143,49 +2899,6 @@
     "tradable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Game/FishBait/GenericFishBait",
-    "name": "Peppered Bait - Small",
-    "description": "This bait attracts fish that are active during the day.",
-    "type": "Fish",
-    "buildPrice": 500,
-    "buildTime": 60,
-    "skipBuildTimePrice": 5,
-    "buildQuantity": 20,
-    "consumeOnBuild": false,
-    "components": [
-      {
-        "uniqueName": "/Lotus/Types/Recipes/Fishing/FishBaits/GenericFishBaitBlueprint",
-        "name": "Blueprint - Small",
-        "description": "This bait attracts fish that are active during the day.",
-        "itemCount": 1,
-        "type": "Fish",
-        "tradable": true,
-        "imageName": "fish-bait-generic.png"
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
-        "name": "Fish Meat",
-        "description": "Used as a source of food and to create bait for predatory fish.",
-        "itemCount": 20,
-        "type": "Fish Part",
-        "tradable": false,
-        "imageName": "fish-resource-meat.png"
-      },
-      {
-        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/NistlebrushItem",
-        "name": "Nistlepod",
-        "description": "Used by the Nistlebrush to trap and kill prey.",
-        "itemCount": 20,
-        "type": "Resource",
-        "tradable": false,
-        "imageName": "nistlebrush-item.png"
-      }
-    ],
-    "imageName": "peppered-bait---small.png",
-    "category": "Gear",
-    "tradable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Restoratives/Consumable/FishingBoosts/SoftTouch",
     "name": "Pharoma",
     "description": "A compound that relaxes nearby fish.",
@@ -3206,15 +2919,6 @@
         "imageName": "alloy-plate.png"
       },
       {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/Boosters/SoftTouchBlueprint",
-        "name": "Blueprint - Small",
-        "description": "A compound that relaxes nearby fish.",
-        "itemCount": 1,
-        "type": "Fish",
-        "tradable": true,
-        "imageName": "fishing-booster-yellow.png"
-      },
-      {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/IraditeItem",
         "name": "Iradite",
         "description": "A valuable mineral found on the Plains.",
@@ -3222,6 +2926,15 @@
         "type": "Resource",
         "tradable": false,
         "imageName": "iradite.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/Boosters/SoftTouchBlueprint",
+        "name": "Small Blueprint",
+        "description": "A compound that relaxes nearby fish.",
+        "itemCount": 1,
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fishing-booster-yellow.png"
       }
     ],
     "imageName": "pharoma.png",
@@ -3979,6 +3692,354 @@
     "description": "Restores a bunch of shotgun ammo.",
     "type": "Gear",
     "imageName": "shotgun-ammo-box.png",
+    "category": "Gear",
+    "tradable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/FishBait/NightRareFishBaitBItem",
+    "name": "Small Cuthol Bait",
+    "description": "This bait is comprised of materials that are known to attract Cuthols, a fish found only in pond hotspots during the night.",
+    "type": "Fish",
+    "buildPrice": 2000,
+    "buildTime": 300,
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 20,
+    "consumeOnBuild": false,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
+        "name": "Fish Meat",
+        "description": "Used as a source of food and to create bait for predatory fish.",
+        "itemCount": 20,
+        "type": "Fish Part",
+        "tradable": false,
+        "imageName": "fish-resource-meat.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothCommonFishBPartItem",
+        "name": "Goopolla Spleen",
+        "description": "Used in Ostron remedies to purify toxins.",
+        "itemCount": 10,
+        "type": "Fish Part",
+        "tradable": false,
+        "imageName": "fish-resource-flesh-tube.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/EidolonFruitItem",
+        "name": "Maprico",
+        "description": "This hardy fruit is thick-skinned to withstand harsh conditions, concealing a mouthful of sweet pulp within.",
+        "itemCount": 5,
+        "type": "Resource",
+        "tradable": false,
+        "imageName": "eidolon-fruit.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothRareFishAPartItem",
+        "name": "Murkray Liver",
+        "description": "An ingredient used in Ostron cooking and medicines.",
+        "itemCount": 5,
+        "type": "Fish Part",
+        "tradable": false,
+        "imageName": "fish-resource-organ.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Fishing/FishBaits/NightRareFishBaitBBlueprint",
+        "name": "Small Blueprint",
+        "description": "This bait is comprised of materials that are known to attract Cuthols, a fish found only in pond hotspots during the night.",
+        "itemCount": 1,
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-bait-night-rare-b.png"
+      }
+    ],
+    "imageName": "small-cuthol-bait.png",
+    "category": "Gear",
+    "tradable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/FishBait/NightLegendaryFishBaitItem",
+    "name": "Small Glappid Bait",
+    "description": "This bait is comprised of exotic materials that are known to attract the elusive Glappid, a fish found only in ocean hotspots during the night.",
+    "type": "Fish",
+    "buildPrice": 5000,
+    "buildTime": 600,
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 20,
+    "consumeOnBuild": false,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightRareFishBPartItem",
+        "name": "Cuthol Tendrils",
+        "description": "Ostrons extract the toxin and apply it to their weapons when hunting animals.",
+        "itemCount": 5,
+        "type": "Fish Part",
+        "tradable": false,
+        "imageName": "fish-resource-sac.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
+        "name": "Fish Meat",
+        "description": "Used as a source of food and to create bait for predatory fish.",
+        "itemCount": 10,
+        "type": "Fish Part",
+        "tradable": false,
+        "imageName": "fish-resource-meat.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/EidolonFruitItem",
+        "name": "Maprico",
+        "description": "This hardy fruit is thick-skinned to withstand harsh conditions, concealing a mouthful of sweet pulp within.",
+        "itemCount": 5,
+        "type": "Resource",
+        "tradable": false,
+        "imageName": "eidolon-fruit.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightRareFishAPartItem",
+        "name": "Norg Brain",
+        "description": "An Ostron delicacy.",
+        "itemCount": 5,
+        "type": "Fish Part",
+        "tradable": false,
+        "imageName": "fish-resource-brain.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Fishing/FishBaits/NightLegendaryFishBaitBlueprint",
+        "name": "Small Blueprint",
+        "description": "This bait is comprised of exotic materials that are known to attract the elusive Glappid, a fish found only in ocean hotspots during the night.",
+        "itemCount": 1,
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-bait-night-legendary.png"
+      }
+    ],
+    "imageName": "small-glappid-bait.png",
+    "category": "Gear",
+    "tradable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/FishBait/BothRareFishBaitAItem",
+    "name": "Small Murkray Bait",
+    "description": "This bait is comprised of materials that are known to attract Murkrays, a fish found only in ocean hotspots during both day and night.",
+    "type": "Fish",
+    "buildPrice": 2000,
+    "buildTime": 300,
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 20,
+    "consumeOnBuild": false,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
+        "name": "Fish Meat",
+        "description": "Used as a source of food and to create bait for predatory fish.",
+        "itemCount": 20,
+        "type": "Fish Part",
+        "tradable": false,
+        "imageName": "fish-resource-meat.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothCommonFishBPartItem",
+        "name": "Goopolla Spleen",
+        "description": "Used in Ostron remedies to purify toxins.",
+        "itemCount": 10,
+        "type": "Fish Part",
+        "tradable": false,
+        "imageName": "fish-resource-flesh-tube.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayUncommonFishBPartItem",
+        "name": "Mortus Horn",
+        "description": "The horn of a Mortus Lungfish is ground down into a powder and used by the Ostrons in herbal remedies.",
+        "itemCount": 5,
+        "type": "Fish Part",
+        "tradable": false,
+        "imageName": "fish-resource-horn.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Fishing/FishBaits/BothRareFishBaitABlueprint",
+        "name": "Small Blueprint",
+        "description": "This bait is comprised of materials that are known to attract Murkrays, a fish found only in ocean hotspots during both day and night.",
+        "itemCount": 1,
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-bait-both-rare.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayUncommonFishAPartItem",
+        "name": "Tralok Eyes",
+        "description": "The Ostron boil these into a jelly which forms a strong adhesive when it dries.",
+        "itemCount": 5,
+        "type": "Fish Part",
+        "tradable": false,
+        "imageName": "fish-resource-eyes.png"
+      }
+    ],
+    "imageName": "small-murkray-bait.png",
+    "category": "Gear",
+    "tradable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/FishBait/NightRareFishBaitAItem",
+    "name": "Small Norg Bait",
+    "description": "This bait is comprised of materials that are known to attract Norg, a fish found only in lake hotspots during the night.",
+    "type": "Fish",
+    "buildPrice": 2000,
+    "buildTime": 300,
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 20,
+    "consumeOnBuild": false,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
+        "name": "Fish Meat",
+        "description": "Used as a source of food and to create bait for predatory fish.",
+        "itemCount": 20,
+        "type": "Fish Part",
+        "tradable": false,
+        "imageName": "fish-resource-meat.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishBPartItem",
+        "name": "Karkina Antenna",
+        "description": "Ground into a powder this substance can make fires burn hotter for a brief amount of time.",
+        "itemCount": 5,
+        "type": "Fish Part",
+        "tradable": false,
+        "imageName": "fish-resource-antenna.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/EidolonFruitItem",
+        "name": "Maprico",
+        "description": "This hardy fruit is thick-skinned to withstand harsh conditions, concealing a mouthful of sweet pulp within.",
+        "itemCount": 5,
+        "type": "Resource",
+        "tradable": false,
+        "imageName": "eidolon-fruit.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishAPartItem",
+        "name": "Sharrac Teeth",
+        "description": "These will often adorn ceremonial garb or as a reagent for synthetics.",
+        "itemCount": 5,
+        "type": "Fish Part",
+        "tradable": false,
+        "imageName": "fish-resource-teeth.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Fishing/FishBaits/NightRareFishBaitABlueprint",
+        "name": "Small Blueprint",
+        "description": "This bait is comprised of materials that are known to attract Norg, a fish found only in lake hotspots during the night.",
+        "itemCount": 1,
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-bait-night-rare-a.png"
+      }
+    ],
+    "imageName": "small-norg-bait.png",
+    "category": "Gear",
+    "tradable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/FishBait/GenericFishBait",
+    "name": "Small Peppered Bait",
+    "description": "This bait attracts fish that are active during the day.",
+    "type": "Fish",
+    "buildPrice": 500,
+    "buildTime": 60,
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 20,
+    "consumeOnBuild": false,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
+        "name": "Fish Meat",
+        "description": "Used as a source of food and to create bait for predatory fish.",
+        "itemCount": 20,
+        "type": "Fish Part",
+        "tradable": false,
+        "imageName": "fish-resource-meat.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/NistlebrushItem",
+        "name": "Nistlepod",
+        "description": "Used by the Nistlebrush to trap and kill prey.",
+        "itemCount": 20,
+        "type": "Resource",
+        "tradable": false,
+        "imageName": "nistlebrush-item.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Fishing/FishBaits/GenericFishBaitBlueprint",
+        "name": "Small Blueprint",
+        "description": "This bait attracts fish that are active during the day.",
+        "itemCount": 1,
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-bait-generic.png"
+      }
+    ],
+    "imageName": "small-peppered-bait.png",
+    "category": "Gear",
+    "tradable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/FishBait/BothUncommonFishBaitItem",
+    "name": "Small Twilight Bait",
+    "description": "This bait attracts predatory fish that are active in either day or night.",
+    "type": "Fish",
+    "buildPrice": 1000,
+    "buildTime": 120,
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 20,
+    "consumeOnBuild": false,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
+        "name": "Fish Meat",
+        "description": "Used as a source of food and to create bait for predatory fish.",
+        "itemCount": 20,
+        "type": "Fish Part",
+        "tradable": false,
+        "imageName": "fish-resource-meat.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
+        "name": "Fish Oil",
+        "description": "Used to create absolvents that purify gems.",
+        "itemCount": 10,
+        "type": "Fish Part",
+        "tradable": false,
+        "imageName": "fish-resource-oil.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/EidolonFruitItem",
+        "name": "Maprico",
+        "description": "This hardy fruit is thick-skinned to withstand harsh conditions, concealing a mouthful of sweet pulp within.",
+        "itemCount": 1,
+        "type": "Resource",
+        "tradable": false,
+        "imageName": "eidolon-fruit.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/NistlebrushItem",
+        "name": "Nistlepod",
+        "description": "Used by the Nistlebrush to trap and kill prey.",
+        "itemCount": 10,
+        "type": "Resource",
+        "tradable": false,
+        "imageName": "nistlebrush-item.png"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Fishing/FishBaits/BothUncommonFishBaitBlueprint",
+        "name": "Small Blueprint",
+        "description": "This bait attracts predatory fish that are active in either day or night.",
+        "itemCount": 1,
+        "type": "Fish",
+        "tradable": true,
+        "imageName": "fish-bait-both-uncommon.png"
+      }
+    ],
+    "imageName": "small-twilight-bait.png",
     "category": "Gear",
     "tradable": false
   },
@@ -5118,67 +5179,6 @@
       }
     ],
     "imageName": "twilight-apothic.png",
-    "category": "Gear",
-    "tradable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Game/FishBait/BothUncommonFishBaitItem",
-    "name": "Twilight Bait - Small",
-    "description": "This bait attracts predatory fish that are active in either day or night.",
-    "type": "Fish",
-    "buildPrice": 1000,
-    "buildTime": 120,
-    "skipBuildTimePrice": 5,
-    "buildQuantity": 20,
-    "consumeOnBuild": false,
-    "components": [
-      {
-        "uniqueName": "/Lotus/Types/Recipes/Fishing/FishBaits/BothUncommonFishBaitBlueprint",
-        "name": "Blueprint - Small",
-        "description": "This bait attracts predatory fish that are active in either day or night.",
-        "itemCount": 1,
-        "type": "Fish",
-        "tradable": true,
-        "imageName": "fish-bait-both-uncommon.png"
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
-        "name": "Fish Meat",
-        "description": "Used as a source of food and to create bait for predatory fish.",
-        "itemCount": 20,
-        "type": "Fish Part",
-        "tradable": false,
-        "imageName": "fish-resource-meat.png"
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
-        "name": "Fish Oil",
-        "description": "Used to create absolvents that purify gems.",
-        "itemCount": 10,
-        "type": "Fish Part",
-        "tradable": false,
-        "imageName": "fish-resource-oil.png"
-      },
-      {
-        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/EidolonFruitItem",
-        "name": "Maprico",
-        "description": "This hardy fruit is thick-skinned to withstand harsh conditions, concealing a mouthful of sweet pulp within.",
-        "itemCount": 1,
-        "type": "Resource",
-        "tradable": false,
-        "imageName": "eidolon-fruit.png"
-      },
-      {
-        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/NistlebrushItem",
-        "name": "Nistlepod",
-        "description": "Used by the Nistlebrush to trap and kill prey.",
-        "itemCount": 10,
-        "type": "Resource",
-        "tradable": false,
-        "imageName": "nistlebrush-item.png"
-      }
-    ],
-    "imageName": "twilight-bait---small.png",
     "category": "Gear",
     "tradable": false
   },
