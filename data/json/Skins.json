@@ -3869,6 +3869,15 @@
     "tradable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Dragon/ChromaPrimeHelmet",
+    "name": "Chroma Prime Helmet",
+    "description": "The standard issue helmet for the Chroma Prime Warframe.",
+    "type": "Skin",
+    "imageName": "chroma-prime-helmet.png",
+    "category": "Skins",
+    "tradable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Dragon/SWRThreeTarrasqueHelmet",
     "name": "Chroma Tarrasque Helmet",
     "description": "A helmet for the Chroma Warframe, designed by artarrwen.\n<UGC> TennoGen",
@@ -6532,14 +6541,6 @@
     "category": "Skins",
     "patchlogs": [
       {
-        "name": "Mask of the Revenant: Hotfix 23.6.2",
-        "date": "2018-08-31T20:29:23Z",
-        "url": "https://forums.warframe.com/topic/1004345-mask-of-the-revenant-hotfix-2362/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Decreased Fire Rate and increased recoil to compensate for additional damage"
-      },
-      {
         "name": "Mask of the Revenant: Update 23.5.0",
         "date": "2018-08-24T21:39:09Z",
         "url": "https://forums.warframe.com/topic/1001509-mask-of-the-revenant-update-2350/",
@@ -8603,15 +8604,6 @@
     "imageName": "grineer.png",
     "category": "Skins",
     "patchlogs": [
-      {
-        "name": "Mask of the Revenant: Update 23.6.0",
-        "date": "2018-08-30T16:04:42Z",
-        "url": "https://forums.warframe.com/topic/1003787-mask-of-the-revenant-update-2360/",
-        "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/64179d467e89f2525b45bb65b23618b3.jpg",
-        "additions": "",
-        "changes": "",
-        "fixes": "Cressa Tal and Steel Meridian are marshaling the reconstruction efforts. Tal is in dire need of valuable resources to rebuild the Strata Relay on Earth. Find them, deliver them, and she will reward you for your efforts. Be warned: Sargas Ruk and the Grineer will not make things easy for you, Tenno. Show them that we will not be intimidated."
-      },
       {
         "name": "Mask of the Revenant: Update 23.5.0",
         "date": "2018-08-24T21:39:09Z",
@@ -12487,6 +12479,42 @@
     "description": "A morbidly festive skin for the Imperator.",
     "type": "Skin",
     "imageName": "imperator-day-of-the-dead-skin.png",
+    "category": "Skins",
+    "tradable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeChromaCape",
+    "name": "Impetus Prime Syandana",
+    "description": "A blade-like cut in regal red-and-gold, reminiscent of the elite honor guards of ancient Mars.",
+    "type": "Skin",
+    "imageName": "impetus-prime-syandana.png",
+    "category": "Skins",
+    "tradable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Armor/ChromaPrimeArmor/ChromaPrimeArmorC",
+    "name": "Imugi Prime Chest Plate",
+    "description": "Martial. Regal. Malevolent. A face to foster fear in all foes.",
+    "type": "Skin",
+    "imageName": "imugi-prime-chest-plate.png",
+    "category": "Skins",
+    "tradable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Armor/ChromaPrimeArmor/ChromaPrimeArmorL",
+    "name": "Imugi Prime Leg Plates",
+    "description": "Martial. Regal. Malevolent. A face to foster fear in all foes.",
+    "type": "Skin",
+    "imageName": "imugi-prime-leg-plates.png",
+    "category": "Skins",
+    "tradable": false
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Armor/ChromaPrimeArmor/ChromaPrimeArmorA",
+    "name": "Imugi Prime Shoulder Plates",
+    "description": "Martial. Regal. Malevolent. A face to foster fear in all foes.",
+    "type": "Skin",
+    "imageName": "imugi-prime-shoulder-plates.png",
     "category": "Skins",
     "tradable": false
   },
@@ -19567,15 +19595,6 @@
     "category": "Skins",
     "patchlogs": [
       {
-        "name": "Mask of the Revenant: Update 23.6.0",
-        "date": "2018-08-30T16:04:42Z",
-        "url": "https://forums.warframe.com/topic/1003787-mask-of-the-revenant-update-2360/",
-        "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/64179d467e89f2525b45bb65b23618b3.jpg",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed excessive bloom on the tubes in Orokin Engine Room."
-      },
-      {
         "name": "The Sacrifice: Hotfix 23.0.5",
         "date": "2018-06-22T19:07:35Z",
         "url": "https://forums.warframe.com/topic/972941-the-sacrifice-hotfix-2305/",
@@ -23230,6 +23249,15 @@
     "tradable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/TwitchPrimeMeleeDangle",
+    "name": "Spektaka Prime Sugatra",
+    "description": "See and be seen with this captivating Sugatra.",
+    "type": "Skin",
+    "imageName": "spektaka-prime-sugatra.png",
+    "category": "Skins",
+    "tradable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenSpira",
     "name": "Spira Day Of The Dead Skin",
     "description": "A morbidly festive skin for the Spira.",
@@ -23282,15 +23310,6 @@
     "imageName": "storm.png",
     "category": "Skins",
     "patchlogs": [
-      {
-        "name": "Mask of the Revenant: Update 23.6.0",
-        "date": "2018-08-30T16:04:42Z",
-        "url": "https://forums.warframe.com/topic/1003787-mask-of-the-revenant-update-2360/",
-        "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/64179d467e89f2525b45bb65b23618b3.jpg",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed Splinter Storm not renewing if Mass Vitrify ends just as it touches them. "
-      },
       {
         "name": "The Sacrifice: Update 23.4.0",
         "date": "2018-08-16T21:06:52Z",
@@ -23767,6 +23786,15 @@
     "tradable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Skins/DesertTaxonSkin",
+    "name": "Taxon Desert-Camo Skin",
+    "description": "Desert camouflage skin for the Taxon Sentinel.",
+    "type": "Skin",
+    "imageName": "taxon-desert-camo-skin.png",
+    "category": "Skins",
+    "tradable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Nezha/NezhaDeluxeDaggerSkin",
     "name": "Teng Dagger Skin",
     "description": "Doom in the sting of a serpent’s tooth.",
@@ -23783,15 +23811,6 @@
     "imageName": "tenno.png",
     "category": "Skins",
     "patchlogs": [
-      {
-        "name": "Mask of the Revenant: Update 23.6.0",
-        "date": "2018-08-30T16:04:42Z",
-        "url": "https://forums.warframe.com/topic/1003787-mask-of-the-revenant-update-2360/",
-        "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/64179d467e89f2525b45bb65b23618b3.jpg",
-        "additions": "",
-        "changes": "",
-        "fixes": "Cressa Tal and Steel Meridian are marshaling the reconstruction efforts. Tal is in dire need of valuable resources to rebuild the Strata Relay on Earth. Find them, deliver them, and she will reward you for your efforts. Be warned: Sargas Ruk and the Grineer will not make things easy for you, Tenno. Show them that we will not be intimidated."
-      },
       {
         "name": "Mask of the Revenant: Update 23.5.0",
         "date": "2018-08-24T21:39:09Z",
@@ -25308,6 +25327,15 @@
     "description": "A special emblem worn only by a select few Tenno.",
     "type": "Skin",
     "imageName": "tenno-chronicler-emblem.png",
+    "category": "Skins",
+    "tradable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerDefaultsItemB",
+    "name": "Tenno Ii",
+    "description": "Unlocks additional color options reflecting the default colors used on each standard Warframe.",
+    "type": "Misc",
+    "imageName": "tenno-ii.png",
     "category": "Skins",
     "tradable": false
   },

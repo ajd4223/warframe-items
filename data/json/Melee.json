@@ -5540,6 +5540,30 @@
             "type": "Relics",
             "rarity": "Uncommon",
             "chance": 0.1
+          },
+          {
+            "location": "Meso D3 Intact",
+            "type": "Relics",
+            "rarity": "Rare",
+            "chance": 0.02
+          },
+          {
+            "location": "Meso D3 Exceptional",
+            "type": "Relics",
+            "rarity": "Rare",
+            "chance": 0.04
+          },
+          {
+            "location": "Meso D3 Flawless",
+            "type": "Relics",
+            "rarity": "Rare",
+            "chance": 0.06
+          },
+          {
+            "location": "Meso D3 Radiant",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.1
           }
         ]
       },
@@ -5553,6 +5577,30 @@
         "tradable": true,
         "imageName": "blueprint.png",
         "drops": [
+          {
+            "location": "Axi K4 Intact",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.11
+          },
+          {
+            "location": "Axi K4 Exceptional",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.13
+          },
+          {
+            "location": "Axi K4 Flawless",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.17
+          },
+          {
+            "location": "Axi K4 Radiant",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.2
+          },
           {
             "location": "Neo B5 Intact",
             "type": "Relics",
@@ -5609,6 +5657,30 @@
           },
           {
             "location": "Axi O3 Radiant",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.16670000000000001
+          },
+          {
+            "location": "Axi O4 Intact",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.25329999999999997
+          },
+          {
+            "location": "Axi O4 Exceptional",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.23329999999999998
+          },
+          {
+            "location": "Axi O4 Flawless",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.2
+          },
+          {
+            "location": "Axi O4 Radiant",
             "type": "Relics",
             "rarity": "Uncommon",
             "chance": 0.16670000000000001
@@ -8756,6 +8828,30 @@
             "chance": 0.16670000000000001
           },
           {
+            "location": "Neo H2 Intact",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.25329999999999997
+          },
+          {
+            "location": "Neo H2 Exceptional",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.23329999999999998
+          },
+          {
+            "location": "Neo H2 Flawless",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.2
+          },
+          {
+            "location": "Neo H2 Radiant",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.16670000000000001
+          },
+          {
             "location": "Neo N2 Intact",
             "type": "Relics",
             "rarity": "Uncommon",
@@ -8907,6 +9003,30 @@
           },
           {
             "location": "Lith Z1 Radiant",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.16670000000000001
+          },
+          {
+            "location": "Meso D3 Intact",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.25329999999999997
+          },
+          {
+            "location": "Meso D3 Exceptional",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.23329999999999998
+          },
+          {
+            "location": "Meso D3 Flawless",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.2
+          },
+          {
+            "location": "Meso D3 Radiant",
             "type": "Relics",
             "rarity": "Uncommon",
             "chance": 0.16670000000000001
@@ -12019,6 +12139,174 @@
     "tradable": false
   },
   {
+    "name": "Gram Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/PrimeGram/PrimeGram",
+    "secondsPerShot": 1.2499999,
+    "damagePerShot": [ 54.431999, 13.608, 204.12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "magazineSize": 0,
+    "reloadTime": 0,
+    "totalDamage": 272.16,
+    "damagePerSecond": 218,
+    "trigger": "Melee",
+    "description": "Born anew, the father of swords returns.",
+    "accuracy": 100,
+    "criticalChance": 0.31999999,
+    "criticalMultiplier": 2.5999999,
+    "procChance": 0.31999999,
+    "fireRate": 0.80000007,
+    "chargeAttack": 180,
+    "spinAttack": 180,
+    "leapAttack": 180,
+    "wallAttack": 180,
+    "slot": 5,
+    "noise": "Alarming",
+    "sentinel": false,
+    "masteryReq": 14,
+    "omegaAttenuation": 1.4400001,
+    "type": "Heavy Blade",
+    "buildPrice": 15000,
+    "buildTime": 43200,
+    "skipBuildTimePrice": 50,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/GramPrimeBlade",
+        "name": "Blade",
+        "description": "A prime weapon-crafting component.",
+        "itemCount": 1,
+        "type": "Misc",
+        "ducats": 15,
+        "tradable": true,
+        "imageName": "generic-weapon-prime-blade.png",
+        "drops": [
+          {
+            "location": "Meso S8 Intact",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.25329999999999997
+          },
+          {
+            "location": "Meso S8 Exceptional",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.23329999999999998
+          },
+          {
+            "location": "Meso S8 Flawless",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.2
+          },
+          {
+            "location": "Meso S8 Radiant",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.16670000000000001
+          }
+        ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/GramPrimeBlueprint",
+        "name": "Blueprint",
+        "description": "Born anew, the father of swords returns.",
+        "itemCount": 1,
+        "type": "Misc",
+        "ducats": 45,
+        "tradable": true,
+        "imageName": "blueprint.png",
+        "drops": [
+          {
+            "location": "Axi O4 Intact",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.11
+          },
+          {
+            "location": "Axi O4 Exceptional",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.13
+          },
+          {
+            "location": "Axi O4 Flawless",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.17
+          },
+          {
+            "location": "Axi O4 Radiant",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.2
+          }
+        ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/GramPrimeHandle",
+        "name": "Handle",
+        "description": "A prime weapon-crafting component.",
+        "itemCount": 1,
+        "type": "Misc",
+        "ducats": 100,
+        "tradable": true,
+        "imageName": "generic-weapon-prime-hilt.png",
+        "drops": [
+          {
+            "location": "Neo G1 Intact",
+            "type": "Relics",
+            "rarity": "Rare",
+            "chance": 0.02
+          },
+          {
+            "location": "Neo G1 Exceptional",
+            "type": "Relics",
+            "rarity": "Rare",
+            "chance": 0.04
+          },
+          {
+            "location": "Neo G1 Flawless",
+            "type": "Relics",
+            "rarity": "Rare",
+            "chance": 0.06
+          },
+          {
+            "location": "Neo G1 Radiant",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.1
+          }
+        ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "description": "Ancient energy cell from the Orokin era.\nLocations: Ceres, Saturn, and Orokin Derelicts.",
+        "itemCount": 15,
+        "type": "Misc",
+        "tradable": false,
+        "imageName": "component-cell.png"
+      }
+    ],
+    "imageName": "gram-prime.png",
+    "category": "Melee",
+    "channeling": 1.5,
+    "damage": "180.0",
+    "damageTypes": {
+      "impact": 36,
+      "slash": 135,
+      "puncture": 9
+    },
+    "polarities": [ "Madurai", "Madurai" ],
+    "stancePolarity": "Vazarin",
+    "tags": [ "Tenno" ],
+    "vaulted": false,
+    "wikiaThumbnail": "https://vignette.wikia.nocookie.net/warframe/images/a/ad/GramPrime.png/revision/latest?cb=20180925193624",
+    "wikiaUrl": "http://warframe.wikia.com/wiki/Gram_Prime",
+    "disposition": 5,
+    "tradable": true
+  },
+  {
     "name": "Guandao",
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/Polearms/TnGuandaoPolearm/TnGuandaoPolearmWeapon",
     "secondsPerShot": 1.1999999,
@@ -14538,6 +14826,30 @@
         "imageName": "blueprint.png",
         "drops": [
           {
+            "location": "Axi K4 Intact",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.11
+          },
+          {
+            "location": "Axi K4 Exceptional",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.13
+          },
+          {
+            "location": "Axi K4 Flawless",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.17
+          },
+          {
+            "location": "Axi K4 Radiant",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.2
+          },
+          {
             "location": "Axi V7 Intact",
             "type": "Relics",
             "rarity": "Uncommon",
@@ -14593,6 +14905,30 @@
           },
           {
             "location": "Axi A3 Radiant",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.16670000000000001
+          },
+          {
+            "location": "Neo G1 Intact",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.25329999999999997
+          },
+          {
+            "location": "Neo G1 Exceptional",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.23329999999999998
+          },
+          {
+            "location": "Neo G1 Flawless",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.2
+          },
+          {
+            "location": "Neo G1 Radiant",
             "type": "Relics",
             "rarity": "Uncommon",
             "chance": 0.16670000000000001
@@ -14653,6 +14989,30 @@
           },
           {
             "location": "Neo K1 Radiant",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.1
+          },
+          {
+            "location": "Neo K2 Intact",
+            "type": "Relics",
+            "rarity": "Rare",
+            "chance": 0.02
+          },
+          {
+            "location": "Neo K2 Exceptional",
+            "type": "Relics",
+            "rarity": "Rare",
+            "chance": 0.04
+          },
+          {
+            "location": "Neo K2 Flawless",
+            "type": "Relics",
+            "rarity": "Rare",
+            "chance": 0.06
+          },
+          {
+            "location": "Neo K2 Radiant",
             "type": "Relics",
             "rarity": "Uncommon",
             "chance": 0.1
@@ -15065,6 +15425,30 @@
             "type": "Relics",
             "rarity": "Uncommon",
             "chance": 0.1
+          },
+          {
+            "location": "Axi K4 Intact",
+            "type": "Relics",
+            "rarity": "Rare",
+            "chance": 0.02
+          },
+          {
+            "location": "Axi K4 Exceptional",
+            "type": "Relics",
+            "rarity": "Rare",
+            "chance": 0.04
+          },
+          {
+            "location": "Axi K4 Flawless",
+            "type": "Relics",
+            "rarity": "Rare",
+            "chance": 0.06
+          },
+          {
+            "location": "Axi K4 Radiant",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.1
           }
         ]
       },
@@ -15098,6 +15482,30 @@
           },
           {
             "location": "Axi H3 Radiant",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.16670000000000001
+          },
+          {
+            "location": "Neo A2 Intact",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.25329999999999997
+          },
+          {
+            "location": "Neo A2 Exceptional",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.23329999999999998
+          },
+          {
+            "location": "Neo A2 Flawless",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.2
+          },
+          {
+            "location": "Neo A2 Radiant",
             "type": "Relics",
             "rarity": "Uncommon",
             "chance": 0.16670000000000001
@@ -15158,6 +15566,30 @@
           },
           {
             "location": "Meso B2 Radiant",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.2
+          },
+          {
+            "location": "Meso D3 Intact",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.11
+          },
+          {
+            "location": "Meso D3 Exceptional",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.13
+          },
+          {
+            "location": "Meso D3 Flawless",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.17
+          },
+          {
+            "location": "Meso D3 Radiant",
             "type": "Relics",
             "rarity": "Uncommon",
             "chance": 0.2
@@ -16713,6 +17145,30 @@
             "chance": 0.16670000000000001
           },
           {
+            "location": "Lith Z2 Intact",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.25329999999999997
+          },
+          {
+            "location": "Lith Z2 Exceptional",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.23329999999999998
+          },
+          {
+            "location": "Lith Z2 Flawless",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.2
+          },
+          {
+            "location": "Lith Z2 Radiant",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.16670000000000001
+          },
+          {
             "location": "Meso C3 Intact",
             "type": "Relics",
             "rarity": "Uncommon",
@@ -16792,6 +17248,30 @@
           },
           {
             "location": "Lith H1 Radiant",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.2
+          },
+          {
+            "location": "Meso D3 Intact",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.11
+          },
+          {
+            "location": "Meso D3 Exceptional",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.13
+          },
+          {
+            "location": "Meso D3 Flawless",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.17
+          },
+          {
+            "location": "Meso D3 Radiant",
             "type": "Relics",
             "rarity": "Uncommon",
             "chance": 0.2
@@ -18567,6 +19047,30 @@
           },
           {
             "location": "Lith B3 Radiant",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.2
+          },
+          {
+            "location": "Lith B5 Intact",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.11
+          },
+          {
+            "location": "Lith B5 Exceptional",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.13
+          },
+          {
+            "location": "Lith B5 Flawless",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.17
+          },
+          {
+            "location": "Lith B5 Radiant",
             "type": "Relics",
             "rarity": "Uncommon",
             "chance": 0.2
@@ -22746,6 +23250,30 @@
             "chance": 0.2
           },
           {
+            "location": "Lith Z2 Intact",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.11
+          },
+          {
+            "location": "Lith Z2 Exceptional",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.13
+          },
+          {
+            "location": "Lith Z2 Flawless",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.17
+          },
+          {
+            "location": "Lith Z2 Radiant",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.2
+          },
+          {
             "location": "Meso V5 Intact",
             "type": "Relics",
             "rarity": "Uncommon",
@@ -22841,6 +23369,30 @@
         "tradable": true,
         "imageName": "generic-weapon-prime-hilt.png",
         "drops": [
+          {
+            "location": "Lith C3 Intact",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.25329999999999997
+          },
+          {
+            "location": "Lith C3 Exceptional",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.23329999999999998
+          },
+          {
+            "location": "Lith C3 Flawless",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.2
+          },
+          {
+            "location": "Lith C3 Radiant",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.16670000000000001
+          },
           {
             "location": "Meso B2 Intact",
             "type": "Relics",
@@ -25274,15 +25826,6 @@
     "imageName": "war.png",
     "category": "Melee",
     "patchlogs": [
-      {
-        "name": "Mask of the Revenant: Update 23.6.0",
-        "date": "2018-08-30T16:04:42Z",
-        "url": "https://forums.warframe.com/topic/1003787-mask-of-the-revenant-update-2360/",
-        "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/64179d467e89f2525b45bb65b23618b3.jpg",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed a bug that let you get outside the level during The War Within. "
-      },
       {
         "name": "Mask of the Revenant: Update 23.5.0",
         "date": "2018-08-24T21:39:09Z",

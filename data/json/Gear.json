@@ -2658,7 +2658,7 @@
     "category": "Gear",
     "drops": [
       {
-        "location": "Ceres - Lex",
+        "location": "Eris - Cosis",
         "type": "Mission Rewards",
         "rarity": "Legendary",
         "chance": 0.0034000000000000002
@@ -2736,13 +2736,13 @@
         "chance": 0.0034000000000000002
       },
       {
-        "location": "Venus - Venera",
+        "location": "Ceres - Lex",
         "type": "Mission Rewards",
         "rarity": "Legendary",
         "chance": 0.0034000000000000002
       },
       {
-        "location": "Eris - Cosis",
+        "location": "Venus - Venera",
         "type": "Mission Rewards",
         "rarity": "Legendary",
         "chance": 0.0034000000000000002
@@ -2788,6 +2788,18 @@
       },
       {
         "location": "Europa - Beleth",
+        "type": "Mission Rewards",
+        "rarity": "Legendary",
+        "chance": 0.0034000000000000002
+      },
+      {
+        "location": "Void - Hepit",
+        "type": "Mission Rewards",
+        "rarity": "Legendary",
+        "chance": 0.0034000000000000002
+      },
+      {
+        "location": "Void - Ukko",
         "type": "Mission Rewards",
         "rarity": "Legendary",
         "chance": 0.0034000000000000002

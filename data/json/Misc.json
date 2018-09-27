@@ -256,10 +256,10 @@
         "rotation": "C"
       },
       {
-        "location": "Neptune - Halimede",
+        "location": "Void - Marduk",
         "type": "Mission Rewards",
         "rarity": "Rare",
-        "chance": 0.0367,
+        "chance": 0.0442,
         "rotation": "C"
       },
       {
@@ -284,7 +284,21 @@
         "rotation": "C"
       },
       {
+        "location": "Neptune - Halimede",
+        "type": "Mission Rewards",
+        "rarity": "Rare",
+        "chance": 0.0367,
+        "rotation": "C"
+      },
+      {
         "location": "Pluto - Charon",
+        "type": "Mission Rewards",
+        "rarity": "Rare",
+        "chance": 0.0367,
+        "rotation": "C"
+      },
+      {
+        "location": "Sedna - Kelpie",
         "type": "Mission Rewards",
         "rarity": "Rare",
         "chance": 0.0367,
@@ -305,7 +319,7 @@
         "rotation": "C"
       },
       {
-        "location": "Sedna - Kelpie",
+        "location": "Void - Stribog",
         "type": "Mission Rewards",
         "rarity": "Rare",
         "chance": 0.0367,
@@ -340,13 +354,6 @@
         "rotation": "C"
       },
       {
-        "location": "Mars - Gradivus",
-        "type": "Mission Rewards",
-        "rarity": "Legendary",
-        "chance": 0.0067,
-        "rotation": "C"
-      },
-      {
         "location": "Mercury - Neruda",
         "type": "Mission Rewards",
         "rarity": "Legendary",
@@ -354,14 +361,21 @@
         "rotation": "C"
       },
       {
-        "location": "Mercury - Terminus",
+        "location": "Venus - Ishtar",
         "type": "Mission Rewards",
         "rarity": "Legendary",
         "chance": 0.0067,
         "rotation": "C"
       },
       {
-        "location": "Venus - Ishtar",
+        "location": "Mars - Gradivus",
+        "type": "Mission Rewards",
+        "rarity": "Legendary",
+        "chance": 0.0067,
+        "rotation": "C"
+      },
+      {
+        "location": "Mercury - Terminus",
         "type": "Mission Rewards",
         "rarity": "Legendary",
         "chance": 0.0067,
@@ -382,11 +396,11 @@
         "rotation": "(Extra)"
       },
       {
-        "location": "Saturn - Variant",
+        "location": "Neptune - Cephalon",
         "type": "Mission Rewards",
         "rarity": "Legendary",
         "chance": 0.0025,
-        "rotation": "Annihilation"
+        "rotation": "rewards"
       },
       {
         "location": "Saturn - Variant",
@@ -396,11 +410,11 @@
         "rotation": "Capture"
       },
       {
-        "location": "Neptune - Cephalon",
+        "location": "Saturn - Variant",
         "type": "Mission Rewards",
         "rarity": "Legendary",
         "chance": 0.0025,
-        "rotation": "rewards"
+        "rotation": "Capture"
       },
       {
         "location": "Saturn - Lunaro",
@@ -463,7 +477,7 @@
         "type": "Mission Rewards",
         "rarity": "Legendary",
         "chance": 0.0025,
-        "rotation": "Capture"
+        "rotation": "Annihilation"
       }
     ],
     "patchlogs": [
@@ -2423,7 +2437,7 @@
       {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/BirdOfPreyPartItem",
         "name": "Condroc Wing",
-        "description": "The talon on a condroc's wing is is sharp enough to tear through bone.",
+        "description": "The talon on a condroc's wing is sharp enough to tear through bone.",
         "itemCount": 5,
         "type": "Resource",
         "tradable": false,
@@ -2491,7 +2505,7 @@
       {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/BirdOfPreyPartItem",
         "name": "Condroc Wing",
-        "description": "The talon on a condroc's wing is is sharp enough to tear through bone.",
+        "description": "The talon on a condroc's wing is sharp enough to tear through bone.",
         "itemCount": 5,
         "type": "Resource",
         "tradable": false,
@@ -2559,7 +2573,7 @@
       {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/BirdOfPreyPartItem",
         "name": "Condroc Wing",
-        "description": "The talon on a condroc's wing is is sharp enough to tear through bone.",
+        "description": "The talon on a condroc's wing is sharp enough to tear through bone.",
         "itemCount": 5,
         "type": "Resource",
         "tradable": false,
@@ -2654,7 +2668,7 @@
       {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/BirdOfPreyPartItem",
         "name": "Condroc Wing",
-        "description": "The talon on a condroc's wing is is sharp enough to tear through bone.",
+        "description": "The talon on a condroc's wing is sharp enough to tear through bone.",
         "itemCount": 5,
         "type": "Resource",
         "tradable": false,
@@ -2704,7 +2718,7 @@
       {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/BirdOfPreyPartItem",
         "name": "Condroc Wing",
-        "description": "The talon on a condroc's wing is is sharp enough to tear through bone.",
+        "description": "The talon on a condroc's wing is sharp enough to tear through bone.",
         "itemCount": 5,
         "type": "Resource",
         "tradable": false,
@@ -2790,7 +2804,7 @@
       {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/BirdOfPreyPartItem",
         "name": "Condroc Wing",
-        "description": "The talon on a condroc's wing is is sharp enough to tear through bone.",
+        "description": "The talon on a condroc's wing is sharp enough to tear through bone.",
         "itemCount": 5,
         "type": "Resource",
         "tradable": false,
@@ -3310,6 +3324,30 @@
             "chance": 0.16670000000000001
           },
           {
+            "location": "Axi C3 Intact",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.25329999999999997
+          },
+          {
+            "location": "Axi C3 Exceptional",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.23329999999999998
+          },
+          {
+            "location": "Axi C3 Flawless",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.2
+          },
+          {
+            "location": "Axi C3 Radiant",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.16670000000000001
+          },
+          {
             "location": "Axi E1 Intact",
             "type": "Relics",
             "rarity": "Uncommon",
@@ -3473,6 +3511,30 @@
           },
           {
             "location": "Axi K2 Radiant",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.16670000000000001
+          },
+          {
+            "location": "Axi K4 Intact",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.25329999999999997
+          },
+          {
+            "location": "Axi K4 Exceptional",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.23329999999999998
+          },
+          {
+            "location": "Axi K4 Flawless",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.2
+          },
+          {
+            "location": "Axi K4 Radiant",
             "type": "Relics",
             "rarity": "Uncommon",
             "chance": 0.16670000000000001
@@ -4126,6 +4188,30 @@
             "chance": 0.2
           },
           {
+            "location": "Lith O1 Intact",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.11
+          },
+          {
+            "location": "Lith O1 Exceptional",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.13
+          },
+          {
+            "location": "Lith O1 Flawless",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.17
+          },
+          {
+            "location": "Lith O1 Radiant",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.2
+          },
+          {
             "location": "Lith P1 Intact",
             "type": "Relics",
             "rarity": "Uncommon",
@@ -4364,6 +4450,30 @@
             "type": "Relics",
             "rarity": "Uncommon",
             "chance": 0.2
+          },
+          {
+            "location": "Lith Z2 Intact",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.25329999999999997
+          },
+          {
+            "location": "Lith Z2 Exceptional",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.23329999999999998
+          },
+          {
+            "location": "Lith Z2 Flawless",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.2
+          },
+          {
+            "location": "Lith Z2 Radiant",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.16670000000000001
           },
           {
             "location": "Meso B1 Intact",
@@ -4822,6 +4932,30 @@
             "chance": 0.16670000000000001
           },
           {
+            "location": "Meso S8 Intact",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.25329999999999997
+          },
+          {
+            "location": "Meso S8 Exceptional",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.23329999999999998
+          },
+          {
+            "location": "Meso S8 Flawless",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.2
+          },
+          {
+            "location": "Meso S8 Radiant",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.16670000000000001
+          },
+          {
             "location": "Meso T1 Intact",
             "type": "Relics",
             "rarity": "Uncommon",
@@ -4865,6 +4999,30 @@
           },
           {
             "location": "Meso T2 Radiant",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.16670000000000001
+          },
+          {
+            "location": "Meso T3 Intact",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.25329999999999997
+          },
+          {
+            "location": "Meso T3 Exceptional",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.23329999999999998
+          },
+          {
+            "location": "Meso T3 Flawless",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.2
+          },
+          {
+            "location": "Meso T3 Radiant",
             "type": "Relics",
             "rarity": "Uncommon",
             "chance": 0.16670000000000001
@@ -5012,6 +5170,30 @@
             "type": "Relics",
             "rarity": "Uncommon",
             "chance": 0.16670000000000001
+          },
+          {
+            "location": "Neo A2 Intact",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.11
+          },
+          {
+            "location": "Neo A2 Exceptional",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.13
+          },
+          {
+            "location": "Neo A2 Flawless",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.17
+          },
+          {
+            "location": "Neo A2 Radiant",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.2
           },
           {
             "location": "Neo B2 Intact",
@@ -5180,6 +5362,30 @@
             "type": "Relics",
             "rarity": "Uncommon",
             "chance": 0.2
+          },
+          {
+            "location": "Neo G1 Intact",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.25329999999999997
+          },
+          {
+            "location": "Neo G1 Exceptional",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.23329999999999998
+          },
+          {
+            "location": "Neo G1 Flawless",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.2
+          },
+          {
+            "location": "Neo G1 Radiant",
+            "type": "Relics",
+            "rarity": "Uncommon",
+            "chance": 0.16670000000000001
           },
           {
             "location": "Neo N1 Intact",
@@ -6761,7 +6967,7 @@
       {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/BirdOfPreyPartItem",
         "name": "Condroc Wing",
-        "description": "The talon on a condroc's wing is is sharp enough to tear through bone.",
+        "description": "The talon on a condroc's wing is sharp enough to tear through bone.",
         "itemCount": 2,
         "type": "Resource",
         "tradable": false,
@@ -6829,7 +7035,7 @@
       {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/BirdOfPreyPartItem",
         "name": "Condroc Wing",
-        "description": "The talon on a condroc's wing is is sharp enough to tear through bone.",
+        "description": "The talon on a condroc's wing is sharp enough to tear through bone.",
         "itemCount": 2,
         "type": "Resource",
         "tradable": false,
@@ -8584,15 +8790,6 @@
     "imageName": "mark.png",
     "category": "Misc",
     "patchlogs": [
-      {
-        "name": "Mask of the Revenant: Update 23.6.0",
-        "date": "2018-08-30T16:04:42Z",
-        "url": "https://forums.warframe.com/topic/1003787-mask-of-the-revenant-update-2360/",
-        "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/64179d467e89f2525b45bb65b23618b3.jpg",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed navigating the cursor over the search field in the Market blocking other inputs.  "
-      },
       {
         "name": "The Sacrifice: Update 23.2.0",
         "date": "2018-08-02T15:02:26Z",
@@ -10860,14 +11057,14 @@
         "location": "Derelict - Orokin",
         "type": "Mission Rewards",
         "rarity": "Uncommon",
-        "chance": 0.125,
+        "chance": 0.1,
         "rotation": "Survival"
       },
       {
         "location": "Orokin Derelict Survival",
         "type": "Key Rewards",
         "rarity": "Uncommon",
-        "chance": 0.125
+        "chance": 0.1
       },
       {
         "location": "Eris - Candiru",
@@ -11303,7 +11500,7 @@
         "chance": 0.0412
       },
       {
-        "location": "Pluto - Charon",
+        "location": "Pluto - Cypress",
         "type": "Mission Rewards",
         "rarity": "Rare",
         "chance": 0.02,
@@ -11317,7 +11514,7 @@
         "rotation": "rewards"
       },
       {
-        "location": "Sedna - Kelpie",
+        "location": "Void - Stribog",
         "type": "Mission Rewards",
         "rarity": "Rare",
         "chance": 0.02,
@@ -11345,14 +11542,21 @@
         "rotation": "C"
       },
       {
-        "location": "Sedna - Phithale",
+        "location": "Pluto - Charon",
         "type": "Mission Rewards",
         "rarity": "Rare",
         "chance": 0.02,
         "rotation": "C"
       },
       {
-        "location": "Pluto - Cypress",
+        "location": "Sedna - Kelpie",
+        "type": "Mission Rewards",
+        "rarity": "Rare",
+        "chance": 0.02,
+        "rotation": "C"
+      },
+      {
+        "location": "Sedna - Phithale",
         "type": "Mission Rewards",
         "rarity": "Rare",
         "chance": 0.02,
@@ -11363,6 +11567,13 @@
         "type": "Mission Rewards",
         "rarity": "Rare",
         "chance": 0.0129,
+        "rotation": "C"
+      },
+      {
+        "location": "Void - Marduk",
+        "type": "Mission Rewards",
+        "rarity": "Rare",
+        "chance": 0.0101,
         "rotation": "C"
       },
       {
@@ -13721,7 +13932,7 @@
       {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/BirdOfPreyPartItem",
         "name": "Condroc Wing",
-        "description": "The talon on a condroc's wing is is sharp enough to tear through bone.",
+        "description": "The talon on a condroc's wing is sharp enough to tear through bone.",
         "itemCount": 15,
         "type": "Resource",
         "tradable": false,
@@ -14153,14 +14364,14 @@
         "location": "Sanctuary - Elite",
         "type": "Mission Rewards",
         "rarity": "Uncommon",
-        "chance": 0.18969999999999998,
+        "chance": 0.1265,
         "rotation": "Onslaught"
       },
       {
         "location": "Sanctuary - Sanctuary",
         "type": "Mission Rewards",
-        "rarity": "Uncommon",
-        "chance": 0.1,
+        "rarity": "Rare",
+        "chance": 0.0909,
         "rotation": "rewards"
       }
     ],
@@ -14266,35 +14477,98 @@
         "rotation": "A"
       },
       {
+        "location": "Mars - Alator",
+        "type": "Mission Rewards",
+        "rarity": "Uncommon",
+        "chance": 0.1,
+        "rotation": "A"
+      },
+      {
         "location": "Earth - Gaia",
         "type": "Mission Rewards",
-        "rarity": "Rare",
-        "chance": 0.0909,
+        "rarity": "Uncommon",
+        "chance": 0.1,
         "rotation": "A"
       },
       {
         "location": "Ceres - Cinxia",
         "type": "Mission Rewards",
-        "rarity": "Rare",
-        "chance": 0.0909,
-        "rotation": "A"
-      },
-      {
-        "location": "Mars - Alator",
-        "type": "Mission Rewards",
-        "rarity": "Rare",
-        "chance": 0.0909,
+        "rarity": "Uncommon",
+        "chance": 0.1,
         "rotation": "A"
       },
       {
         "location": "Venus - Cytherean",
         "type": "Mission Rewards",
+        "rarity": "Uncommon",
+        "chance": 0.1,
+        "rotation": "A"
+      },
+      {
+        "location": "Mercury - Odin",
+        "type": "Mission Rewards",
+        "rarity": "Uncommon",
+        "chance": 0.1,
+        "rotation": "A"
+      },
+      {
+        "location": "Ceres - Casta",
+        "type": "Mission Rewards",
         "rarity": "Rare",
         "chance": 0.0909,
         "rotation": "A"
       },
       {
-        "location": "Mercury - Odin",
+        "location": "Mars - Spear",
+        "type": "Mission Rewards",
+        "rarity": "Rare",
+        "chance": 0.0909,
+        "rotation": "A"
+      },
+      {
+        "location": "Mercury - Lares",
+        "type": "Mission Rewards",
+        "rarity": "Rare",
+        "chance": 0.0909,
+        "rotation": "A"
+      },
+      {
+        "location": "Void - Taranis",
+        "type": "Mission Rewards",
+        "rarity": "Rare",
+        "chance": 0.0909,
+        "rotation": "A"
+      },
+      {
+        "location": "Venus - Tessera",
+        "type": "Mission Rewards",
+        "rarity": "Rare",
+        "chance": 0.0909,
+        "rotation": "A"
+      },
+      {
+        "location": "Ceres - Varro",
+        "type": "Mission Rewards",
+        "rarity": "Rare",
+        "chance": 0.0909,
+        "rotation": "A"
+      },
+      {
+        "location": "Phobos - Drunlo",
+        "type": "Mission Rewards",
+        "rarity": "Rare",
+        "chance": 0.0909,
+        "rotation": "A"
+      },
+      {
+        "location": "Phobos - Gulliver",
+        "type": "Mission Rewards",
+        "rarity": "Rare",
+        "chance": 0.0909,
+        "rotation": "A"
+      },
+      {
+        "location": "Earth - Lith",
         "type": "Mission Rewards",
         "rarity": "Rare",
         "chance": 0.0909,
@@ -14304,63 +14578,7 @@
         "location": "Ceres - Egeria",
         "type": "Mission Rewards",
         "rarity": "Rare",
-        "chance": 0.0833,
-        "rotation": "A"
-      },
-      {
-        "location": "Mercury - Lares",
-        "type": "Mission Rewards",
-        "rarity": "Rare",
-        "chance": 0.0833,
-        "rotation": "A"
-      },
-      {
-        "location": "Ceres - Varro",
-        "type": "Mission Rewards",
-        "rarity": "Rare",
-        "chance": 0.0833,
-        "rotation": "A"
-      },
-      {
-        "location": "Venus - Tessera",
-        "type": "Mission Rewards",
-        "rarity": "Rare",
-        "chance": 0.0833,
-        "rotation": "A"
-      },
-      {
-        "location": "Earth - Lith",
-        "type": "Mission Rewards",
-        "rarity": "Rare",
-        "chance": 0.0833,
-        "rotation": "A"
-      },
-      {
-        "location": "Phobos - Drunlo",
-        "type": "Mission Rewards",
-        "rarity": "Rare",
-        "chance": 0.0833,
-        "rotation": "A"
-      },
-      {
-        "location": "Phobos - Gulliver",
-        "type": "Mission Rewards",
-        "rarity": "Rare",
-        "chance": 0.0833,
-        "rotation": "A"
-      },
-      {
-        "location": "Ceres - Casta",
-        "type": "Mission Rewards",
-        "rarity": "Rare",
-        "chance": 0.0833,
-        "rotation": "A"
-      },
-      {
-        "location": "Mars - Spear",
-        "type": "Mission Rewards",
-        "rarity": "Rare",
-        "chance": 0.0833,
+        "chance": 0.0909,
         "rotation": "A"
       }
     ],
